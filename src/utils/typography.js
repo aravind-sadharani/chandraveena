@@ -31,6 +31,7 @@ const chandraveenaTheme = {
       name: "Noto Serif",
       styles: [
         "400",
+        "700",
       ]
     },
   ],

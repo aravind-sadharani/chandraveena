@@ -2,6 +2,7 @@ import React from "react"
 import Container from "../components/container"
 import Blockquote from "../components/blockquote"
 import Pagebackground from "../components/pagebackground"
+import Button from "../components/button"
 
 const indexPage = () => (
   <div>
@@ -24,7 +25,7 @@ const indexPage = () => (
             Get started by listening to a few clips and an introduction by S. Balachander.
             <br/>
             <br/>
-            <a href="intro.html">Listen Now</a>
+            <Button href="intro.html">Listen Now</Button>
           </p>
         </div>
       </div>
