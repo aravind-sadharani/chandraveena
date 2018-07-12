@@ -5,9 +5,9 @@ import logo from "../../images/search.svg"
 const Searchlogo = styled.img`
   margin: 0;
   display: inline-block;
-  height: 1.6em;
+  height: 1.65em;
   position: relative;
-  top: 0.9em;
+  top: 1em;
 `
 
 export default () => (

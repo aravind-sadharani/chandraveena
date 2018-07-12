@@ -5,9 +5,9 @@ import logo from "../../images/menu-logo.svg"
 const Sitelogo = styled.img`
   margin: 0;
   display: inline-block;
-  height: 2.4em;
+  height: 2.5em;
   position: relative;
-  top: 0.25em;
+  top: 0.3em;
 `
 
 export default () => (
