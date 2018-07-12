@@ -3,12 +3,13 @@ import Container from "../components/container"
 import Blockquote from "../components/blockquote"
 import Pagebackground from "../components/pagebackground"
 import Button from "../components/button"
+import Inlinelogo from "../components/inlinelogo"
 
 const indexPage = () => (
   <div>
     <Pagebackground />
     <Container>
-      <h1>Chandraveena</h1>
+      <h1><Inlinelogo /> Chandraveena</h1>
       <div>
         <h2>What is Maarga Sangeet?</h2>
         <p>
