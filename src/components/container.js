@@ -5,11 +5,11 @@ const Container = styled.div`
   margin: 1rem auto;
   width: calc(100% - 2rem);
   max-width: 800px;
-  padding: 0 1rem;
+  padding: 0.5rem 1rem;
   color: #453e40;
   background-color: #ffffff;
   border: 0;
-  border-radius: 5px;
+  border-radius: 1rem;
   h1 {
     text-align: center;
   };
