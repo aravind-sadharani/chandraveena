@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "gatsby": "next",
+    "gatsby-plugin-typography": "^1.7.19",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "react-dom": "^16.3.2",
+    "react-typography": "^0.16.13",
+    "typography": "^0.16.17"
   }
 }
