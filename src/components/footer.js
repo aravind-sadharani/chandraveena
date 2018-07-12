@@ -1,5 +1,6 @@
 import React from "react"
 import styled from "styled-components"
+import {media} from "../utils/mediatemplate"
 
 const Footer = styled.div`
   width: 100%;
@@ -7,7 +8,10 @@ const Footer = styled.div`
   color: #e1dbdd;
   opacity: 0.9;
   padding: 0.5rem 0.5rem;
-  margin-bottom: 60px;
+  margin-bottom: 0;
+  ${media.desktop`margin-bottom: 0`}
+  ${media.tablet`margin-bottom: 60px`}
+  ${media.phone`margin-bottom: 60px`}
   ul {
     margin: 0;
     padding: 0;

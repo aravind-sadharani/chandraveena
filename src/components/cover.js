@@ -15,7 +15,7 @@ const Cover = styled.div`
   background-repeat: no-repeat;
   background-position: center;
   padding: 1rem;
-  h2 {
+  h3 {
     color: #542938;
     font-weight: 400;
     padding: 0;
@@ -51,11 +51,11 @@ const Cta = styled.a`
 export default () => (
   <Cover>
     <Credits>
-      <h2>Maarga Sangeet</h2>
-      <h2>by S. Balachander</h2>
+      <h3>Maarga Sangeet</h3>
+      <h3>by S. Balachander</h3>
     </Credits>
     <Caption>
-      <h2>Experience the music</h2>
+      <h3>Experience the music</h3>
       <Cta href="intro.html">Listen Now</Cta>
     </Caption>
   </Cover>
