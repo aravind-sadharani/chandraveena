@@ -1,9 +1,9 @@
 import Typography from "typography"
 
 const chandraveenaTheme = {
-  baseFontSize: "18px",
+  baseFontSize: "16px",
   baseLineHeight: 1.5,
-  scaleRatio: 2.5,
+  scaleRatio: 2,
   headerFontFamily: [
     "Gentium Book Basic",
     "serif",

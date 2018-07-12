@@ -4,11 +4,13 @@ import Blockquote from "../components/blockquote"
 import Pagebackground from "../components/pagebackground"
 import Button from "../components/button"
 import Masthead from "../components/masthead"
+import Cover from "../components/cover"
 
 const indexPage = () => (
   <div>
     <Pagebackground />
     <Masthead />
+    <Cover />
     <Container>
       <h1>Chandraveena</h1>
       <div>

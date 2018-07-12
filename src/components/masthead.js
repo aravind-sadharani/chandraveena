@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import Inlinelogo from "./inlinelogo"
+import Sitelogo from "./sitelogo"
 import Searchlogo from "./searchlogo"
 
 const Masthead = styled.div`
@@ -18,7 +18,7 @@ const Masthead = styled.div`
 
 export default () => (
   <Masthead>
-    <div><Inlinelogo /><h1> Chandraveena</h1></div>
+    <div><Sitelogo /><h1> Chandraveena</h1></div>
     <div><Searchlogo /></div>
   </Masthead>
 )
