@@ -1,5 +1,6 @@
 import React from "react"
 import Container from "../components/container"
+import Blockquote from "../components/blockquote"
 
 const indexPage = () => (
   <Container>
@@ -24,9 +25,9 @@ const indexPage = () => (
         </p>
       </div>
     </div>
-    <blockquote>
+    <Blockquote>
       Music is a spiritual journey. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, alias.
-    </blockquote>
+    </Blockquote>
     <div>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis reprehenderit, eos consequatur, tenetur soluta enim accusantium laborum suscipit nostrum error provident asperiores aliquam sequi quas, omnis doloremque accusamus quisquam similique deserunt sint corporis, id ab. Aperiam dignissimos, totam sequi laborum quia eveniet commodi dolore, quam adipisci quisquam quaerat, aut veniam aliquid corrupti possimus illo tenetur tempora ratione laudantium ea doloremque quidem? Qui provident fuga amet laudantium dolor iure, enim sed alias minus quos architecto, consequuntur nulla veniam saepe! Repellat maiores dolorum cupiditate perspiciatis tempore, deserunt iure sed amet ipsa libero consequatur porro facilis nesciunt veritatis debitis molestiae saepe consectetur animi.
