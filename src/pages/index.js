@@ -5,6 +5,7 @@ import Pagebackground from "../components/pagebackground"
 import Button from "../components/button"
 import Masthead from "../components/masthead"
 import Cover from "../components/cover"
+import Footer from "../components/footer"
 
 const indexPage = () => (
   <div>
@@ -33,6 +34,7 @@ const indexPage = () => (
         </Noticebox>
       </div>
     </Container>
+    <Footer />
   </div>
 )
 
