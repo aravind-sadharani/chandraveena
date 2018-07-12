@@ -7,6 +7,7 @@ const Footer = styled.div`
   color: #e1dbdd;
   opacity: 0.9;
   padding: 0.5rem 0.5rem;
+  margin-bottom: 60px;
   ul {
     margin: 0;
     padding: 0;

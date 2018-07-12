@@ -6,6 +6,7 @@ import Button from "../components/button"
 import Masthead from "../components/masthead"
 import Cover from "../components/cover"
 import Footer from "../components/footer"
+import Mobilenav from "../components/mobilenavigation"
 
 const indexPage = () => (
   <div>
@@ -35,6 +36,7 @@ const indexPage = () => (
       </div>
     </Container>
     <Footer />
+    <Mobilenav />
   </div>
 )
 
