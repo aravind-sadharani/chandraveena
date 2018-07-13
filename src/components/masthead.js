@@ -1,7 +1,10 @@
 import React from "react"
 import styled from "styled-components"
-import {Sitelogo, Searchicon} from "./icons"
+import {Sitelogo, Searchicon, Inlineimg} from "./icons"
 import {media} from "../utils/mediatemplate"
+import abouticon from "../../images/About.svg"
+import discoicon from "../../images/Discography.svg"
+import blogicon from "../../images/Blog.svg"
 
 const Masthead = styled.div`
   width: 100%;
@@ -49,7 +52,7 @@ const Nav = styled.div`
   };
   li {
     display: inline-block;
-    margin: 0 0 0 1rem;
+    margin: 0 1rem;
   };
   a {
     text-decoration: none;
@@ -66,9 +69,9 @@ export default () => (
     <Home><a href="/"><Sitelogo /><h1> Chandraveena</h1></a></Home>
     <Nav>
       <ul>
-        <li><a href="about.html">About</a></li>
-        <li><a href="discography.html">Discography</a></li>
-        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about.html"><Inlineimg src={abouticon}/> About</a></li>
+        <li><a href="discography.html"><Inlineimg src={discoicon}/> Discography</a></li>
+        <li><a href="blog.html"><Inlineimg src={blogicon}/> Blog</a></li>
       </ul>
     </Nav>
     <Search><Searchicon /></Search>

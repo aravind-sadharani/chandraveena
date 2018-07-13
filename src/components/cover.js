@@ -6,7 +6,7 @@ import {media} from "../utils/mediatemplate"
 
 const Cover = styled.div`
   position: relative;
-  margin: calc(3rem + 62px) auto 2rem;
+  margin: calc(2rem + 62px) auto 2rem;
   width: 65vw;
   max-width: 800px;
   height: 65vh;
@@ -25,8 +25,8 @@ const Cover = styled.div`
     padding: 0;
     margin: 0;
   }
-  ${media.tablet`margin-top: 3rem`}
-  ${media.phone`margin-top: 3rem`}
+  ${media.tablet`margin-top: 2rem`}
+  ${media.phone`margin-top: 2rem`}
 `
 
 const Credits = styled.div`
