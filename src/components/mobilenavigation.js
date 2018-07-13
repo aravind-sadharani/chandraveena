@@ -19,9 +19,27 @@ const Mobilenav = styled.div`
   ${media.desktop`display:none`}
   ${media.tablet`display:initial`}
   ${media.phone`display:initial`}
+  ul {
+    margin: 0;
+    padding: 0;
+  };
+  li {
+    display: inline-block;
+    margin: 0 0 0 1rem;
+  };
+  a {
+    text-decoration: none;
+    color: inherit;
+  };
 `
 
 export default () => (
   <Mobilenav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="discography.html">Discography</a></li>
+      <li><a href="blog.html">Blog</a></li>
+    </ul>
   </Mobilenav>
 )

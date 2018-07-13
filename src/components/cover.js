@@ -2,10 +2,11 @@ import React from "react"
 import styled from "styled-components"
 import logo from "../../images/logo.svg"
 import {Cta} from "./buttons"
+import {media} from "../utils/mediatemplate"
 
 const Cover = styled.div`
   position: relative;
-  margin: 3rem auto 2rem;
+  margin: calc(3rem + 62px) auto 2rem;
   width: 65vw;
   max-width: 800px;
   height: 65vh;
@@ -24,6 +25,8 @@ const Cover = styled.div`
     padding: 0;
     margin: 0;
   }
+  ${media.tablet`margin-top: 3rem`}
+  ${media.phone`margin-top: 3rem`}
 `
 
 const Credits = styled.div`
