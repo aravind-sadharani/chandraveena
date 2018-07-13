@@ -21,6 +21,12 @@ const Searchimg = styled(Inlineimg)`
   top: 1em;
 `
 
+const Blockimg = styled(Inlineimg)`
+  display: block;
+  margin: 0 auto;
+  height: 2.8em;
+`
+
 const Searchicon = () => (
   <Searchimg src={searchicon} />
 )
@@ -29,4 +35,4 @@ const Sitelogo = () => (
   <Siteimg src={sitelogo} />
 )
 
-export {Sitelogo, Searchicon, Inlineimg}
+export {Sitelogo, Searchicon, Inlineimg, Blockimg}
