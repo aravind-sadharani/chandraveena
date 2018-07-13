@@ -13,11 +13,6 @@ const Masthead = styled.div`
   color: #ffffff;
   opacity: 0.9;
   padding: 0.5rem 0.5rem;
-  display: grid;
-  grid-template-columns: 255px 1fr 35px;
-  h1 {
-    display: inline;
-  }
   box-shadow: 0 0 4px 0 #453e40;
   position: fixed;
   top: 0;
@@ -31,6 +26,16 @@ const Masthead = styled.div`
     position: relative;
     z-index: 0;
   `}
+`
+
+const Mastheadcontent = styled.div`
+  margin: 0 auto;
+  max-width: 800px;
+  display: grid;
+  grid-template-columns: 255px 1fr 35px;
+  h1 {
+    display: inline;
+  }
 `
 
 const Home = styled.div`
@@ -67,14 +72,16 @@ const Search = styled.div`
 
 export default () => (
   <Masthead>
-    <Home><Link to="/"><Sitelogo /><h1> Chandraveena</h1></Link></Home>
-    <Nav>
-      <ul>
-        <li><Link to="/about/"><Inlineimg src={abouticon}/> About</Link></li>
-        <li><Link to="/discography/"><Inlineimg src={discoicon}/> Discography</Link></li>
-        <li><Link to="/blog/"><Inlineimg src={blogicon}/> Blog</Link></li>
-      </ul>
-    </Nav>
-    <Search><Searchicon /></Search>
+    <Mastheadcontent>
+      <Home><Link to="/"><Sitelogo /><h1> Chandraveena</h1></Link></Home>
+      <Nav>
+        <ul>
+          <li><Link to="/about/"><Inlineimg src={abouticon}/> About</Link></li>
+          <li><Link to="/discography/"><Inlineimg src={discoicon}/> Discography</Link></li>
+          <li><Link to="/blog/"><Inlineimg src={blogicon}/> Blog</Link></li>
+        </ul>
+      </Nav>
+      <Search><Searchicon /></Search>
+    </Mastheadcontent>
   </Masthead>
 )

@@ -31,13 +31,20 @@ const Footer = styled.div`
   };
 `
 
+const Footercontent = styled.div`
+  margin: 0 auto;
+  max-width: 800px;
+`
+
 export default () => (
   <Footer>
-    <ul>
-      <li><Link to="/contact/">Contact |&nbsp;</Link></li>
-      <li><Link to="/terms/">Terms of Use |&nbsp;</Link></li>
-      <li><Link to="/sitemap/">Sitemap</Link></li>
-    </ul>
-    <p>Copyright &copy; 2018 - S. Balachander</p>
+    <Footercontent>
+      <ul>
+        <li><Link to="/contact/">Contact |&nbsp;</Link></li>
+        <li><Link to="/terms/">Terms of Use |&nbsp;</Link></li>
+        <li><Link to="/sitemap/">Sitemap</Link></li>
+      </ul>
+      <p>Copyright &copy; 2018 - S. Balachander</p>
+    </Footercontent>
   </Footer>
 )
