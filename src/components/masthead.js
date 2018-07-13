@@ -14,6 +14,7 @@ const Masthead = styled.div`
   h1 {
     display: inline;
   }
+  box-shadow: 0 0 4px 0 #453e40;
 `
 
 export default () => (

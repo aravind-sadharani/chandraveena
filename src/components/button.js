@@ -13,5 +13,6 @@ const Button = styled.a`
   border: 0;
   font-size: 1.1em;
   font-weight: "700";
+  box-shadow: 0 0 2px 0 #453e40;
 `
 export default Button

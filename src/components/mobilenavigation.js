@@ -12,10 +12,10 @@ const Mobilenav = styled.div`
   bottom: 0;
   left: 0;
   z-index: 1;
-  border-top: 1px solid #453e40;
   display: grid;
   grid-template-columns; 1fr 1fr 1fr 1fr;
   display: none;
+  box-shadow: 0 0 4px 0 #453e40;
   ${media.desktop`display:none`}
   ${media.tablet`display:initial`}
   ${media.phone`display:initial`}

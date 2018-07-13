@@ -15,6 +15,8 @@ const Cover = styled.div`
   background-repeat: no-repeat;
   background-position: center;
   padding: 1rem;
+  box-shadow: 0 0 4px 0 #453e40;
+  opacity: 0.9;
   h3 {
     color: #542938;
     font-weight: 400;
@@ -42,10 +44,11 @@ const Cta = styled.a`
   background: #542938;
   text-align: center;
   text-decoration: none;
-  color: white;
+  color: #e1dbdd;
   border: 0;
   font-size: 1.1em;
   font-weight: "700";
+  box-shadow: 0 0 2px 0 #453e40;
 `
 
 export default () => (
