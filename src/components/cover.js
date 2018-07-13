@@ -47,7 +47,7 @@ export default () => (
     </Credits>
     <Caption>
       <h3>Experience the music</h3>
-      <Cta href="intro.html">Listen Now</Cta>
+      <Cta href="intro/">Listen Now</Cta>
     </Caption>
   </Cover>
 )
