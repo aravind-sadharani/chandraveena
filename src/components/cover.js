@@ -1,6 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import logo from "../../images/logo.svg"
+import {Cta} from "./buttons"
 
 const Cover = styled.div`
   position: relative;
@@ -33,22 +34,6 @@ const Caption = styled.div`
   position: absolute;
   bottom: 1rem;
   right: 1rem;
-`
-
-const Cta = styled.a`
-  display: inline-block;
-  border-radius: 0.3rem;
-  padding: 0.3rem 0;
-  margin: 0;
-  width: 9rem;
-  background: #542938;
-  text-align: center;
-  text-decoration: none;
-  color: #e1dbdd;
-  border: 0;
-  font-size: 1.1em;
-  font-weight: "700";
-  box-shadow: 0 0 2px 0 #453e40;
 `
 
 export default () => (

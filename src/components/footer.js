@@ -33,7 +33,6 @@ const Footer = styled.div`
 export default () => (
   <Footer>
     <ul>
-      <li><a href="about.html">About | </a></li>
       <li><a href="contact.html">Contact | </a></li>
       <li><a href="terms.html">Terms of Use | </a></li>
       <li><a href="sitemap.html">Sitemap</a></li>

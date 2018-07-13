@@ -1,7 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import Sitelogo from "./sitelogo"
-import Searchlogo from "./searchlogo"
+import {Sitelogo, Searchicon} from "./icons"
 
 const Masthead = styled.div`
   width: 100%;
@@ -20,6 +19,6 @@ const Masthead = styled.div`
 export default () => (
   <Masthead>
     <div><Sitelogo /><h1> Chandraveena</h1></div>
-    <div><Searchlogo /></div>
+    <div><Searchicon /></div>
   </Masthead>
 )

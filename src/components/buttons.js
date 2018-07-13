@@ -9,10 +9,19 @@ const Button = styled.a`
   background: #859e6b;
   text-align: center;
   text-decoration: none;
-  color: white;
+  color: #ffffff;
   border: 0;
   font-size: 1.1em;
   font-weight: "700";
   box-shadow: 0 0 2px 0 #453e40;
 `
-export default Button
+
+const Cta = styled(Button)`
+  padding: 0.3rem 0;
+  margin: 0;
+  width: 9rem;
+  background: #542938;
+  color: #e1dbdd;
+`
+
+export {Button, Cta}
