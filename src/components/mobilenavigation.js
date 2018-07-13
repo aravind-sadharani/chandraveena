@@ -6,6 +6,7 @@ import siteicon from "../../images/SiteBlock.svg"
 import abouticon from "../../images/AboutBlock.svg"
 import discoicon from "../../images/DiscographyBlock.svg"
 import blogicon from "../../images/BlogBlock.svg"
+import {Link} from "gatsby"
 
 const Mobilenav = styled.div`
   width: 100%;
@@ -34,9 +35,9 @@ const Mobilenav = styled.div`
 
 export default () => (
   <Mobilenav>
-    <div><Blockimg src={siteicon} /><a href="/">Home</a></div>
-    <div><Blockimg src={abouticon} /><a href="about.html">About</a></div>
-    <div><Blockimg src={discoicon} /><a href="discography.html">Discography</a></div>
-    <div><Blockimg src={blogicon} /><a href="blog.html">Blog</a></div>
+    <div><Link to="/"><Blockimg src={siteicon} />Home</Link></div>
+    <div><Link to="/about/"><Blockimg src={abouticon} />About</Link></div>
+    <div><Link to="/discography/"><Blockimg src={discoicon} />Discography</Link></div>
+    <div><Link to="/blog/"><Blockimg src={blogicon} />Blog</Link></div>
   </Mobilenav>
 )

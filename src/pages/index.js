@@ -21,7 +21,7 @@ const indexPage = () => (
           Get started by listening to a few clips and an introduction by S. Balachander.
           <br/>
           <br/>
-          <Button href="intro/">Listen Now</Button>
+          <Button to="intro/">Listen Now</Button>
         </p>
       </Noticebox>
     </div>

@@ -1,6 +1,7 @@
 import styled from "styled-components"
+import {Link} from "gatsby"
 
-const Button = styled.a`
+const Button = styled(Link)`
   display: inline-block;
   border-radius: 0.3rem;
   padding: 0.5rem 0;

@@ -5,6 +5,7 @@ import {media} from "../utils/mediatemplate"
 import abouticon from "../../images/About.svg"
 import discoicon from "../../images/Discography.svg"
 import blogicon from "../../images/Blog.svg"
+import {Link} from "gatsby"
 
 const Masthead = styled.div`
   width: 100%;
@@ -66,12 +67,12 @@ const Search = styled.div`
 
 export default () => (
   <Masthead>
-    <Home><a href="/"><Sitelogo /><h1> Chandraveena</h1></a></Home>
+    <Home><Link to="/"><Sitelogo /><h1> Chandraveena</h1></Link></Home>
     <Nav>
       <ul>
-        <li><a href="about.html"><Inlineimg src={abouticon}/> About</a></li>
-        <li><a href="discography.html"><Inlineimg src={discoicon}/> Discography</a></li>
-        <li><a href="blog.html"><Inlineimg src={blogicon}/> Blog</a></li>
+        <li><Link to="/about/"><Inlineimg src={abouticon}/> About</Link></li>
+        <li><Link to="/discography/"><Inlineimg src={discoicon}/> Discography</Link></li>
+        <li><Link to="/blog/"><Inlineimg src={blogicon}/> Blog</Link></li>
       </ul>
     </Nav>
     <Search><Searchicon /></Search>

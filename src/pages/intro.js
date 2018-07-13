@@ -20,8 +20,8 @@ const introPage = () => (
       <Noticebox>
         <p>
           <br />
-          <Button href="discography.html">Listen More</Button>
-          <Button href="concerts.html">Attend a Concert</Button>
+          <Button to="discography.html">Listen More</Button>
+          <Button to="concerts.html">Attend a Concert</Button>
         </p>
       </Noticebox>
     </div>

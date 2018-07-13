@@ -1,6 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import {media} from "../utils/mediatemplate"
+import {Link} from "gatsby"
 
 const Footer = styled.div`
   width: 100%;
@@ -33,9 +34,9 @@ const Footer = styled.div`
 export default () => (
   <Footer>
     <ul>
-      <li><a href="contact.html">Contact |&nbsp;</a></li>
-      <li><a href="terms.html">Terms of Use |&nbsp;</a></li>
-      <li><a href="sitemap.html">Sitemap</a></li>
+      <li><Link to="/contact/">Contact |&nbsp;</Link></li>
+      <li><Link to="/terms/">Terms of Use |&nbsp;</Link></li>
+      <li><Link to="/sitemap/">Sitemap</Link></li>
     </ul>
     <p>Copyright &copy; 2018 - S. Balachander</p>
   </Footer>
