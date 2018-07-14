@@ -44,6 +44,7 @@ const Home = styled.div`
     color: inherit;
   };
   text-align: left;
+  grid-column: 1/2;
 `
 
 const Nav = styled.div`
@@ -53,8 +54,6 @@ const Nav = styled.div`
   ul {
     margin: 0;
     padding: 0;
-    ${media.tablet`display:none`}
-    ${media.phone`display:none`}
   };
   li {
     display: inline-block;
@@ -64,10 +63,13 @@ const Nav = styled.div`
     text-decoration: none;
     color: inherit;
   };
+  ${media.tablet`display:none`}
+  ${media.phone`display:none`}
 `
 
 const Search = styled.div`
   text-align: right;
+  grid-column: 3/4;
 `
 
 export default () => (
