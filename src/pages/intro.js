@@ -9,7 +9,7 @@ const introPage = () => (
       <h1>Maarga Sangeet on Chandraveena</h1>
       <h2>an Introduction</h2>
       <div>
-        <iframe title="intro-video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/NDDtGBdr5EY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe title="intro-video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/NDDtGBdr5EY?rel=0" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen></iframe>
       </div>
     </div>
     <div>

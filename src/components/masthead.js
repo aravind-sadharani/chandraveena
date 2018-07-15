@@ -6,6 +6,7 @@ import abouticon from "../../images/About.svg"
 import discoicon from "../../images/Discography.svg"
 import blogicon from "../../images/Blog.svg"
 import {Link} from "gatsby"
+const title = "Chandraveena"
 
 const Masthead = styled.div`
   width: 100%;
@@ -75,7 +76,7 @@ const Search = styled.div`
 export default () => (
   <Masthead>
     <Mastheadcontent>
-      <Home><Link to="/"><Sitelogo /><h1> Chandraveena</h1></Link></Home>
+      <Home><Link to="/"><Sitelogo /><h1> {title}</h1></Link></Home>
       <Nav>
         <ul>
           <li><Link to="/about/"><Inlineimg src={abouticon}/> About</Link></li>

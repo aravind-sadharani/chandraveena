@@ -2,11 +2,17 @@ import React from "react"
 import styled from "styled-components"
 import {media} from "../utils/mediatemplate"
 import {Link} from "gatsby"
+const author = "S. Balachander"
+const designer = {
+  "name": "Aravind Iyer",
+  "url": "https://www.aravindiyer.com"
+}
 
 const Footer = styled.div`
   width: 100%;
   background-color: #453e40;
   color: #e1dbdd;
+  font-size: 0.8em;
   opacity: 0.9;
   padding: 0.5rem 0.5rem;
   margin-bottom: 0;
@@ -44,7 +50,8 @@ export default () => (
         <li><Link to="/terms/">Terms of Use |&nbsp;</Link></li>
         <li><Link to="/sitemap/">Sitemap</Link></li>
       </ul>
-      <p>Copyright &copy; 2018 - S. Balachander</p>
+      <p>Copyright &copy; 2018 - <Link to="/">{author}</Link></p>
+      <p>Designed and Developed by <a href={designer.url}>{designer.name}</a></p>
     </Footercontent>
   </Footer>
 )
