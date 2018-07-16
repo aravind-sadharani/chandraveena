@@ -14,8 +14,8 @@ Recording details and notes.
 
 ## More Recordings
 
-1 Recording 1
-2 Recording 2
-3 Recording 3
-4 Recording 4
-5 Recording 5
+1. Recording 1
+2. Recording 2
+3. Recording 3
+4. Recording 4
+5. Recording 5
