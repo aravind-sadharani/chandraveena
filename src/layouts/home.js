@@ -1,5 +1,5 @@
 import React from "react"
-import {Container} from "../components/containers"
+import {Outer, Container} from "../components/containers"
 import Pagebackground from "../components/pagebackground"
 import Masthead from "../components/masthead"
 import Cover from "../components/cover"
@@ -7,7 +7,7 @@ import Footer from "../components/footer"
 import Mobilenav from "../components/mobilenavigation"
 
 export default ({children}) => (
-  <div>
+  <Outer>
     <Pagebackground />
     <Masthead />
     <Cover />
@@ -16,5 +16,5 @@ export default ({children}) => (
     </Container>
     <Footer />
     <Mobilenav />
-  </div>
+  </Outer>
 )

@@ -2,6 +2,12 @@ import React from "react"
 import styled from "styled-components"
 import {media} from "../utils/mediatemplate"
 
+const Outerwrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+`
+
 const Wrapper = styled.div`
   margin: 1rem auto;
   width: calc(100% - 2rem);
@@ -10,10 +16,11 @@ const Wrapper = styled.div`
   color: #453e40;
   background-color: #ffffff;
   border: 0;
-  border-radius: 1rem;
+  border-radius: 0.3rem;
   h1 {
     text-align: center;
   };
+  flex: 1;
 `
 
 const Noticewrapper = styled(Wrapper)`
@@ -27,6 +34,10 @@ const Pagewrapper = styled(Wrapper)`
   ${media.phone`margin-top: 1rem`}
 `
 
+const Outer = ({children}) => (
+  <Outerwrapper>{children}</Outerwrapper>
+)
+
 const Container = ({children}) => (
   <Wrapper>{children}</Wrapper>
 )
@@ -39,4 +50,4 @@ const Pagecontainer = ({children}) => (
   <Pagewrapper>{children}</Pagewrapper>
 )
 
-export {Container, Noticebox, Pagecontainer}
+export {Outer, Container, Noticebox, Pagecontainer}

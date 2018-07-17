@@ -4,7 +4,7 @@ date: 2018-07-16
 ---
 ## Featured Concert
 
-`youtube: nBLirBngEUU`
+<you-tube videoid="nBLirBngEUU"></you-tube>
 
 Concert details and notes
 

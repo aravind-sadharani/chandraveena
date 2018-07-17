@@ -22,23 +22,31 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-embed-video",
+            resolve: `gatsby-remark-images`,
             options: {
-              width: 800,
-              // ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
-              // height: 600, // Optional: Overrides optional.ratio
-              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
-              // noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 780,
             },
           },
-          `gatsby-remark-responsive-iframe`,
+          `gatsby-remark-autolink-headers`,
+          `gatsby-remark-smartypants`,
+          {
+            resolve: `gatsby-remark-copy-linked-files`,
+            options: {
+              destinationDir: "assets",
+          }
+        }
         ],
       },
     },
+    `gatsby-plugin-catch-links`
   ],
 }
