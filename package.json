@@ -25,6 +25,9 @@
     "react-typography": "^0.16.13",
     "rehype-react": "^3.0.2",
     "styled-components": "^3.3.3",
+    "typeface-gentium-book-basic": "0.0.54",
+    "typeface-noto-serif": "0.0.54",
+    "typeface-sansita": "0.0.54",
     "typography": "^0.16.17"
   }
 }
