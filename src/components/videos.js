@@ -19,68 +19,45 @@ const VideoContainer = styled.div`
 const Thumbnail = styled.img`
   width: 100%;
   position: absolute;
-  top: -16.7%;
+  top: -16.67%;
   left: 0;
   cursor: pointer;
-`
-
-const Playbutton = styled.div`
-  width: 60px;
-  height: 60px;
-  background-color: #859e6b;
-  box-shadow: 0 0 30px rgba( 0,0,0,0.6 );
-  z-index: 1;
-  border-radius: 60px;
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate3d( -50%, -50%, 0 );
-
-  :before {
-    content: "";
-    border-style: solid;
-    border-width: 12px 0 12px 24px;
-    border-color: transparent transparent transparent #e1dbdd;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate3d( -43%, -50%, 0 );
-  }
-
-  :active {
-    background-color: #542938;
-  }
 `
 
 class YouTubeClass extends React.Component {
   constructor(props) {
     super(props)
-    this.state = {loadVideo: false,}
+    this.state = {showThumb: true, showVideo: false}
   }
 
-  load = () => this.setState({loadVideo: true,})
+  hideThumb = () => this.setState({showThumb: false})
+  showVideo = () => this.setState({showVideo: true})
 
   componentDidUpdate(prevProps) {
     if(this.props.src !== prevProps.src)
-      this.setState({loadVideo: false,})
+      this.setState({showThumb: true, showVideo: false})
   }
 
   render() {
     let src = this.props.src
     return (
-      <VideoContainer onClick={this.load}>
-        {this.state.loadVideo ?
+      <VideoContainer>
+        { this.state.showVideo ?
           <iframe
             title={src}
             frameBorder="0"
             allowFullScreen=""
-            src={`https://www.youtube.com/embed/${src}?rel=0&autoplay=1`}
+            src={`https://www.youtube.com/embed/${src}?rel=0`}
+            onLoad={this.hideThumb}
           /> :
-          <div>
-            <Thumbnail alt="" src={`http://img.youtube.com/vi/${src}/sddefault.jpg`} />
-            <Playbutton />
-          </div>
+          null
+        }
+        { this.state.showThumb ?
+          <Thumbnail
+            alt="" src={`http://img.youtube.com/vi/${src}/sddefault.jpg`}
+            onLoad={this.showVideo}
+          /> :
+          null
         }
       </VideoContainer>
     )
