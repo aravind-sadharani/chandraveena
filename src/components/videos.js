@@ -54,7 +54,7 @@ class YouTubeClass extends React.Component {
         }
         { this.state.showThumb ?
           <Thumbnail
-            alt="" src={`http://img.youtube.com/vi/${src}/sddefault.jpg`}
+            alt="" src={`https://img.youtube.com/vi/${src}/sddefault.jpg`}
             onLoad={this.showVideo}
           /> :
           null
