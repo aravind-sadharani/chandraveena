@@ -2,6 +2,7 @@ import React from "react"
 import styled from "styled-components"
 import {Sitelogo, Searchicon, Inlineimg} from "./icons"
 import {media} from "../utils/mediatemplate"
+import introicon from "../../images/Introduction.svg"
 import abouticon from "../../images/About.svg"
 import discoicon from "../../images/Discography.svg"
 import blogicon from "../../images/Blog.svg"
@@ -50,6 +51,7 @@ const Home = styled.div`
 
 const Nav = styled.div`
   text-align: left;
+  font-size: 1.1em;
   padding-top: 1.2rem;
   padding-left: 2rem;
   ul {
@@ -58,7 +60,7 @@ const Nav = styled.div`
   };
   li {
     display: inline-block;
-    margin: 0 1rem;
+    margin: 0 0.5rem;
   };
   a {
     text-decoration: none;
@@ -79,6 +81,7 @@ export default () => (
       <Home><Link to="/"><Sitelogo /><h1> {title}</h1></Link></Home>
       <Nav>
         <ul>
+          <li><Link to="/intro"><Inlineimg src={introicon}/> Introduction</Link></li>
           <li><Link to="/about/"><Inlineimg src={abouticon}/> About</Link></li>
           <li><Link to="/discography/"><Inlineimg src={discoicon}/> Discography</Link></li>
           <li><Link to="/blog/"><Inlineimg src={blogicon}/> Blog</Link></li>

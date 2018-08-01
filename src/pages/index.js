@@ -9,21 +9,26 @@ require('typeface-sansita')
 
 const indexPage = () => (
   <Homepage>
-    <h2>What is Maarga Sangeet?</h2>
+    <h2>Maarga Sangeet</h2>
     <p>
-        Maarga Sangeet is a musical journey, an ancient tradition of Indian music, where the artist seeks meaning and spirituality through musical expression and hopes to take the listener along.
+      Maarga Sangeet can be understood as a musical journey where the artist
+      attempts to communicate life experiences through musical expression, by
+      means of a systematic and creative exploration within the Indian Raaga
+      tradition.
     </p>
-    <h2>What is the Chandraveena?</h2>
+    <h2>Chandraveena</h2>
     <p>
-      Chandraveena is a modern take on the historical instrument, the <em>been</em>. It enables the artist to ...
+      Chandraveena is a contemporary one-of-a-kind string instrument with a deep
+      resonance and rich sound, designed to enable the artist to effectively
+      communicate the musical expressions.
+    </p>
+    <h2>S. Balachander</h2>
+    <p>
+      S. Balachander, a multi-instrumentalist and an Indian classical musician,
+      is the creator and a widely performing artist of the Chandraveena. 
     </p>
     <Noticebox>
-      <p>
-        Get started by listening to a few clips and an introduction by S. Balachander.
-        <br/>
-        <br/>
-        <Button to="/intro/">Listen Now</Button>
-      </p>
+      <Button to="/intro/">Listen Now</Button>
     </Noticebox>
   </Homepage>
 )

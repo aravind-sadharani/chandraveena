@@ -8,10 +8,4 @@ date: 2018-07-16
 * YouTube
 * Facebook
 
-## Media Kit
-
-* Biography
-* Music Catalog
-* Contact Information
-
 ## Leave a Message

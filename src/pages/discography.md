@@ -9,7 +9,7 @@ date: 2018-07-16
 Recording details and notes.
 
 <notice-box>
-<my-button to="/contact/">Support the Artist</my-button>
+<my-button to="/contact/">Contact the Artist</my-button>
 </notice-box>
 
 ## More Recordings

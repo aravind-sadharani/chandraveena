@@ -2,7 +2,7 @@ import React from "react"
 import styled from "styled-components"
 import {media} from "../utils/mediatemplate"
 import {Blockimg} from "./icons"
-import siteicon from "../../images/SiteBlock.svg"
+import introicon from "../../images/IntroductionBlock.svg"
 import abouticon from "../../images/AboutBlock.svg"
 import discoicon from "../../images/DiscographyBlock.svg"
 import blogicon from "../../images/BlogBlock.svg"
@@ -35,7 +35,7 @@ const Mobilenav = styled.div`
 
 export default () => (
   <Mobilenav>
-    <div><Link to="/"><Blockimg src={siteicon} />Home</Link></div>
+    <div><Link to="/intro/"><Blockimg src={introicon} />Introduction</Link></div>
     <div><Link to="/about/"><Blockimg src={abouticon} />About</Link></div>
     <div><Link to="/discography/"><Blockimg src={discoicon} />Discography</Link></div>
     <div><Link to="/blog/"><Blockimg src={blogicon} />Blog</Link></div>

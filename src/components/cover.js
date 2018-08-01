@@ -23,7 +23,7 @@ const Cover = styled.div`
     color: #542938;
     font-weight: 400;
     padding: 0;
-    margin: 0;
+    margin: 0 0 0.2rem 0;
   }
   ${media.tablet`margin-top: 2rem`}
   ${media.phone`margin-top: 2rem`}
@@ -46,7 +46,7 @@ export default () => (
       <h3>by S. Balachander</h3>
     </Credits>
     <Caption>
-      <h3>Experience the music</h3>
+      <h3>A Musical Journey</h3>
       <Cta to="/intro/">Listen Now</Cta>
     </Caption>
   </Cover>
