@@ -1,4 +1,5 @@
 import React from "react"
+import {Link} from "gatsby"
 import {Noticebox} from "../components/containers"
 import {Button} from "../components/buttons"
 import Homepage from "../layouts/home"
@@ -22,8 +23,10 @@ const indexPage = () => (
     </p>
     <h2>S. Balachander</h2>
     <p>
-      S. Balachander, a multi-instrumentalist and Indian classical musician,
-      is the creator and performing artist of the Chandraveena.
+      S. Balachander, an Indian classical musician and multi-instrumentalist,
+      is the creator and performing artist of the Chandraveena. He was led to create
+      this instrument, through a <Link to="/about/">long and interesting musical journey</Link>,
+      inspired by the artistry of his teachers and the beauty of the musical form.
     </p>
     <Noticebox>
       Experience the music.<br />

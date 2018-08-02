@@ -4,7 +4,7 @@ date: 2018-07-16
 ---
 ## Featured Recording
 
-<you-tube videoid="QP9zapAQrt0"></you-tube>
+<div><you-tube videoid="QP9zapAQrt0"></you-tube></div><br>
 
 Recording details and notes.
 
