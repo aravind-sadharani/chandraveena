@@ -10,7 +10,7 @@ date: 2018-07-16
 3. Philosophy of Maarga Sangeet
 
 <notice-box>
-<my-button>Subscribe</my-button>
+<my-button to=".">Subscribe</my-button>
 </notice-box>
 
 ## More articles
