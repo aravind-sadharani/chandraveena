@@ -12,29 +12,6 @@ const chandraveenaTheme = {
     "Noto Serif",
     "serif",
   ],
-  googleFonts: [
-    {
-      name: "Sansita",
-      styles: [
-        "400",
-        "700",
-      ],
-    },
-    {
-      name: "Gentium Book Basic",
-      styles: [
-        "400",
-        "700",
-      ],
-    },
-    {
-      name: "Noto Serif",
-      styles: [
-        "400",
-        "700",
-      ]
-    },
-  ],
   overrideStyles: () => ({
     h1: {
       fontFamily: ["Sansita"].join(","),

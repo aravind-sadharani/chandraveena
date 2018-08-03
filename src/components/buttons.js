@@ -1,7 +1,8 @@
+import React from "react"
 import styled from "styled-components"
 import {Link} from "gatsby"
 
-const Button = styled(Link)`
+const UnlinkedButton = styled.button`
   display: inline-block;
   border-radius: 0.3rem;
   padding: 0.5rem 0;
@@ -13,16 +14,25 @@ const Button = styled(Link)`
   color: #ffffff;
   border: 0;
   font-size: 1.1em;
-  font-weight: "700";
+  font-weight: 400;
   box-shadow: 0 0 2px 0 #453e40;
+  cursor: pointer;
 `
 
-const Cta = styled(Button)`
+const UnlinkedCta = styled(UnlinkedButton)`
   padding: 0.3rem 0;
   margin: 0;
   width: 9rem;
   background: #542938;
   color: #e1dbdd;
 `
+
+const Button = ({to,children}) => (
+  <Link to={to}><UnlinkedButton>{children}</UnlinkedButton></Link>
+)
+
+const Cta = ({to,children}) => (
+  <Link to={to}><UnlinkedCta>{children}</UnlinkedCta></Link>
+)
 
 export {Button, Cta}

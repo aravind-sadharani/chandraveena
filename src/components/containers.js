@@ -21,6 +21,11 @@ const Wrapper = styled.div`
     text-align: center;
   };
   flex: 1;
+  a {
+    text-decoration: none;
+    color: #859e6b;
+    font-weight: 700;
+  }
 `
 
 const Noticewrapper = styled(Wrapper)`
