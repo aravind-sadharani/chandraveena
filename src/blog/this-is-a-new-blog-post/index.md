@@ -12,7 +12,4 @@ Pretty testy stuff. Indeed. Yes.
 
 [Biography from local folder](./Biography.pdf)
 
-![Image from Assets](/assets/Logo-Cover.jpg "Figure 1. Image from Assets")
-Figure 1. Image from Assets
-
-![Image from local](./Logo-Cover.jpg "Figure 2. Image from local")
+![Image](Logo-Cover.jpg "Figure 1. Logo Cover Image")
