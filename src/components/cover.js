@@ -6,14 +6,18 @@ import {media} from "../utils/mediatemplate"
 
 const Cover = styled.div`
   position: relative;
-  margin: calc(2rem + 62px) auto 2rem;
+  margin: calc(2rem + 62px) auto 1rem;
   width: 65vw;
-  max-width: 800px;
+  max-width: 500px;
   height: 65vh;
+  max-height: 500px;
   border-radius: 1rem;
   background-color: #859e6b;
   background-image: url(${logo});
   background-size: 45vmin;
+  @media screen and (min-height: 769px) and (min-width: 769px) {
+    background-size: 400px;
+  }
   background-repeat: no-repeat;
   background-position: center;
   padding: 1rem;
