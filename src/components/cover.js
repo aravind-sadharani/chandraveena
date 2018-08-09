@@ -14,15 +14,14 @@ const Cover = styled.div`
   border-radius: 1rem;
   background-color: #859e6b;
   background-image: url(${logo});
-  background-size: 45vmin;
+  background-size: 50vmin;
   @media screen and (min-height: 769px) and (min-width: 769px) {
-    background-size: 400px;
+    background-size: 385px;
   }
   background-repeat: no-repeat;
   background-position: center;
   padding: 1rem;
   box-shadow: 0 0 4px 0 #453e40;
-  opacity: 0.9;
   h3 {
     color: #542938;
     font-weight: 400;
