@@ -3,10 +3,6 @@ import {Link} from "gatsby"
 import {Noticebox} from "../components/containers"
 import {Button} from "../components/buttons"
 import Homepage from "../layouts/home"
-// Load Typefaces
-require('typeface-gentium-book-basic')
-require('typeface-noto-serif')
-require('typeface-sansita')
 
 const indexPage = () => (
   <Homepage>

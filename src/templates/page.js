@@ -5,10 +5,6 @@ import rehypeReact from "rehype-react"
 import {Noticebox} from "../components/containers"
 import {Button} from "../components/buttons"
 import {YouTube} from "../components/videos"
-// Load Typefaces
-require('typeface-gentium-book-basic')
-require('typeface-noto-serif')
-require('typeface-sansita')
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
