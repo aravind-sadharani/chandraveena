@@ -18,6 +18,25 @@ Under the advise of Ustadji (Zia Fariduddin), in 2002, I undertook a research pr
 
 Since 2007, I have been extensively touring and performing on Chandraveena, and at the same time, working on further improving the sound and responsiveness of the instrument. The instrument influences my playing style resulting in a natural blend of Carnatic and Dhrupad (Dagar) styles. The music is highly introspective and meditative in nature, keeping in consonance with the philosophy of Maarga Sangeet.
 
+## Highlights of Performances 
+-### Performance Highlights
+Dhrupad Mela, Varanasi
+Veena Samaroh, Bharat Bhavan, Bhopal
+Swar Yatra 2017, Jugalbandhi with Pt. Pushparaj Koshti
+Ambabai Sangeet Mahotsav, Sangli
+International Centre for Theoretical Sciences, Bangalore
+Indian Institute of Technology, Mumbai
+Cape Town and Johannesburg, South Africa
+Heilbronn, Mannhiem and Landua, Germany
+
+-### Lec dem and talks on "Acoustic Principles of Indian musical instruments"
+Centre for Basic Sciences, Mumbai
+Homi Bhabha Centre for Science Education, Mumbai
+Indian Institute of Science, Bangalore
+Indian Institute of Technology, Mumbai
+BITS Pilani, Goa
+Bharatiya Vigyan Sammelan, Pune
+
 ## Music and Professional Activities
 
 My interest in academics, history and musicology has led me to give many lecture demonstrations and talks on Indian Music, and on the Acoustics of Indian Musical Instruments. I also undertook an effort towards the preservation of the Sursringar, an instrument I was initially supposed to play, a rare and beautiful bass instrument which was often played alongside Rudra Veena, in the past. To continue the musical legacy forward, I also teach vocal and instrumental music in the traditional style.
@@ -48,9 +67,11 @@ My thanks and acknowledgments are due to the following wonderful people:
 * Late Chandu Kapadia - a maverick who was crazy about music, one of the founder members of Indian Music Group (IMG) at St. Xaviers’ College, Mumbai. We have shared many a debate or discussion on music. He was also responsible for introducing me to my first Guru, Pt. Pradeep Barot, and to many other stalwarts and musicians. I remember him fondly.
 * Late Smt. Pramila Dagar – wife of Ustad Zia Mohiuddin Dagar who gave us all the continuity in exposure to music, encouragement and support, by running the Dhrupad Gurukul, after the early demise of Ustadji.
 * Ustad Bahauddin Dagar – a friend, a Rudra Veena player and son of Ustad Zia Mohiuddin Dagar, for having shared many thoughts on music, tips on techniques of Veena playing, and for being with me during my difficult times.
+* Mumbai Shankarnarayan - mridangam maestro, who has been patiently teaching me the fundamentals of the South Indian Tala system, and the various facets of mridangam playing. 
+* Shri Sudhir Naringrekar - a senior tabla teacher, who has been my teacher in my understanding and playing of tabla.
 * Many senior students like Pt. Pushparaj Koshti, Milind Nafadey, among others, who openly shared their experiences and knowledge of music.
 * Important people who saw me through difficult health problems, and gave me a second lease of life – Dr. Vijay Haribhakti, Dr. Sudha Menon, Dr. Ramnik Parekh, Mr. Nimish Parekh and Dr. Rajeshree Parekh.
-* Jody Stecher – a senior student of Ustad Zia Mohiuddin Dagar who shared detailed information on his Sursringar which proved to be of immense help in my quest to get one made.
+* Jody Stecher – a multi instrumentalist world musician, and a senior student of Ustad Zia Mohiuddin Dagar. He shared detailed information on his Sursringar which proved to be of immense help in my quest to get one made.
 * Jon Barlow and Somdeep Das Gupta – for directing me to the right instrument maker.
 * Late Mohan Lal Sharma – a hereditary instrument maker from Kolkata who willingly accommodated all my requests and last minute variations in design, to come up with the brilliant instruments (Sursringar and Chandraveena) which are now my lifeline.
-* Last but not the least - Aravind Iyer who has designed and created this website, without whose contribution I wouldn’t be communicating through this medium. Aravind Iyer, a jazz and car aficionado, brilliant technologist (B Tech from IIT, PhD from Purdue, Research divisions of GM and Samsung), also happens to be my brother in law!
+* Last but not the least - Aravind Iyer who has designed and created this website, without whose contribution I wouldn’t be communicating through this medium. A jazz and car aficionado, a brilliant technologist (B Tech from IIT, PhD from Purdue, Research divisions of GM and Samsung), he spent many many hours to talk me through the design and site building process. Through extensive discussions he has helped me in clearly communicating the musical concepts. Thank you !
