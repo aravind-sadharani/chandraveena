@@ -63,7 +63,7 @@ Often vocalists in Dhrupad use syllables like Ri Na Te Ta Ra Na etc, the abstrac
 
 ### Composition
 
-The composition is either a lyrical poetry (in case of vocal music) or a musical phrase (in instrumental music called Gat) created to a certain fixed rhythmic cycle. Some of the most common rhythmic cycles are Chautal (12 beats), Dhamaar (14 beats) and Tivra (7 beats). Here, we create different improvised rhythmic musical phrases within the framework of the Raaga, and repeatedly joining the main basic phrase, either over a single cycle or after multiple cycles.
+The composition is either a lyrical poetry (in case of vocal music) or a musical phrase (instrumental composition called Gat) created to a certain fixed rhythmic cycle. Some of the most common rhythmic cycles are Chautal (12 beats), Dhamaar (14 beats) and Tivra (7 beats). Here, we create different improvised rhythmic musical phrases within the framework of the Raaga, and repeatedly joining the main basic phrase, either over a single cycle or after multiple cycles.
 
 <mark>Insert video clip of Composition.</mark>
 
