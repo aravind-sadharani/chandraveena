@@ -4,7 +4,7 @@ date: {}
 published: true
 ---
 ## A Glimpse
-Here's a short passage featuring Maarga Sangeet on Chandraveena, accompanied by a Pakhawaj and Tanpura.
+Here's a short passage featuring Maarga Sangeet(Dhrupad) on Chandraveena, accompanied by a Pakhawaj and Tanpura.
 
 <mark>Right up front, we should play a 2 minute clip featuring an intense passage, to kindle the listener's curiosity</mark>
 
@@ -13,10 +13,18 @@ By no means does this clip fully represent and showcase the musical form of Maar
 ## Introduction
 >Maarga Sangeet is a tradition of Indian Classical music, a way of life where music becomes the artist's medium of communication.
 
-From early Vedic periods, music has been recognised as a powerful means of expressing and stimulating emotions. As humans, we intrinsically respond to music and rhythm, regardless of the form and genre of music. Scientific research has shown that even plants and animals respond to music.<mark>We need a citation for this claim</mark>. The first significant step in the development of Indian Classical music happened with the Sama Veda. Taking the introspective and philosophical chants from the Rig Veda, Sama Veda added an element of singing to Vedic recitation.
+From early Vedic periods, music has been recognised as a powerful means of expressing and stimulating emotions. As humans, we intrinsically respond to music and rhythm, regardless of the form and genre of music. Scientific research has shown that even plants and animals respond to music.<mark>We need a citation for this claim</mark>. The first significant step in the development of Indian Classical music happened with the Sama Veda. Taking the ritualistic, introspective and philosophical chants from the Rig Veda, Sama Veda added an element of singing to Vedic recitation.
 
 <mark>Rig Veda Chant... youtube link
 Sama Veda Chant.. youtube link</mark>
+
+<mark>comment after Rig Veda video</mark>
+
+Note : As part of Rig Veda chanting, there already existed a very important concept of intonations. The intonations are called Svarita (neutral drone), Udaatta (higher note) and Anudaatta (lower note). As you can hear from the example above, its not a monotone chant, but there are accents to syllables which create a 3 note chant, called Gaathik chant. These 3 intonations form the foundation for Dhrupad style of Maarga Sangeet, and is fundamental to this musical form even today.
+
+<mark>comment after Sama Veda video</mark>
+
+Note : As you can see in the above example, the number of notes has expanded beyond the Rig Veda chanting. There's already an early example of some characteristics like Meend (Glides), Gamakam (Note oscillation), Hrasva (short note) and Deergha (long note) which continue to be an integral part of Indian Classical Music.
 
 Notice how even this small step of adding musical notes and phrases, already makes a big difference in the feeling evoked by Sama Veda singing, as compared to Rig Veda chants.
 
@@ -36,11 +44,16 @@ There are two main parts to a Dhrupad rendition, called the **Aalap** and the **
 
 The Aalap in turn is performed in three parts, without any rhythmic accompaniment.
 
-1. The first part is again called **Aalap**. This is the free flowing exposition of a Raaga (Melody) within the framework of the Grammar of the Raaga. Here, we explore different facets of the Raaga, explore the subtleties of every note and phrase, and use every possible Alankar (embellishments) all the while maintaining the purity of the structure. The whole endeavour here is to be able to effectively emote.
+__Om Anantam Tvam Tarana Tarana Tvam Hari Narayana Om
 
-<mark>Insert video clip of Aalap. This explanation should be made a bit shorter. Specifically, "every possible Alankar" conveys the idea of mechanical combinations. Also, the aim to "effectively emote" is very universal and difficult to apply exclusively to Aalap.</mark>
+Often vocalists in Dhrupad use syllables like Ri Na Te Ta Ra Na etc, the abstract syllables used to sing Aalap. These syllables are derived from the Chant above also known as Vishnu Mantra. A combination of plucking finger strokes is used in Veena playing to simulate these syllables in the Instrumental form.
 
-2. **Jod** is the second part of Aalap, where there is a sense of self-rhythm built into the phrases. The self-rhythm is created by the appropriate use of the rhythm strings built in the instrument.
+
+1. The first part is again called **Aalap**. This is the free flowing exposition of a Raaga (Melody) within the framework of the Grammar of the Raaga, and the style of Dhrupad. Here, we explore different facets of the Raaga, the subtleties of every note and phrase, and use of different Alankars (embellishments) to effectively bring out emotions, all the while maintaining the purity of the structure. <mark> "Can be deleted, incorporated in the previous sentence more appropriately" The whole endeavour here is to be able to effectively emote.</mark>
+
+<mark>Insert video clip of Aalap. This explanation should be made a bit shorter. Specifically, "every possible Alankar" conveys the idea of mechanical combinations. Also, the aim to "effectively emote" is very universal and difficult to apply exclusively to Aalap. (Difficult to make it shorter)</mark>
+
+2. **Jod** is the second part of Aalap, where there is a sense of self-rhythm created built into the phrases. The self-rhythm is created by the appropriate use of the rhythm strings built in the instrument.
 
 <mark>Insert video clip of Jod. Also, instead of "self-rhythm", a better word might be "pulse".</mark>
 
@@ -50,7 +63,7 @@ The Aalap in turn is performed in three parts, without any rhythmic accompanimen
 
 ### Composition
 
-The composition is either a lyrical poetry (in case of vocal music) or a musical phrase created to a certain fixed rhythmic cycle. Some of the most common rhythmic cycles are Chautal (12 beats), Dhamaar (14 beats) and Tivra (7 beats). Here, we create different improvised rhythmic musical phrases within the framework of the Raaga, and repeatedly joining the main basic phrase, either over a single cycle or after multiple cycles.
+The composition is either a lyrical poetry (in case of vocal music) or a musical phrase (in instrumental music called Gat) created to a certain fixed rhythmic cycle. Some of the most common rhythmic cycles are Chautal (12 beats), Dhamaar (14 beats) and Tivra (7 beats). Here, we create different improvised rhythmic musical phrases within the framework of the Raaga, and repeatedly joining the main basic phrase, either over a single cycle or after multiple cycles.
 
 <mark>Insert video clip of Composition.</mark>
 
