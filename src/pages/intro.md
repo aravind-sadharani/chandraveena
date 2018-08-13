@@ -32,7 +32,7 @@ Over time, musical rules and principles evolved to take their own form and ident
 
 Despite its ancient origins, Indian Classical music has continuously evolved over millennia and remains very much contemporary and relevant today, for any artist who aspires to learn and walk the path of Maarga Sangeet.
 
-The music I have chosen to follow is called Dhrupad, as practiced by my Gurus, and in the form I have learned and understood. While the term "Dhrupad" is derived from the words "Dhruva" meaning fixed and "Pada" meaning poetry, Dhrupad has evolved way beyond the recitation of fixed poetry, into a sophisticated and powerful musical form.
+The musical form I have chosen to follow is called Dhrupad, as practiced by my Gurus, and in the form I have learned and understood. While the term "Dhrupad" is derived from the words "Dhruva" meaning fixed and "Pada" meaning poetry, Dhrupad has evolved way beyond the recitation of fixed poetry, into a sophisticated and powerful musical form.
 
 In my pursuit, the Chandraveena is my musical instrument of choice, to help me to portray Dhrupad in all its finesse. Chandraveena has a calm, deep and resonating sound, which creates the ideal soundscape for this form of music. Further, it has been designed to render the most subtle variations and colourations of notes and phrases.
 
