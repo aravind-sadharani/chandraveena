@@ -27,7 +27,7 @@ As you can see, in Saama Veda singing, the number of notes has expanded beyond R
 
 Notice how even this small step of adding musical notes and phrases, already makes a big difference in the feeling evoked by Saama Veda singing, as compared to Rig Veda chants. Over time, musical rules and principles evolved to take their own form and identity separate from Saama Veda, and came to be classified as an Upaveda (a subsidiary Vedic text) called the Gandharva Veda. From Gandharva Veda came the methods, structure and grammar to learn, practise and perform music - the first seeds of Indian Classical Music.
 
-Despite its ancient origins, Indian Classical music has continuously evolved over millennia and remains very much contemporary and relevant today, for any artist who aspires to learn and walk the path of Maarga Sangeet.
+Despite its ancient origins, Indian Classical music has continuously evolved over millennia and remains very much contemporary and relevant today, for any artist who aspires to learn and walk the path of Maarga Sangeet. <mark>Today, it is practised and performed in a number of styles, broadly classified as Hindustani, Carnatic and Dhrupad.</mark>
 
 The musical form I have chosen to follow is called Dhrupad, as practiced by my Gurus, and in the form I have learned and understood. While the term "Dhrupad" is derived from the words "Dhruva" meaning fixed and "Pada" meaning poetry, Dhrupad has evolved way beyond the recitation of fixed poetry, into a sophisticated and powerful musical form.
 
