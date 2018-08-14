@@ -40,6 +40,8 @@ class YouTubeClass extends React.Component {
 
   render() {
     let src = this.props.src
+    let start = this.props.starttime
+    let end = this.props.endtime
     return (
       <VideoContainer>
         { this.state.showVideo ?
@@ -47,14 +49,14 @@ class YouTubeClass extends React.Component {
             title={src}
             frameBorder="0"
             allowFullScreen=""
-            src={`https://www.youtube.com/embed/${src}?rel=0`}
+            src={`https://www.youtube.com/embed/${src}?start=${start}&end=${end};rel=0`}
             onLoad={this.hideThumb}
           /> :
           null
         }
         { this.state.showThumb ?
           <Thumbnail
-            alt="" src={`https://img.youtube.com/vi/${src}/sddefault.jpg`}
+            alt="" src={`https://img.youtube.com/vi/${src}/hqdefault.jpg`}
             onLoad={this.showVideo}
           /> :
           null
@@ -64,8 +66,8 @@ class YouTubeClass extends React.Component {
   }
 }
 
-const YouTube = ({videoid}) => (
-  <YouTubeClass src={videoid} />
+const YouTube = ({videoid, starttime, endtime}) => (
+  <YouTubeClass src={videoid} starttime={starttime} endtime={endtime} />
 )
 
 export {YouTube}

@@ -4,31 +4,28 @@ date: {}
 published: true
 ---
 ## A Glimpse
-Here's a short passage featuring Maarga Sangeet(Dhrupad) on Chandraveena, accompanied by a Pakhawaj and Tanpura.
+Here is a short passage featuring Maarga Sangeet on Chandraveena, in Dhrupad style, accompanied by a Pakhawaj and Tanpura.
 
-<mark>Right up front, we should play a 2 minute clip featuring an intense passage, to kindle the listener's curiosity</mark>
+<div><you-tube videoid="ladiskWVFfY" starttime="590" endtime="1181"></you-tube></div><br>
 
-By no means does this clip fully represent and showcase the musical form of Maarga Sangeet. But it  provides a glimpse into the musical improvisations and expressive power that it makes possible. To better understand and appreciate Maarga Sangeet, let us begin by tracing its origins.
+By no means does this clip fully represent and showcase the tradition of Maarga Sangeet or the musical form of Dhrupad. But it provides a glimpse into the musical improvisations and expressive power that is possible. To better understand and appreciate Maarga Sangeet, and specifically Dhrupad, let us begin by tracing the origins of Indian Classical music.
 
 ## Introduction
 >Maarga Sangeet is a tradition of Indian Classical music, a way of life where music becomes the artist's medium of communication.
 
-From early Vedic periods, music has been recognised as a powerful means of expressing and stimulating emotions. As humans, we intrinsically respond to music and rhythm, regardless of the form and genre of music. Scientific research has shown that even plants and animals respond to music.<mark>We need a citation for this claim</mark>. The first significant step in the development of Indian Classical music happened with the Sama Veda. Taking the ritualistic, introspective and philosophical chants from the Rig Veda, Sama Veda added an element of singing to Vedic recitation.
+From early Vedic periods, music has been recognised as a powerful means of expressing and stimulating emotions. As humans, we intrinsically respond to music and rhythm, regardless of the form and genre of music. Scientific research has shown that even plants and animals respond to music [^1]. The first significant step in the development of Indian Classical music happened with the Saama Veda. Taking the ritualistic, introspective and philosophical chants from the Rig Veda, Saama Veda added an element of singing to Vedic recitation. Listen to this chant from Rig Veda.
 
-<mark>Rig Veda Chant... youtube link
-Sama Veda Chant.. youtube link</mark>
+[^1]: Scientists have studied the effects of music on non-human subjects including animals such as cats or monkeys, and even plants. The studies have found that music does have an impact on the health and well-being of the non-human subjects. For example, see [1](https://scialert.net/fulltext/?doi=ajps.2007.369.373), [2](https://www.researchgate.net/publication/291086163_Effect_of_Music_on_Plants_-_An_Overview) and [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3677178/pdf/ars206.pdf) for music's effect on plants and [4](https://www.nature.com/articles/laban.162), [5](https://www.appliedanimalbehaviour.com/article/S0168-1591(15)00060-X/abstract) and [6](http://rsbl.royalsocietypublishing.org/content/6/1/30.short) for music's effect on animals.
 
-<mark>comment after Rig Veda video</mark>
+<div><you-tube videoid="G0QRzBzmwio" starttime="20" endtime="59"></you-tube></div><br>
 
-Note : As part of Rig Veda chanting, there already existed a very important concept of intonations. The intonations are called Svarita (neutral drone), Udaatta (higher note) and Anudaatta (lower note). As you can hear from the example above, its not a monotone chant, but there are accents to syllables which create a 3 note chant, called Gaathik chant. These 3 intonations form the foundation for Dhrupad style of Maarga Sangeet, and is fundamental to this musical form even today.
+Rig Veda chants already incorporated the concept of intonations. The intonations are called Svarita (neutral drone), Udaatta (higher note) and Anudaatta (lower note). As you can hear from the example above, it is not a monotone chant, but there are accents to syllables which create a three note chant, called Gaathik chant. These three intonations form the foundation for the Dhrupad style of Maarga Sangeet, and are fundamental to the musical form even today. Now, listen to this chant from Saama Veda.
 
-<mark>comment after Sama Veda video</mark>
+<div><you-tube videoid="j1ODd0UB6bY" endtime="50"></you-tube></div><br>
 
-Note : As you can see in the above example, the number of notes has expanded beyond the Rig Veda chanting. There's already an early example of some characteristics like Meend (Glides), Gamakam (Note oscillation), Hrasva (short note) and Deergha (long note) which continue to be an integral part of Indian Classical Music.
+As you can see, in Saama Veda singing, the number of notes has expanded beyond Rig Veda chants. If you are familiar with Indian Classical music, you may notice early examples of musical characteristics like Meend (glides), Gamakam (note oscillation), Hrasva (short note) and Deergha (long note) which continue to be an integral part of Indian Classical Music today.
 
-Notice how even this small step of adding musical notes and phrases, already makes a big difference in the feeling evoked by Sama Veda singing, as compared to Rig Veda chants.
-
-Over time, musical rules and principles evolved to take their own form and identity separate from Sama Veda, and came to be classified as an Upaveda (a subsidiary Vedic text) called the Gandharva Veda. From Gandharva Veda came the methods, structure and grammar to learn, practise and perform music - the first seeds of Indian Classical Music.
+Notice how even this small step of adding musical notes and phrases, already makes a big difference in the feeling evoked by Saama Veda singing, as compared to Rig Veda chants. Over time, musical rules and principles evolved to take their own form and identity separate from Saama Veda, and came to be classified as an Upaveda (a subsidiary Vedic text) called the Gandharva Veda. From Gandharva Veda came the methods, structure and grammar to learn, practise and perform music - the first seeds of Indian Classical Music.
 
 Despite its ancient origins, Indian Classical music has continuously evolved over millennia and remains very much contemporary and relevant today, for any artist who aspires to learn and walk the path of Maarga Sangeet.
 
@@ -42,42 +39,34 @@ There are two main parts to a Dhrupad rendition, called the **Aalap** and the **
 
 ### Aalap
 
-The Aalap in turn is performed in three parts, without any rhythmic accompaniment.
+The Aalap is performed without any rhythmic accompaniment.
 
-__Om Anantam Tvam Tarana Tarana Tvam Hari Narayana Om
+>Om Anantam Tvam Tarana Tarana Tvam Hari Narayana Om
 
-Often vocalists in Dhrupad use syllables like Ri Na Te Ta Ra Na etc, the abstract syllables used to sing Aalap. These syllables are derived from the Chant above also known as Vishnu Mantra. A combination of plucking finger strokes is used in Veena playing to simulate these syllables in the Instrumental form.
+Vocalists in Dhrupad often use syllables like Ri, Na, Te, Ta, Ra and Na, as abstract syllables to sing Aalap. These syllables are derived from the chant above known as the Vishnu Mantra. For instrumentalists, particularly Veena players, the practice is to use a combination of plucking and finger strokes to simulate these syllables.
 
+The Aalap is performed in three parts.
 
-1. The first part is again called **Aalap**. This is the free flowing exposition of a Raaga (Melody) within the framework of the Grammar of the Raaga, and the style of Dhrupad. Here, we explore different facets of the Raaga, the subtleties of every note and phrase, and use of different Alankars (embellishments) to effectively bring out emotions, all the while maintaining the purity of the structure. <mark> "Can be deleted, incorporated in the previous sentence more appropriately" The whole endeavour here is to be able to effectively emote.</mark>
+1. The first part is again called **Aalap**. This is the free flowing exposition of a Raaga (Melody) within the Grammar of the Raaga, and the style of Dhrupad. Here, we explore different facets of the Raaga, the subtleties of every note and phrase, and use of different Alankars (embellishments) to effectively bring out emotions, all the while maintaining the purity of the structure.
 
-<mark>Insert video clip of Aalap. This explanation should be made a bit shorter. Specifically, "every possible Alankar" conveys the idea of mechanical combinations. Also, the aim to "effectively emote" is very universal and difficult to apply exclusively to Aalap. (Difficult to make it shorter)</mark>
-
-2. **Jod** is the second part of Aalap, where there is a sense of self-rhythm created built into the phrases. The self-rhythm is created by the appropriate use of the rhythm strings built in the instrument.
-
-<mark>Insert video clip of Jod. Also, instead of "self-rhythm", a better word might be "pulse".</mark>
+2. **Jod** is the second part of Aalap, where there is a sense of self-rhythm or pulse created which is built into the musical phrases. The self-rhythm is created by the appropriate use of the rhythm strings built in the instrument.
 
 3. **Jhala** is the faster rhythmic section of the aalap. In this section, there is extensive use of the rhythm strings, creating a feeling of dancing movements.
 
-<mark>Insert video clip of Jhala.</mark>
+<div><you-tube videoid="ZfuYq35SIfo" endtime="60"></you-tube></div><br>
 
 ### Composition
 
 The composition is either a lyrical poetry (in case of vocal music) or a musical phrase (instrumental composition called Gat) created to a certain fixed rhythmic cycle. Some of the most common rhythmic cycles are Chautal (12 beats), Dhamaar (14 beats) and Tivra (7 beats). Here, we create different improvised rhythmic musical phrases within the framework of the Raaga, and repeatedly joining the main basic phrase, either over a single cycle or after multiple cycles.
 
-<mark>Insert video clip of Composition.</mark>
-
 ## Thanks for Listening!
 
-It has been a extraordinary journey for me, and it is very much an ongoing one! Every day is an opportunity to improve, to be one with the musical form, and to be able to emote through the medium of music to you, my listeners.
+This has been quite a long introduction. If you have made it this far, I appreciate your patience. But even this is just a beginning - there is much much more to Dhrupad. It has been an extraordinary journey for me, and it is very much an ongoing one! Every day is an opportunity to improve, to be one with the musical form, and to be able to emote through the medium of music to you, my listeners.
 
-<div><you-tube videoid="NDDtGBdr5EY"></you-tube></div><br>
-
-## Place-holder
-
-Explanation of the video/audio clip.
+I hope you enjoyed the music. And do check out my complete performances from the Discography page. Thanks for listening!
 
 <notice-box>
+Browse the Discography
 
 <my-button to="/discography/">Listen More</my-button>
 
