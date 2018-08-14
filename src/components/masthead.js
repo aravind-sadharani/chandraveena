@@ -7,6 +7,7 @@ import abouticon from "../../images/About.svg"
 import discoicon from "../../images/Discography.svg"
 import blogicon from "../../images/Blog.svg"
 import {Link} from "gatsby"
+import Headroom from "react-headroom"
 const title = "Chandraveena"
 
 const Masthead = styled.div`
@@ -16,18 +17,6 @@ const Masthead = styled.div`
   opacity: 0.9;
   padding: 0.5rem 0.5rem;
   box-shadow: 0 0 4px 0 #453e40;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  ${media.phone`
-    position: relative;
-    z-index: 0;
-  `}
-  ${media.tablet`
-    position: relative;
-    z-index: 0;
-  `}
 `
 
 const Mastheadcontent = styled.div`
@@ -76,18 +65,20 @@ const Search = styled.div`
 `
 
 export default () => (
-  <Masthead>
-    <Mastheadcontent>
-      <Home><Link to="/"><Sitelogo /><h1> {title}</h1></Link></Home>
-      <Nav>
-        <ul>
-          <li><Link to="/intro"><Inlineimg src={introicon}/> Introduction</Link></li>
-          <li><Link to="/about/"><Inlineimg src={abouticon}/> About</Link></li>
-          <li><Link to="/discography/"><Inlineimg src={discoicon}/> Discography</Link></li>
-          <li><Link to="/blog/"><Inlineimg src={blogicon}/> Blog</Link></li>
-        </ul>
-      </Nav>
-      <Search><Searchicon /></Search>
-    </Mastheadcontent>
-  </Masthead>
+  <Headroom>
+    <Masthead>
+      <Mastheadcontent>
+        <Home><Link to="/"><Sitelogo /><h1> {title}</h1></Link></Home>
+        <Nav>
+          <ul>
+            <li><Link to="/intro"><Inlineimg src={introicon}/> Introduction</Link></li>
+            <li><Link to="/about/"><Inlineimg src={abouticon}/> About</Link></li>
+            <li><Link to="/discography/"><Inlineimg src={discoicon}/> Discography</Link></li>
+            <li><Link to="/blog/"><Inlineimg src={blogicon}/> Blog</Link></li>
+          </ul>
+        </Nav>
+        <Search><Searchicon /></Search>
+      </Mastheadcontent>
+    </Masthead>
+  </Headroom>
 )

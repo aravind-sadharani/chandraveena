@@ -1,6 +1,5 @@
 import React from "react"
 import styled from "styled-components"
-import {media} from "../utils/mediatemplate"
 
 const Outerwrapper = styled.div`
   display: flex;
@@ -33,12 +32,6 @@ const Noticewrapper = styled(Wrapper)`
   text-align: center;
 `
 
-const Pagewrapper = styled(Wrapper)`
-  margin: calc(1rem + 62px) auto 1rem;
-  ${media.tablet`margin-top: 1rem`}
-  ${media.phone`margin-top: 1rem`}
-`
-
 const Outer = ({children}) => (
   <Outerwrapper>{children}</Outerwrapper>
 )
@@ -51,8 +44,4 @@ const Noticebox = ({children}) => (
   <Noticewrapper>{children}</Noticewrapper>
 )
 
-const Pagecontainer = ({children}) => (
-  <Pagewrapper>{children}</Pagewrapper>
-)
-
-export {Outer, Container, Noticebox, Pagecontainer}
+export {Outer, Container, Noticebox}
