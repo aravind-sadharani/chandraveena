@@ -4,7 +4,7 @@ import Layout from "../layouts/page"
 import rehypeReact from "rehype-react"
 import {Noticebox} from "../components/containers"
 import {Button} from "../components/buttons"
-import {YouTube} from "../components/videos"
+import YouTube from "../components/videos"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,

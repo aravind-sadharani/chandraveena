@@ -16,58 +16,15 @@ const VideoContainer = styled.div`
   }
 `
 
-const Thumbnail = styled.img`
-  width: 100%;
-  position: absolute;
-  top: -16.67%;
-  left: 0;
-  cursor: pointer;
-`
-
-class YouTubeClass extends React.Component {
-  constructor(props) {
-    super(props)
-    this.state = {showThumb: true, showVideo: false}
-  }
-
-  hideThumb = () => this.setState({showThumb: false})
-  showVideo = () => this.setState({showVideo: true})
-
-  componentDidUpdate(prevProps) {
-    if(this.props.src !== prevProps.src)
-      this.setState({showThumb: true, showVideo: false})
-  }
-
-  render() {
-    let src = this.props.src
-    let start = this.props.starttime
-    let end = this.props.endtime
-    return (
-      <VideoContainer>
-        { this.state.showVideo ?
-          <iframe
-            title={src}
-            frameBorder="0"
-            allowFullScreen=""
-            src={`https://www.youtube.com/embed/${src}?start=${start}&end=${end};rel=0`}
-            onLoad={this.hideThumb}
-          /> :
-          null
-        }
-        { this.state.showThumb ?
-          <Thumbnail
-            alt="" src={`https://img.youtube.com/vi/${src}/hqdefault.jpg`}
-            onLoad={this.showVideo}
-          /> :
-          null
-        }
-      </VideoContainer>
-    )
-  }
-}
-
 const YouTube = ({videoid, starttime, endtime}) => (
-  <YouTubeClass src={videoid} starttime={starttime} endtime={endtime} />
+  <VideoContainer>
+    <iframe
+      title={videoid}
+      frameBorder="0"
+      allowFullScreen=""
+      src={`https://www.youtube.com/embed/${videoid}?start=${starttime}&end=${endtime};rel=0`}
+    />
+  </VideoContainer>
 )
 
-export {YouTube}
+export default YouTube
