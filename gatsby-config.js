@@ -58,6 +58,14 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-catch-links`
+    `gatsby-plugin-catch-links`,
+    {
+      resolve: `gatsby-source-youtube`,
+      options: {
+        channelId: 'UCvy6YWW_J7M3t6BXArVaePw', // 'UCxPyMV4LS9YBePXM0mV4hjg',
+        apiKey: 'AIzaSyAx6rGnESlJwgQaEAXAxdEiHm12e_4cbDI',
+        maxVideos: 50 // Defaults to 50
+      },
+    }
   ],
 }

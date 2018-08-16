@@ -1,5 +1,6 @@
 import React from "react"
 import styled from "styled-components"
+import {graphql, StaticQuery} from "gatsby"
 
 const VideoContainer = styled.div`
   padding-bottom: 56.25%;
@@ -27,4 +28,59 @@ const YouTube = ({videoid, starttime, endtime}) => (
   </VideoContainer>
 )
 
-export default YouTube
+const VideoThumbNail = styled.div`
+  float: left;
+  width: 40%;
+`
+
+const VideoDescription = styled.div`
+  float: right;
+  width: 55%;
+  margin: 0 0 0 1rem;
+`
+
+const VideoItemContainer = styled.div`
+  display: flex;
+  margin: 0 0 1rem;
+`
+
+const YouTubeChannel = () => (
+  <StaticQuery
+    query = {graphql`
+      query {
+        allYoutubeVideo {
+          edges {
+            node {
+              id
+              title
+              description
+              videoId
+              publishedAt
+              privacyStatus
+            }
+          }
+        }
+      }
+    `}
+    render = {data => {
+      let videoList = data.allYoutubeVideo.edges.map(obj => (
+        <VideoItemContainer>
+          <VideoThumbNail>
+            <YouTube videoid={obj.node.videoId} />
+          </VideoThumbNail>
+          <VideoDescription>
+            <h2>{obj.node.title}</h2>
+            <p>{obj.node.description}</p>
+          </VideoDescription>
+        </VideoItemContainer>
+      ))
+      return (
+        <div>
+          {videoList}
+        </div>
+      )}
+    }
+  />
+)
+
+export {YouTube, YouTubeChannel}

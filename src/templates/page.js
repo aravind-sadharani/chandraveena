@@ -4,11 +4,12 @@ import Layout from "../layouts/page"
 import rehypeReact from "rehype-react"
 import {Noticebox} from "../components/containers"
 import {Button} from "../components/buttons"
-import YouTube from "../components/videos"
+import {YouTube} from "../components/videos"
+import {YouTubeChannel} from "../components/videos"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
-  components: { "notice-box": Noticebox, "my-button": Button, "you-tube": YouTube },
+  components: { "notice-box": Noticebox, "my-button": Button, "you-tube": YouTube, "you-tube-channel": YouTubeChannel },
 }).Compiler
 
 export default ({ data }) => {
