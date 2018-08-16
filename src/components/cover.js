@@ -21,7 +21,13 @@ const Cover = styled.div`
   background-position: center;
   padding: 1rem;
   box-shadow: 0 0 4px 0 #453e40;
-  h3 {
+  h1 {
+    color: #ffffff;
+    font-size: 1.7em;
+    padding: 0;
+    margin: 0 0 0.2rem 0;
+  }
+  h3, h4 {
     color: #542938;
     font-weight: 400;
     padding: 0;
@@ -42,11 +48,12 @@ const Caption = styled.div`
 export default () => (
   <Cover>
     <Credits>
-      <h3>Maarga Sangeet</h3>
+      <h1>Chandraveena</h1>
       <h3>by S. Balachander</h3>
     </Credits>
     <Caption>
-      <h3>A Musical Journey</h3>
+      <h3>Maarga Sangeet</h3>
+      <h4>&mdash; a Musical Journey</h4>
       <Cta to="/intro/">Listen Now</Cta>
     </Caption>
   </Cover>

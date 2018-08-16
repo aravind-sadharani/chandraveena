@@ -8,10 +8,10 @@ const indexPage = () => (
   <Homepage>
     <h2>Maarga Sangeet</h2>
     <p>
-      Maarga Sangeet is an ancient yet timeless tradition of Indian Classical music. It is a way of life where music becomes the artist&apos;s medium of communication. Tracing its origin from the singing of the Saama Veda, the musical vocabulary of Maarga Sangeet has evolved into the sophisticated system of Indian Raagas, and is practised and performed today in a number of styles, <mark>broadly classified as Hindustani, Carnatic and Dhrupad.</mark>
+      Maarga Sangeet is an ancient yet timeless tradition of Indian Classical music. It is a way of life where music becomes the artist&apos;s medium of communication. From its early origins in the chants of Rig Veda and the singing of the Saama Veda, the rules and principles of Indian Classical music have evolved into the sophisticated system of Indian Raagas, and the artistic philosophy of Maarga Sangeet.
     </p>
     <p>
-      Balachander plays the Chandraveena in the Dhrupad style. Dhrupad, a shortening of Dhruva-Pada (fixed verse), is a style of music evolved from a poetry based musical style called Prabandham (arrangement). In its contemporary musical form, Dhrupad consists of two sections, Anibaddha (unbound) which is a free flowing music also called Aalap, and Nibaddha (bound) which is a poetry or instrumental composition set to a fixed cycle of beats.
+      Balachander plays the Chandraveena in the Dhrupad style, a traditional form of Maarga Sangeet. In its contemporary musical form, Dhrupad consists of two sections, Aalap which is a free flowing creative exploration of the Raaga without any percussion accompaniment, and a Composition accompanied by percussion, which is a poetry or instrumental composition set to a fixed cycle of beats. Dhrupad is characterised by a gradual and methodical unfurling of the Raaga.
     </p>
     <h2>Chandraveena</h2>
     <p>
