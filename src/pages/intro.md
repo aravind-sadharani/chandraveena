@@ -1,5 +1,5 @@
 ---
-title: Maarga Sangeet on Chandraveena
+title: Chandraveena by S. Balachander
 date: {}
 published: true
 ---
