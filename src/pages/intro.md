@@ -47,7 +47,7 @@ Vocalists in Dhrupad often use syllables like Ri, Na, Te, Ta, Ra and Na, as abst
 
 The Aalap is performed in three parts.
 
-1. The first part is again called **Aalap**. This is the free flowing exposition of a Raaga (melody) within the Grammar of the Raaga, and the style of Dhrupad. Here, we explore different facets of the Raaga, the subtleties of every note and phrase, and use of different Alankars (embellishments) to effectively bring out emotions, all the while maintaining the purity of the structure.
+1. The first part is again called **Aalap**. This is the free flowing exposition of a Raaga (melody) within the Grammar of the Raaga, and the style of Dhrupad. Here, we explore different facets of the Raaga, the subtleties of every note and phrase, and use of different Alankars (ornamentation) to effectively bring out emotions, all the while maintaining the purity of the structure.
 
 <div><you-tube videoid="2iafMZkgBZ8" starttime="191" endtime="386"></you-tube></div><br>
 
@@ -61,7 +61,7 @@ The Aalap is performed in three parts.
 
 ### Composition
 
-The composition is either a lyrical poetry (in case of vocal music) or a musical phrase (instrumental composition called Gat) created to a certain fixed rhythmic cycle. Some of the most common rhythmic cycles are Chautal (12 beats), Dhamaar (14 beats) and Tivra (7 beats). Here, we create different improvised rhythmic musical phrases within the framework of the Raaga, and repeatedly joining the main basic phrase, either over a single cycle or after multiple cycles.
+The composition is either a lyrical poetry (in case of vocal music) or a musical phrase (instrumental composition called Gat) created to a certain fixed rhythmic cycle. Some of the most common rhythmic cycles are Chautal (12 beats), Dhamaar (14 beats) and Tivra (7 beats). Here, we create different improvised rhythmic musical phrases within the framework of the Raaga, and repeatedly rejoin the main basic phrase, either over a single cycle or after multiple cycles.
 
 <div><you-tube videoid="ladiskWVFfY" endtime="164"></you-tube></div><br>
 
