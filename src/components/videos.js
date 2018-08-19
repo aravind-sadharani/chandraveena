@@ -1,6 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import {graphql, StaticQuery} from "gatsby"
+import {media} from "../utils/mediatemplate"
 
 const VideoContainer = styled.div`
   padding-bottom: 56.25%;
@@ -29,19 +30,26 @@ const YouTube = ({videoid, starttime, endtime}) => (
 )
 
 const VideoThumbNail = styled.div`
-  float: left;
-  width: 40%;
 `
 
 const VideoDescription = styled.div`
-  float: right;
-  width: 55%;
-  margin: 0 0 0 1rem;
+  margin: 0 0 0 2rem;
+  ${media.phone`margin: 1rem 0 0`}
 `
 
 const VideoItemContainer = styled.div`
-  display: flex;
-  margin: 0 0 1rem;
+  margin: 1rem 0;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  ${media.phone`grid-template-columns: 1fr`}
+  hr {
+    display: block;
+    margin: 1em auto 0;
+    border: #453e40;
+    grid-column: 1/3;
+    ${media.phone`grid-column: 1`}
+    width: 100%;
+  }
 `
 
 const YouTubeChannel = () => (
@@ -55,7 +63,7 @@ const YouTubeChannel = () => (
               title
               description
               videoId
-              publishedAt
+              publishedAt(formatString: "DD MMMM, YYYY")
               privacyStatus
             }
           }
@@ -64,14 +72,16 @@ const YouTubeChannel = () => (
     `}
     render = {data => {
       let videoList = data.allYoutubeVideo.edges.map(obj => (
-        <VideoItemContainer key={obj.node.videoId}>
+        <VideoItemContainer key={obj.node.id}>
           <VideoThumbNail>
             <YouTube videoid={obj.node.videoId} />
           </VideoThumbNail>
           <VideoDescription>
-            <h2>{obj.node.title}</h2>
+            <h3>{obj.node.title}</h3>
+            <p><em>Last updated {obj.node.publishedAt}</em></p>
             <p>{obj.node.description}</p>
           </VideoDescription>
+          <hr />
         </VideoItemContainer>
       ))
       return (
