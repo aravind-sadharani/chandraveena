@@ -21,7 +21,7 @@
     "gatsby-remark-relative-images": "^0.1.2",
     "gatsby-remark-smartypants": "next",
     "gatsby-source-filesystem": "next",
-    "gatsby-source-youtube": "^1.0.1",
+    "gatsby-source-youtube": "https://github.com/iyeraravind/gatsby-source-youtube/tarball/master",
     "gatsby-transformer-remark": "next",
     "gatsby-transformer-sharp": "next",
     "react": "^16.4.2",

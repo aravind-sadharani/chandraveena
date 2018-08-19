@@ -64,7 +64,7 @@ const YouTubeChannel = () => (
     `}
     render = {data => {
       let videoList = data.allYoutubeVideo.edges.map(obj => (
-        <VideoItemContainer>
+        <VideoItemContainer key={obj.node.videoId}>
           <VideoThumbNail>
             <YouTube videoid={obj.node.videoId} />
           </VideoThumbNail>
