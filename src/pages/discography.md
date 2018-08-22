@@ -12,6 +12,10 @@ Recording details and notes.
 <my-button to="/contact/">Contact the Artist</my-button>
 </notice-box>
 
+<br>
+<hr>
+<br>
+
 ## More Recordings
 
 <div><you-tube-channel></you-tube-channel></div><br>

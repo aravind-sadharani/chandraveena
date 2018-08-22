@@ -10,8 +10,15 @@ date: 2018-07-16
 3. Philosophy of Maarga Sangeet
 
 <notice-box>
-<my-button to=".">Subscribe</my-button>
+If you have a question or comment,
+
+<my-button to="/contact/">Leave a Note</my-button>
+
 </notice-box>
+
+<br>
+<hr>
+<br>
 
 ## More articles
 
