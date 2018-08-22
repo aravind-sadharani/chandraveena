@@ -4,6 +4,8 @@ date: {}
 published: true
 ---
 
+![Image](IMG_7198.JPG)
+
 Hello, I am Balachander, a Chandraveena artist performing Indian Classical Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
 
 ## Early Days and Music Training
