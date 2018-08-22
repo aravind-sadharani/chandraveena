@@ -102,15 +102,15 @@ const YouTubeChannel = () => (
       }
     `}
     render = {data => {
-      let videoList = data.allYoutubeVideo.edges.map(obj => (
-        <VideoItemContainer key={obj.node.id}>
+      let videoList = data.allYoutubeVideo.edges.map(({node}) => (
+        <VideoItemContainer key={node.id}>
           <VideoThumbNail>
-            <YouTube videoid={obj.node.videoId} />
+            <YouTube videoid={node.videoId} />
           </VideoThumbNail>
           <VideoDescription>
-            <h3>{obj.node.title}</h3>
-            <p><em>Last updated {obj.node.publishedAt}</em></p>
-            <p>{obj.node.description}</p>
+            <h3>{node.title}</h3>
+            <p><em>Last updated {node.publishedAt}</em></p>
+            <p>{node.description}</p>
           </VideoDescription>
           <hr />
         </VideoItemContainer>
