@@ -15,4 +15,4 @@ date: 2018-07-16
 
 ## More articles
 
-Listing of blog posts (paginated, if required).
+<div><blog-index></blog-index></div><br>

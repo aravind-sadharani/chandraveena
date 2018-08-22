@@ -6,10 +6,11 @@ import {Noticebox} from "../components/containers"
 import {Button} from "../components/buttons"
 import {YouTube} from "../components/videos"
 import {YouTubeChannel} from "../components/videos"
+import {BlogIndex} from "../components/blogindex"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
-  components: { "notice-box": Noticebox, "my-button": Button, "you-tube": YouTube, "you-tube-channel": YouTubeChannel },
+  components: { "notice-box": Noticebox, "my-button": Button, "you-tube": YouTube, "you-tube-channel": YouTubeChannel, "blog-index": BlogIndex },
 }).Compiler
 
 export default ({ data }) => {
