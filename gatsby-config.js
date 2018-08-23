@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Chandraveena",
+    siteUrl: `https://goofy-lewin-6d9bef.netlify.com`,
     author: "S. Balachander",
     designer: {
       "name": "Aravind Iyer",
@@ -8,6 +9,9 @@ module.exports = {
     },
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-sitemap`
+    },
     {
       resolve: `gatsby-plugin-typography`,
       options: {

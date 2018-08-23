@@ -7,10 +7,11 @@ import {Button} from "../components/buttons"
 import {YouTube} from "../components/videos"
 import {YouTubeChannel} from "../components/videos"
 import {BlogIndex} from "../components/blogindex"
+import {SiteMap} from "../components/sitemap"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
-  components: { "notice-box": Noticebox, "my-button": Button, "you-tube": YouTube, "you-tube-channel": YouTubeChannel, "blog-index": BlogIndex },
+  components: { "notice-box": Noticebox, "my-button": Button, "you-tube": YouTube, "you-tube-channel": YouTubeChannel, "blog-index": BlogIndex, "site-map": SiteMap },
 }).Compiler
 
 export default ({ data }) => {
