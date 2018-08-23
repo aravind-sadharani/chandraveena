@@ -10,6 +10,19 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Chandraveena by S. Balachander`,
+        short_name: `Chandraveena`,
+        start_url: `/`,
+        background_color: `#e1dbdd`,
+        theme_color: `#542938`,
+        display: `minimal-ui`,
+        icon: `images/Favicon.png`,
+      },
+    },
+    `gatsby-plugin-offline`,
+    {
       resolve: `gatsby-plugin-sitemap`
     },
     {
