@@ -83,6 +83,8 @@ module.exports = {
         apiKey: 'AIzaSyAx6rGnESlJwgQaEAXAxdEiHm12e_4cbDI',
         maxVideos: 50 // Defaults to 50
       },
-    }
+    },
+    `gatsby-plugin-netlify-cache`,
+    `gatsby-plugin-netlify`
   ],
 }
