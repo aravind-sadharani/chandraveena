@@ -91,6 +91,10 @@ const ButtonContainer = styled.div`
   text-align: center;
 `
 
+const Button = styled(UnlinkedButton)`
+  opacity: ${props => props.disabled ? 0.5 : 1};
+`
+
 const encode = (data) => {
   return Object.keys(data)
     .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
@@ -127,6 +131,8 @@ class ContactForm extends React.Component {
   }
 
   render() {
+    let {name, email, message} = this.state
+    let isEnabled = name && email && message
     return (
       <FormContainer>
         <form
@@ -164,7 +170,7 @@ class ContactForm extends React.Component {
             onChange={this.handleRecaptcha}
           />
           <ButtonContainer>
-            <UnlinkedButton type="submit">Send</UnlinkedButton>
+            <Button type="submit" disabled={!isEnabled}>Send</Button>
           </ButtonContainer>
         </form>
       </FormContainer>
