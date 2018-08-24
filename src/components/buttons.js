@@ -35,4 +35,4 @@ const Cta = ({to,children}) => (
   <Link to={to}><UnlinkedCta>{children}</UnlinkedCta></Link>
 )
 
-export {Button, Cta}
+export {UnlinkedButton, Button, Cta}

@@ -7,3 +7,5 @@ date: 2018-07-16
 <div><social-links></social-links></div>
 
 ## Leave a Message
+
+<div><contact-form></contact-form></div>

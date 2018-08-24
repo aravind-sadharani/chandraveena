@@ -5,6 +5,9 @@ import FacebookIcon from "../../images/facebook.svg"
 import BandcampIcon from "../../images/bandcamp.svg"
 import {Inlineimg} from "./icons"
 import styled from "styled-components"
+import { navigate } from "gatsby"
+import Recaptcha from "react-google-recaptcha"
+import {UnlinkedButton} from "./buttons"
 
 const SocialSpan = styled.span`
   a {
@@ -67,4 +70,106 @@ const SocialLinks = () => (
   </SocialList>
 )
 
-export {SocialLinks}
+const RECAPTCHA_KEY = process.env.GATSBY_SITE_RECAPTCHA_KEY
+
+const FormContainer = styled.div`
+  margin: 1rem auto;
+  width: calc(100% - 2rem);
+  max-width: 800px;
+  padding: 0.5rem 1rem;
+  color: #453e40;
+  background-color: #e1dbdd;
+  border: 0;
+  border-radius: 0.3rem;
+  input, textarea {
+    display: inline-block;
+    width: 100%;
+  }
+`
+
+const ButtonContainer = styled.div`
+  text-align: center;
+`
+
+const encode = (data) => {
+  return Object.keys(data)
+    .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+    .join("&")
+}
+
+class ContactForm extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {}
+  }
+
+  handleChange = e => {
+    this.setState({ [e.target.name]: e.target.value })
+  }
+
+  handleRecaptcha = value => {
+    this.setState({ "g-recaptcha-response": value })
+  }
+
+  handleSubmit = e => {
+    e.preventDefault()
+    const form = e.target
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({
+        "form-name": form.getAttribute("name"),
+        ...this.state
+      })
+    })
+      .then(() => navigate(form.getAttribute("action")))
+      .catch(error => alert(error))
+  }
+
+  render() {
+    return (
+      <FormContainer>
+        <form
+          name="contact-recaptcha"
+          method="post"
+          action="/thanks/"
+          data-netlify="true"
+          data-netlify-recaptcha="true"
+          onSubmit={this.handleSubmit}
+        >
+          <noscript>
+            <p>This form won’t work with Javascript disabled</p>
+          </noscript>
+          <p>
+            <label>
+              Your name:<br />
+              <input type="text" name="name" onChange={this.handleChange} />
+            </label>
+          </p>
+          <p>
+            <label>
+              Your email:<br />
+              <input type="email" name="email" onChange={this.handleChange} />
+            </label>
+          </p>
+          <p>
+            <label>
+              Message:<br />
+              <textarea name="message" onChange={this.handleChange} />
+            </label>
+          </p>
+          <Recaptcha
+            ref="recaptcha"
+            sitekey={RECAPTCHA_KEY}
+            onChange={this.handleRecaptcha}
+          />
+          <ButtonContainer>
+            <UnlinkedButton type="submit">Send</UnlinkedButton>
+          </ButtonContainer>
+        </form>
+      </FormContainer>
+    );
+  }
+}
+
+export {SocialLinks, ContactForm}

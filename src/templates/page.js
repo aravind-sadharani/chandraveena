@@ -8,11 +8,11 @@ import {YouTube} from "../components/videos"
 import {YouTubeChannel} from "../components/videos"
 import {BlogIndex} from "../components/blogindex"
 import {SiteMap} from "../components/sitemap"
-import {SocialLinks} from "../components/contact"
+import {SocialLinks, ContactForm} from "../components/contact"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
-  components: { "notice-box": Noticebox, "my-button": Button, "you-tube": YouTube, "you-tube-channel": YouTubeChannel, "blog-index": BlogIndex, "site-map": SiteMap, "social-links": SocialLinks },
+  components: { "notice-box": Noticebox, "my-button": Button, "you-tube": YouTube, "you-tube-channel": YouTubeChannel, "blog-index": BlogIndex, "site-map": SiteMap, "social-links": SocialLinks, "contact-form": ContactForm },
 }).Compiler
 
 export default ({ data }) => {

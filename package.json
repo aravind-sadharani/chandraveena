@@ -32,6 +32,7 @@
     "gatsby-transformer-sharp": "next",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-google-recaptcha": "^1.0.0",
     "react-headroom": "^2.2.2",
     "react-typography": "^0.16.13",
     "rehype-react": "^3.0.3",
