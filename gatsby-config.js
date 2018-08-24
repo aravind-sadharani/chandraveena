@@ -1,3 +1,6 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 module.exports = {
   siteMetadata: {
     title: "Chandraveena",
@@ -80,7 +83,7 @@ module.exports = {
       resolve: `gatsby-source-youtube`,
       options: {
         channelId: 'UCvy6YWW_J7M3t6BXArVaePw', // 'UCxPyMV4LS9YBePXM0mV4hjg',
-        apiKey: 'AIzaSyAx6rGnESlJwgQaEAXAxdEiHm12e_4cbDI',
+        apiKey: process.env.YOUTUBE_API_KEY,
         maxVideos: 50 // Defaults to 50
       },
     },

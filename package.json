@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.5.1",
+    "dotenv": "^6.0.0",
     "gatsby": "next",
     "gatsby-image": "next",
     "gatsby-plugin-catch-links": "next",
