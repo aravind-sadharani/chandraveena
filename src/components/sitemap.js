@@ -1,5 +1,17 @@
 import React from "react"
 import {Link, graphql, StaticQuery} from "gatsby"
+import styled from "styled-components"
+
+const SiteMapContainer = styled.div`
+  a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 400;
+  }
+  h3 {
+    display: inline-block;
+  }
+`
 
 const SiteMap = () => (
   <StaticQuery
@@ -36,22 +48,22 @@ const SiteMap = () => (
     `}
     render = {data => {
       let blogList = data.blogpages.edges.map(({node}) => (
-        <Link key={node.id} style={{textDecoration: `none`, color: `inherit`, fontWeight: `400`}} to={node.fields.slug}>
-          <h3>{node.frontmatter.title}</h3>
+        <Link key={node.id} to={node.fields.slug}>
+          <h3>{node.frontmatter.title}</h3> at {node.fields.slug}
           <br />
         </Link>
       ))
       let pageList = data.sitepages.edges.map(({node}) => (
-        <Link key={node.id} style={{textDecoration: `none`, color: `inherit`, fontWeight: `400`}} to={node.fields.slug}>
-          <h3>{node.frontmatter.title}</h3>
+        <Link key={node.id} to={node.fields.slug}>
+          <h3>{node.frontmatter.title}</h3> at {node.fields.slug}
           <br />
         </Link>
       ))
       return (
-        <div>
+        <SiteMapContainer>
           <h2>All Site Pages</h2>
           <hr />
-          <Link style={{textDecoration: `none`, color: `inherit`, fontWeight: `400`}} to="/">
+          <Link to="/">
             <h3>Home</h3>
             <br />
           </Link>
@@ -61,7 +73,7 @@ const SiteMap = () => (
           <h2>All Blog Posts</h2>
           <hr />
           {blogList}
-        </div>
+        </SiteMapContainer>
       )}
     }
   />
