@@ -131,7 +131,6 @@ class ContactForm extends React.Component {
   }
 
   render() {
-    console.log(this.state["g-recaptcha-response"])
     let {name, email, message} = this.state
     let passedrecaptcha = this.state["g-recaptcha-response"]
     let isEnabled = name && email && message && passedrecaptcha
