@@ -4,8 +4,6 @@ date: 2018-07-16
 ---
 ## Follow Balachander
 
-* Twitter
-* YouTube
-* Facebook
+<div><social-links></social-links></div>
 
 ## Leave a Message
