@@ -12,7 +12,15 @@ import {SocialLinks, ContactForm} from "../components/contact"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
-  components: { "notice-box": Noticebox, "my-button": Button, "you-tube": YouTube, "you-tube-channel": YouTubeChannel, "blog-index": BlogIndex, "site-map": SiteMap, "social-links": SocialLinks, "contact-form": ContactForm },
+  components: { "notice-box": Noticebox,
+                "my-button": Button,
+                "you-tube": YouTube,
+                "you-tube-channel": YouTubeChannel,
+                "blog-index": BlogIndex,
+                "site-map": SiteMap,
+                "social-links": SocialLinks,
+                "contact-form": ContactForm
+              },
 }).Compiler
 
 export default ({ data }) => {
