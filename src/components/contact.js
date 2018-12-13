@@ -41,28 +41,28 @@ const SocialLinks = () => (
   <SocialList>
     <li>
       <TwitterSpan>
-        <a href="https://www.twitter.com">
+        <a href="https://twitter.com/chandra_veena">
           <Inlineimg src={TwitterIcon} /> &nbsp; Twitter
         </a>
       </TwitterSpan>
     </li>
     <li>
       <YouTubeSpan>
-        <a href="https://www.youtube.com">
+        <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg">
           <Inlineimg src={YouTubeIcon} /> &nbsp; YouTube
         </a>
       </YouTubeSpan>
     </li>
     <li>
       <FacebookSpan>
-        <a href="https://www.facebook.com">
+        <a href="https://www.facebook.com/balachander.chandraveena/">
           <Inlineimg src={FacebookIcon} /> &nbsp; Facebook
         </a>
       </FacebookSpan>
     </li>
     <li>
       <BandcampSpan>
-        <a href="https://www.bandcamp.com">
+        <a href="https://chandraveena.bandcamp.com/">
           <Inlineimg src={BandcampIcon} /> &nbsp; Bandcamp
         </a>
       </BandcampSpan>
@@ -137,7 +137,7 @@ class ContactForm extends React.Component {
     return (
       <FormContainer>
         <form
-          name="contact-recaptcha"
+          name="Chandraveena Website"
           method="post"
           action="/thanks/"
           data-netlify="true"
