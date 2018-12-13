@@ -137,7 +137,7 @@ class ContactForm extends React.Component {
     return (
       <FormContainer>
         <form
-          name="Chandraveena-Website"
+          name="contact-recaptcha"
           method="post"
           action="/thanks/"
           data-netlify="true"
