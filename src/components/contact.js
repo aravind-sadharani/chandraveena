@@ -137,7 +137,7 @@ class ContactForm extends React.Component {
     return (
       <FormContainer>
         <form
-          name="Chandraveena Website"
+          name="Chandraveena-Website"
           method="post"
           action="/thanks/"
           data-netlify="true"
