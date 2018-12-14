@@ -11,3 +11,6 @@ The first performance was by Nirmal Shah on the Veena (Been). Feeling disadvanta
 Now that’s history. Whatever may be the history , or evolution, I can assure you that it is one of the most charming and beautiful instrument full of resonance, depth and beauty. It definitely is one of the best instruments for the Dhrupad style of music – though it is a difficult instrument to play.
 
 I take this opportunity to thank Jody Stecher (a student of our Ustad, multiple instrument player including sarod and sursringar ) – and who shared detailed diagrams / measurements of his Sursringar with me.
+
+![Sursringar](./IMG_7198.JPG)
+Image of Sursringar
