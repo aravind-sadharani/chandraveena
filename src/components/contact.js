@@ -137,14 +137,13 @@ class ContactForm extends React.Component {
     return (
       <FormContainer>
         <form
-          name="Chandraveena Website"
+          name="contact-recaptcha"
           method="post"
           action="/thanks/"
           data-netlify="true"
           data-netlify-recaptcha="true"
           onSubmit={this.handleSubmit}
         >
-          <input type="hidden" name="form-name" value="Chandraveena Website" />
           <noscript>
             <p>This form won’t work with Javascript disabled</p>
           </noscript>
