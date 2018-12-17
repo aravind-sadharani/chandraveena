@@ -126,7 +126,11 @@ class ContactForm extends React.Component {
         ...this.state
       })
     })
-      .then(() => navigate(form.getAttribute("action")))
+      .then(() => {
+        navigate(form.getAttribute("action"))
+        console.log(this.state)
+        console.log(form.getAttribute("name"))
+      })
       .catch(error => alert(error))
   }
 
