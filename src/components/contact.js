@@ -6,7 +6,6 @@ import BandcampIcon from "../../images/bandcamp.svg"
 import {Inlineimg} from "./icons"
 import styled from "styled-components"
 import { navigate } from "gatsby"
-import Recaptcha from "react-google-recaptcha"
 import {UnlinkedButton} from "./buttons"
 
 const SocialSpan = styled.span`
@@ -70,8 +69,6 @@ const SocialLinks = () => (
   </SocialList>
 )
 
-const RECAPTCHA_KEY = process.env.GATSBY_SITE_RECAPTCHA_KEY
-
 const FormContainer = styled.div`
   margin: 1rem auto;
   width: calc(100% - 2rem);
@@ -111,10 +108,6 @@ class ContactForm extends React.Component {
     this.setState({ [e.target.name]: e.target.value })
   }
 
-  handleRecaptcha = value => {
-    this.setState({ "g-recaptcha-response": value })
-  }
-
   handleSubmit = e => {
     e.preventDefault()
     const form = e.target
@@ -136,16 +129,15 @@ class ContactForm extends React.Component {
 
   render() {
     let {name, email, message} = this.state
-    let passedrecaptcha = this.state["g-recaptcha-response"]
-    let isEnabled = name && email && message && passedrecaptcha
+    let isEnabled = name && email && message
     return (
       <FormContainer>
         <form
-          name="contact-recaptcha"
+          name="chandraveena-website"
           method="post"
           action="/thanks/"
           data-netlify="true"
-          data-netlify-recaptcha="true"
+          data-netlify-honeypot="bot-field"
           onSubmit={this.handleSubmit}
         >
           <noscript>
@@ -169,11 +161,6 @@ class ContactForm extends React.Component {
               <textarea name="message" onChange={this.handleChange} />
             </label>
           </p>
-          <Recaptcha
-            ref="recaptcha"
-            sitekey={RECAPTCHA_KEY}
-            onChange={this.handleRecaptcha}
-          />
           <ButtonContainer>
             <Button type="submit" disabled={!isEnabled}>Send</Button>
           </ButtonContainer>
