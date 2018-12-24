@@ -138,6 +138,7 @@ class ContactForm extends React.Component {
           action="/thanks/"
           data-netlify="true"
           data-netlify-honeypot="bot-field"
+          data-netlify-recaptcha="true"
           onSubmit={this.handleSubmit}
         >
           <noscript>
