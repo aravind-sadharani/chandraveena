@@ -133,7 +133,7 @@ class ContactForm extends React.Component {
     return (
       <FormContainer>
         <form
-          name="chandraveena-website"
+          name="Chandraveena Website"
           method="post"
           action="/thanks/"
           data-netlify="true"
@@ -161,7 +161,6 @@ class ContactForm extends React.Component {
               <textarea name="message" onChange={this.handleChange} />
             </label>
           </p>
-          <div data-netlify-recaptcha="true"></div>
           <ButtonContainer>
             <Button type="submit" disabled={!isEnabled}>Send</Button>
           </ButtonContainer>
