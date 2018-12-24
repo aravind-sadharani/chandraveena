@@ -138,7 +138,6 @@ class ContactForm extends React.Component {
           action="/thanks/"
           data-netlify="true"
           data-netlify-honeypot="bot-field"
-          data-netlify-recaptcha="true"
           onSubmit={this.handleSubmit}
         >
           <noscript>
@@ -162,6 +161,7 @@ class ContactForm extends React.Component {
               <textarea name="message" onChange={this.handleChange} />
             </label>
           </p>
+          <div data-netlify-recaptcha="true"></div>
           <ButtonContainer>
             <Button type="submit" disabled={!isEnabled}>Send</Button>
           </ButtonContainer>
