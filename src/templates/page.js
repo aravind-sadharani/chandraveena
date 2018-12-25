@@ -6,6 +6,7 @@ import {Noticebox} from "../components/containers"
 import {Button} from "../components/buttons"
 import {YouTube} from "../components/videos"
 import {YouTubeChannel} from "../components/videos"
+import {BandCamp} from "../components/videos"
 import {BlogIndex} from "../components/blogindex"
 import {SiteMap} from "../components/sitemap"
 import {SocialLinks, ContactForm} from "../components/contact"
@@ -19,7 +20,8 @@ const renderAst = new rehypeReact({
                 "blog-index": BlogIndex,
                 "site-map": SiteMap,
                 "social-links": SocialLinks,
-                "contact-form": ContactForm
+                "contact-form": ContactForm,
+                "band-camp": BandCamp
               },
 }).Compiler
 

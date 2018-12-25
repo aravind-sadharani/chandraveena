@@ -111,4 +111,25 @@ const YouTubeChannel = () => (
   />
 )
 
-export {YouTube, YouTubeChannel}
+const BandCampContainer = styled.div`
+  margin: 0 auto;
+  max-width: 700px;
+  iframe {
+    border: 0;
+    width: 100%;
+    height: 120px;
+  }
+`
+
+const BandCamp = ({albumid, albumname, albumtitle}) => (
+  <BandCampContainer>
+    <iframe
+      title={albumname}
+      src={`https://bandcamp.com/EmbeddedPlayer/album=${albumid}/size=large/bgcol=ffffff/linkcol=859e6b/tracklist=false/artwork=small/transparent=true/`}
+      seamless>
+      <a href={`http://dhrupad.bandcamp.com/album/${albumname}`}>{albumtitle}</a>
+    </iframe>
+  </BandCampContainer>
+)
+
+export {YouTube, YouTubeChannel, BandCamp}
