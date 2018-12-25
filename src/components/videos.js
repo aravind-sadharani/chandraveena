@@ -67,6 +67,7 @@ const VideoItemContainer = styled.div`
   p {
     margin: 0 auto 1rem;
     text-align: center;
+    overflow: hidden;
   }
 `
 
