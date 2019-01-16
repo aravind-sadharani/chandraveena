@@ -5,7 +5,7 @@ import FacebookIcon from "../../images/facebook.svg"
 import BandcampIcon from "../../images/bandcamp.svg"
 import {Inlineimg} from "./icons"
 import styled from "styled-components"
-import { navigate } from "gatsby"
+import { navigate, Link } from "gatsby"
 import {UnlinkedButton} from "./buttons"
 
 const SocialSpan = styled.span`
@@ -153,6 +153,7 @@ class ContactForm extends React.Component {
             <label>
               Your email:<br />
               <input type="email" name="email" onChange={this.handleChange} />
+              Read the <Link to="/terms/#privacy-policy">terms of use</Link> to know how your email is used.
             </label>
           </p>
           <p>

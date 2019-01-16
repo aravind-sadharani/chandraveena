@@ -15,4 +15,6 @@ All content (for example, music recordings in audio/video format, blog posts, ar
 Creating musical works is a serious pursuit requiring real effort and creativity. Be respectful of that and kindly adhere to the terms of the license. If you have a bona fide use-case which the license does not permit, please write to me.
 
 ## Privacy Policy
+This site collects your email address when you use the contact form to get in touch with me. This is only used for responding to you, and your email address would not be shared with any third-party.
+
 This site uses Google Analytics to determine unique visitors and session durations during a visit. This is done by means of cookies. This data is not shared with any third-party. This site uses YouTube for providing video content. YouTube also makes use of cookies for recommending content to users and also for advertising. These tools are useful to me to understand the viewership and popularity of my content. Your use of this site constitutes an acceptance of the site's use of cookies.
