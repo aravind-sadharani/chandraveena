@@ -2,8 +2,12 @@ import React from "react"
 import styled from "styled-components"
 import {Link, graphql, StaticQuery} from "gatsby"
 import {media} from "../utils/mediatemplate"
+import Img from 'gatsby-image'
 
 const BlogThumbNail = styled.div`
+  Img {
+    border-radius: 0.3rem;
+  }
 `
 
 const BlogDescription = styled.div`
@@ -37,6 +41,13 @@ const BlogIndex = () => (
               frontmatter {
                 title,
                 date(formatString: "DD MMMM, YYYY")
+                image {
+                  childImageSharp {
+                    fluid(maxWidth: 300) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+                }
               },
               fields {
                 slug
@@ -52,7 +63,7 @@ const BlogIndex = () => (
         <Link key={node.id} style={{textDecoration: `none`, color: `inherit`, fontWeight: `400`}} to={node.fields.slug}>
           <BlogItemContainer>
             <BlogThumbNail>
-              <h1>Thumbnail</h1>
+              <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
             </BlogThumbNail>
             <BlogDescription>
               <h3>{node.frontmatter.title}</h3>

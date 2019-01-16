@@ -1,6 +1,8 @@
 ---
 title: "Sursringar"
 date: 2018-12-14
+image: "./IMG_7198.JPG"
+description: "It is widely believed that Sursringar was invented by a seniya rababiya Jaffar Khan (1775 – 1825). His main intention was to improve the resonance and the tonal quality of the seniya rabab."
 ---
 It is widely believed that Sursringar was invented by a seniya rababiya Jaffar Khan (1775 – 1825). His main intention was to improve the resonance and the tonal quality of the seniya rabab.
 

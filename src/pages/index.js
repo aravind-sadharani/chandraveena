@@ -3,9 +3,35 @@ import {Link} from "gatsby"
 import {Noticebox} from "../components/containers"
 import {Button} from "../components/buttons"
 import Homepage from "../layouts/home"
+import SEOMetaData from "../components/SEOMetaData"
+import { graphql, StaticQuery } from "gatsby"
+import coverImage from "../../images/Favicon.png"
 
 const indexPage = () => (
   <Homepage>
+    <StaticQuery
+      query = {graphql`
+        query {
+          site {
+            siteMetadata {
+              siteUrl
+              twitterUsername
+              title
+              description
+            }
+          }
+        }
+      `}
+      render = {data => (
+        <SEOMetaData
+          username = {data.site.siteMetadata.twitterUsername}
+          url = {data.site.siteMetadata.siteUrl}
+          title = {data.site.siteMetadata.title}
+          description = {data.site.siteMetadata.description}
+          image = {coverImage}
+        />
+      )}
+    />
     <h2>Maarga Sangeet</h2>
     <p>
       Maarga Sangeet is an ancient yet timeless tradition of Indian Classical music. It is a way of life where music becomes the artist&apos;s medium of communication. From its early origins in the chants of Rig Veda and the singing of the Saama Veda, the rules and principles of Indian Classical music have evolved into the sophisticated system of Indian Raagas, and the artistic philosophy of Maarga Sangeet.

@@ -2,6 +2,8 @@
 title: Chandraveena by S. Balachander
 date: {}
 published: true
+image: "../../images/Favicon.png"
+description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. Here is a short introduction to Maarga Sangeet, Dhrupad and the Chandraveena. Read on to find out!"
 ---
 ## A Glimpse
 Here is a short passage featuring Maarga Sangeet on Chandraveena, in Dhrupad style, accompanied by a Pakhawaj and Tanpura.

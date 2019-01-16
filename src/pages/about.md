@@ -2,6 +2,8 @@
 title: About S. Balachander
 date: {}
 published: true
+image: "../../images/IMG_7198.JPG"
+description: "Hello, I am Balachander, a Chandraveena artist performing Indian Classical Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey. Read on to find out!"
 ---
 
 ![Image](IMG_7198.JPG)
