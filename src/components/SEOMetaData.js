@@ -37,7 +37,7 @@ const SEOMetaData = ({username, url, type, title, description, image}) => (
     />
     <TwitterCard
       username = {username}
-      type = {type}
+      type = "summary"
       title = {title}
       description = {description}
       image = {image}
