@@ -29,11 +29,13 @@ const renderAst = new rehypeReact({
 export default ({ location, data }) => {
   let post = data.markdownRemark
   let site = data.site.siteMetadata
+  let type = `post.fileAbsolutePath.includes("/src/blog/") ? "article" : "website"`
   return (
     <Layout>
       <SEOMetaData
         username = {site.twitterUsername}
         url = {`${site.siteUrl}${location.pathname}`}
+        type = {type}
         title = {`${site.title} | ${post.frontmatter.title}`}
         description = {post.frontmatter.description}
         image = {post.frontmatter.image.childImageSharp.resize.src}
@@ -50,6 +52,7 @@ export const query = graphql`
   query($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       htmlAst
+      fileAbsolutePath
       frontmatter {
         title
         description

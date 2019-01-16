@@ -26,6 +26,7 @@ const indexPage = () => (
         <SEOMetaData
           username = {data.site.siteMetadata.twitterUsername}
           url = {data.site.siteMetadata.siteUrl}
+          type = "website"
           title = {data.site.siteMetadata.title}
           description = {data.site.siteMetadata.description}
           image = {coverImage}
