@@ -29,7 +29,7 @@ const renderAst = new rehypeReact({
 export default ({ location, data }) => {
   let post = data.markdownRemark
   let site = data.site.siteMetadata
-  let type = `post.fileAbsolutePath.includes("/src/blog/") ? "article" : "website"`
+  let type = post.fileAbsolutePath.includes("/src/blog/") ? "article" : "website"
   return (
     <Layout>
       <SEOMetaData
@@ -38,7 +38,7 @@ export default ({ location, data }) => {
         type = {type}
         title = {`${site.title} | ${post.frontmatter.title}`}
         description = {post.frontmatter.description}
-        image = {post.frontmatter.image.childImageSharp.resize.src}
+        image = {`${site.siteUrl}${post.frontmatter.image.childImageSharp.resize.src}`}
       />
       <h1>{post.frontmatter.title}</h1>
       {

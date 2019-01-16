@@ -29,7 +29,7 @@ const indexPage = () => (
           type = "website"
           title = {data.site.siteMetadata.title}
           description = {data.site.siteMetadata.description}
-          image = {coverImage}
+          image = {`${data.site.siteMetadata.siteUrl}${coverImage}`}
         />
       )}
     />
