@@ -24,6 +24,7 @@ const TwitterCard = ({username, type, title, description, image}) => (
 const SEOMetaData = ({username, url, type, title, description, image}) => (
   <>
     <Helmet>
+      <title>{title}</title>
       <meta name="description" content={description} />
       <meta name="image" content={image} />
     </Helmet>

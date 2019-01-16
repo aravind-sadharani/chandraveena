@@ -34,7 +34,7 @@ export default ({ location, data }) => {
       <SEOMetaData
         username = {site.twitterUsername}
         url = {`${site.siteUrl}${location.pathname}`}
-        title = {post.frontmatter.title}
+        title = {`${site.title} | ${post.frontmatter.title}`}
         description = {post.frontmatter.description}
         image = {post.frontmatter.image.childImageSharp.resize.src}
       />
@@ -64,6 +64,7 @@ export const query = graphql`
     }
     site {
       siteMetadata {
+        title
         siteUrl
         twitterUsername
       }
