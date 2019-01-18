@@ -91,6 +91,12 @@ module.exports = {
     },
     `gatsby-plugin-netlify-cache`,
     `gatsby-plugin-netlify`,
-    `gatsby-plugin-react-helmet`
+    `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-115949882-2",
+      },
+    },
   ],
 }
