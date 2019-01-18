@@ -20,4 +20,8 @@ Recording details and notes.
 
 ## More Recordings
 
-<div><you-tube-channel></you-tube-channel></div><br>
+### From Bala Chander's channel
+<div><you-tube-channel channelid="UCvy6YWW_J7M3t6BXArVaePw"></you-tube-channel></div><br>
+
+### From Aparna Shastri's channel
+<div><you-tube-channel channelid="UCuS4qFPMqowcEiRv6cUy4sQ"></you-tube-channel></div><br>

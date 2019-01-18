@@ -77,7 +77,7 @@ const VideoChannelContainer = styled.div`
   overflow-y: hidden;
 `
 
-const YouTubeChannel = () => (
+const YouTubeChannel = ({channelid}) => (
   <StaticQuery
     query = {graphql`
       query {
@@ -90,13 +90,16 @@ const YouTubeChannel = () => (
               videoId
               publishedAt(formatString: "DD MMMM, YYYY")
               privacyStatus
+              channelId
             }
           }
         }
       }
     `}
-    render = {data => {
-      let videoList = data.allYoutubeVideo.edges.map(({node}) => (
+    render = {(data) => {
+      let videoList = data.allYoutubeVideo.edges.filter(({node}) => (
+        node.channelId === channelid
+      )).map(({node}) => (
         <VideoItemContainer key={node.id}>
           <YouTube videoid={node.videoId} />
           <p>{node.title.substr(0,30)+"..."}</p>
