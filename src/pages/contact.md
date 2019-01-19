@@ -6,8 +6,8 @@ description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad
 ---
 ## Follow Balachander
 
-<div><social-links></social-links></div>
+<social-links></social-links>
 
 ## Leave a Message
 
-<div><contact-form></contact-form></div>
+<contact-form></contact-form>

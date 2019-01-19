@@ -7,4 +7,4 @@ description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad
 Here is a list of all the pages and blog posts on this website. Click [here](/sitemap.xml) if you are looking for an XML version.
 
 <br><br>
-<div><site-map></site-map></div>
+<site-map></site-map>

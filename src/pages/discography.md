@@ -6,7 +6,7 @@ description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad
 ---
 ## Featured Recording
 
-<div><band-camp albumid="2504992601" albumname="inception" albumtitle="Inception by Dhrupad"></band-camp></div><br>
+<band-camp albumid="2504992601" albumname="inception" albumtitle="Inception by Dhrupad"></band-camp>
 
 Recording details and notes.
 
@@ -21,7 +21,11 @@ Recording details and notes.
 ## More Recordings
 
 ### From Bala Chander's channel
-<div><you-tube-channel channelid="UCvy6YWW_J7M3t6BXArVaePw"></you-tube-channel></div><br>
+<you-tube-channel channelid="UCvy6YWW_J7M3t6BXArVaePw"></you-tube-channel>
+
+<br>
+<hr>
+<br>
 
 ### From Aparna Shastri's channel
-<div><you-tube-channel channelid="UCuS4qFPMqowcEiRv6cUy4sQ"></you-tube-channel></div><br>
+<you-tube-channel channelid="UCuS4qFPMqowcEiRv6cUy4sQ"></you-tube-channel>

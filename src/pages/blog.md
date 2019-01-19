@@ -24,4 +24,4 @@ If you have a question or comment,
 
 ## More articles
 
-<div><blog-index></blog-index></div><br>
+<blog-index></blog-index>

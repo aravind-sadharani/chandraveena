@@ -8,7 +8,8 @@ description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad
 ## A Glimpse
 Here is a short passage featuring Maarga Sangeet on Chandraveena, in Dhrupad style, accompanied by a Pakhawaj and Tanpura.
 
-<div><you-tube videoid="ladiskWVFfY" starttime="590" endtime="1181"></you-tube></div><br>
+<you-tube videoid="ladiskWVFfY" starttime="590" endtime="1181"></you-tube>
+<br>
 
 By no means does this clip fully represent and showcase the tradition of Maarga Sangeet or the musical form of Dhrupad. But it provides a glimpse into the musical improvisations and expressive power that is possible. To better understand and appreciate Maarga Sangeet, and specifically Dhrupad, let us begin by tracing the origins of Indian Classical music.
 
@@ -19,11 +20,13 @@ From early Vedic periods, music has been recognised as a powerful means of expre
 
 [^1]: Scientists have studied the effects of music on non-human subjects including animals such as cats or monkeys, and even plants. The studies have found that music does have an impact on the health and well-being of the non-human subjects. For example, see [1](https://scialert.net/fulltext/?doi=ajps.2007.369.373), [2](https://www.researchgate.net/publication/291086163_Effect_of_Music_on_Plants_-_An_Overview) and [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3677178/pdf/ars206.pdf) for music's effect on plants and [4](https://www.nature.com/articles/laban.162), [5](https://www.appliedanimalbehaviour.com/article/S0168-1591(15)00060-X/abstract) and [6](http://rsbl.royalsocietypublishing.org/content/6/1/30.short) for music's effect on animals.
 
-<div><you-tube videoid="G0QRzBzmwio" starttime="20" endtime="59"></you-tube></div><br>
+<you-tube videoid="G0QRzBzmwio" starttime="20" endtime="59"></you-tube>
+<br>
 
 Rig Veda chants already incorporated the concept of intonations. The intonations are called Svarita (neutral drone), Udaatta (higher note) and Anudaatta (lower note). As you can hear from the example above, it is not a monotone chant, but there are accents to syllables which create a three note chant, called Gaathik chant. These three intonations form the foundation for the Dhrupad style of Maarga Sangeet, and are fundamental to the musical form even today. Now, listen to this chant from Saama Veda.
 
-<div><you-tube videoid="j1ODd0UB6bY" endtime="50"></you-tube></div><br>
+<you-tube videoid="j1ODd0UB6bY" endtime="50"></you-tube>
+<br>
 
 As you can see, in Saama Veda singing, the number of notes has expanded beyond Rig Veda chants. If you are familiar with Indian Classical music, you may notice early examples of musical characteristics like Meend (glides), Gamakam (note oscillation), Hrasva (short note) and Deergha (long note) which continue to be an integral part of Indian Classical Music today.
 
@@ -51,21 +54,25 @@ The Aalap is performed in three parts.
 
 1. The first part is again called **Aalap**. This is the free flowing exposition of a Raaga (melody) within the Grammar of the Raaga, and the style of Dhrupad. Here, we explore different facets of the Raaga, the subtleties of every note and phrase, and use of different Alankars (ornamentation) to effectively bring out emotions, all the while maintaining the purity of the structure.
 
-<div><you-tube videoid="2iafMZkgBZ8" starttime="191" endtime="386"></you-tube></div><br>
+<you-tube videoid="2iafMZkgBZ8" starttime="191" endtime="386"></you-tube>
+<br>
 
 2. **Jod** is the second part of Aalap, where there is a sense of self-rhythm or pulse created which is built into the musical phrases. The self-rhythm is created by the appropriate use of the rhythm strings built in the instrument.
 
-<div><you-tube videoid="2iafMZkgBZ8" starttime="1600" endtime="1798"></you-tube></div><br>
+<you-tube videoid="2iafMZkgBZ8" starttime="1600" endtime="1798"></you-tube>
+<br>
 
 3. **Jhala** is the faster rhythmic section of the aalap. In this section, there is extensive use of the rhythm strings, creating a feeling of dancing movements.
 
-<div><you-tube videoid="ZfuYq35SIfo" endtime="124"></you-tube></div><br>
+<you-tube videoid="ZfuYq35SIfo" endtime="124"></you-tube>
+<br>
 
 ### Composition
 
 The composition is either a lyrical poetry (in case of vocal music) or a musical phrase (instrumental composition called Gat) created to a certain fixed rhythmic cycle. Some of the most common rhythmic cycles are Chautal (12 beats), Dhamaar (14 beats) and Tivra (7 beats). Here, we create different improvised rhythmic musical phrases within the framework of the Raaga, and repeatedly rejoin the main basic phrase, either over a single cycle or after multiple cycles.
 
-<div><you-tube videoid="ladiskWVFfY" endtime="164"></you-tube></div><br>
+<you-tube videoid="ladiskWVFfY" endtime="164"></you-tube>
+<br>
 
 ## Thanks for Listening!
 
