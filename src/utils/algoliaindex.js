@@ -6,10 +6,18 @@ const indexQuery = `{
         frontmatter {
           title
           description
+          image {
+            childImageSharp {
+              resize(width: 320, height: 320) {
+                src
+              }
+            }
+          }
         }
         fields {
           slug
         }
+        rawMarkdownBody
       }
     }
   }
