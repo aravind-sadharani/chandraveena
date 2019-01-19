@@ -1,6 +1,9 @@
 require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 })
+
+const queries = require('./src/utils/algolia')
+
 module.exports = {
   siteMetadata: {
     title: "Chandraveena",
@@ -101,6 +104,16 @@ module.exports = {
         head: false,
         // enable ip anonymization
         anonymize: true,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: process.env.GATSBY_ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_ADMIN_KEY,
+        indexName: "CHANDRAVEENA",
+        queries,
+        chunkSize: 10000, // default: 1000
       },
     },
   ],
