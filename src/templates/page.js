@@ -41,7 +41,12 @@ export default ({ location, data }) => {
         image = {`${site.siteUrl}${post.frontmatter.image.childImageSharp.resize.src}`}
       />
       <h1>{post.frontmatter.title}</h1>
-      <center><p><small>Posted on {post.frontmatter.date} • {post.fields.readingTime.text}</small></p></center>
+      {
+        post.fileAbsolutePath.includes("/src/blog/") && 
+        <center><p><small>
+          Posted on {post.frontmatter.date} • {post.fields.readingTime.text}
+        </small></p></center>
+      }
       {
         renderAst(post.htmlAst)
       }
