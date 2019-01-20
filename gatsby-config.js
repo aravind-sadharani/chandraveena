@@ -80,7 +80,8 @@ module.exports = {
               destinationDir: "assets",
             }
           },
-          `gatsby-remark-component`
+          `gatsby-remark-component`,
+          `gatsby-remark-reading-time`
         ],
       },
     },

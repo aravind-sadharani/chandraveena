@@ -41,6 +41,7 @@ export default ({ location, data }) => {
         image = {`${site.siteUrl}${post.frontmatter.image.childImageSharp.resize.src}`}
       />
       <h1>{post.frontmatter.title}</h1>
+      <center><p><small>Posted on {post.frontmatter.date} • {post.fields.readingTime.text}</small></p></center>
       {
         renderAst(post.htmlAst)
       }
@@ -55,6 +56,7 @@ export const query = graphql`
       fileAbsolutePath
       frontmatter {
         title
+        date(formatString: "DD MMMM, YYYY")
         description
         image {
           childImageSharp {
@@ -62,6 +64,11 @@ export const query = graphql`
               src
             }
           }
+        }
+      }
+      fields {
+        readingTime {
+          text
         }
       }
     }

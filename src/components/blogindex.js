@@ -51,6 +51,9 @@ const BlogIndex = () => (
               },
               fields {
                 slug
+                readingTime {
+                  text
+                }
               },
               excerpt
             }
@@ -67,7 +70,7 @@ const BlogIndex = () => (
             </BlogThumbNail>
             <BlogDescription>
               <h3>{node.frontmatter.title}</h3>
-              <p><em>Posted on {node.frontmatter.date}</em></p>
+              <p><small><em>Posted on {node.frontmatter.date} • {node.fields.readingTime.text}</em></small></p>
               <p>{node.excerpt}</p>
             </BlogDescription>
             <hr />
