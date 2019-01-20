@@ -77,7 +77,7 @@ export default () => (
             <li><Link to="/blog/"><Inlineimg src={blogicon}/> Blog</Link></li>
           </ul>
         </Nav>
-        <Search><Searchicon /></Search>
+        <Search><Link to="/searchpage/"><Searchicon /></Link></Search>
       </Mastheadcontent>
     </Masthead>
   </Headroom>
