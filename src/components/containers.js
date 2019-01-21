@@ -46,6 +46,21 @@ const Searchwrapper = styled.div`
     padding: 0;
     margin: 0;
   };
+  .ais-SearchBox-submit, .ais-SearchBox-reset {
+    background: #859e6b;
+    border: 0;
+    border-radius: 0.2rem;
+    margin: 0 0 0 0.2rem;
+    padding: 0.2rem;
+  };
+  .ais-SearchBox-submitIcon, .ais-SearchBox-resetIcon {
+    stroke: #ffffff;
+    fill: #ffffff;
+    height: 1.2em;
+    width: 1.2em;
+    position: relative;
+    top: 0.2em;
+  };
 `
 
 const Outer = ({children}) => (

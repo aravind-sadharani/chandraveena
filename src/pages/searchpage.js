@@ -1,9 +1,10 @@
 import React from 'react'
 import { InstantSearch, SearchBox, Hits, Highlight } from 'react-instantsearch-dom'
 import algoliasearch from 'algoliasearch/lite'
-import Layout from "../layouts/page"
 import { Link } from 'gatsby'
-import {Noticebox, SearchContainer} from "../components/containers"
+import {SearchContainer, Container, Outer} from "../components/containers"
+import Masthead from "../components/masthead"
+import Footer from "../components/footer"
 
 const searchClient = algoliasearch(
   process.env.GATSBY_ALGOLIA_APP_ID,
@@ -13,31 +14,29 @@ const searchClient = algoliasearch(
 const Hit = ({hit}) => {
   return (
     <>
-    <Link to={hit.fields.slug}><h2>{hit.frontmatter.title}</h2></Link>
-    <Highlight hit={hit} attribute="value" tagName="mark" />
-    <p><Link to={hit.fields.slug}>Read more</Link></p>
-    <hr />
+      <hr />
+      <Link to={hit.fields.slug}><h2>{hit.frontmatter.title}</h2></Link>
+      <Highlight hit={hit} attribute="value" tagName="mark" />
+      <p><Link to={hit.fields.slug}>Read more</Link></p>
     </>
   )
 }
 
 const searchPage = () => (
-  <Layout>
-    <h1>Search Page</h1>
-    <SearchContainer>
-      <InstantSearch
-        searchClient={searchClient}
-        indexName="CHANDRAVEENA"
-      >
-        <Noticebox>
-          <br />
-          <SearchBox autoFocus />
-        </Noticebox>
-        <h2>Results</h2>
-        <Hits hitComponent={Hit} />
-      </InstantSearch>
-    </SearchContainer>
-  </Layout>
+  <Outer>
+    <Masthead />
+    <Container>
+      <SearchContainer>
+        <InstantSearch searchClient={searchClient} indexName="CHANDRAVEENA">
+          <center>
+            <SearchBox autoFocus />
+          </center>
+          <Hits hitComponent={Hit} />
+        </InstantSearch>
+      </SearchContainer>
+    </Container>
+    <Footer />
+  </Outer>
 )
 
 export default searchPage
