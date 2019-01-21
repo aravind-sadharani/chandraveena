@@ -3,7 +3,7 @@ import { InstantSearch, SearchBox, Hits, Highlight } from 'react-instantsearch-d
 import algoliasearch from 'algoliasearch/lite'
 import Layout from "../layouts/page"
 import { Link } from 'gatsby'
-import {Noticebox} from "../components/containers"
+import {Noticebox, SearchContainer} from "../components/containers"
 
 const searchClient = algoliasearch(
   process.env.GATSBY_ALGOLIA_APP_ID,
@@ -24,17 +24,19 @@ const Hit = ({hit}) => {
 const searchPage = () => (
   <Layout>
     <h1>Search Page</h1>
-    <InstantSearch
-      searchClient={searchClient}
-      indexName="CHANDRAVEENA"
-    >
-      <Noticebox>
-        <br />
-        <SearchBox autoFocus />
-      </Noticebox>
-      <h2>Results</h2>
-      <Hits hitComponent={Hit} />
-    </InstantSearch>
+    <SearchContainer>
+      <InstantSearch
+        searchClient={searchClient}
+        indexName="CHANDRAVEENA"
+      >
+        <Noticebox>
+          <br />
+          <SearchBox autoFocus />
+        </Noticebox>
+        <h2>Results</h2>
+        <Hits hitComponent={Hit} />
+      </InstantSearch>
+    </SearchContainer>
   </Layout>
 )
 

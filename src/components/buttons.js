@@ -6,7 +6,7 @@ const UnlinkedButton = styled.button`
   display: inline-block;
   border-radius: 0.3rem;
   padding: 0.5rem 0;
-  margin: 0.5rem 1rem;
+  margin: 0.5rem 0.5rem;
   width: 11rem;
   background: #859e6b;
   text-align: center;

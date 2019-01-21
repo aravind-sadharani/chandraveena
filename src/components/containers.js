@@ -36,6 +36,18 @@ const Noticewrapper = styled(Wrapper)`
   text-align: center;
 `
 
+const Searchwrapper = styled.div`
+  input {
+    display: inline-block;
+    width: 80%;
+  };
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  };
+`
+
 const Outer = ({children}) => (
   <Outerwrapper>{children}</Outerwrapper>
 )
@@ -48,4 +60,8 @@ const Noticebox = ({children}) => (
   <Noticewrapper>{children}</Noticewrapper>
 )
 
-export {Outer, Container, Noticebox}
+const SearchContainer = ({children}) => (
+  <Searchwrapper>{children}</Searchwrapper>
+)
+
+export {Outer, Container, Noticebox, SearchContainer}
