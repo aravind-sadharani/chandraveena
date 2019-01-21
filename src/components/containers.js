@@ -53,8 +53,16 @@ const Searchwrapper = styled.div`
     margin: 0 0 0 0.2rem;
     padding: 0.2rem;
   };
-  .ais-SearchBox-submitIcon, .ais-SearchBox-resetIcon {
+  .ais-SearchBox-submitIcon {
     stroke: #ffffff;
+    fill: #ffffff;
+    height: 1.2em;
+    width: 1.2em;
+    position: relative;
+    top: 0.2em;
+  };
+  .ais-SearchBox-resetIcon {
+    stroke: #859e6b;
     fill: #ffffff;
     height: 1.2em;
     width: 1.2em;
