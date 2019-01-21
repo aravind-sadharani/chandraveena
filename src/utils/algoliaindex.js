@@ -41,7 +41,7 @@ const processTagP = (tag) => (
 
 const createParagraphRecords = ({data}) => {
   let records = data.allMarkdownRemark.edges.concat(data.blogPages.edges).map(({node}) => {
-    let paragraphs = node.htmlAst.children.filter((child) =>
+    let textNodes = node.htmlAst.children.filter((child) =>
       ((child.tagName === "p") || (child.tagName === "ul") ||
         (child.tagName === "ol") || (child.tagName === "blockquote") ||
         (child.tagName === "h1") || (child.tagName === "h2") ||
@@ -49,21 +49,33 @@ const createParagraphRecords = ({data}) => {
     )
     delete node.htmlAst
     let key = 0
-    paragraphs = paragraphs.map((child) => {
+    let paragraphs = []
+    let tempPara = ''
+    textNodes.map((child) => {
       if (child.tagName === "p") {
-        return processTagP(child)
+        tempPara = processTagP(child)
+        paragraphs.push(tempPara)
       } else if ((child.tagName === "ul") || (child.tagName === "ol")) {
-        return child.children.map((grandChild) => (
-          (grandChild.tagName === "li") ? processTagP(grandChild) : null
-        )).join('\n')
+        child.children.map((grandChild) => {
+          if (grandChild.tagName === "li") {
+            tempPara = processTagP(grandChild)
+            paragraphs.push(tempPara)
+          }
+          return 0
+        })
       } else if (child.tagName === "blockquote") {
-        return child.children.map((grandChild) => (
-          (grandChild.tagName === "p") ? processTagP(grandChild) : null
-        )).join('\n')
+        child.children.map((grandChild) => {
+          if (grandChild.tagName === "p") {
+            tempPara = processTagP(grandChild)
+            paragraphs.push(tempPara)
+          }
+          return 0
+        })
       } else if ((child.tagName === "h1") || (child.tagName === "h2") || (child.tagName === "h3")) {
-        return processTagP(child)
+        tempPara = processTagP(child)
+        paragraphs.push(tempPara)
       }
-      return null
+      return 0
     })
     let record = paragraphs.map((para) => {
       let paraRecord = {}
