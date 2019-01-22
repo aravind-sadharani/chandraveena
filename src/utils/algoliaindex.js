@@ -93,8 +93,15 @@ const createParagraphRecords = ({data}) => {
 const queries = [
   {
     query: indexQuery,
-    transformer: createParagraphRecords, // optional
+    transformer: createParagraphRecords, // optional - for indexing long documents, chunk them into small sections
     indexName: 'CHANDRAVEENA', // overrides main index name, optional
+    settings: {
+      // optional, any index settings
+      // For indexing long documents, chunk them into small sections and
+      // set attributeForDistinct to 'section' and distinct to true to de-duplicate search results
+      attributeForDistinct: 'section',
+      distinct: true
+    },
   },
 ]
 
