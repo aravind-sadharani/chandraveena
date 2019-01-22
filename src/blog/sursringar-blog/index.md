@@ -1,7 +1,7 @@
 ---
 title: "The Story of Sursringar"
 date: 2018-12-14
-image: "./IMG_7198.JPG"
+image: "../../../images/IMG_7198.JPG"
 description: "It is widely believed that Sursringar was invented by a seniya rababiya Jaffar Khan (1775 – 1825). His main intention was to improve the resonance and the tonal quality of the seniya rabab."
 ---
 India is a country of fascinating myths and stories dating back to thousands of years - as it would be with any ancient culture. There are various anecdotes on the miracles of music, whether its been Tansen, or Swami Haridas or Muthuswamy Dikshithar. With a strong history of oral tradition from the Vedic times, and an aversion to documenting or writing down, most information is carried down the generations by word of mouth. Some have stayed, many are lost, some are reinterpreted with added spices etc.
@@ -20,5 +20,5 @@ I hope to share an audio / video of my sarod / sursringar in one of the subseque
 
 (Picture of Rabab, Amjad style Sarod, Ali Akbar style sarod and sursringar)
 
-![Sursringar](./IMG_7198.JPG)
+![Sursringar](IMG_7198.JPG)
 Image of Sursringar

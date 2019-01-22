@@ -1,7 +1,7 @@
 ---
 title: "Why the Chandraveena"
 date: 2019-01-20
-image: "./IMG_7198.JPG"
+image: "../../../images/IMG_7198.JPG"
 description: "For those who may have landed on this link, and not aware - Chandraveena is a modern instrument, based on the more traditional Saraswati Veena, but designed and built to play Dhrupad. This instrument was designed by me, and the first prototype was built my personal instrument maker, the Late Mohan Lal Sharma from Kolkata."
 ---
 For those who may have landed on this link, and not aware - Chandraveena is a modern instrument, based on the more traditional Saraswati Veena, but designed and built to play Dhrupad. This instrument was designed by me, and the first prototype was built my personal instrument maker, the Late Mohan Lal Sharma from Kolkata.
