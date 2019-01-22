@@ -70,9 +70,9 @@ const Hit = ({hit}) => {
   return (
     <>
       <hr />
-      <Link to={hit.fields.slug}><h3>{hit.frontmatter.title}</h3></Link>
+      <Link to={hit.slug}><h3>{hit.title}</h3></Link>
       <small><Highlight hit={hit} attribute="value" tagName="mark" />
-      ..<Link to={hit.fields.slug}>Read more</Link></small>
+      ..<Link to={hit.slug}>Read more</Link></small>
     </>
   )
 }

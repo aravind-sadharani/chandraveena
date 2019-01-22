@@ -81,8 +81,8 @@ const createParagraphRecords = ({data}) => {
       let paraRecord = {}
       paraRecord.value = `${para}`
       paraRecord.objectID = node.id + key++
-      paraRecord.frontmatter = node.frontmatter
-      paraRecord.fields = node.fields
+      paraRecord.title = node.frontmatter.title
+      paraRecord.slug = node.fields.slug
       return paraRecord
     })
     return record
@@ -99,7 +99,7 @@ const queries = [
       // optional, any index settings
       // For indexing long documents, chunk them into small sections and
       // set attributeForDistinct to 'section' and distinct to true to de-duplicate search results
-      attributeForDistinct: 'section',
+      attributeForDistinct: 'title',
       distinct: true
     },
   },
