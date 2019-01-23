@@ -10,17 +10,13 @@ const designer = {
   "url": "https://www.aravindiyer.com"
 }
 
-const Footer = styled.div`
+const ShortFooter = styled.div`
   width: 100%;
   background-color: #453e40;
   color: #e1dbdd;
   font-size: 0.8em;
   opacity: 0.9;
   padding: 0.5rem 0.5rem;
-  margin-bottom: 0;
-  ${media.desktop`margin-bottom: 0`}
-  ${media.tablet`margin-bottom: 60px`}
-  ${media.phone`margin-bottom: 60px`}
   ul {
     margin: 0;
     padding: 0;
@@ -37,6 +33,13 @@ const Footer = styled.div`
     text-decoration: none;
     color: inherit;
   };
+  margin-bottom: 0;
+`
+
+const TallFooter = styled(ShortFooter)`
+  ${media.desktop`margin-bottom: 0`}
+  ${media.tablet`margin-bottom: 60px`}
+  ${media.phone`margin-bottom: 60px`}
 `
 
 const Footercontent = styled.div`
@@ -44,16 +47,19 @@ const Footercontent = styled.div`
   max-width: 800px;
 `
 
-export default () => (
-  <Footer>
-    <Footercontent>
-      <ul>
-        <li><Link to="/contact/">Contact |&nbsp;</Link></li>
-        <li><Link to="/terms/">Terms of Use |&nbsp;</Link></li>
-        <li><Link to="/sitemap/">Sitemap</Link></li>
-      </ul>
-      <p>Copyright &copy; 2018 - <Link to="/">{author}</Link></p>
-      <p>Designed and Developed by <a href={designer.url}>{designer.name} <Inlineimg src={designlogo}/></a></p>
-    </Footercontent>
-  </Footer>
-)
+export default ({search}) => {
+  let Footer = search ? ShortFooter : TallFooter
+  return (
+    <Footer>
+      <Footercontent>
+        <ul>
+          <li><Link to="/contact/">Contact |&nbsp;</Link></li>
+          <li><Link to="/terms/">Terms of Use |&nbsp;</Link></li>
+          <li><Link to="/sitemap/">Sitemap</Link></li>
+        </ul>
+        <p>Copyright &copy; 2018 - <Link to="/">{author}</Link></p>
+        <p>Designed and Developed by <a href={designer.url}>{designer.name} <Inlineimg src={designlogo}/></a></p>
+      </Footercontent>
+    </Footer>
+  )
+}

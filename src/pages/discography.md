@@ -1,6 +1,7 @@
 ---
 title: "S. Balachander's Discography"
 date: 2018-07-16
+search: true
 image: "../../images/IMG_7198.JPG"
 description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. Here is a selection of my recordings and concert videos. Do check them out! Hope you find something you like."
 ---

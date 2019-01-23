@@ -49,13 +49,16 @@ const SiteMap = () => (
     render = {data => {
       let blogList = data.blogpages.edges.map(({node}) => (
         <Link key={node.id} to={node.fields.slug}>
-          <h3>{node.frontmatter.title}</h3> at {node.fields.slug}
+          <h3>{node.frontmatter.title}</h3>
           <br />
         </Link>
       ))
-      let pageList = data.sitepages.edges.map(({node}) => (
+      let pageList = data.sitepages.edges.filter(({node}) =>
+        ((node.fields.slug !== "/404/") && (node.fields.slug !== "/thanks/") && (node.fields.slug !== "/sitemap/"))
+      )
+      pageList = pageList.map(({node}) => (
         <Link key={node.id} to={node.fields.slug}>
-          <h3>{node.frontmatter.title}</h3> at {node.fields.slug}
+          <h3>{node.frontmatter.title}</h3>
           <br />
         </Link>
       ))

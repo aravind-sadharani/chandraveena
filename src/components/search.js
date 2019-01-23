@@ -92,6 +92,6 @@ export default () => (
         </InstantSearch>
       </Searchwrapper>
     </Container>
-    <Footer />
+    <Footer search/>
   </Outer>
 )
