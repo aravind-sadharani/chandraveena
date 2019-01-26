@@ -18,9 +18,13 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        allMarkdownRemark {
+        allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
           edges {
             node {
+              fileAbsolutePath
+              frontmatter {
+                title
+              }
               fields {
                 slug
               }
@@ -30,7 +34,17 @@ exports.createPages = ({ graphql, actions }) => {
       }
     `
 ).then(result => {
-      result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+      let posts = result.data.allMarkdownRemark.edges
+      posts.forEach(({ node }, index) => {
+        let prev, next = null
+        if(node.fileAbsolutePath.includes("/src/blog/")) {
+          prev = index === 0 ? null : posts[index-1].node
+          if(!prev.fileAbsolutePath.includes("/src/blog/"))
+            prev = null
+          next = index == posts.length - 1 ? null: posts[index+1].node
+          if(!next.fileAbsolutePath.includes("/src/blog/"))
+            next = null
+        }
         createPage({
           path: node.fields.slug,
           component: path.resolve(`./src/templates/page.js`),
@@ -38,6 +52,8 @@ exports.createPages = ({ graphql, actions }) => {
             // Data passed to context is available
             // in page queries as GraphQL variables.
             slug: node.fields.slug,
+            prev,
+            next
           },
         })
       })

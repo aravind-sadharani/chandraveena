@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql} from "gatsby"
 import Layout from "../layouts/page"
 import rehypeReact from "rehype-react"
 import {Noticebox} from "../components/containers"
@@ -11,6 +11,7 @@ import {BlogIndex} from "../components/blogindex"
 import {SiteMap} from "../components/sitemap"
 import {SocialLinks, ContactForm} from "../components/contact"
 import SEOMetaData from "../components/SEOMetaData"
+import BlogLinks from "../components/bloglinks"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
@@ -26,10 +27,12 @@ const renderAst = new rehypeReact({
               },
 }).Compiler
 
-export default ({ location, data }) => {
+export default ({ location, data, pageContext }) => {
   let post = data.markdownRemark
   let site = data.site.siteMetadata
   let type = post.fileAbsolutePath.includes("/src/blog/") ? "article" : "website"
+  const {prev, next} = pageContext
+  console.log(pageContext)
   return (
     <Layout>
       <SEOMetaData
@@ -42,7 +45,7 @@ export default ({ location, data }) => {
       />
       <h1>{post.frontmatter.title}</h1>
       {
-        post.fileAbsolutePath.includes("/src/blog/") && 
+        post.fileAbsolutePath.includes("/src/blog/") &&
         <center><p><small>
           Posted on {post.frontmatter.date} • {post.fields.readingTime.text}
         </small></p></center>
@@ -50,6 +53,7 @@ export default ({ location, data }) => {
       {
         renderAst(post.htmlAst)
       }
+      <BlogLinks prev={prev} next={next} />
     </Layout>
   )
 }
