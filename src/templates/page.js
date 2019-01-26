@@ -32,7 +32,6 @@ export default ({ location, data, pageContext }) => {
   let site = data.site.siteMetadata
   let type = post.fileAbsolutePath.includes("/src/blog/") ? "article" : "website"
   const {prev, next} = pageContext
-  console.log(pageContext)
   return (
     <Layout>
       <SEOMetaData
@@ -53,7 +52,7 @@ export default ({ location, data, pageContext }) => {
       {
         renderAst(post.htmlAst)
       }
-      <BlogLinks prev={prev} next={next} />
+      {type==="article" && <BlogLinks prev={prev} next={next} />}
     </Layout>
   )
 }

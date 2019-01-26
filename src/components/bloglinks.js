@@ -1,10 +1,16 @@
 import React from "react"
 import styled from "styled-components"
 import {Link} from "gatsby"
+import {media} from "../utils/mediatemplate"
+
+const SmallCaps = styled.small`
+  text-transform: uppercase;
+`
 
 const LinkContainer = styled.div`
   display: grid;
   grid-template-columns: 50% 50%;
+  ${media.phone`grid-template-columns: 1fr`}
 `
 
 const PrevContainer = styled.div`
@@ -20,10 +26,12 @@ const BlogLinks = ({prev, next}) => (
     <hr />
     <LinkContainer>
       <PrevContainer>
-        {prev && <Link to={prev.fields.slug}>◀︎ Previous post: {prev.frontmatter.title}</Link>}
+        <SmallCaps>Previous</SmallCaps><br />
+        <Link to={prev.fields.slug}>◀︎ {prev.frontmatter.title}</Link>
       </PrevContainer>
       <NextContainer>
-        {next && <Link to={next.fields.slug}>Next post: {next.frontmatter.title} ►</Link>}
+        <SmallCaps>Next</SmallCaps><br />
+        <Link to={next.fields.slug}>{next.frontmatter.title} ►</Link>
       </NextContainer>
     </LinkContainer>
   </>
