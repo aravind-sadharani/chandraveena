@@ -12,6 +12,7 @@ import {SiteMap} from "../components/sitemap"
 import {SocialLinks, ContactForm} from "../components/contact"
 import SEOMetaData from "../components/SEOMetaData"
 import BlogLinks from "../components/bloglinks"
+import SocialShare from "../components/socialshare"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
@@ -52,7 +53,12 @@ export default ({ location, data, pageContext }) => {
       {
         renderAst(post.htmlAst)
       }
-      {type==="article" && <BlogLinks prev={prev} next={next} />}
+      {type==="article" &&
+        <>
+          <BlogLinks prev={prev} next={next} />
+          <SocialShare url={`${site.siteUrl}${location.pathname}`} />
+        </>
+      }
     </Layout>
   )
 }

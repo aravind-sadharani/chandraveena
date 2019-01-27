@@ -5,10 +5,9 @@ import {Link} from "gatsby"
 const UnlinkedButton = styled.button`
   display: inline-block;
   border-radius: 0.3rem;
-  padding: 0.5rem 0;
+  padding: 0.5rem 1rem;
   margin: 0.5rem 0.5rem;
-  width: 11rem;
-  background: #859e6b;
+  background: ${props => props.background ? props.background : `#859e6b`};
   text-align: center;
   text-decoration: none;
   color: #ffffff;
@@ -27,8 +26,8 @@ const UnlinkedCta = styled(UnlinkedButton)`
   color: #e1dbdd;
 `
 
-const Button = ({to,children}) => (
-  <Link to={to}><UnlinkedButton>{children}</UnlinkedButton></Link>
+const Button = ({to,children,background}) => (
+  <Link to={to}><UnlinkedButton background={background}>{children}</UnlinkedButton></Link>
 )
 
 const Cta = ({to,children}) => (
