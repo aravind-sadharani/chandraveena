@@ -25,18 +25,22 @@ const BlogLinks = ({prev, next}) => (
   <>
     <hr />
     <LinkContainer>
-      {prev &&
-        <PrevContainer>
-          <SmallCaps>Previous</SmallCaps><br />
-          <Link to={prev.fields.slug}>◀︎ {prev.frontmatter.title}</Link>
-        </PrevContainer>
-      }
-      {next &&
-        <NextContainer>
-          <SmallCaps>Next</SmallCaps><br />
-          <Link to={next.fields.slug}>{next.frontmatter.title} ►</Link>
-        </NextContainer>
-      }
+      <PrevContainer>
+        {prev &&
+          <>
+            <SmallCaps>Previous</SmallCaps><br />
+            <Link to={prev.fields.slug}>◀︎ {prev.frontmatter.title}</Link>
+          </>
+        }
+      </PrevContainer>
+      <NextContainer>
+        {next &&
+          <>
+            <SmallCaps>Next</SmallCaps><br />
+            <Link to={next.fields.slug}>{next.frontmatter.title} ►</Link>
+          </>
+        }
+      </NextContainer>
     </LinkContainer>
   </>
 )
