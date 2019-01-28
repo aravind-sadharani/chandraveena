@@ -17,11 +17,6 @@ const AlgoliaDiv = styled.div`
   font-size: small;
 `
 
-const AlgoliaIcon = styled(Algolia)`
-  height: 1.1em;
-  width: 1.1em;
-`
-
 const Searchwrapper = styled.div`
   input {
     display: inline-block;
@@ -90,7 +85,7 @@ export default () => (
           <SearchBox autoFocus />
           <AlgoliaDiv>
             Powered by <a href="https://www.algolia.com/">
-            <AlgoliaIcon /> Algolia</a>
+            <Algolia size="1.1em" /> Algolia</a>
           </AlgoliaDiv>
           <Hits hitComponent={Hit} />
         </InstantSearch>

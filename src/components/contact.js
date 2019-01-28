@@ -7,26 +7,6 @@ import styled from "styled-components"
 import { navigate, Link } from "gatsby"
 import {UnlinkedButton} from "./buttons"
 
-const TwitterIcon = styled(Twitter)`
-  height: 1.1em;
-  width: 1.1em;
-`
-
-const YouTubeIcon = styled(Youtube)`
-  height: 1.1em;
-  width: 1.1em;
-`
-
-const FacebookIcon = styled(Facebook)`
-  height: 1.1em;
-  width: 1.1em;
-`
-
-const BandcampIcon = styled(Bandcamp)`
-  height: 1.1em;
-  width: 1.1em;
-`
-
 const SocialSpan = styled.span`
   a {
     text-decoration: none;
@@ -60,28 +40,28 @@ const SocialLinks = () => (
     <li>
       <TwitterSpan>
         <a href="https://twitter.com/chandra_veena">
-          <TwitterIcon /> &nbsp; Twitter
+          <Twitter size="1.1em"/> &nbsp; Twitter
         </a>
       </TwitterSpan>
     </li>
     <li>
       <YouTubeSpan>
         <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg">
-          <YouTubeIcon /> &nbsp; YouTube
+          <Youtube size="1.1em"/> &nbsp; YouTube
         </a>
       </YouTubeSpan>
     </li>
     <li>
       <FacebookSpan>
         <a href="https://www.facebook.com/balachander.chandraveena/">
-          <FacebookIcon /> &nbsp; Facebook
+          <Facebook size="1.1em"/> &nbsp; Facebook
         </a>
       </FacebookSpan>
     </li>
     <li>
       <BandcampSpan>
         <a href="https://chandraveena.bandcamp.com/">
-          <BandcampIcon /> &nbsp; Bandcamp
+          <Bandcamp size="1.1em"/> &nbsp; Bandcamp
         </a>
       </BandcampSpan>
     </li>
