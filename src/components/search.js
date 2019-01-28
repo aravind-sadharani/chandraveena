@@ -5,7 +5,7 @@ import { Link } from 'gatsby'
 import {Container, Outer} from "./containers"
 import Masthead from "./masthead"
 import Footer from "./footer"
-import {Algolia} from "styled-icons/fa-brands/Algolia"
+import {Algolia} from "styled-icons/fa-brands/Algolia.cjs"
 import styled from "styled-components"
 
 const AlgoliaDiv = styled.div`
