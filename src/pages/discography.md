@@ -17,7 +17,6 @@ Recording details and notes.
 
 <br>
 <hr>
-<br>
 
 ## More Recordings
 
@@ -26,7 +25,6 @@ Recording details and notes.
 
 <br>
 <hr>
-<br>
 
 ### From Aparna Shastri's channel
 <you-tube-channel channelid="UCuS4qFPMqowcEiRv6cUy4sQ"></you-tube-channel>

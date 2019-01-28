@@ -29,6 +29,18 @@ const Wrapper = styled.div`
     border-radius: 0.3rem;
     box-shadow: 0 0 4px 0 #453e40;
   }
+  .footnotes {
+    font-size: small;
+    hr {
+      margin-bottom: 4em;
+    }
+    hr:after {
+      content: '\00000a Footnotes';
+      white-space: pre;
+      font-size: small;
+      text-transform: uppercase;
+    }
+  }
 `
 
 const Noticewrapper = styled(Wrapper)`
