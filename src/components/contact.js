@@ -1,12 +1,31 @@
 import React from "react"
-import TwitterIcon from "../../images/twitter.svg"
-import YouTubeIcon from "../../images/youtube.svg"
-import FacebookIcon from "../../images/facebook.svg"
-import BandcampIcon from "../../images/bandcamp.svg"
-import {Inlineimg} from "./icons"
+import {Twitter} from "styled-icons/fa-brands/Twitter"
+import {Youtube} from "styled-icons/fa-brands/Youtube"
+import {Facebook} from "styled-icons/fa-brands/Facebook"
+import {Bandcamp} from "styled-icons/fa-brands/Bandcamp"
 import styled from "styled-components"
 import { navigate, Link } from "gatsby"
 import {UnlinkedButton} from "./buttons"
+
+const TwitterIcon = styled(Twitter)`
+  height: 1.1em;
+  width: 1.1em;
+`
+
+const YouTubeIcon = styled(Youtube)`
+  height: 1.1em;
+  width: 1.1em;
+`
+
+const FacebookIcon = styled(Facebook)`
+  height: 1.1em;
+  width: 1.1em;
+`
+
+const BandcampIcon = styled(Bandcamp)`
+  height: 1.1em;
+  width: 1.1em;
+`
 
 const SocialSpan = styled.span`
   a {
@@ -41,28 +60,28 @@ const SocialLinks = () => (
     <li>
       <TwitterSpan>
         <a href="https://twitter.com/chandra_veena">
-          <Inlineimg src={TwitterIcon} /> &nbsp; Twitter
+          <TwitterIcon /> &nbsp; Twitter
         </a>
       </TwitterSpan>
     </li>
     <li>
       <YouTubeSpan>
         <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg">
-          <Inlineimg src={YouTubeIcon} /> &nbsp; YouTube
+          <YouTubeIcon /> &nbsp; YouTube
         </a>
       </YouTubeSpan>
     </li>
     <li>
       <FacebookSpan>
         <a href="https://www.facebook.com/balachander.chandraveena/">
-          <Inlineimg src={FacebookIcon} /> &nbsp; Facebook
+          <FacebookIcon /> &nbsp; Facebook
         </a>
       </FacebookSpan>
     </li>
     <li>
       <BandcampSpan>
         <a href="https://chandraveena.bandcamp.com/">
-          <Inlineimg src={BandcampIcon} /> &nbsp; Bandcamp
+          <BandcampIcon /> &nbsp; Bandcamp
         </a>
       </BandcampSpan>
     </li>

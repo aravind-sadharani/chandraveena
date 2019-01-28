@@ -44,6 +44,7 @@
     "react-typography": "^0.16.13",
     "rehype-react": "^3.0.3",
     "styled-components": "^3.3.3",
+    "styled-icons": "^6.6.0",
     "typeface-gentium-book-basic": "0.0.54",
     "typeface-noto-serif": "0.0.54",
     "typeface-sansita": "0.0.54",

@@ -1,9 +1,8 @@
 import React from "react"
-import TwitterIcon from "../../images/twitter-white.svg"
-import FacebookIcon from "../../images/facebook-white.svg"
-import WhatsappIcon from "../../images/whatsapp-brands.svg"
+import {Twitter} from "styled-icons/fa-brands/Twitter"
+import {Facebook} from "styled-icons/fa-brands/Facebook"
+import {Whatsapp} from "styled-icons/fa-brands/Whatsapp"
 import {UnlinkedButton} from "./buttons"
-import {Inlineimg} from "./icons"
 import styled from "styled-components"
 import {media} from "../utils/mediatemplate"
 
@@ -18,6 +17,21 @@ const FacebookButton = ({to,children}) => (
 const WhatsappButton = ({to,children}) => (
   <a href={to}><UnlinkedButton children={children} background="#128c7e" /></a>
 )
+
+const TwitterIcon = styled(Twitter)`
+  height: 1.1em;
+  width: 1.1em;
+`
+
+const FacebookIcon = styled(Facebook)`
+  height: 1.1em;
+  width: 1.1em;
+`
+
+const WhatsappIcon = styled(Whatsapp)`
+  height: 1.1em;
+  width: 1.1em;
+`
 
 const SocialShareWrapper = styled.div`
   text-transform: uppercase;
@@ -34,13 +48,13 @@ export default ({url}) => (
     <small>Share via</small>
     <br />
     <TwitterButton to={`https://twitter.com/intent/tweet?text=${url}`}>
-      <Inlineimg alt="Twitter" src={TwitterIcon} /><ButtonSpan> Twitter</ButtonSpan>
+      <TwitterIcon /><ButtonSpan> Twitter</ButtonSpan>
     </TwitterButton>
     <FacebookButton to={`https://www.facebook.com/sharer/sharer.php?u=${url}`}>
-      <Inlineimg alt="Facebook" src={FacebookIcon} /><ButtonSpan> Facebook</ButtonSpan>
+      <FacebookIcon /><ButtonSpan> Facebook</ButtonSpan>
     </FacebookButton>
     <WhatsappButton to={`https://wa.me/?text=${url}`}>
-      <Inlineimg alt="Whatsapp" src={WhatsappIcon} /><ButtonSpan> WhatsApp</ButtonSpan>
+      <WhatsappIcon /><ButtonSpan> WhatsApp</ButtonSpan>
     </WhatsappButton>
   </SocialShareWrapper>
 )

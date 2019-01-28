@@ -5,8 +5,7 @@ import { Link } from 'gatsby'
 import {Container, Outer} from "./containers"
 import Masthead from "./masthead"
 import Footer from "./footer"
-import AlgoliaIcon from "../../images/algolia.svg"
-import {Inlineimg} from "./icons"
+import {Algolia} from "styled-icons/fa-brands/Algolia"
 import styled from "styled-components"
 
 const AlgoliaDiv = styled.div`
@@ -16,6 +15,11 @@ const AlgoliaDiv = styled.div`
   }
   text-align: right;
   font-size: small;
+`
+
+const AlgoliaIcon = styled(Algolia)`
+  height: 1.1em;
+  width: 1.1em;
 `
 
 const Searchwrapper = styled.div`
@@ -86,7 +90,7 @@ export default () => (
           <SearchBox autoFocus />
           <AlgoliaDiv>
             Powered by <a href="https://www.algolia.com/">
-            <Inlineimg src={AlgoliaIcon} /> Algolia</a>
+            <AlgoliaIcon /> Algolia</a>
           </AlgoliaDiv>
           <Hits hitComponent={Hit} />
         </InstantSearch>
