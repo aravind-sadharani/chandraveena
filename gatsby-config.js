@@ -118,5 +118,6 @@ module.exports = {
         chunkSize: 10000, // default: 1000
       },
     },
+    `gatsby-plugin-svgr`,
   ],
 }
