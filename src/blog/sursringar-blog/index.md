@@ -1,7 +1,7 @@
 ---
 title: "The Story of Sursringar"
 date: 2018-12-14
-image: "../../../images/IMG_7198.JPG"
+image: "../../../images/sursringar.jpg"
 description: "It is widely believed that Sursringar was invented by a seniya rababiya Jaffar Khan (1775 – 1825). His main intention was to improve the resonance and the tonal quality of the seniya rabab."
 ---
 India is a country of fascinating myths and stories dating back to thousands of years - as it would be with any ancient culture. There are various anecdotes on the miracles of music, whether involving Tansen, or Swami Haridas or Muthuswamy Dikshithar. With a strong history of oral tradition from the Vedic times, and an aversion to written documentation, much of the information is carried down the generations by word of mouth. Some stories have survived, but many are lost and others have been reinterpreted with added spices!

@@ -4,6 +4,11 @@ date: 2019-01-19
 image: "../../../images/Favicon.png"
 description: "The philosophy of this site reflects the philosophy of my music. I have often struggled with understanding my own self, my music, and the inter relationship. In the early years of learning music, its all about learning techniques, understanding the basic concepts of music, imitating the teacher limited to ones’ capability - and putting them all together as a performer."
 ---
+
+![Site-Icon](Favicon.png)
+
+<br>
+
 The philosophy of this site reflects the philosophy of my music, or at least I hope so. And the philosophy of my music reflects my life and my identity.
 
 I have often struggled with understanding my own self, my music, and their inter-relationship. In the early years of learning music, it was all about learning techniques, understanding the basic concepts of music, imitating the teacher as shaped by ones’ capability, and attempting to put it all together as a performer.

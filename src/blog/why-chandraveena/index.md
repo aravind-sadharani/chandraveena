@@ -31,3 +31,7 @@ I started in earnest by going to Chennai to get a standard Saraswati Veena. Afte
 > Necessity is the mother of Invention
 
 In the end, it was the limitations of Saraswati Veena to effectively portray my Ustad’s style of music that led to the creation of Chandraveena. Mohan Lal Sharma created the first prototype of what eventually was christened “Chandraveena” by Ustad Z F Dagar and Ustad Bahauddin Dagar. And here I am hoping to communicate through my music to you!
+
+![Balachander](IMG_7198.JPG)
+
+<br>
