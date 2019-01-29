@@ -1,8 +1,8 @@
 import React from "react"
-import {ReactComponent as Twitter} from "../../images/twitter-brands.svg"
-import {ReactComponent as Youtube} from "../../images/youtube-brands.svg"
-import {ReactComponent as Facebook} from "../../images/facebook-brands.svg"
-import {ReactComponent as Bandcamp} from "../../images/bandcamp-brands.svg"
+import {Twitter} from "styled-icons/fa-brands/Twitter"
+import {Youtube} from "styled-icons/fa-brands/Youtube"
+import {Facebook} from "styled-icons/fa-brands/Facebook"
+import {Bandcamp} from "styled-icons/fa-brands/Bandcamp"
 import styled from "styled-components"
 import { navigate, Link } from "gatsby"
 import {UnlinkedButton} from "./buttons"
@@ -17,12 +17,6 @@ const SocialSpan = styled.span`
 
 const SocialList = styled.ul`
   list-style: none;
-  svg {
-    position: relative;
-    top: 0.2em;
-    height: 1.1em;
-    width: 1.1em;
-  }
 `
 
 const TwitterSpan = styled(SocialSpan)`
@@ -46,28 +40,28 @@ const SocialLinks = () => (
     <li>
       <TwitterSpan>
         <a href="https://twitter.com/chandra_veena">
-          <Twitter /> &nbsp; Twitter
+          <Twitter size="1.1em" /> &nbsp; Twitter
         </a>
       </TwitterSpan>
     </li>
     <li>
       <YouTubeSpan>
         <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg">
-          <Youtube /> &nbsp; YouTube
+          <Youtube size="1.1em" /> &nbsp; YouTube
         </a>
       </YouTubeSpan>
     </li>
     <li>
       <FacebookSpan>
         <a href="https://www.facebook.com/balachander.chandraveena/">
-          <Facebook /> &nbsp; Facebook
+          <Facebook size="1.1em" /> &nbsp; Facebook
         </a>
       </FacebookSpan>
     </li>
     <li>
       <BandcampSpan>
         <a href="https://chandraveena.bandcamp.com/">
-          <Bandcamp /> &nbsp; Bandcamp
+          <Bandcamp size="1.1em" /> &nbsp; Bandcamp
         </a>
       </BandcampSpan>
     </li>

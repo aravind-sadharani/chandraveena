@@ -1,7 +1,7 @@
 import React from "react"
-import {ReactComponent as Twitter} from "../../images/twitter-brands.svg"
-import {ReactComponent as Facebook} from "../../images/facebook-brands.svg"
-import {ReactComponent as Whatsapp} from "../../images/whatsapp-brands.svg"
+import {Twitter} from "styled-icons/fa-brands/Twitter"
+import {Facebook} from "styled-icons/fa-brands/Facebook"
+import {Whatsapp} from "styled-icons/fa-brands/Whatsapp"
 import {UnlinkedButton} from "./buttons"
 import styled from "styled-components"
 import {media} from "../utils/mediatemplate"
@@ -20,12 +20,6 @@ const WhatsappButton = ({to,children}) => (
 
 const SocialShareWrapper = styled.div`
   text-transform: uppercase;
-  svg {
-    position: relative;
-    top: 0.2em;
-    height: 1.1em;
-    width: 1.1em;
-  }
 `
 
 const ButtonSpan = styled.span`
