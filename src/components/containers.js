@@ -28,7 +28,7 @@ const Wrapper = styled.div`
   .gatsby-resp-image-image, .gatsby-resp-image-background-image {
     border-radius: 0.3rem;
     box-shadow: 0 0 4px 0 #453e40;
-  }
+  };
   .footnotes {
     font-size: small;
     hr {
@@ -40,7 +40,7 @@ const Wrapper = styled.div`
       font-size: small;
       text-transform: uppercase;
     }
-  }
+  };
 `
 
 const Noticewrapper = styled(Wrapper)`
