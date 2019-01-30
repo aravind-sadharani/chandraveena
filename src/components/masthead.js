@@ -10,6 +10,30 @@ import {Link} from "gatsby"
 import Headroom from "react-headroom"
 const title = "Chandraveena"
 
+const CustomHeadroom = styled(Headroom)`
+  .headroom {
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  }
+  .headroom--unfixed {
+    position: fixed;
+    transform: translate3D(0, 0, 0);
+  }
+  .headroom--scrolled {
+    transition: transform 200ms ease-in-out;
+  }
+  .headroom--unpinned {
+    position: fixed;
+    transform: translate3D(0, -100%, 0);
+  }
+  .headroom--pinned {
+    position: fixed;
+    transform: translate3D(0, 0, 0);
+  }
+`
+
 const Masthead = styled.div`
   width: 100%;
   background-color: #542938;
@@ -65,7 +89,7 @@ const Search = styled.div`
 `
 
 export default () => (
-  <Headroom>
+  <CustomHeadroom disableInlineStyles>
     <Masthead>
       <Mastheadcontent>
         <Home><Link to="/"><Sitelogo /><h1> {title}</h1></Link></Home>
@@ -80,5 +104,5 @@ export default () => (
         <Search><Link to="/searchpage/"><Searchicon /></Link></Search>
       </Mastheadcontent>
     </Masthead>
-  </Headroom>
+  </CustomHeadroom>
 )
