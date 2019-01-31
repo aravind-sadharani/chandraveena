@@ -35,7 +35,7 @@ const indexPage = () => (
     />
     <h2>Maarga Sangeet</h2>
     <p>
-      Maarga Sangeet is an ancient yet timeless tradition of Indian Classical music. It is a way of life where music becomes the artist&apos;s medium of communication. From its early origins in the chants of Rig Veda and the singing of the Saama Veda, the rules and principles of Indian Classical music have evolved into the sophisticated system of Indian Raagas, and the artistic philosophy of Maarga Sangeet.
+      Maarga Sangeet is an ancient yet timeless tradition of Indian music. It is a way of life where music becomes the artist&apos;s medium of communication. From its early origins in the chants of Rig Veda and the singing of the Saama Veda, the rules and principles of Indian music have evolved into the sophisticated system of Indian Raagas, and the artistic philosophy of Maarga Sangeet.
     </p>
     <p>
       Balachander plays the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. In its contemporary form, Dhrupad consists of two sections, Aalap which is a free flowing creative exploration of the Raaga without any percussion accompaniment, and a Composition accompanied by percussion, which is a poetry or instrumental composition set to a fixed cycle of beats. Dhrupad is characterised by a gradual and methodical unfurling of the Raaga.
@@ -46,7 +46,7 @@ const indexPage = () => (
     </p>
     <h2>S. Balachander</h2>
     <p>
-      Balachander, an Indian classical musician and multi-instrumentalist, is the creator and performing artist of the Chandraveena. In the course of a <Link to="/about">long and interesting musical journey</Link>, he was inspired by the artistry of his Gurus, and the beauty of the musical form, to create the Chandraveena.
+      Balachander, an Indian musician and multi-instrumentalist, is the creator and performing artist of the Chandraveena. In the course of a <Link to="/about">long and interesting musical journey</Link>, he was inspired by the artistry of his Gurus, and the beauty of the musical form, to create the Chandraveena.
     </p>
     <Noticebox>
       Experience the music.<br />

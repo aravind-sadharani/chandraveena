@@ -4,18 +4,18 @@ date: {}
 published: true
 search: true
 image: "../../images/IMG_7198.JPG"
-description: "Hello, I am Balachander, a Chandraveena artist performing Indian Classical Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey. Read on to find out!"
+description: "Hello, I am Balachander, a Chandraveena artist performing Indian Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey. Read on to find out!"
 ---
 
 ![Image](IMG_7198.JPG)
 
 <br>
 
-Hello, I am Balachander, a Chandraveena artist performing Indian Classical Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
+Hello, I am Balachander, a Chandraveena artist performing Indian Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
 
 ## Early Days and Music Training
 
-I was born into a family of academicians and music lovers. Even though my parents were not trained musicians, there was always music playing at home. This marked my formative years. I received early training in Carnatic Music, the Indian Classical Music of the South. Growing up, my initial training along with exposure to traditional folk music, temple chants and North Indian Classical Music, helped me develop a broader perspective on Indian culture.
+I was born into a family of academicians and music lovers. Even though my parents were not trained musicians, there was always music playing at home. This marked my formative years. I received early training in Carnatic Music, the Indian Music of the South. Growing up, my initial training along with exposure to traditional folk music, temple chants and North Indian Music, helped me develop a broader perspective on Indian culture.
 
 My formal training in Music was in Sarod, under Pandit Pradeep Barot. Along the way, I met the legendary Rudra Veena maestro, Ustad Zia Mohiuddin Dagar. His artistry and approach to music, inspired me to go deeper into music. After his early demise in 1990, I undertook rigorous training in music, under the renowned Dhrupad vocalist, Ustad Zia Fariduddin Dagar who continued to mentor and teach me, till his demise in 2013.
 
