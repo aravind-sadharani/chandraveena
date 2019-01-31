@@ -15,6 +15,7 @@ module.exports = {
       "name": "Aravind Iyer",
       "url": "https://www.aravindiyer.com"
     },
+    fbAppID: process.env.FACEBOOK_APP_ID,
   },
   plugins: [
     {

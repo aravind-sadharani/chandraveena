@@ -1,13 +1,14 @@
 import React from "react"
 import Helmet from "react-helmet"
 
-const FacebookCard = ({url, type, title, description, image}) => (
+const FacebookCard = ({url, type, title, description, image, appID}) => (
   <Helmet>
     {url && <meta property="og:url" content={url} />}
     {type && <meta property="og:type" content={type} />}
     {title && <meta property="og:title" content={title} />}
     {description && <meta property="og:description" content={description} />}
     {image && <meta property="og:image" content={image} />}
+    {appID && <meta property="fb:app_id" content={appID} />}
   </Helmet>
 )
 
@@ -21,7 +22,7 @@ const TwitterCard = ({username, type, title, description, image}) => (
   </Helmet>
 )
 
-const SEOMetaData = ({username, url, type, title, description, image}) => (
+const SEOMetaData = ({username, url, type, title, description, image, fbappID}) => (
   <>
     <Helmet>
       <title>{title}</title>
@@ -34,6 +35,7 @@ const SEOMetaData = ({username, url, type, title, description, image}) => (
       title = {title}
       description = {description}
       image = {image}
+      appID = {fbappID}
     />
     <TwitterCard
       username = {username}

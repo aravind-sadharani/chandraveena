@@ -18,6 +18,7 @@ const indexPage = () => (
               twitterUsername
               title
               description
+              fbAppID
             }
           }
         }
@@ -30,6 +31,7 @@ const indexPage = () => (
           title = {data.site.siteMetadata.title}
           description = {data.site.siteMetadata.description}
           image = {`${data.site.siteMetadata.siteUrl}${coverImage}`}
+          fbappID = {data.site.fbAppID}
         />
       )}
     />
