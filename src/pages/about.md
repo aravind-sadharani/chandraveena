@@ -14,7 +14,7 @@ description: "Hello, I am Balachander, a Chandraveena artist performing Indian M
 Hello, I am Balachander, a Chandraveena artist performing Indian Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
 
 <notice-box>
-Follow the link to read about me in the press. Read on below for my own story!
+Follow the link to read about me in the press. Read on below for my story in my own words!
 
 <my-button to="/press/">Press Coverage</my-button>
 
