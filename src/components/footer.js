@@ -54,6 +54,7 @@ export default ({search}) => {
       <Footercontent>
         <ul>
           <li><Link to="/contact/">Contact |&nbsp;</Link></li>
+          <li><Link to="/press/">Press Coverage |&nbsp;</Link></li>
           <li><Link to="/terms/">Terms of Use |&nbsp;</Link></li>
           <li><Link to="/sitemap/">Sitemap</Link></li>
         </ul>

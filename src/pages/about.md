@@ -13,6 +13,16 @@ description: "Hello, I am Balachander, a Chandraveena artist performing Indian M
 
 Hello, I am Balachander, a Chandraveena artist performing Indian Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
 
+<notice-box>
+Follow the link to read about me in the press. Read on below for my own story!
+
+<my-button to="/press/">Press Coverage</my-button>
+
+</notice-box>
+
+<br>
+<hr>
+
 ## Early Days and Music Training
 
 I was born into a family of academicians and music lovers. Even though my parents were not trained musicians, there was always music playing at home. This marked my formative years. I received early training in Carnatic Music, the Indian Music of the South. Growing up, my initial training along with exposure to traditional folk music, temple chants and North Indian Music, helped me develop a broader perspective on Indian culture.
