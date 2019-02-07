@@ -4,6 +4,8 @@ date: 2019-01-18
 image: "../../../images/sarod-sursringar.jpg"
 description: "There are varied accounts on the evolution of rabab, sarod and sursringar. Many have written articles, journal papers and books on the subject. Never minding the history and its evolution, I am interested in talking about the two instruments, its commonalities and differences."
 ---
+With many years of training in Sarod, and a keen quest for the elusive Sursringar, I only thought it appropriate to write a post comparing and unravelling these two beautiful instruments. They are alike, and yet, world apart !
+
 There are varied accounts on the evolution of the rabab, the sarod and the sursringar. Many researchers and commentators have written articles, journal papers and books on the subject. Setting aside the history of these instruments, I would like to talk about sarod and sursringar, specifically their commonalities and differences.
 
 ![Sarod](sarod.jpg)
@@ -37,3 +39,5 @@ A mizrab has traditionally been used for playing a Veena, Sitar or Surbahar. The
 There are two basic solfas or syllables of plectrum use in a rabab, sarod or sursringar. The downward stroke is *Da*, and the upward stroke is *Ra*. Now, a combination of strokes can give rise to more syllables like *Dire*, *Dra*, etc, and a combination of syllables to form phrases like *Da Ra Dire Dire* and so on. These phrases are often used in very complex rhythmic patterns, especially in the composition section.
 
 Sursringar by temperament is suited for a slow melodic exploration of Ragas (Alap). Although modern Sarod is capable of Alap, by temperament, it is well suited for fast playing, complex rhythmic patterns known as *Tarparan*.
+
+In the evolution history, though Sursringar and Sarod have both evolved from Rabab, Sursringar precedes the modern day Sarod. Among many changes, Sursringar replaced the gut strings of Rabab with wire strings, and replaced the wooden fretboard with a metal fretboard. Its maybe a conjecture to say Sarod took inspiration fron Sursringar ? Or did it evolve independently ?
