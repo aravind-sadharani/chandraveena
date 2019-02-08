@@ -50,7 +50,7 @@ const indexPage = () => (
     <p>
       Balachander, an Indian musician and multi-instrumentalist, is the creator and performing artist of the Chandraveena. In the course of a <Link to="/about">long and interesting musical journey</Link>, he was inspired by the artistry of his Gurus, and the beauty of the musical form, to create the Chandraveena.
     </p>
-    <Noticebox>
+    <Noticebox center>
       Experience the music.<br />
       <Button to="/intro/">Listen Now</Button>
     </Noticebox>

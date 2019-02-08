@@ -45,7 +45,7 @@ const Wrapper = styled.div`
 
 const Noticewrapper = styled(Wrapper)`
   background-color: #e1dbdd;
-  text-align: center;
+  text-align: ${props => props.center ? "center" : "left"};
 `
 
 const Outer = ({children}) => (
@@ -56,8 +56,8 @@ const Container = ({children}) => (
   <Wrapper>{children}</Wrapper>
 )
 
-const Noticebox = ({children}) => (
-  <Noticewrapper>{children}</Noticewrapper>
+const Noticebox = ({center, children}) => (
+  <Noticewrapper center={center}>{children}</Noticewrapper>
 )
 
 export {Outer, Container, Noticebox}
