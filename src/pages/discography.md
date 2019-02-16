@@ -21,7 +21,7 @@ Hello, and welcome to my Chandraveena music collection. Over a period of time, I
 
 A rendition of Raag Ahir Bhairav and Raag Patdeep on Chandraveena by S Balachander in an informal baithak at his residence.
 
-released February 16, 2019 
+released February 16, 2019
 
 Chandraveena - S Balachander
 
@@ -31,6 +31,14 @@ Sound - Aravind Iyer
 <hr>
 
 ## More Recordings
+
+### From Chandraveena channel
+<you-tube-channel channelid="UCxPyMV4LS9YBePXM0mV4hjg"></you-tube-channel>
+
+<br>
+<hr>
+
+## Legacy recordings
 
 ### From Bala Chander's channel
 <you-tube-channel channelid="UCvy6YWW_J7M3t6BXArVaePw"></you-tube-channel>
