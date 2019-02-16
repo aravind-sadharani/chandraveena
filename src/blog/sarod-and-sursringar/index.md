@@ -4,7 +4,9 @@ date: 2019-01-18
 image: "../../../images/sarod-sursringar.jpg"
 description: "There are varied accounts on the evolution of rabab, sarod and sursringar. Many have written articles, journal papers and books on the subject. Never minding the history and its evolution, I am interested in talking about the two instruments, its commonalities and differences."
 ---
-There are varied accounts on the evolution of the rabab, the sarod and the sursringar. Many researchers and commentators have written articles, journal papers and books on the subject. Setting aside the history of these instruments, I would like to talk about sarod and sursringar, specifically their commonalities and differences.
+Having spent many years [learning Sarod](/about/#early-days-and-music-training), and then some more in a keen quest for the [elusive Sursringar](/blog/why-chandraveena/), I only thought it appropriate to write a post comparing and describing these two beautiful instruments. They are alike, and yet, worlds apart!
+
+There are varied accounts on the evolution of the rabab, the sarod and the sursringar. Many researchers and commentators have written articles, journal papers and books on the subject. Setting aside the history of these instruments, I would like to talk about sarod and sursringar, specifically from the perspective of their design and musical capability.
 
 ![Sarod](sarod.jpg)
 *A Sarod from the author’s collection crafted by the late Mohan Lal Sharma.*
@@ -18,7 +20,7 @@ There are varied accounts on the evolution of the rabab, the sarod and the sursr
 
 As you can see from these pictures, there are physical similarities between sarod and sursringar. Sursringar, in terms of the evolutionary timeline, is older than the present day Sarod. It is very likely that the need for improved resonance and sustain as compared to what was possible with a wooden fret board and gut strings in rabab, led to the [invention of sursringar](/blog/sursringar-blog/). Hence, the Sursringar has a metal fretboard and metal strings. Being larger in size than a sarod and replacing its hide with a large soundboard, a sursringar has outstanding acoustics.
 
-Traditionally, sursringar continued to be played in Dhrupad style, and with enough sustain, there wasn’t a need for *Taraf* or sympathetic strings that are seen in a sarod. By contrast, a sarod is equipped with taraf to compensate for lower resonance compared to a sursringar. It is also believed that the Taraf strings interfere with finer tones, and hence a sursringar is best played without Taraf. Sursringar also has a flat *Jawaari* bridge compared to the point shaped bridge of Sarod. This unique Jawaari capability of a sursringar gives rise to its rich harmonics and sound. Typically both instruments are played with either a *mizrab* - a wire plectrum, or a *jawa* - a guitar style plectrum made of coconut shell.
+Traditionally, sursringar continued to be played in Dhrupad style, and with enough sustain, there was no need for *Taraf* or sympathetic strings that are seen in a sarod. By contrast, a sarod is equipped with taraf to compensate for lower resonance compared to a sursringar. It is also believed that the Taraf strings interfere with finer tones, and hence a sursringar is best played without Taraf. Sursringar also has a flat *Jawaari* bridge compared to the point shaped bridge of Sarod. This unique Jawaari capability of a sursringar gives rise to its rich harmonics and sound. Typically both instruments are played with either a *mizrab* - a wire plectrum, or a *jawa* - a guitar style plectrum made of coconut shell.
 
 ![Jawa](jawa.jpg)
 *A Jawa plectrum made from coconut shell.*
@@ -32,8 +34,10 @@ The plectrum on the right is wrapped with a cloth dipped in beeswax. With the pl
 
 <br>
 
-A mizrab has traditionally been used for playing a Veena, Sitar or Surbahar. There's mention of a wire plectrum used for playing sarod and sursringar too. But I’m not sure of the shape or model of it, and whether its the same as pictured above.
+A mizrab has traditionally been used for playing a Veena, Sitar or *Surbahar*. There is mention of a wire plectrum being used for playing sarod and sursringar too. But I am not sure of its shape or make, and whether it is the same as pictured above.
 
 There are two basic solfas or syllables of plectrum use in a rabab, sarod or sursringar. The downward stroke is *Da*, and the upward stroke is *Ra*. Now, a combination of strokes can give rise to more syllables like *Dire*, *Dra*, etc, and a combination of syllables to form phrases like *Da Ra Dire Dire* and so on. These phrases are often used in very complex rhythmic patterns, especially in the composition section.
 
 Sursringar by temperament is suited for a slow melodic exploration of Ragas (Alap). Although modern Sarod is capable of Alap, by temperament, it is well suited for fast playing, complex rhythmic patterns known as *Tarparan*.
+
+In the evolution history, though Sursringar and Sarod have both evolved from Rabab, Sursringar likely precedes the modern day Sarod by a few decades. Among many changes, Sursringar replaced the gut strings of Rabab with wire strings, and replaced the wooden fretboard with a metal fretboard. It may be a conjecture to say the Sarod took inspiration from Sursringar. Or did it evolve independently? If you have any thoughts on the subject, do [leave me a note](/contact/#leave-a-message).

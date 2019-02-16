@@ -81,7 +81,7 @@ This has been quite a long introduction. If you have made it this far, I appreci
 
 I hope you enjoyed the music. And do check out my complete performances from the Discography page. Thanks for listening!
 
-<notice-box>
+<notice-box center=" ">
 Browse the Discography
 
 <my-button to="/discography/">Listen More</my-button>
