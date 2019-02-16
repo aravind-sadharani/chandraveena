@@ -17,9 +17,15 @@ Hello, and welcome to my Chandraveena music collection. Over a period of time, I
 
 ## Featured Recording
 
-<band-camp albumid="2504992601" albumname="inception" albumtitle="Inception by Dhrupad"></band-camp>
+<band-camp albumid="3106704254" albumname="an-informal-baithak" albumtitle="An Informal Baithak by S Balachander"></band-camp>
 
-Recording details and notes.
+A rendition of Raag Ahir Bhairav and Raag Patdeep on Chandraveena by S Balachander in an informal baithak at his residence.
+
+released February 16, 2019 
+
+Chandraveena - S Balachander
+
+Sound - Aravind Iyer
 
 <br>
 <hr>
