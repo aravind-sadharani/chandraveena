@@ -9,14 +9,11 @@ Having spent many years [learning Sarod](/about/#early-days-and-music-training),
 There are varied accounts on the evolution of the rabab, the sarod and the sursringar. Many researchers and commentators have written articles, journal papers and books on the subject. Setting aside the history of these instruments, I would like to talk about sarod and sursringar as they are played today, specifically from the perspective of their design and musical capability.
 
 <notice-box>
-  
+
 ### Sarod
-
 <br>
-  
-![Sarod](sarod.jpg)
+  ![Sarod](sarod.jpg)
 *A Sarod from the author’s collection crafted by the late Mohan Lal Sharma.*
-
 <br>
 
 Sarod is a natural evolution from Rabab (for introduction to Rabab, read my post on [Sursringar](/blog/sursringar-blog/###Rabab). As you can see from the picture above, Sarod has a hollow wooden body (made of tun / red cedar or teak wood). The wooden resonator is covered with hide, and the finger board is a steel plate with chromium finish. There are variations in the shape, size and number of strings of different sarod styles, but typically, a Sarod has 4 main playing strings on which melody / raga is played, and a number of support strings. Sarod also has sympathetic strings, which are tuned to the notes of the raga being played. This gives an addtional dimension to the instrument. The appropriate sympathetic strings resonate as the notes are played on the main playing strings, adding to resonance and contributing to the harmonics. Sarod is plucked with a coconut shell plectrum, and the main playing strings are pressed by finger nail against the metal finger board, giving clarity and sustain.
@@ -27,13 +24,10 @@ Sarod is a natural evolution from Rabab (for introduction to Rabab, read my post
 
 <notice-box>
   
-### Sursringar
-
+  ### Sursringar
 <br>
-
 ![Sursringar](sursringar.jpg)
 *A Sursringar from the author’s collection crafted by the late Mohan Lal Sharma.*
-
 <br>
 
 Sursringar, in evolution history, is a older instrument than present day Sarod. Sursringar evolved as a result of the limitations of Seni Rabab (read my post on [The Story of Sursringar](/blog/sursringar-blog). As you can see from the picture above, Sursringar has a rounded gourd (pumpkin) resonator, covered by wooden sound board. A hollow carved neck is attached to the resonator, and the finger board is made of steel with chromium finish. There are a few variations in the number of strings, and the tuning methodology, but typically, a Sursringar has 5 main melody strings and 3 additional support strings. The sursringar above has been customised to my requirement with an additonal melody string. Sursringar can be plucked with a coconut shell plectrum, or a wire plectrum. The melody strings are played by finger nails pressed against the metal finger board. 
