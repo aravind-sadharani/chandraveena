@@ -11,6 +11,8 @@ There are varied accounts on the evolution of the rabab, the sarod and the sursr
 <notice-box>
   
 ### Sarod
+
+<br>
   
 ![Sarod](sarod.jpg)
 *A Sarod from the author’s collection crafted by the late Mohan Lal Sharma.*
@@ -26,6 +28,8 @@ Sarod is a natural evolution from Rabab (for introduction to Rabab, read my post
 <notice-box>
   
 ### Sursringar
+
+<br>
 
 ![Sursringar](sursringar.jpg)
 *A Sursringar from the author’s collection crafted by the late Mohan Lal Sharma.*
