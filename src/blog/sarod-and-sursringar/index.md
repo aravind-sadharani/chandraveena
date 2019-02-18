@@ -8,10 +8,18 @@ Having spent many years [learning Sarod](/about/#early-days-and-music-training),
 
 There are varied accounts on the evolution of the rabab, the sarod and the sursringar. Many researchers and commentators have written articles, journal papers and books on the subject. Setting aside the history of these instruments, I would like to talk about sarod and sursringar as they are played today, specifically from the perspective of their design and musical capability.
 
+<notice-box>
+  
 ![Sarod](sarod.jpg)
 *A Sarod from the author’s collection crafted by the late Mohan Lal Sharma.*
 
 <br>
+
+### Sarod
+
+Sarod is a natural evolution from Rabab (for introduction to Rabab, read my post on [Sursringar](/blog/ 
+
+
 
 ![Sursringar](sursringar.jpg)
 *A Sursringar from the author’s collection crafted by the late Mohan Lal Sharma.*
