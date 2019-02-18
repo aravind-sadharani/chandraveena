@@ -24,7 +24,9 @@ Just when there was happiness in my heart at having found the music of the soul,
 
 At the time, still unsure of my musical life, I continued my formal college education, and later took up corporate jobs, while being closely associated with music. I continued my training in Sarod, and in Dhrupad under Ustad Z F Dagar. At one point, we had this dream of my playing Sarod *and* Sursringar - a unique combination of two beautiful instruments in different styles. However, it was difficult to find a maker for the Sursringar. One maker even quoted what was equivalent to my household income at the time! I quickly backtracked from that idea, albeit temporarily, and continued my job, and training in Dhrupad, all along still dreaming of playing Sarod and Sursringar!
 
-Then one day, while chatting with Ustad and Bahauddin, they were jointly of the opinion that I should abandon the idea of sarod and sursringar, and go back to playing Saraswati Veena all over again, and this time in Dhrupad style! And thus started my journey on “Why the Chandraveena”!
+Then one day, while chatting with Ustad and Bahauddin, they were jointly of the opinion that I should explore the idea of playing Saraswati Veena all over again, and this time in Dhrupad style! And thus started my journey on “Why the Chandraveena”!
+
+This post continues to Part II, for the next part of the story.
 
 I started in earnest by going to Chennai to get a standard Saraswati Veena. After retraining myself on the Saraswati Veena and understanding the limitations of that instrument for the Dhrupad style of my Ustad, the path forward presented itself. I started redesigning the instrument for the needs of the music, going in search of Veena makers in Mysore, Thanjavur, Trichy, Kolkata, and so on. And then I landed at the doorstep of someone who became my personal instrument maker - the late Mohan Lal Sharma of Kolkata. Even though my initial approach to Mohan Lal Sharma was for Sursringar, he eventually agreed to be part of my experiments.
 
