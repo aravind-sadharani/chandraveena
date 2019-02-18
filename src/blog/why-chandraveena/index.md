@@ -26,14 +26,4 @@ At the time, still unsure of my musical life, I continued my formal college educ
 
 Then one day, while chatting with Ustad and Bahauddin, they were jointly of the opinion that I should explore the idea of playing Saraswati Veena all over again, and this time in Dhrupad style! And thus started my journey on “Why the Chandraveena”!
 
-This post continues to Part II, for the next part of the story.
-
-I started in earnest by going to Chennai to get a standard Saraswati Veena. After retraining myself on the Saraswati Veena and understanding the limitations of that instrument for the Dhrupad style of my Ustad, the path forward presented itself. I started redesigning the instrument for the needs of the music, going in search of Veena makers in Mysore, Thanjavur, Trichy, Kolkata, and so on. And then I landed at the doorstep of someone who became my personal instrument maker - the late Mohan Lal Sharma of Kolkata. Even though my initial approach to Mohan Lal Sharma was for Sursringar, he eventually agreed to be part of my experiments.
-
-> Necessity is the mother of Invention
-
-In the end, it was the limitations of Saraswati Veena to effectively portray my Ustad’s style of music that led to the creation of Chandraveena. Mohan Lal Sharma created the first prototype of what eventually was christened “Chandraveena” by Ustad Z F Dagar and Ustad Bahauddin Dagar. And here I am hoping to communicate through my music to you!
-
-![Balachander](IMG_7198.JPG)
-
-<br>
+Read [part 2](/blog/why-chandraveena-II) to know how my journey went!

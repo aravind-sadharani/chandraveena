@@ -4,7 +4,7 @@ date: 2018-12-14
 image: "../../../images/sursringar.jpg"
 description: "It is widely believed that Sursringar was invented by a seniya rababiya Jaffar Khan (1775 – 1825). His main intention was to improve the resonance and the tonal quality of the seniya rabab."
 ---
-India is a country of fascinating myths and stories dating back to thousands of years - as it would be with any ancient culture. There are various anecdotes on the miracles of music, whether involving Tansen, or Swami Haridas or Muthuswamy Dikshithar. With a strong history of oral tradition from the Vedic times, and an aversion to written documentation, much of the information is carried down the generations by word of mouth. Some stories have survived, but many are lost and others have been reinterpreted with added spices!
+India is a country of fascinating myths and stories dating back to thousands of years - as it would be with any ancient culture. There are various anecdotes on the miracles of music, whether involving Tansen, or Swami Haridas or Muthuswamy Dikshithar. With a strong history of oral tradition from the Vedic times, and an aversion to written documentation, much of the information has been carried down the generations by word of mouth. Some stories have survived, but many are lost and others have been reinterpreted with added spices!
 
 One such story regarding the evolution of Sursringar goes as follows. But wait! Before we embark on the story of Sursringar, here is a quick introduction to the related instruments in the story - Rabab and Veena. Or you can [jump ahead](#story-of-sursringar) to the story!
 
@@ -58,7 +58,7 @@ Some of the fundamental changes Jaffar Khan made, were the fixing of a metal pla
 
 *A Sursringar from the author’s collection crafted by the late Mohan Lal Sharma.*
 
-Now that’s history. Or legend! Whatever may be the story behind its evolution, I can assure you that the Sursringar is one of the most charming and beautiful instruments, full of resonance, depth and beauty. It definitely well suited for playing the Dhrupad style of music, although it can be a challenging instrument to play. I hope to share a music clip of my sarod and sursringar in a subsequent post. The sursringar has alternately been called the *Swarsringar*, and its cousin the *Sarod* as the *Sharadiya Veena*[^5].
+Now that’s history. Or legend! Whatever may be the story behind its evolution, I can assure you that the Sursringar is one of the most charming and beautiful instruments, full of resonance, depth and beauty. It is definitely well suited for playing the Dhrupad style of music, although it can be a challenging instrument to play. I hope to share a music clip of my sarod and sursringar in a subsequent post. The sursringar has alternately been called the *Swarsringar*, and its cousin the *Sarod* as the *Sharadiya Veena*[^5].
 
 [^5]: Just how the Sarod and Sursringar are related is also a subject worth writing a post about. I have covered it in a [subsequent](/blog/sarod-and-sursringar) post.
 

@@ -48,10 +48,10 @@ The plectrum on the right is wrapped with a cloth dipped in beeswax. With the pl
 
 <br>
 
-A mizrab has traditionally been used for playing a Veena, Sitar or *Surbahar*. There is mention of a wire plectrum being used for playing sarod and sursringar too. But I am not sure of its shape or make, and whether it is the same as pictured above.
+A mizrab (as pictured above) has traditionally been used for playing a Veena, Sitar or *Surbahar*. There is mention of a wire plectrum being used for playing sarod and sursringar too. But I am not sure of its shape or make, and whether it is the same as pictured above.
 
-There are two basic solfas or syllables of plectrum use in a rabab, sarod or sursringar. The downward stroke is *Da*, and the upward stroke is *Ra*. Now, a combination of strokes can give rise to more syllables like *Dire*, *Dra*, etc, and a combination of syllables to form phrases like *Da Ra Dire Dire* and so on. These phrases are often used in very complex rhythmic patterns, especially in the composition section.
+There are two basic *solfas* or syllables of plectrum use in a rabab, sarod or sursringar. The downward stroke is *Da*, and the upward stroke is *Ra*. Now, a combination of strokes can give rise to more syllables like *Dire*, *Dra*, etc, and a combination of syllables to form phrases like *Da Ra Dire Dire* and so on. These phrases are often used in very complex rhythmic patterns, especially in the composition section.
 
-Sursringar by temperament is suited for a slow melodic exploration of Ragas (Alap). Although modern Sarod is capable of Alap, by temperament, it is well suited for fast playing, complex rhythmic patterns played on strings known as *Tarparan* (tar - string, paran - rhythmic patterns)
+Sursringar by temperament is suited for a slow melodic exploration of Ragas (Alap). Although modern Sarod is capable of Alap, by temperament, it is well suited for fast playing passages with complex rhythmic patterns played on strings known as *Tarparan* (tar - string, paran - rhythmic patterns).
 
-Considering some of the similarities between the instruments, and the fact that Sursringar evolved earlier than present day Sarod, it may be a conjecture to say that Sarod took inspiration from Sursringar. Or did they evolve independently? If you have any thoughts on the subject, do [leave me a note](/contact/#leave-a-message).
+Considering some of the similarities between the instruments, and the fact that Sursringar evolved earlier than the present day Sarod, it may be a conjecture to say that Sarod took inspiration from Sursringar. Or did they evolve independently? If you have any thoughts on the subject, do [leave me a note](/contact/#leave-a-message).
