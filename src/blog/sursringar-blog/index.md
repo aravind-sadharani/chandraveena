@@ -27,6 +27,7 @@ The early rabab came to be called Afghan Rabab or Kabuli Rabab and the latter Se
 [^1]: Lute is a plucked string musical instrument. It typically is made of wood, has a hollow rounded resonator with a neck (fret board) attached to it, and a sound board covering it. 
 
 [Read more](https://en.m.wikipedia.org/wiki/Lute) about lute.
+<br>
 [Read more](https://en.m.wikipedia.org/wiki/Rubab_(instrument)) about rabab.
 
 </notice-box>
@@ -42,6 +43,7 @@ Rudra Veena is a stick *zither*[^2], a long hollow round stem (made of bamboo or
 [^2]: Zither is a string instrument which typically is made of wood, has a flat hollow body which acts as the resonator, and strings running over the body. Compared to lute, it doesnt have a seperate rounded resonator, and a neck.
 
 [Read more](https://en.m.wikipedia.org/wiki/Zither) about Zither.
+<br>
 [Read more](https://en.m.wikipedia.org/wiki/Rudra_veena) about Rudra Veena.
 
 
