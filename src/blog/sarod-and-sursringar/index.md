@@ -13,7 +13,7 @@ There are varied accounts on the evolution of the rabab, the sarod and the sursr
 ### Sarod
 
 <br>
-![Sarod](/images/sarod.jpg)
+![Sarod](../../../images/sarod.jpg)
 
 *A Sarod from the author’s collection crafted by the late Mohan Lal Sharma.*
 <br>
