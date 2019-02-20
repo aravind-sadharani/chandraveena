@@ -92,7 +92,7 @@ module.exports = {
       options: {
         channelId: ['UCvy6YWW_J7M3t6BXArVaePw', 'UCuS4qFPMqowcEiRv6cUy4sQ', 'UCxPyMV4LS9YBePXM0mV4hjg'],
         apiKey: process.env.YOUTUBE_API_KEY,
-        maxVideos: 50 // Defaults to 50
+        maxVideos: 3 // Defaults to 50
       },
     },
     `gatsby-plugin-netlify-cache`,

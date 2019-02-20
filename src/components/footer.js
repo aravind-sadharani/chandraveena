@@ -54,9 +54,9 @@ export default ({search}) => {
       <Footercontent>
         <ul>
           <li><Link to="/contact/">Contact |&nbsp;</Link></li>
+          <li><Link to="/acknowledgments/">Acknowledgments |&nbsp;</Link></li>
           <li><Link to="/press/">Press Coverage |&nbsp;</Link></li>
-          <li><Link to="/terms/">Terms of Use |&nbsp;</Link></li>
-          <li><Link to="/sitemap/">Sitemap</Link></li>
+          <li><Link to="/terms/">Site Terms</Link></li>
         </ul>
         <p>Copyright &copy; 2018 - <Link to="/">{author}</Link></p>
         <p>Designed and Developed by <a href={designer.url}>{designer.name} <Inlineimg src={designlogo}/></a></p>
