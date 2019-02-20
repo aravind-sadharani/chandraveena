@@ -33,7 +33,7 @@ const processTagP = (tag) => (
   tag.children.map((childTag) => {
     if(childTag.type === "text")
       return childTag.value
-    else if(childTag.type === "element")
+    else if(childTag.type === "element" && childTag.children[0])
       return childTag.children[0].value
     return null
   }).join('')
