@@ -88,7 +88,7 @@ module.exports = {
     },
     `gatsby-plugin-catch-links`,
     {
-      resolve: `gatsby-source-youtube`,
+      resolve: `gatsby-source-youtube-v2`,
       options: {
         channelId: ['UCvy6YWW_J7M3t6BXArVaePw', 'UCuS4qFPMqowcEiRv6cUy4sQ', 'UCxPyMV4LS9YBePXM0mV4hjg'],
         apiKey: process.env.YOUTUBE_API_KEY,
