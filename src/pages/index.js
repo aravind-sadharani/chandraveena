@@ -37,18 +37,18 @@ const indexPage = () => (
     />
     <h2>Maarga Sangeet</h2>
     <p>
-      Maarga Sangeet is an ancient yet timeless tradition of Indian music. It is a way of life where music becomes the artist&apos;s medium of communication. From its early origins in the chants of Rig Veda and the singing of the Saama Veda, the rules and principles of Indian music have evolved into the sophisticated system of Indian Raagas, and the artistic philosophy of Maarga Sangeet.
+      Maarga Sangeet is an ancient yet timeless tradition of Indian music. It is a way of life where music becomes the medium of communication, and a representation of the artists' life journeys. From its early origins in the monotonic chants of Rig Veda and the heptatonic singing of the Saama Veda, the rules and principles of Indian music have evolved into the sophisticated system of Indian Raagas and Talas. This forms the basis for the artistic philosophy of Maarga Sangeet.
     </p>
     <p>
-      Balachander plays the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. In its contemporary form, Dhrupad consists of two sections, Aalap which is a free flowing creative exploration of the Raaga without any percussion accompaniment, and a Composition accompanied by percussion, which is a poetry or instrumental composition set to a fixed cycle of beats. Dhrupad is characterised by a gradual and methodical unfurling of the Raaga.
+      Dhrupad, a legacy of Sacred Indian music and scriptures, is a traditional rendering of Maarga Sangeet. In its contemporary form, Dhrupad consists of two sections, Aalap which is a free flowing creative exploration of the Raaga without any percussion accompaniment, and a Composition, which is a poetry or instrumental composition, set to a fixed cycle of beats and accompanied by a percussion instrument. Dhrupad is characterised by a gradual and methodical unfurling of the Raaga. Balachander plays Chandraveena based on the broad principles of Dhrupad.
     </p>
     <h2>Chandraveena</h2>
     <p>
-      In Maarga Sangeet, every performance is a musical offering, and to render it in the Dhrupad style, it needs a systematic and contemplative exploration. Naturally, it requires an appropriate musical instrument to respond to the artist&apos;s will. Chandraveena is a contemporary string instrument based on the Saraswati Veena, a traditional Indian string instrument. Chandraveena has been specially designed to enable the artist to create elaborate musical phrases and subtle intonations which are a hallmark of the Dhrupad style, while still retaining the sonic character of the Saraswati Veena.
+      Chandraveena, is a contemporary Indian string instrument and belongs to the Veena family of instruments. Its is structurally and sonically based on Saraswati Veena, a traditional Indian string instrument. Chandraveena has been designed to support a systematic and contemplative exploration of Indian Raagas, and enable the artist to create elaborate musical phrases and subtle intonations.
     </p>
     <h2>S. Balachander</h2>
     <p>
-      Balachander, an Indian musician and multi-instrumentalist, is the creator and performing artist of the Chandraveena. In the course of a <Link to="/about">long and interesting musical journey</Link>, he was inspired by the artistry of his Gurus, and the beauty of the musical form, to create the Chandraveena.
+      Balachander, an Indian musician and multi-instrumentalist, is the creator, inventor and performing artist of the Chandraveena. In the course of a <Link to="/about">long and interesting musical journey</Link>, he was inspired by the artistry of his Gurus, and the beauty of the musical form, to create the Chandraveena. His music is a reflection of his varied training in Indian music, and his own interpretation, thoughts and experiences.
     </p>
     <Noticebox center>
       Experience the music.<br />
