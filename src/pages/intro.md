@@ -1,15 +1,19 @@
 ---
-title: Understanding Indian Music by S. Balachander
+title: Chandraveena by S. Balachander
 date: {}
 published: true
 search: true
 image: "../../images/Favicon.png"
 description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. Here is a short introduction to Maarga Sangeet, Dhrupad and the Chandraveena. Read on to find out!"
 ---
-## A Glimpse
-Hello. Here is a brief glimpse into a typical structure of a Chandraveena recital. 
+Welcome! Here is an introduction to my music on the Chandraveena and how it relates to Maarga Sangeet and Dhrupad. For full length recordings, please check out my <a href="/discography/"><inline-button>Discography</inline-button></a>.
 
-<you-tube videoid="ladiskWVFfY" starttime="590" endtime="1181"></you-tube>
+<br>
+
+## A Glimpse
+Before we begin, here is a brief glimpse of a typical Chandraveena recital.
+
+<you-tube videoid="SRu4Er6_GB0"></you-tube>
 <br>
 
 By no means does this clip fully represent and showcase the musical form, but it provides a glimpse into the musical improvisations and expressive power that is possible. To better understand and appreciate, let us begin by tracing the origins of Indian music.
@@ -55,29 +59,29 @@ The Aalap is performed in three parts.
 
 1. The first part is again called **Aalap**. This is the free flowing exposition of a Raaga (melody) within the Grammar of the Raaga, and the rules of Dhrupad. Here, we explore different facets of the Raaga, the subtleties of every note and phrase, and use of different Alankars (ornamentation) to effectively bring out emotions, all the while maintaining the purity of the structure.
 
-<you-tube videoid="2iafMZkgBZ8" starttime="191" endtime="386"></you-tube>
+<you-tube videoid="ok40mCW-d7g"></you-tube>
 <br>
 
 2. **Jod** is the second part of Aalap, where there is a sense of self-rhythm or pulse created which is built into the musical phrases. The self-rhythm is created by the appropriate use of the rhythm strings built in the instrument.
 
-<you-tube videoid="2iafMZkgBZ8" starttime="1600" endtime="1798"></you-tube>
+<you-tube videoid="Kt3yiEl1B8E"></you-tube>
 <br>
 
 3. **Jhala** is the faster rhythmic section of the aalap. In this section, there is extensive use of the rhythm strings, creating a feeling of dancing movements.
 
-<you-tube videoid="WttEbPZgtS4" endtime="124"></you-tube>
+<you-tube videoid="xZ9NpXxeF98"></you-tube>
 <br>
 
 ### Composition
 
 The composition is either a lyrical poetry (in case of vocal music) or a musical phrase (instrumental composition called Gat) created to a certain fixed rhythmic cycle. Some of the most common rhythmic cycles are Chautal (12 beats), Dhamaar (14 beats) and Tivra (7 beats). Here, we create different improvised rhythmic musical phrases within the framework of the Raaga, and repeatedly rejoin the main basic phrase, either over a single cycle or after multiple cycles.
 
-<you-tube videoid="ladiskWVFfY" endtime="164"></you-tube>
+<you-tube videoid="OhIrbLBX0OI"></you-tube>
 <br>
 
 ## Thanks for Listening!
 
-This has been quite a long introduction. If you have made it this far, I appreciate your patience. But even this is just a beginning - there is much much more to Indian music. It has been an extraordinary journey for me, and it is very much an ongoing one! Every day is an opportunity to improve, to be one with the musical form, and to be able to emote through the medium of music to you, my listeners.
+This has been quite a long introduction. If you have made it this far, I appreciate your patience. But even this is just a beginning - there is much much more to Indian classical music. It has been an extraordinary journey for me, and it is very much an ongoing one! Every day is an opportunity to improve, to be one with the musical form, and to be able to emote through the medium of music to you, my listeners.
 
 I hope you enjoyed the music. And do check out my complete performances from the Discography page. Thanks for listening!
 
