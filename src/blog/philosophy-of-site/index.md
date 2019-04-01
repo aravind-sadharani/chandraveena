@@ -45,7 +45,12 @@ Over a period of time, as my understanding of music goes deeper, beyond the basi
 
 <mark>Some comments on how specifically this path is forged. Being true to the musical form (raga and tala) and yet being open minded to ideas and influences in improvisation. Or something on these lines. </mark>
 
-Eventually, I hope that my music is a reflection of my identity.
+I read something interesting recently. It goes :
+
+>*Instead of thinking outside the Box, Get rid of the box*
+
+This assumes ofcourse that one knows what the box is ! Often *Thinking out of the box* is misconstrued as unregulated thinking or process. Thats anarchy ! Thats a misnomer. Thinking out of the box - is , first you understand the box, you understand everything in the box, you understand the boundary values of the box, internalise the box and push to the limits. Having mastered everything inside, one could prod and poke outside the boundary, and explore. Eventually, at the highest level of creative thinking, one could drop the box altogether because even in sleep one would know where the box is ! 
+I am still in the box, wiser and more knowledgeable than before but sitll exploring, understanding the limits of the box, and prodding at the boundaries. Chandraveena is a culmination of understanding the contemplative music I wished to make, understanding the beauty of Saraswati Veena and maintaining its sonic character and structure , and yet get the deep resonance of Rudra Veena. Digging into my past and child hood memories, my music is an attempt in bringing together the beauty of temple chants, principles of Dhrupad, subtle Gamakams (tremolos) of the South Indian style, alap jod jhala of the North with the Ragam Tanam Pallavi of the South, the glides of Sarod which drew me as a kid, the complex rhythmic structure and possibilites that exist in the South Indian percussion system..thats a lot.. and its a sincere effort to bring them all together in a seamless way, and I hope as I understand and experience better, I will eventually be able to drop the box.
 
 > Maarga Sangeet - Seeking identity through the Path of Music
 
