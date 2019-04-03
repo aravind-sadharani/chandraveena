@@ -6,7 +6,7 @@ search: true
 image: "../../images/Favicon.png"
 description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. Here is a short introduction to Maarga Sangeet, Dhrupad and the Chandraveena. Read on to find out!"
 ---
-Hello, and welcome to the introduction to my music on the Chandraveena. 
+Hello and welcome! Here is a step-by-step introduction to my music on the Chandraveena. Check my <a href="/discography/"><inline-button>Discography</inline-button></a> if you would like to jump ahead to my full length recordings.
 
 <br>
 
@@ -18,15 +18,15 @@ Before we begin, here is a brief glimpse of a typical Chandraveena recital.
 
 By no means does this clip fully represent and showcase the musical form, but it provides a glimpse into the musical improvisations and expressive power that is possible. To better understand and appreciate, let us understand all the parts of this recital.
 
-## Building blocks - Raga and Tala <mark>(link to post ??)</mark>
-> Raga and Tala - foundations to crafting a musical performance.
+## Building blocks - Raga and Tala
 
-This recital maybe understood in two parts. As you may have noticed, there is a part without percussion, and a part with percussion accompaniment. The first part of the recital is a free flowing expression of the Raga based on the fundamental principles of Dhrupad, without any percussion accompaniment. The second part is a composition set to a fixed cycle of beats, in this case 12 beats, also known as Chautal. This two part presentation is a very typical legacy of Dhrupad. Dhrupad, a shortening of Dhruva-Pada (fixed verse), is a style of music evolved from a poetry based musical style called Prabandha (arrangement). In its contemporary musical form, Dhrupad consists of two sections, Anibaddha (unbound) which is a free flowing music also called Aalap, and Nibaddha (bound) which is a poetry or instrumental composition set to a fixed cycle of beats accompanied by a percussion instrument. Dhrupad is contemplative music by nature, and is characterised by a gradual and methodical unfurling of the musical possibilities of the Raaga.
+This recital maybe understood in two parts. As you may have noticed, there is a part without percussion, and a part with percussion accompaniment. The first part of the recital is a free flowing expression of the Raga based on the fundamental principles of Dhrupad, without any percussion accompaniment. The second part is a composition set to a fixed cycle of beats, in this case 12 beats, also known as Chautal. This two part presentation is a very typical tradition of Dhrupad.
 
-## Chandraveena <mark>(link to post ??)</mark>
-> Chandraveena - a modern string instrument of Veena family designed to emote
+Dhrupad, a shortening of Dhruva-Pada (fixed verse), is a style of music evolved from a poetry based musical style called Prabandha (arrangement). In its contemporary musical form, Dhrupad consists of two sections, Anibaddha (unbound) which is a free flowing music also called Alap, and Nibaddha (bound) which is a poetry or instrumental composition set to a fixed cycle of beats accompanied by a percussion instrument. Dhrupad is contemplative music by nature, and is characterised by a gradual and methodical unfurling of the musical possibilities of the Raga.
 
-In my pursuit, the Chandraveena is my musical instrument of choice, to help me to portray different aspects of Indian music in all its finesse. Chandraveena is a contemporary string instrument based on the Saraswati Veena, a traditional Indian string instrument. It has been specially designed to enable me to create elaborate musical phrases and subtle intonations. Chandraveena has a calm, deep and resonating sound, which creates the ideal soundscape for the contemplative music.
+## Chandraveena - a modern string instrument
+
+In my pursuit, the Chandraveena is my musical instrument of choice, to help me to portray different aspects of Indian music in all its finesse. Chandraveena is a contemporary string instrument based on the Saraswati Veena, a traditional Indian string instrument. It has been specially designed to enable the creation of elaborate musical phrases and subtle intonations. Chandraveena has a calm, deep and resonating sound, which creates the ideal soundscape for the contemplative music.
 
 ## Structure of a Performance
 
@@ -68,7 +68,7 @@ This composition has been set to a cycle of 12 beats, also called Chautal
 
 ## Thanks for Listening!
 
-This has been quite a long introduction. If you have made it this far, I appreciate your patience. But even this is just a beginning - there is much much more to Indian classical music. It has been an extraordinary journey for me, and it is very much an ongoing one! Every day is an opportunity to improve, to be one with the musical form, and to be able to emote through the medium of music to you, my listeners.
+This has been quite a long introduction. If you have made it this far, I appreciate your interest and patience. But even this is just a beginning - there is much much more to Indian classical music. It has been an extraordinary journey for me, and it is very much an ongoing one! Every day is an opportunity to improve, to be one with the musical form, and to be able to emote through the medium of music to you, my listeners.
 
 I hope you enjoyed the music. And do check out my complete performances from the Discography page. Thanks for listening!
 
