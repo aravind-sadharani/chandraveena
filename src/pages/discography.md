@@ -11,7 +11,7 @@ Hello and welcome! Start at the <a href="/intro/"><inline-button>Introduction</i
 
 ## Featured Audio
 
-Here is a rendition of Raag Ahir Bhairav on Chandraveena in an informal baithak at my residence.
+Here is a rendition of Raga Ahir Bhairav on Chandraveena in an informal baithak at my residence.
 
 <band-camp albumid="3106704254" albumname="an-informal-baithak" albumtitle="An Informal Baithak by S Balachander"></band-camp>
 
@@ -22,7 +22,7 @@ You can download a high quality lossless audio version of this track and other r
 
 ## Latest Videos
 
-Here are a few renditions of Raag Bhairavi recorded at my residence.
+Here are a few renditions of Raga Bhairavi recorded at my residence.
 
 <you-tube-channel channelid="UCxPyMV4LS9YBePXM0mV4hjg"></you-tube-channel>
 
