@@ -18,6 +18,21 @@ const UnlinkedButton = styled.button`
   cursor: pointer;
 `
 
+const UnlinkedInlineButton = styled.button`
+  display: inline-block;
+  border-radius: 0.1rem;
+  padding: 0 0.5rem;
+  margin: 0 0.1rem;
+  background: ${props => props.background ? props.background : `#859e6b`};
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  border: 0;
+  font-size: 0.9em;
+  font-weight: 400;
+  cursor: pointer;
+`
+
 const UnlinkedCta = styled(UnlinkedButton)`
   padding: 0.3rem 0;
   margin: 0;
@@ -30,8 +45,12 @@ const Button = ({to,children,background}) => (
   <Link to={to}><UnlinkedButton background={background}>{children}</UnlinkedButton></Link>
 )
 
+const InlineButton = ({to,children,background}) => (
+  <Link to={to}><UnlinkedInlineButton background={background}>{children}</UnlinkedInlineButton></Link>
+)
+
 const Cta = ({to,children}) => (
   <Link to={to}><UnlinkedCta>{children}</UnlinkedCta></Link>
 )
 
-export {UnlinkedButton, Button, Cta}
+export {UnlinkedButton, Button, InlineButton, UnlinkedInlineButton, Cta}

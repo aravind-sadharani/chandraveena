@@ -58,8 +58,4 @@ Some of the fundamental changes Jaffar Khan made, were the fixing of a metal pla
 
 *A Sursringar from the author’s collection crafted by the late Mohan Lal Sharma.*
 
-Now that’s history. Or legend! Whatever may be the story behind its evolution, I can assure you that the Sursringar is one of the most charming and beautiful instruments, full of resonance, depth and beauty. It is definitely well suited for playing the Dhrupad style of music, although it can be a challenging instrument to play. I hope to share a music clip of my sarod and sursringar in a subsequent post. The sursringar has alternately been called the *Swarsringar*, and its cousin the *Sarod* as the *Sharadiya Veena*[^5].
-
-[^5]: Just how the Sarod and Sursringar are related is also a subject worth writing a post about. I have covered it in a [subsequent](/blog/sarod-and-sursringar) post.
-
-I hope you enjoyed the story. If there is any related topic you would like to see covered, please [drop me a line](/contact/#leave-a-message).
+Now that’s history. Or legend! Whatever may be the story behind its evolution, I can assure you that the Sursringar is one of the most charming and beautiful instruments, full of resonance, depth and beauty. It is definitely well suited for playing the Dhrupad style of music, although it can be a challenging instrument to play. I hope to share a music clip of my sarod and sursringar in a subsequent post. Just how the two instruments are related is also a subject worth writing a post about. I have covered it in a [subsequent](/blog/sarod-and-sursringar) post.

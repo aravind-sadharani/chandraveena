@@ -58,7 +58,7 @@ export default ({search}) => {
           <li><Link to="/press/">Press Coverage |&nbsp;</Link></li>
           <li><Link to="/terms/">Site Terms</Link></li>
         </ul>
-        <p>Copyright &copy; 2018 - <Link to="/">{author}</Link></p>
+        <p>Licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC) BY-NC-ND</a> by <Link to="/">{author}</Link></p>
         <p>Designed and Developed by <a href={designer.url}>{designer.name} <Inlineimg src={designlogo}/></a></p>
       </Footercontent>
     </Footer>

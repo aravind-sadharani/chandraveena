@@ -1,9 +1,15 @@
 ---
-title: "Why the Chandraveena - Part II"
+title: "The Making of Chandraveena"
 date: 2019-02-18
-image: "../../../images/IMG_7198.JPG"
+image: "../../../images/making-chandraveena.png"
 description: "For those who may have landed on this link, and not aware - Chandraveena is a modern instrument, based on the more traditional Saraswati Veena, but designed and built to play Dhrupad. This instrument was designed by me, and the first prototype was built my personal instrument maker, the Late Mohan Lal Sharma from Kolkata."
 ---
+
+![Making-of-Chandraveena](making-chandraveena.png)
+
+<br>
+
+During one of the many discussions and conversations on music I have had with Ustad Z F Dagar, both he and Bahauddin Dagar suggested to me that I should explore the idea of playing Saraswati Veena all over again (because of my early training on that instrument), and this time in Dhrupad style! How I reached that point is a story in itself which you can read [here](/blog/why-chandraveena/).
 
 When the idea of playing Dhrupad on Saraswati Veena was mooted by Ustad Z F Dagar and Ustad Bahauddin Dagar, I took up the idea with excitement but also some trepidation. Even though I had some early basic training in Saraswati Veena - which is what gave the idea to the Ustads - it was more than 15 years since I had last played the instrument. In the interim 15 years, all my training was on Sarod and the concepts of Dhrupad.
 

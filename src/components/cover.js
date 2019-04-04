@@ -54,7 +54,7 @@ export default () => (
     <Caption>
       <h3>Maarga Sangeet</h3>
       <h4>&mdash; a Musical Journey</h4>
-      <Cta to="/intro/">Listen Now</Cta>
+      <Cta to="/discography/">Listen Now</Cta>
     </Caption>
   </Cover>
 )

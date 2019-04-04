@@ -4,7 +4,7 @@ date: 2019-01-18
 image: "../../../images/sarod-sursringar.jpg"
 description: "There are varied accounts on the evolution of rabab, sarod and sursringar. Many have written articles, journal papers and books on the subject. Never minding the history and its evolution, I am interested in talking about the two instruments, its commonalities and differences."
 ---
-Having spent many years [learning Sarod](/about/#early-days-and-music-training), and then some more in a keen quest for the [elusive Sursringar](/blog/why-chandraveena/), I only thought it appropriate to write a post describing these two beautiful instruments. They are alike, and yet, worlds apart!
+Having spent many years [learning Sarod](/about/#early-days-and-music-training), and then some more in a keen quest for the elusive Sursringar, I only thought it appropriate to write a post describing these two beautiful instruments. They are alike, and yet, worlds apart!
 
 There are varied accounts on the evolution of the rabab, the sarod and the sursringar. Many researchers and commentators have written articles, journal papers and books on the subject. Setting aside the history of these instruments, I would like to talk about sarod and sursringar, as they are played today, from the perspective of their design and musical capability.
 
