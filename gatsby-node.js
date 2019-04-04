@@ -39,10 +39,10 @@ exports.createPages = ({ graphql, actions }) => {
         let prev, next = null
         if(node.fileAbsolutePath.includes("/src/blog/")) {
           prev = index === 0 ? null : posts[index-1].node
-          if(!prev.fileAbsolutePath.includes("/src/blog/"))
+          if(prev && !prev.fileAbsolutePath.includes("/src/blog/"))
             prev = null
           next = index == posts.length - 1 ? null: posts[index+1].node
-          if(!next.fileAbsolutePath.includes("/src/blog/"))
+          if(next && !next.fileAbsolutePath.includes("/src/blog/"))
             next = null
         }
         createPage({
