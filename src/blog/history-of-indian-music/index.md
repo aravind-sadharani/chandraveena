@@ -1,7 +1,7 @@
 ---
 title: "Chants to Ragas - The Story of Indian Music"
 date: 2019-01-19
-image: "../../../images/Favicon.png"
+image: "../../../images/chant-raga.png"
 description: "From early Vedic periods, music has been recognised as a powerful means of expressing and stimulating emotions."
 ---
 
@@ -27,7 +27,7 @@ Notice how even this small step of adding musical notes and phrases, already mak
 
 ## Raga and Tala system
 
-While there was metre and melody to the chants, it did not have a very definitive structure of a musical form. Over a period of time, many scholars undertook extensive study of music, as a form in its own right. We recognised early on, the dominant harmonic of an open string, the fifth (*Pa*). Taking that as a ratio, we created a series of harmonics, which later came to be called the cycle of fifths. This formed one of the earliest structured scale in Indian music, with 12 notes per octave. And from this basic structure, we created scales symmetric about the fifth (Pa). Some of these earliest scales are known today as *Kharaharapriya or Kafi* and *Malavagoula or Bhairav*.
+While there was metre and melody to the chants, it did not have a very definitive structure of a musical form. Over a period of time, many scholars undertook extensive study of music, as a form in its own right. We recognised early on, the dominant harmonic of an open string, the fifth (*Pa*). Taking that as a ratio, we created a scale based on successive fifth harmonics, known as *Pancham Samwad*. This scale is also known as *Pythagorean Tuning*. This formed one of the earliest structured scale in Indian music, with 12 notes per octave. And from this basic structure, we created scales symmetric about the fifth (Pa). Some of these earliest scales are known today as *Kharaharapriya or Kafi* and *Malavagoula or Bhairav*.
 
 Further scales were created from these by transposition. Meaning, you create a new scale by starting at a different note of the original scale, and going up to its octave. These transpositions were and are called *murchchana*. Today, we sing these base scales, and their transpositions to a fixed fundamental note called *Sa*. The *Sa* is defined by the drone of the *tanpura*, and the scales are today called *Ragas*. This is a simplified explanation. There are, of course, complex grammar rules to rendering a raga, and further evolutions to the structure of a Raga which I hope to cover in subsequent posts.
 
