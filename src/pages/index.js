@@ -44,7 +44,7 @@ const indexPage = () => (
     </p>
     <h2>S. Balachander</h2>
     <p>
-      Balachander, an Indian classical musician and multi-instrumentalist, is the creator, inventor and performing artist of the Chandraveena. In the course of his musical journey, he was inspired by the artistry of his Gurus, and the beauty of the musical form, to create the Chandraveena. Balachander plays Chandraveena according to the principles of Dhrupad, but his music is also a reflection of his varied training in Indian classical music, and his own interpretation, thoughts and experiences. <InlineButton to="/about/">About Balachander</InlineButton>
+      Balachander, an Indian classical musician and multi-instrumentalist, is the creator, inventor and performing artist of the Chandraveena. In the course of his musical journey, he was inspired by the artistry of his Gurus, and the beauty of the musical form, to create the Chandraveena. Taking inspiration from his deep training and understanding of Dhrupad, Balachander's playing style is a reflection of his varied training in Indian classical music, and his own interpretation, thoughts and experiences. <InlineButton to="/about/">About Balachander</InlineButton>
     </p>
     <Noticebox center>
       Start with an Introduction to a typical Chandraveena recital. Or check out the Discography.<br />
