@@ -11,7 +11,7 @@ description: "Hello, I am Balachander, a Chandraveena artist performing Indian C
 
 <br>
 
-Hello, I am Balachander, a Chandraveena artist performing Indian Classical Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
+Namaste. I am Balachander, a Chandraveena artist performing Indian Classical Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
 
 If you are looking for a downloadable biography, [here is one](/assets/Biography.pdf). If you would like to get in touch, please write to me.
 
