@@ -29,6 +29,18 @@ Notice how even this small step of adding musical notes and phrases, already mak
 
 While there was metre and melody to the chants, it did not have a very definitive structure of a musical form. Over a period of time, many scholars undertook extensive study of music, as a form in its own right. We recognised early on, the dominant harmonic of an open string, the fifth (*Pa*). Taking that as a ratio, we created a scale based on successive fifth harmonics, known as *Pancham Samwad*. This scale is also known as *Pythagorean Tuning*. This formed one of the earliest structured scale in Indian music, with 12 notes per octave. And from this basic structure, we created scales symmetric about the fifth (Pa). Some of these earliest scales are known today as *Kharaharapriya or Kafi* and *Malavagoula or Bhairav*.
 
+To represent the notes of the heptatonic scale, we created a nomenclature which is as follows :
+
+The tonic note or the fundamental : Shadaj - represented by Sa
+Second Note : Rishab - Re
+Third Note : Gandhar - Ga
+Fourth Note : Madhyam - Ma
+Fifth Note : Pancham - Pa
+Sixth Note : Dhaivat - Dha
+Seventh Note : Nishad - Ni
+
+Within this, there is Tivra or Sharp Notes, and Komal or Flat notes. Even though the positions can be determined by the "cycle of fifths" or pancham bhav and "cycle of fourths" or madhyam bhav, they are only reference positions for the notes. Often times, subtle intonations are used in the context of a Raga - an artists' interpretation to portray a certain image / emotion of the Raga. So, each note represented by the nomenclature has "shades of colors" around the note, and not always a fixed position like that of in a piano or harmonium.
+
 Further scales were created from these by transposition. Meaning, you create a new scale by starting at a different note of the original scale, and going up to its octave. These transpositions were and are called *murchchana*. Today, we sing these base scales, and their transpositions to a fixed fundamental note called *Sa*. The *Sa* is defined by the drone of the *tanpura*, and the scales are today called *Ragas*. This is a simplified explanation. There are, of course, complex grammar rules to rendering a raga, and further evolutions to the structure of a Raga which I hope to cover in subsequent posts.
 
 It is apparent that we recognised the importance of metre even in early Vedic chants. Using appropriate intonations and metre structure, even the Rig vedic chants had a mesmerising effect, as in the example above. However, just like the evolutions of Ragas from Chants, scholars took this further, and over a period of time we evolved a sophisticated rhythmic structure. One of the earliest and most basic structure was a rhythmic cycle of 4 beats called Aadi Tal (Aadi also means origin or beginning) - which even today is practiced by many musicians under the names of Aadi Tal (8 beats in Carnatic, 16 beats in Dhrupad) or Teen Tal (16 beats in North Indian music). This further evolved into more complex rhythmic structures with different accents and varied number of beats (Jhap tal - 10 beats, Dhamar - 14 beats, Khanda Triputa - 9 beats, etc). Some of the most common percussion instruments are Pakhawaj, Mridangam, Tabla and Ghatam.
