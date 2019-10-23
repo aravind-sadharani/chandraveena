@@ -16,7 +16,7 @@ Before we begin, here is a brief glimpse of a typical Chandraveena recital.
 <you-tube videoid="SRu4Er6_GB0"></you-tube>
 <br>
 
-By no means does this clip fully represent and showcase the musical form, but it provides a glimpse into the musical improvisations and expressive power that is possible. To better understand and appreciate, let us review all the parts of this recital.
+By no means does this clip fully represent the music, but it provides a glimpse into the musical improvisations and expressive power that is possible. To better understand and appreciate, let us review all the parts of this recital.
 
 ## Building blocks - Raga and Tala
 
@@ -30,7 +30,7 @@ Read [this post](/blog/history-of-indian-music/) to learn more about the Indian 
 
 ## Chandraveena - a modern string instrument
 
-The recital has been performed on the Chandraveena, which is my musical instrument of choice. It enables me to portray different aspects of Indian music in all its finesse. Chandraveena is a contemporary string instrument. Though structurally similar to Saraswati Veena, a traditional Indian string instrument, Chandraveena has been designed to reflect the artists' musical identity. It has been specially designed to enable the creation of elaborate musical phrases and subtle intonations. Chandraveena has a calm, deep and resonating sound, which creates the ideal soundscape for the contemplative music.
+The recital has been performed on the Chandraveena, which is my musical instrument of choice. It enables me to portray different aspects of Indian music in all its finesse. Chandraveena is a contemporary string instrument. Though structurally similar to Saraswati Veena, a traditional Indian string instrument, I regard the Chandraveena as a reflection of my musical identity. It has been specially designed to enable the creation of elaborate musical phrases and subtle intonations. Chandraveena has a calm, deep and resonating sound, which creates the ideal soundscape for the contemplative music.
 
 Read [this post](/blog/making-of-chandraveena/) to learn more about the making of the Chandraveena.
 
@@ -67,7 +67,7 @@ The last two sections are commonly known as the Madhyamakalam or Tanam in Southe
 
 ### Composition
 
-The composition is either a lyrical poetry (commonly called "bandish" or "kriti" or "pallavi" in case of vocal music) or a musical phrase (instrumental composition called Gat) created to a certain fixed rhythmic cycle. Some of examples of rhythmic cycles are Aadi Tal (8/16 beats), Chautal (12 beats), Jhap / Jhampa (10 bests), Tivra (7 beats) etc. Here, we create different improvised rhythmic musical phrases within the framework of the Raga, and repeatedly rejoin the main basic phrase, either over a single cycle or after multiple cycles.
+The composition is either a lyrical poetry (commonly called "bandish" or "kriti" or "pallavi" in case of vocal music) or a musical phrase (instrumental composition called Gat) created to a certain fixed rhythmic cycle. Some of examples of rhythmic cycles are Aadi Tal (8/16 beats), Chautal (12 beats), Jhap/Jhampa (10 beats), Tivra (7 beats) etc. Here, we create different improvised rhythmic musical phrases within the framework of the Raga, and repeatedly rejoin the main basic phrase, either over a single cycle or after multiple cycles.
 
 This composition has been set to a cycle of 12 beats, also called Chautal
 

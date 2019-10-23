@@ -2,7 +2,7 @@
 title: "The Making of Chandraveena"
 date: 2019-02-18
 image: "../../../images/making-chandraveena.png"
-description: "For those who may have landed on this link, and not aware - Chandraveena is a modern instrument, based on the more traditional Saraswati Veena, but designed and built to play Indian classical music based on the guiding principles of the musical form of Dhrupad. This instrument was designed by me, and the first prototype was built my personal instrument maker, the Late Mohan Lal Sharma from Kolkata."
+description: "For those who may have landed on this link, and not aware - Chandraveena is a modern instrument, based on the more traditional Saraswati Veena, but designed and built to play Indian classical music based on the guiding principles of Dhrupad. This instrument was designed by me, and the first prototype was built my instrument maker, the Late Mohan Lal Sharma from Kolkata."
 ---
 
 ![Making-of-Chandraveena](making-chandraveena.png)
