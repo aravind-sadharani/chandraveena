@@ -13,7 +13,7 @@ Namaste. Here is a step-by-step introduction to my music on the Chandraveena. Ch
 ## A Glimpse
 Before we begin, here is a brief glimpse of a typical Chandraveena recital.
 
-<you-tube videoid="SRu4Er6_GB0"></you-tube>
+<you-tube videoid="Y5N0BoWIWfM"></you-tube>
 <br>
 
 By no means does this clip fully represent the music, but it provides a glimpse into the musical improvisations and expressive power that is possible. To better understand and appreciate, let us review all the parts of this recital.
@@ -50,19 +50,19 @@ The Alap is performed in three parts.
 
 1. The first part is again called **Alap**. This is the free flowing exposition of a Raga (melody) within the Grammar of the Raga Alapana. Here, we explore different facets of the Raga, the subtleties of every note and phrase, and use of different Alankars (ornamentation) to effectively bring out emotions, all the while maintaining the purity of the structure.
 
-<you-tube videoid="ok40mCW-d7g"></you-tube>
+<you-tube videoid="UgfNPN2gnRc"></you-tube>
 <br>
 
 2. **Jod** is the second part of Alap, where there is a sense of self-rhythm or pulse created which is built into the musical phrases. The self-rhythm is created by the appropriate use of the rhythm strings built in the instrument.
 
-<you-tube videoid="Kt3yiEl1B8E"></you-tube>
+<you-tube videoid="kbYI_BW83UI"></you-tube>
 <br>
 
 3. **Jhala** is the faster rhythmic section of the alap. In this section, there is extensive use of the rhythm strings, creating a feeling of dancing movements.
 
 The last two sections are commonly known as the Madhyamakalam or Tanam in Southern India.
 
-<you-tube videoid="xZ9NpXxeF98"></you-tube>
+<you-tube videoid="3Jmr_nmSMEg"></you-tube>
 <br>
 
 ### Composition
@@ -73,7 +73,7 @@ This composition has been set to a cycle of 12 beats, also called Chautal
 
 This section is commonly known as the Pallavi in Southern India.
 
-<you-tube videoid="OhIrbLBX0OI"></you-tube>
+<you-tube videoid="lfmgzTthHC4"></you-tube>
 <br>
 
 ## Thanks for Listening!
