@@ -4,14 +4,14 @@ date: {}
 published: true
 search: true
 image: "../../images/IMG_7198.JPG"
-description: "Hello, I am Balachander, a Chandraveena artist performing Indian Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey. Read on to find out!"
+description: "Hello, I am Balachander, a Chandraveena artist performing Indian Classical Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey. Read on to find out!"
 ---
 
 ![Image](IMG_7198.JPG)
 
 <br>
 
-Hello, I am Balachander, a Chandraveena artist performing Indian Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
+Namaste. I am Balachander, a Chandraveena artist performing Indian Classical Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
 
 If you are looking for a downloadable biography, [here is one](/assets/Biography.pdf). If you would like to get in touch, please write to me.
 
@@ -32,15 +32,15 @@ My formal training in Music was in Sarod, under Pandit Pradeep Barot. Along the 
 
 ## Designing and Playing the Chandraveena
 
-Under the advise of Ustadji (Zia Fariduddin), in 2002, I undertook a research project to use acoustic principles, to modify and redesign the Saraswati Veena, to suit the style of Dhrupad. This research project was awarded a Junior Research Fellowship by the Ministry of Culture, Government of India, for the period 2004–2006. Officially titled “North Meets South: Dhrupad on Saraswati Veena”, I completed the project in 2007, and the new Veena was named “Chandraveena” by Ustadji. You can read more about the [journey leading to Chandraveena](/blog/why-chandraveena/) and the [story of its making](/blog/making-of-chandraveena/).
+Since I was trained on Sarod, Ustad Z. F. Dagar had the idea that one day I should play the combination of Sarod and Sursringar. However, at some point in my musical conversations, he felt I should rather try playing Saraswati Veena (due to my early training in Carnatic music). So, under the advise of Ustadji, in 2002, I undertook a research project to use acoustic principles, to modify and redesign the Saraswati Veena, to suit the style of Dhrupad. This research project was awarded a Junior Research Fellowship by the Ministry of Culture, Government of India, for the period 2004–2006. Officially titled “North Meets South: Dhrupad on Saraswati Veena”, I completed the project in 2007, and the new Veena was named “Chandraveena” by Ustadji. You can read more about the [journey leading to Chandraveena](/blog/why-chandraveena/) and the [story of its making](/blog/making-of-chandraveena/).
 
-Since 2007, I have been extensively touring and performing on Chandraveena, and at the same time, working on further improving the sound and responsiveness of the instrument. The instrument influences my playing style resulting in a natural blend of Carnatic and Dhrupad (Dagar) styles. The music is highly introspective and meditative in nature, keeping in consonance with the [philosophy of Maarga Sangeet](/blog/philosophy-of-music/).
+Since 2007, I have been extensively touring and performing on Chandraveena, and at the same time, working on further improving the sound and responsiveness of the instrument. The instrument and my thought process have mutually influenced one another, resulting in an evolving amalgamated style - a natural blend of Carnatic and Dhrupad (Dagar) styles. The music is highly introspective and meditative in nature, keeping in consonance with the [philosophy of Maarga Sangeet](/blog/philosophy-of-music/).
 
 ## Music and Professional Activities
 
-My interest in academics, history and musicology has led me to give many lecture demonstrations and talks on Indian Music, and on the Acoustics of Indian Musical Instruments. I also undertook an effort towards the preservation of the Sursringar, an instrument I was initially supposed to play, a rare and beautiful bass instrument which was often played alongside Rudra Veena, in the past. To continue the musical legacy forward, I also teach vocal and instrumental music in the traditional style. Check out my [blog posts](/blog/) related to Indian music. 
+My interest in academics, history and musicology has led me to give many lecture demonstrations and talks on Indian Music, and on the Acoustics of Indian Musical Instruments. I also undertook an effort towards the preservation of the Sursringar, an instrument I was initially supposed to play, a rare and beautiful bass instrument which was often played alongside Rudra Veena, in the past. To continue the musical legacy forward, I also teach vocal and instrumental music in the traditional style. Check out my [blog posts](/blog/) related to Indian music.
 
-Alongside music, I completed an M.Sc in Physics from St. Xaviers’ College, Mumbai and a Diploma in Computer Science from NCST, Mumbai. Having held various senior management positions in my corporate career, I took a sabbatical from 2002 - 2016 in pursuit of music. Currently, I hold the position of Chief Technologist, Comniscient Group, alongside continuing to pursue music as a performing artist.
+Alongside music, I completed an M.Sc in Physics from St. Xaviers’ College, Mumbai and a Diploma in Computer Science from NCST, Mumbai. Having held various senior management positions in my corporate career, I took a sabbatical in pursuit of music. Over the years, I have worked as a consultant to a number of organisations, while continuing to pursue music as a performing artist.
 
 ### Performances
 * Dhrupad Mela, Varanasi
@@ -70,8 +70,7 @@ Pandit Pradeep Barot, a renowned sarod player and a humble human being, was my f
 Meeting Ustad Zia Mohiuddin Dagar was a paradigm shift in my musical journey. His deep understanding of music, his kindness and ability to explain and express the most subtle of musical expressions touched me to the core. Over time, he became my Idol - the man and his music that I wished to emulate. Over a few years of our sporadic meetings, we often had discussions on Indian music of all forms, including Hindustani and Carnatic. These discussions, and his thoughts and approach to music have stayed with me and have been my guiding principle in my approach to music. His unfortunate passing away at an early age, and in the early years of my journey created a vacuum, and also changed my musical journey with many twists and turns. Today, as a performing Veena musician, I look back with veneration and gratitude for his role in shaping my music. [Read more](https://en.wikipedia.org/wiki/Zia_Mohiuddin_Dagar) about Ustad Zia Mohiuddin Dagar.
 
 ### Late Ustad Zia Fariduddin Dagar
-The vacuum created by the early passing away of Ustad Zia Mohiuddin Dagar was filled by the presence of his brother, the legendary vocalist Ustad Zia Fariduddin Dagar. Gradually, I picked up the pieces from where I had left off, and under his constant guidance and training, my musical understanding started maturing. Early on, the thought was that I should play Sarod and Sursringar. But later, Ustadji felt I should try playing the Saraswati Veena (due to my early training in Carnatic music on Saraswati Veena).
-After early attempts of trying to produce this style of music on Sarawati Veena, I realised its shortcomings. Based on the need, I redesigned the instrument to suit the Dhrupad style, which was later named Chandraveena by Ustadji.
+The vacuum created by the early passing away of Ustad Zia Mohiuddin Dagar was filled by the presence of his brother, the legendary vocalist Ustad Zia Fariduddin Dagar. Gradually, I picked up the pieces from where I had left off, and under his constant guidance and training, my musical understanding started maturing.
 
 His booming voice, the richness of his singing, his deep understanding and approach to music and life, our all night conversations on music and history and his fondness for delicacy cooking have all left an indelible mark on me. He became a life changing mentor and a father figure in my life till the end. And even after his demise, I carry his thoughts and principles in my heart. I am truly indebted and grateful to him, for the knowledge he bestowed on me. [Read more](https://en.wikipedia.org/wiki/Zia_Fariduddin_Dagar) about Ustad Zia Fariduddin Dagar.
 

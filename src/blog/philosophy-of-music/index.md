@@ -33,7 +33,7 @@ I have heard traces of Sarang in Kora music, scales of Darbari in Middle Eastern
 
 I have come to believe that local lifestyle, languages, cultural values, folk music, rites and rituals, and history are but a few of the important regional influences that could shape the variations and presentation of music - but underlying all that there is a certain Universality to Music. This has helped me to develop a belief in the underlying oneness of the Indian music system.
 
-## My Journey
+## My Journey - Music without Borders
 
 So how did it all come together for me?
 
@@ -43,7 +43,7 @@ In the early years of my musical training, it was all about understanding the ba
 
 This assumes of course that one knows what the box is! Often *thinking outside the box* is misconstrued as unregulated thinking. That's anarchy! And a misconception. In order to think out of the box, first, you must understand the box and everything in it. You must understand its boundaries and be able to push it. As an artist, you must aspire to the highest level of creative thinking, where you can express yourself without being concerned about the box!
 
-My framework is the system of Indian music, its Ragas and Talas, set by the principles of Dhrupad. My instrument of choice is the Chandraveena, which is a culmination of my understanding of the contemplative music I wished to make, understanding the beauty of Saraswati Veena and maintaining its sonic character, and yet getting the sustain and deep resonance of Rudra Veena. As I attempt to explore the limits of Dhrupad, my interpretation and expression of music has been influenced by my early exposures, the initial training in Saraswati Veena and Sarod, and ultimately, the belief in the underlying oneness of the system of Indian music.
+My framework is the system of Indian Classical music, its Ragas, Talas and grammar, and my rigorous training under the Dhrupad style. My instrument of choice is the Chandraveena, which is a culmination of my understanding of the contemplative music I wish to make. While maintaining the beauty and sonic character of Saraswati Veena, my attempt has been to endow Chandraveena and the music with its own identity - a reflection of my identity. As I attempt to explore the limits of Indian Classical music, my interpretation and expression has been influenced by my early exposures, initial training in Saraswati Veena and Sarod, deep understanding of Dhrupad, and ultimately, the belief in the underlying oneness of the system of Indian music.
 
 ## Maarga Sangeet - Seeking identity through the Path of Music
 

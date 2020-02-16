@@ -2,7 +2,7 @@
 title: "The Making of Chandraveena"
 date: 2019-02-18
 image: "../../../images/making-chandraveena.png"
-description: "For those who may have landed on this link, and not aware - Chandraveena is a modern instrument, based on the more traditional Saraswati Veena, but designed and built to play Dhrupad. This instrument was designed by me, and the first prototype was built my personal instrument maker, the Late Mohan Lal Sharma from Kolkata."
+description: "For those who may have landed on this link, and not aware - Chandraveena is a modern instrument, based on the more traditional Saraswati Veena, but designed and built to play Indian classical music based on the guiding principles of Dhrupad. This instrument was designed by me, and the first prototype was built my instrument maker, the Late Mohan Lal Sharma from Kolkata."
 ---
 
 ![Making-of-Chandraveena](making-chandraveena.png)
@@ -29,7 +29,7 @@ Here are some of the changes that were devised compared to Saraswati Veena, to a
 5. The thickness of the strings were increased, which gave depth to the sound of the instrument.
 6. The fret length was increased, which offered greater scope for creating longer phrases on a single fret.
 
-With this design, I started going in search of Veena makers in Mysore, Thanjavur, Trichy, Kolkata, and so on. Eventually I landed at the doorstep of someone who became my guide and personal instrument maker - the late Mohan Lal Sharma of Kolkata. Even though my initial approach to Mohan Lal Sharma was for Sursringar, he eventually agreed to be part of my experiments.
+With this design, I started going in search of Veena makers in Mysore, Thanjavur, Trichy, Kolkata, and so on. Eventually I landed at the doorstep of someone who became my guide and instrument maker - the late Mohan Lal Sharma of Kolkata. Even though my initial approach to Mohan Lal Sharma was for Sursringar, he eventually agreed to be part of my experiments.
 
 > Necessity is the mother of Invention
 
