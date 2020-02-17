@@ -2,12 +2,10 @@ import React from "react"
 import styled from "styled-components"
 import {media} from "../utils/mediatemplate"
 import {Link} from "gatsby"
-import {Inlineimg} from "./icons"
-import designlogo from "../../images/aravind-logo.svg"
 const author = "S. Balachander"
 const designer = {
-  "name": "Aravind Iyer",
-  "url": "https://www.aravindiyer.com"
+  "name": "Sadharani",
+  "url": "https://www.sadharani.com"
 }
 
 const ShortFooter = styled.div`
@@ -59,7 +57,7 @@ export default ({search}) => {
           <li><Link to="/terms/">Site Terms</Link></li>
         </ul>
         <p>Licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">(CC) BY-NC-ND</a> by <Link to="/">{author}</Link></p>
-        <p>Designed and Developed by <a href={designer.url}>{designer.name} <Inlineimg src={designlogo}/></a></p>
+        <p>Designed and Developed by <a href={designer.url}>{designer.name}</a></p>
       </Footercontent>
     </Footer>
   )

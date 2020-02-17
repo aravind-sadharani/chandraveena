@@ -13,7 +13,7 @@ description: "Hello, I am Balachander, a Chandraveena artist performing Indian C
 
 Namaste. I am Balachander, a Chandraveena artist performing Indian Classical Music. Before I reached this stage, much has happened, and this is the story of my Musical Journey.
 
-If you are looking for a downloadable biography, [here is one](/assets/Biography.pdf). If you would like to get in touch, please write to me.
+If you are looking for a [downloadable biography](/assets/Biography.pdf), click on the link. If you would like to get in touch, please write to me.
 
 <notice-box center=" ">
 

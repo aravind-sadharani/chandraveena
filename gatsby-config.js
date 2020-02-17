@@ -10,8 +10,8 @@ module.exports = {
     description: "Chandraveena is a contemporary string instrument based on the Saraswati Veena, a traditional Indian string instrument. Balachander, an Indian classical musician and multi-instrumentalist, is the creator and performing artist of the Chandraveena. Balachander plays the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. Maarga Sangeet is an ancient yet timeless tradition of Indian Classical music. It is a way of life where music becomes the artist's medium of communication.",
     twitterUsername: "chandra_veena",
     designer: {
-      "name": "Aravind Iyer",
-      "url": "https://www.aravindiyer.com"
+      "name": "Sadharani",
+      "url": "https://www.sadharani.com"
     },
     fbAppID: process.env.FACEBOOK_APP_ID,
   },
