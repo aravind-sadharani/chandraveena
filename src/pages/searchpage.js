@@ -1,8 +1,8 @@
 import React from 'react'
-import SearchWidget from "../components/search"
+import LocalSearch from "../components/localsearch"
 
 const searchPage = () => (
-  <SearchWidget />
+  <LocalSearch />
 )
 
 export default searchPage
