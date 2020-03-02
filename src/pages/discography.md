@@ -3,9 +3,9 @@ title: "S. Balachander's Discography"
 date: 2018-07-16
 search: true
 image: "../../images/IMG_7198.JPG"
-description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. Here is a selection of my recordings and concert videos. Do check them out! Hope you find something you like."
+description: "Hello, I am S. Balachander. I am an Indian classical musician, and a performing artist of Chandraveena. Chandraveena has been designed to reflect my musical ideas and identity. I play the Chandraveena according to the principles of Indian Raga system and the philosophy of Maarga Sangeet. Here is a selection of my recordings and concert videos. Do check them out! Hope you find something you like."
 ---
-Namaste. Start at the <a href="/intro/"><inline-button>Introduction</inline-button></a> to learn more about a typical Chandraveena recital. Or listen to my latest recordings below.
+If you would like to know and understand my music, start at the <a href="/intro/"><inline-button>Introduction</inline-button></a> to learn about a typical Chandraveena recital. Or listen to my latest recordings below.
 
 <br>
 
@@ -15,8 +15,14 @@ Here is a rendition of Raga Ahir Bhairav on Chandraveena in an informal baithak 
 
 <band-camp albumid="3106704254" albumname="an-informal-baithak" albumtitle="An Informal Baithak by S Balachander"></band-camp>
 
-You can download a high quality lossless audio version of this track and other recordings from my full discography over at <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a>. If you like my music, remember to follow me on Bandcamp, and consider [buying](https://chandraveena.bandcamp.com/album/an-informal-baithak-i?action=buy) an album to show your support.
+## Support the Art and the Artist
 
+You can download CD quality lossless audio version of this track and many other recordings to be released from time to time from my full discography over at <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a>. If you like my music, remember to follow me on Bandcamp, and consider [buying](https://chandraveena.bandcamp.com/album/an-informal-baithak-i?action=buy) albums you like to show your support. You can also show your support by sharing the link with your friends and other music lovers.
+
+If you like my musical philosophy and the works of art, you support me on my ongoing musical endeavor so that I can continue to produce good musical works.
+"Support the Artist" button.
+
+We value your patronage.
 <br>
 <hr>
 
