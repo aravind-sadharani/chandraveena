@@ -2,7 +2,7 @@
 title: "The Making of Chandraveena"
 date: 2019-02-18
 image: "../../../images/making-chandraveena.png"
-description: "For those who may have landed on this link, and not aware - Chandraveena is a modern instrument, based on the more traditional Saraswati Veena, but designed and built to play Indian classical music based on the guiding principles of Dhrupad. This instrument was designed by me, and the first prototype was built my instrument maker, the Late Mohan Lal Sharma from Kolkata."
+description: "For those who may have landed on this link, and not aware - Chandraveena is a modern string instrument, structurally based on the more traditional Saraswati Veena, but designed and built to reflect my musical identity and values. I play the Chandraveena according to the traditional principles of Indian Raga system and the philosophy of Maarga Sangeet. This instrument was designed by me, and the first prototype was built my instrument maker, the Late Mohan Lal Sharma from Kolkata."
 ---
 
 ![Making-of-Chandraveena](making-chandraveena.png)
@@ -17,9 +17,9 @@ However, I decided to take up the challenge. I started in earnest by going to Ch
 
 After a few years, I started attempting to play Dhrupad on the Saraswati Veena, in an as-is condition of the instrument. Later, I made a few changes, like changing the main bridge from brass top to horn, and also adding an extra resonator at the top end. Some of these changes were experimental, aimed at understanding the potential of the instrument, and its limitations for the style I wished to pursue on it.
 
-As I started deeper study and understanding of Dhrupad, and also understanding the response of Saraswati Veena better, I also realised better the shortcomings of the instrument for the style, and the changes I would need to bring in to adapt the instrument to this particular style of music.
+As I started deeper study and understanding of Dhrupad, and also understanding the response of Saraswati Veena better, I also realised better the shortcomings of the instrument for the style I wished to pursue, and the changes I would need to bring in to adapt the instrument to this particular style of music.
 
-Based on my understanding of Physics and Acoustics of instruments, and my experiments and experience with Saraswati Veena, I started designing a new Veena. Structurally based on Saraswati Veena, the new Veena was designed to the demands of the style -- which is characterised by slow moving long phrases, and subtle variations of notes - both of which demanded high resonance and sustain.
+Based on my understanding of Physics and Acoustics of instruments, and my experiments and experience with Saraswati Veena, I started designing a new Veena. Structurally based on Saraswati Veena, the new Veena was designed to meet the demands of the style -- which is characterised by slow moving long phrases, and subtle variations of notes - both of which demanded high resonance and sustain.
 
 Here are some of the changes that were devised compared to Saraswati Veena, to attain the musical needs:
 1. The wooden resonator bowl of the Saraswati Veena was replaced by a gourd (pumpkin) resonator which offers better resonance than wood.
@@ -33,7 +33,7 @@ With this design, I started going in search of Veena makers in Mysore, Thanjavur
 
 > Necessity is the mother of Invention
 
-In the end, it was the limitations of Saraswati Veena to effectively portray my Ustad’s style of music that led to the creation of Chandraveena. Mohan Lal Sharma created the first prototype of what eventually was christened “Chandraveena” by Ustad Z F Dagar and Ustad Bahauddin Dagar. Even though Chandraveena has the capability to communicate my music effectively, the experiments and process to continually improve its acoustics is still very much an on-going project. As they say, the proof of the pudding is in the eating, and I hope you enjoy the sound of the instrument, and the music!
+In the end, it was the limitations of Saraswati Veena to effectively portray my Ustad’s style of music that led to the creation of Chandraveena. Mohan Lal Sharma created the first prototype of what eventually was christened “Chandraveena” by Ustad Z F Dagar and Ustad Bahauddin Dagar. Even though Chandraveena has the capability to communicate my music effectively, the experiments and process to continually improve its acoustics is still very much an on-going project. After the demise of Mohan Lal Sharma, I have been fortunate to find another traditional instrument maker - Majid Satarmaker from Miraj. He has undertaken all further changes to Chandraveena as required by me, and even has made a Chandraveena for me which I extensively use. Now, as they say, the proof of the pudding is in the eating, and I hope you enjoy the sound of the instrument, and the music!
 
 ![Balachander](IMG_7198.JPG)
 
