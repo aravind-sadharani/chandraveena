@@ -2,7 +2,7 @@
 title: "The Story of Sursringar"
 date: 2018-12-14
 image: "../../../images/sursringar.jpg"
-description: "It is widely believed that Sursringar was invented by a seniya rababiya Jaffar Khan (1775 – 1825). His main intention was to improve the resonance and the tonal quality of the seniya rabab."
+description: "It is widely believed that Sursringar was invented by a seniya rababiya Jaffar Khan (1775 – 1825). His main intention was to improve the resonance and the tonal quality of the seniya rabab. A site dedicated to the instrument www.sursringar.org"
 ---
 India is a country of fascinating myths and stories dating back to thousands of years - as it would be with any ancient culture. There are various anecdotes on the miracles of music, whether involving Tansen, or Swami Haridas or Muthuswamy Dikshithar. With a strong history of oral tradition from the Vedic times, and an aversion to written documentation, much of the information has been carried down the generations by word of mouth. Some stories have survived, but many are lost and others have been reinterpreted with added spices!
 
@@ -59,3 +59,5 @@ Some of the fundamental changes Jaffar Khan made, were the fixing of a metal pla
 *A Sursringar from the author’s collection crafted by the late Mohan Lal Sharma.*
 
 Now that’s history. Or legend! Whatever may be the story behind its evolution, I can assure you that the Sursringar is one of the most charming and beautiful instruments, full of resonance, depth and beauty. It is definitely well suited for playing the Dhrupad style of music, although it can be a challenging instrument to play. I hope to share a music clip of my sarod and sursringar in a subsequent post. Just how the two instruments are related is also a subject worth writing a post about. I have covered it in a [subsequent](/blog/sarod-and-sursringar) post.
+
+You can also visit the site dedicated to Sursringar //https:www.susrsringar.org
