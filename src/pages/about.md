@@ -4,7 +4,7 @@ date: {}
 published: true
 search: true
 image: "../../images/IMG_7198.JPG"
-description: "I am Balachander, an Indian classical musician and a performing artist of Chandraveena. Before I reached this stage, much has happened which has shaped my thoughts and music. This is the story of my Musical Journey. Read on to find out!"
+description: "I am Balachander, an Indian classical musician and a performing artist of Chandraveena. Chandraveena is a modern string instrument designed by me to reflect my musical identity and values. Before I reached this stage, much has happened which has shaped my thoughts and music. This is the story of my Musical Journey. Read on to find out!"
 ---
 
 ![Image](IMG_7198.JPG)
