@@ -60,4 +60,4 @@ Some of the fundamental changes Jaffar Khan made, were the fixing of a metal pla
 
 Now that’s history. Or legend! Whatever may be the story behind its evolution, I can assure you that the Sursringar is one of the most charming and beautiful instruments, full of resonance, depth and beauty. It is definitely well suited for playing the Dhrupad style of music, although it can be a challenging instrument to play. I hope to share a music clip of my sarod and sursringar in a subsequent post. Just how the two instruments are related is also a subject worth writing a post about. I have covered it in a [subsequent](/blog/sarod-and-sursringar) post.
 
-You can also visit the site dedicated to Sursringar //https:www.susrsringar.org
+You can also visit the site dedicated to Sursringar https://www.susrsringar.org
