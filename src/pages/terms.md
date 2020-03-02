@@ -2,7 +2,7 @@
 title: "Terms of Use"
 date: 2018-07-16
 image: "../../images/Favicon.png"
-description: "Hello, I am S. Balachander. I play the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. The use of this website is subject to the terms specified on this page. Please read on to learn more."
+description: "Hello, I am S. Balachander. I am an Indian classical musician, and a performing artist of Chandraveena. Chandraveena is an modern string instrument designed by me to reflect my musical identity and values. I play the Chandraveena according to the principles of Indian Raga system and the philosophy of Maarga Sangeet. The use of this website is subject to the terms specified on this page. Please read on to learn more."
 ---
 This website presents my music on the Chandraveena, an instrument of my own design. The content on this site is authored and maintained by me, S. Balachander. Your use of this website in any form constitutes an acceptance of the following terms and conditions. This page may be updated from time to time.
 
