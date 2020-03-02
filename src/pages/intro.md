@@ -4,9 +4,9 @@ date: {}
 published: true
 search: true
 image: "../../images/Favicon.png"
-description: "Hello, I am S. Balachander. I am an Indian classical musician, and I play the Chandraveena. Here is a short introduction to Maarga Sangeet, Dhrupad and the Chandraveena. Read on to find out!"
+description: "Hello, I am S. Balachander. I am an Indian classical musician, and a performing artist of Chandraveena. Chandraveena is a contemporary string instrument designed to reflect my musical values and identity. I play the Chandraveena according to the principles of Indian Raga system and philosophy of Maarga Sangeet. Here is a short introduction to Maarga Sangeet, Dhrupad and the Chandraveena. Read on to find out!"
 ---
-Namaste. Here is a step-by-step introduction to my music on the Chandraveena. Check my <a href="/discography/"><inline-button>Discography</inline-button></a> if you would like to jump ahead to my full length recordings.
+Here is a step-by-step introduction to my music on the Chandraveena. Check my <a href="/discography/"><inline-button>Discography</inline-button></a> if you would like to jump ahead to my full length recordings.
 
 <br>
 
@@ -16,11 +16,11 @@ Before we begin, here is a brief glimpse of a typical Chandraveena recital.
 <you-tube videoid="Y5N0BoWIWfM"></you-tube>
 <br>
 
-By no means does this clip fully represent the music, but it provides a glimpse into the musical improvisations and expressive power that is possible. To better understand and appreciate, let us review all the parts of this recital.
+By no means does this clip fully represent the music, but it provides a glimpse into the different sections of musical improvisations, and the expressive power that is possible. To better understand and appreciate, let us review all the parts of this recital.
 
 ## Building blocks - Raga and Tala
 
-This recital may be understood in two parts. As you may have noticed, there is a part without percussion, and a part with percussion accompaniment. The first part of the recital is a free flowing expression of the Raga based on the fundamental principles of Raga Alapana, without any percussion accompaniment. The second part is a composition set to a fixed cycle of beats, in this case in a 12 beat cycle called Chautal. This two part presentation is also a very typical rendition of Dhrupad.
+This recital may be understood in two parts. As you may have noticed, there is a part without percussion, and a part with percussion accompaniment. The first part of the recital is a free flowing expression of the Raga based on the fundamental principles of Raga Alapana, without any percussion accompaniment. The second part is a Pallavi (composition) set to a fixed cycle of beats, in this case in a 12 beat cycle called Chautal. This two part presentation is also a very typical rendition of Dhrupad.
 
 Dhrupad, a shortening of Dhruva-Pada (fixed verse), is a style of music evolved from a poetry based musical style called Prabandha (arrangement). In its contemporary musical form, Dhrupad consists of two sections, Anibaddha (unbound) which is a free flowing music also called Raga Alapana, and Nibaddha (bound) which is a poetry or instrumental composition set to a fixed cycle of beats accompanied by a percussion instrument. Dhrupad is contemplative music by nature, and is characterised by a gradual and methodical unfurling of the musical possibilities of the Raga.
 
@@ -30,7 +30,7 @@ Read [this post](/blog/history-of-indian-music/) to learn more about the Indian 
 
 ## Chandraveena - a modern string instrument
 
-The recital has been performed on the Chandraveena, which is my musical instrument of choice. It enables me to portray different aspects of Indian music in all its finesse. Chandraveena is a contemporary string instrument. Though structurally similar to Saraswati Veena, a traditional Indian string instrument, I regard the Chandraveena as a reflection of my musical identity. It has been specially designed to enable the creation of elaborate musical phrases and subtle intonations. Chandraveena has a calm, deep and resonating sound, which creates the ideal soundscape for the contemplative music.
+The recital has been performed on the Chandraveena, which is my musical instrument of choice. It enables me to portray different aspects of Indian music in all its finesse. Chandraveena is a contemporary string instrument. Though structurally similar to Saraswati Veena, a traditional Indian string instrument, I regard the Chandraveena as a reflection of my musical identity and values. It has been specially designed to enable the creation of elaborate musical phrases and subtle intonations. Chandraveena has a calm, deep and resonating sound, which creates the ideal soundscape for the contemplative music.
 
 Read [this post](/blog/making-of-chandraveena/) to learn more about the making of the Chandraveena.
 
@@ -48,7 +48,7 @@ Vocalists often use syllables like Ri, Te, Ta, Ra and Na, as abstract syllables 
 
 The Alap is performed in three parts.
 
-1. The first part is again called **Alap**. This is the free flowing exposition of a Raga (melody) within the Grammar of the Raga Alapana. Here, we explore different facets of the Raga, the subtleties of every note and phrase, and use of different Alankars (ornamentation) to effectively bring out emotions, all the while maintaining the purity of the structure.
+1. The first part is again called **Alap**. This is the free flowing exposition of a Raga (melody) within the Grammar of the Raga Alapana. Here, we explore different facets of the Raga, the subtleties of every note and phrase, and use of different Alankars (ornamentation) to effectively bring out emotions, all the while maintaining the purity of the structure according to the principles of Indian Raga system.
 
 <you-tube videoid="UgfNPN2gnRc"></you-tube>
 <br>
