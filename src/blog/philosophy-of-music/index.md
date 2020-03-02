@@ -2,7 +2,7 @@
 title: "Maarga Sangeet - my music, my life, my philosophy"
 date: 2019-01-19
 image: "../../../images/Philosophy.png"
-description: "The philosophy of this site reflects the philosophy of my music. I have often struggled with understanding my own self, my music, and the inter relationship. In the early years of learning music, its all about learning techniques, understanding the basic concepts of music, imitating the teacher limited to ones’ capability - and putting them all together as a performer."
+description: "The philosophy of this site is a reflection of my musical identity, values, and the philosophy of my music. I have often struggled with understanding my own self, my music, and the inter relationship. In the early years of learning music, its all about learning techniques, understanding the basic concepts of music, imitating the teacher limited to ones’ capability - and putting them all together as a performer."
 ---
 
 ![Evolution-of-Music](Philosophy.png)
@@ -27,7 +27,7 @@ But having so many influences was also a source of confusion. I often struggled 
 
 Who am I and what am I performing? Am I a Hindustani musician with a Carnatic background, or a Dhrupad musician with a Hindustani background, or an Indian musician with a complex background, or all of the above, or none of the above? Where is my individuality? I have often been told by my Guru that my music should be a reflection of my personality and character, and that leads to the question of who am I? These have been uncomfortable questions, raised by myself to myself, in an attempt to better understand myself and my music.
 
-In my quest to understand music itself better, I went back further in time, to study the evolution of [music in India](/blog/history-of-indian-music/). I took the time to study and to try and understand some of the ancient scriptures of Indian music. I also listened to music from all over the world - from the African [Kora](https://en.wikipedia.org/wiki/Kora_(instrument)) to the jazz of Thelonious Monk! I started seeing patterns. There are similarities, and yet differences.
+In my quest to understand music itself better, I went back further in time, to study the evolution of [music in India](/blog/history-of-indian-music/). I took the time to study and to try and understand some of the scriptures of Indian music. I also listened to music from all over the world - from the African [Kora](https://en.wikipedia.org/wiki/Kora_(instrument)) to the jazz of Thelonious Monk! I started seeing patterns. There are similarities, and yet differences.
 
 I have heard traces of Sarang in Kora music, scales of Darbari in Middle Eastern music. What is called Bhoop in North Indian music goes by the name Mohanam in South Indian music. Dhrupad musicians pronounce their solfas as *"Te, Ta, Ra, Na"* in their Alap exploration of the Raga, and South Indian musicians use *"Ta, Da, Ri, Na"*. North Indian musicians, especially instrumentalists, and particularly, Dhrupad vocalists present their improvisations according to a structure called Alap, Jod, Jhala and Composition, and the analogous format is called Ragam, Tanam and Pallavi in the South Indian terminology.
 
