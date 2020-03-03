@@ -36,7 +36,7 @@ const indexPage = () => (
     />
     <h2>Maarga Sangeet</h2>
     <p>
-      Maarga Sangeet is an ancient yet timeless tradition of Indian music, where music is not just a performance but a way of life. It is an individual's pursuit towards meaning and self-identity through the discovery of music. As part of the musical journey, the artist aspires to create musical work in their own individualistic style which represents their life, thoughts, experiences and musical values.   <InlineButton to="/blog/philosophy-of-music/">Learn more</InlineButton>
+      Maarga Sangeet is an ancient yet timeless tradition of Indian music, where music is not just a performance but a way of life. It is an individual's pursuit towards meaning and self-identity through the discovery of music. As part of the musical journey, the artist aspires to create musical works in their own individualistic style which represents their life, thoughts, experiences and musical values.   <InlineButton to="/blog/philosophy-of-music/">Learn more</InlineButton>
     </p>
     <h2>Chandraveena</h2>
     <p>

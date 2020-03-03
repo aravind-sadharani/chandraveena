@@ -3,7 +3,7 @@ import { graphql} from "gatsby"
 import Layout from "../layouts/page"
 import rehypeReact from "rehype-react"
 import {Noticebox} from "../components/containers"
-import {Button, UnlinkedInlineButton} from "../components/buttons"
+import {Button, UnlinkedButton, UnlinkedInlineButton} from "../components/buttons"
 import {YouTube} from "../components/videos"
 import {YouTubeChannel} from "../components/videos"
 import {BandCamp} from "../components/videos"
@@ -13,11 +13,13 @@ import {SocialLinks, ContactForm} from "../components/contact"
 import SEOMetaData from "../components/SEOMetaData"
 import BlogLinks from "../components/bloglinks"
 import SocialShare from "../components/socialshare"
+import SupportButton from "../components/support"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
   components: { "notice-box": Noticebox,
                 "my-button": Button,
+                "unlinked-button": UnlinkedButton,
                 "inline-button": UnlinkedInlineButton,
                 "you-tube": YouTube,
                 "you-tube-channel": YouTubeChannel,
@@ -25,7 +27,8 @@ const renderAst = new rehypeReact({
                 "site-map": SiteMap,
                 "social-links": SocialLinks,
                 "contact-form": ContactForm,
-                "band-camp": BandCamp
+                "band-camp": BandCamp,
+                "support-button": SupportButton
               },
 }).Compiler
 
