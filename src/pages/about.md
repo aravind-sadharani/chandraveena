@@ -13,11 +13,12 @@ description: "I am Balachander, an Indian classical musician and a performing ar
 
 Namaste. I am Balachander, an Indian classical musician, and a performing artist of Chandraveena. Chandraveena is a contemporary string instrument, designed and built to expresss my musical identity. Before I reached this stage, much has happened which have been contributing factors to my thinking process and musical style. This is the story of my Musical Journey.
 
-If you are looking for a [downloadable biography](/assets/Biography.pdf), click on the link. If you would like to get in touch, please write to me.
+If you are looking for a [downloadable biography](/assets/Biography.pdf), click on the link. If you like my musical philosophy and musical works, you can support me in my continued endeavour to produce good music. If you have a request, question or comment, please leave me a note. I am grateful for your appreciation and deeply value your patronage.
 
 <notice-box center=" ">
 
 <my-button to="/contact/">Leave a Note</my-button>
+<a href="https://www.paypal.me/Chandraveena"><unlinked-button>Support Me</unlinked-button></a>
 
 </notice-box>
 

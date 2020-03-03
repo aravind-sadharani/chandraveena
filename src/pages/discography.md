@@ -11,39 +11,43 @@ If you would like to know and understand my music, start at the <a href="/intro/
 
 ## Featured Audio
 
-Here is a rendition of Raga Ahir Bhairav on Chandraveena in an informal baithak at my residence.
+Here is a rendition of Raga Ahir Bhairav on Chandraveena published on my <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> page.
+
+<br>
 
 <band-camp albumid="3106704254" albumname="an-informal-baithak" albumtitle="An Informal Baithak by S Balachander"></band-camp>
 
-## Support the Art and the Artist
+<br>
+<hr>
 
-You can download CD quality lossless audio version of this track and many other recordings to be released from time to time from my full discography over at <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a>. If you like my music, remember to follow me on Bandcamp, and consider [buying](https://chandraveena.bandcamp.com/album/an-informal-baithak-i?action=buy) albums you like to show your support. You can also show your support by sharing the link with your friends and other music lovers.
+## Support the Music
+Visit my <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> page to download a CD quality lossless audio version of this track and many other recordings. If you like my music, remember to follow me on Bandcamp, share the link with your friends and other music lovers, and consider [buying](https://chandraveena.bandcamp.com/album/an-informal-baithak-i?action=buy) albums you like to show your support.
 
-If you like my musical philosophy and the works of art, you can support me on my ongoing musical endeavour so that I can continue to produce good musical works.
-"Support the Artist" button.
+<br>
 
-We value your patronage.
+Also visit my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> channel for more videos and podcasts. If you like my music, remember to subscribe to my channel and leave a comment. A few recent videos from my channel are linked below.
+
+<br>
+
+If you like my musical philosophy and musical works, you can support me in my continued endeavour to produce good music. If you have a request, question or comment, please leave me a note. I am grateful for your appreciation and deeply value your patronage.
+
+<notice-box center=" ">
+
+<my-button to="/contact/">Leave a Note</my-button>
+<a href="https://www.paypal.me/Chandraveena"><unlinked-button>Support Me</unlinked-button></a>
+
+</notice-box>
+
 <br>
 <hr>
 
 ## Latest Videos
 
-Here are a few renditions of Raga Bhairavi recorded at my residence.
-
-<you-tube-channel channelid="UCxPyMV4LS9YBePXM0mV4hjg"></you-tube-channel>
-
-Visit my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> channel for more videos and podcasts. If you like my music, remember to subscribe to my channel and leave a comment.
+Here are a few recent videos from my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> channel.
 
 <br>
-<hr>
 
-## Feedback
-<notice-box center=" ">
-Have a request, question or comment?
-
-<my-button to="/contact/">Leave a Note</my-button>
-
-</notice-box>
+<you-tube-channel channelid="UCxPyMV4LS9YBePXM0mV4hjg"></you-tube-channel>
 
 <br>
 <hr>
