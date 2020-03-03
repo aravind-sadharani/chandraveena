@@ -35,6 +35,7 @@ If you like my musical philosophy and musical works, you can support me in my co
 
 <my-button to="/contact/">Leave a Note</my-button>
 <a href="https://www.paypal.me/ChandraveenaTest"><unlinked-button>Support Me</unlinked-button></a>
+<support-button></support-button>
 
 </notice-box>
 

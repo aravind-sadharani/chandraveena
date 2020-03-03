@@ -13,6 +13,7 @@ import {SocialLinks, ContactForm} from "../components/contact"
 import SEOMetaData from "../components/SEOMetaData"
 import BlogLinks from "../components/bloglinks"
 import SocialShare from "../components/socialshare"
+import SupportButton from "../components/support"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
@@ -26,7 +27,8 @@ const renderAst = new rehypeReact({
                 "site-map": SiteMap,
                 "social-links": SocialLinks,
                 "contact-form": ContactForm,
-                "band-camp": BandCamp
+                "band-camp": BandCamp,
+                "support-button": SupportButton
               },
 }).Compiler
 
