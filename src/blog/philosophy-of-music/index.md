@@ -2,7 +2,7 @@
 title: "Maarga Sangeet - my music, my life, my philosophy"
 date: 2019-01-19
 image: "../../../images/Philosophy.png"
-description: "The philosophy of this site is a reflection of my musical identity, values, and the philosophy of my music. I have often struggled with understanding my own self, my music, and the inter relationship. In the early years of learning music, its all about learning techniques, understanding the basic concepts of music, imitating the teacher limited to ones’ capability - and putting them all together as a performer."
+description: "Maarga Sangeet is a musical journey to seek and express one's identity through the medium of music. I have often struggled with understanding my own self, my music, and their inter-relationship. I have come to believe that local lifestyle, languages, cultural values, folk music, rites and rituals, and history are but a few of the important regional influences that could shape the variations and presentation of music - but underlying all that there is a certain Universality to Music. As I undertake this journey, my music continues to evolve. And the journey continues."
 ---
 
 ![Evolution-of-Music](Philosophy.png)

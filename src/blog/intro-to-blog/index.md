@@ -2,7 +2,7 @@
 title: "Introduction to Music Blog"
 date: 2018-12-13
 image: "../../../images/blogintro.png"
-description: "Through this blog, I hope to cover a wide range of topics - directly or indirectly related to music - and not just related to Indian music, but music all around."
+description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. As an Indian Classical musician, with a long association with music, I have had been privileged to have undertaken a journey with many interesting experiences and stories. Welcome to my blog - a collection of my ideas, thoughts and understanding about music, its origins, my teachers, my instruments and many more topics. Read on to find out more!"
 ---
 
 I have been closely associated with music over a period of a few decades - as a student, as a connoisseur, and as a performer. It has been a journey replete with experiences and stories. Through this blog, I hope to cover a wide range of topics, directly or indirectly related to music, both Indian music, and music from the rest of the world. Many ancient civilisations have a history of music, and over centuries of trade across countries and continents, music has been shared too.
