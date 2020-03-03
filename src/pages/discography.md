@@ -19,7 +19,7 @@ Here is a rendition of Raga Ahir Bhairav on Chandraveena in an informal baithak 
 
 You can download CD quality lossless audio version of this track and many other recordings to be released from time to time from my full discography over at <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a>. If you like my music, remember to follow me on Bandcamp, and consider [buying](https://chandraveena.bandcamp.com/album/an-informal-baithak-i?action=buy) albums you like to show your support. You can also show your support by sharing the link with your friends and other music lovers.
 
-If you like my musical philosophy and the works of art, you support me on my ongoing musical endeavor so that I can continue to produce good musical works.
+If you like my musical philosophy and the works of art, you can support me on my ongoing musical endeavour so that I can continue to produce good musical works.
 "Support the Artist" button.
 
 We value your patronage.

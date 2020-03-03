@@ -48,7 +48,7 @@ Vocalists often use syllables like Ri, Te, Ta, Ra and Na, as abstract syllables 
 
 The Alap is performed in three parts.
 
-1. The first part is again called **Alap**. This is the free flowing exposition of a Raga (melody) within the Grammar of the Raga Alapana. Here, we explore different facets of the Raga, the subtleties of every note and phrase, and use of different Alankars (ornamentation) to effectively bring out emotions, all the while maintaining the purity of the structure according to the principles of Indian Raga system.
+1. The first part is again called **Alap**. This is the free flowing exposition of a Raga (melody) within the Grammar of the Raga Alapana. Here, we explore different facets of the Raga, the subtleties of every note and phrase, and use of different Alankars (ornamentation) to effectively bring out emotions, all the while maintaining the purity of the structure, according to the principles of Indian Raga system.
 
 <you-tube videoid="UgfNPN2gnRc"></you-tube>
 <br>
