@@ -15,7 +15,7 @@ Namaste. I am Balachander, an Indian classical musician, and a performing artist
 
 <notice-box>
 
-Here is a [downloadable biography](/assets/Biography.pdf), if you are looking for one. If you have a request, question or comment, or would like to get in touch with me, please leave me a note. If you like my music, learn how you can support me in my continued endeavour to produce good music. Your feedback and patronage is very valuable to me.
+Here is a [downloadable biography](/assets/Biography.pdf), if you are looking for one. If you would like to get in touch with me, please leave me a note. If you like my music, learn how you can support me in my continued endeavour to produce good music. Your feedback and patronage is very valuable to me.
 
 <div style="text-align:center">
 <my-button to="/contact/">Leave a Note</my-button>

@@ -43,6 +43,6 @@ This site and the audio/video content of Chandraveena music is built using the f
 
 * **YouTube** – The video content for Chandraveena Music is hosted on [YouTube](https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg).
 
-* **Audio Recording** – Audio for Chandraveena Music was recorded using Behringer UCA 222 USB Sound Card, Behringer Eurorack UB1002 Sound Mixer, Shure SM57, Shure SM58, Behringer C2 and AKG D60 microphones, Fishman Preamp and a custom pickup by Buddha Systems.
+* **Audio Recording** – Audio for Chandraveena Music was recorded using Behringer UCA 222 USB Sound Card, Behringer Eurorack UB1002 Sound Mixer, Shure SM57, Shure SM58, Behringer C2 and AKG D60 microphones, Fishman Platinum Stage EQ Preamp and a custom pickup by Buddha Systems.
 
 * **Video Recording** - Video for Chandraveena Music was recorded using a Xiaomi Poco F1 smartphone with an iVoltaa Wide Angle smartphone lens.

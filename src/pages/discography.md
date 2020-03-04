@@ -36,7 +36,7 @@ Do visit my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><
 <hr>
 
 ## Get in Touch
-If you have a request, question or comment, or would like to get in touch with me, please leave me a note. If you like my music, learn how you can support me in my continued endeavour to produce good music. Your feedback and patronage is very valuable to me.
+If you have a request, question or comment, please leave me a note. If you like my music, learn how you can support me in my continued endeavour to produce good music. Your feedback and patronage is very valuable to me.
 
 <notice-box center=" ">
 
