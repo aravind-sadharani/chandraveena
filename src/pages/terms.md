@@ -19,5 +19,5 @@ This site collects your email address when you use the contact form to get in to
 
 This site uses Google Analytics to determine unique visitors and session durations during a visit. This is done by means of cookies. This data is not shared with any third-party. This site uses YouTube for providing video content. YouTube also makes use of cookies for recommending content to users and also for advertising. These tools are useful to me to understand the viewership and popularity of my content. Your use of this site constitutes an acceptance of the site's use of cookies.
 
-## Credits
-This site uses icons from [Font Awesome](https://fontawesome.com/) provided by [`styled-icons`](https://github.com/jacobwgillespie/styled-icons). The Font Awesome icons are licensed under the [CC BY 4.0 License](https://github.com/FortAwesome/Font-Awesome/blob/master/LICENSE.txt).
+## Technology Credits
+This site and the audio/video content of Chandraveena Music is built using several amazing pieces of technology. Please visit the [Technology Credits](/technology/) to learn more.

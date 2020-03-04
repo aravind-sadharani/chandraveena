@@ -5,7 +5,7 @@ search: true
 image: "../../images/IMG_7198.JPG"
 description: "I am S. Balachander. I am an Indian classical musician, and a performing artist of Chandraveena. Chandraveena has been designed to reflect my musical ideas and identity. I play the Chandraveena according to the principles of Indian Raga system and the philosophy of Maarga Sangeet. Here is a selection of my recordings and concert videos. Do check them out! Hope you find something you like."
 ---
-If you would like to know and understand my music, start at the <a href="/intro/"><inline-button>Introduction</inline-button></a> to learn about a typical Chandraveena recital. Or listen to my latest recordings below.
+If you would like a step-by-step introduction to my music, start at the <a href="/intro/"><inline-button>Introduction</inline-button></a> page. Or listen to my latest recordings below.
 
 <br>
 

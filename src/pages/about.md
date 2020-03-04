@@ -80,3 +80,6 @@ His booming voice, the richness of his singing, his deep understanding and appro
 
 ## Acknowledgments
 My musical endeavours would not have been possible without the support of so many wonderful people. Please do visit the [acknowledgments](/acknowledgments/) to learn more.
+
+## Technology Credits
+It would not have been possible to bring Chandraveena Music to all of you without the support of so many amazing technologies. Please visit the [Technology Credits](/technology/) to learn more.
