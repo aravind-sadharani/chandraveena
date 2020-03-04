@@ -17,31 +17,7 @@ Here is a rendition of Raga Ahir Bhairav on Chandraveena published on my <a href
 
 <band-camp albumid="3106704254" albumname="an-informal-baithak" albumtitle="An Informal Baithak by S Balachander"></band-camp>
 
-<br>
-<hr>
-
-## Support the Music
-Visit my <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> page to download a CD quality lossless audio version of this track and many other recordings. If you like my music, remember to follow me on Bandcamp, share the link with your friends and other music lovers, and consider [buying](https://chandraveena.bandcamp.com/album/an-informal-baithak-i?action=buy) albums you like to show your support.
-
-<br>
-
-Also visit my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> channel for more videos and podcasts. If you like my music, remember to subscribe to my channel and leave a comment. A few recent videos from my channel are linked below.
-
-<br>
-
-If you like my musical philosophy and musical works, you can support me in my continued endeavour to produce good music. I am grateful for your appreciation and deeply value your patronage.
-
-If you have a PayPal account, click here : <a href="https://www.paypal.me/ChandraveenaTest"><unlinked-button>Support Me</unlinked-button></a>
-
-If you dont have a PayPal account, click here :  <support-button></support-button>
-
-If you have a request, question or comment, or would like to get in touch with me, please leave me a note. I will respond at the earliest.
-
-<notice-box center=" ">
-
-<my-button to="/contact/">Leave a Note</my-button>
-
-</notice-box>
+Be sure to visit my <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> page to listen to this track and many other recordings. If you like my music, remember to follow me on Bandcamp, share the link with your friends and other music lovers.
 
 <br>
 <hr>
@@ -53,6 +29,21 @@ Here are a few recent videos from my <a href="https://www.youtube.com/channel/UC
 <br>
 
 <you-tube-channel channelid="UCxPyMV4LS9YBePXM0mV4hjg"></you-tube-channel>
+
+Do visit my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> channel for more music videos and talks on music. If you like my music, remember to subscribe to my channel and leave a comment.
+
+<br>
+<hr>
+
+## Get in Touch
+If you have a request, question or comment, or would like to get in touch with me, please leave me a note. If you like my music, learn how you can support me in my continued endeavour to produce good music. Your feedback and patronage is very valuable to me.
+
+<notice-box center=" ">
+
+<my-button to="/contact/">Leave a Note</my-button>
+<my-button to="/support/">How to Support</my-button>
+
+</notice-box>
 
 <br>
 <hr>
