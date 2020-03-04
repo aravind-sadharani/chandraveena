@@ -29,13 +29,17 @@ Also visit my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"
 
 <br>
 
-If you like my musical philosophy and musical works, you can support me in my continued endeavour to produce good music. If you have a request, question or comment, please leave me a note. I am grateful for your appreciation and deeply value your patronage.
+If you like my musical philosophy and musical works, you can support me in my continued endeavour to produce good music. I am grateful for your appreciation and deeply value your patronage.
+
+If you have a PayPal account, click here : <a href="https://www.paypal.me/ChandraveenaTest"><unlinked-button>Support Me</unlinked-button></a>
+
+If you dont have a PayPal account, click here :  <support-button></support-button>
+
+If you have a request, question or comment, or would like to get in touch with me, please leave me a note. I will respond at the earliest.
 
 <notice-box center=" ">
 
 <my-button to="/contact/">Leave a Note</my-button>
-<a href="https://www.paypal.me/ChandraveenaTest"><unlinked-button>Support Me</unlinked-button></a>
-<support-button></support-button>
 
 </notice-box>
 
