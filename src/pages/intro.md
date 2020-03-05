@@ -6,7 +6,7 @@ search: true
 image: "../../images/Favicon.png"
 description: "I am S. Balachander. I am an Indian classical musician, and a performing artist of Chandraveena. Chandraveena is a contemporary string instrument designed to reflect my musical values and identity. I play the Chandraveena according to the principles of Indian Raga system and philosophy of Maarga Sangeet. Here is a short introduction to Maarga Sangeet, Dhrupad and the Chandraveena. Read on to find out!"
 ---
-Here is a step-by-step introduction to my music on the Chandraveena. Check my <a href="/discography/"><inline-button>Discography</inline-button></a> if you would like to jump ahead to my full length recordings.
+Here is a step-by-step introduction to my music on the Chandraveena. Check my <a href="/discography/"><inline-button>Discography</inline-button></a> to listen to my full length recordings.
 
 <br>
 

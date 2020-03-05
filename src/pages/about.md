@@ -11,22 +11,22 @@ description: "I am Balachander, an Indian classical musician and a performing ar
 
 <br>
 
-Namaste. I am Balachander, an Indian classical musician, and a performing artist of Chandraveena. Chandraveena is a contemporary string instrument, designed and built to expresss my musical identity.
+Namaste. I am Balachander, an Indian classical musician, and a performing artist of Chandraveena. Chandraveena is a contemporary string instrument, designed and built to express my musical identity.
 
-Here is a [downloadable biography](/assets/Biography.pdf), if you are looking for one. If you have a request, question or comment, please leave me a note. If you would like to support me in my continued endeavour to produce good music, please use the link below. I am grateful for your appreciation and deeply value your patronage.
+<notice-box>
 
-<notice-box center=" ">
+Here is a [downloadable biography](/assets/Biography.pdf), if you are looking for one. If you would like to get in touch with me, please leave me a note. If you like my music, learn how you can support me in my continued endeavour to produce good music. Your feedback and patronage is very valuable to me.
 
+<div style="text-align:center">
 <my-button to="/contact/">Leave a Note</my-button>
-<a href="https://www.paypal.me/ChandraveenaTest"><unlinked-button>Support Me</unlinked-button></a>
-<support-button></support-button>
+<my-button to="/support/">How to Support</my-button>
+</div>
 
 </notice-box>
 
-Before I reached this stage, much has happened which has contributed to my thinking process and musical style. This is the story of my Musical Journey.
-
 <br>
-<hr>
+
+Before I reached this stage where I can express my music on Chandraveena, much has happened which has contributed to my musical style and thinking process. This is the story of my Musical Journey.
 
 ## Early Days and Music Training
 
@@ -80,3 +80,6 @@ His booming voice, the richness of his singing, his deep understanding and appro
 
 ## Acknowledgments
 My musical endeavours would not have been possible without the support of so many wonderful people. Please do visit the [acknowledgments](/acknowledgments/) to learn more.
+
+## Technology Credits
+It would not have been possible to bring Chandraveena Music to all of you without the support of so many amazing technologies. Please visit the [Technology Credits](/technology/) to learn more.
