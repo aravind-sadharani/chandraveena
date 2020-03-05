@@ -74,7 +74,7 @@ export default () => (
             <li><Link to="/about/"><Inlineimg src={abouticon}/> About</Link></li>
             <li><Link to="/discography/"><Inlineimg src={discoicon}/> Discography</Link></li>
             <li><Link to="/blog/"><Inlineimg src={blogicon}/> Blog</Link></li>
-            <li><Link to="/support/"><Inlineimg src={introicon}/> Support</Link></li>
+            <li><Link to="/support/"><Inlineimg src={introicon}/> Patronage</Link></li>
           </ul>
         </Nav>
         <Search><Link to="/searchpage/"><Searchicon /></Link></Search>

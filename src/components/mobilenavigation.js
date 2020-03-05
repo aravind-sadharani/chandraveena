@@ -38,6 +38,6 @@ export default () => (
     <div><Link to="/about/"><Blockimg src={abouticon} />About</Link></div>
     <div><Link to="/discography/"><Blockimg src={discoicon} />Discography</Link></div>
     <div><Link to="/blog/"><Blockimg src={blogicon} />Blog</Link></div>
-    <div><Link to="/support/"><Blockimg src={introicon} />Support</Link></div>
+    <div><Link to="/support/"><Blockimg src={introicon} />Patronage</Link></div>
   </Mobilenav>
 )
