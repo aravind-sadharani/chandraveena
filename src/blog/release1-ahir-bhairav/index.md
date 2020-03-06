@@ -51,7 +51,7 @@ The complete recording of Raga Alapana is available at https://youtu.be/rwsl1cUF
 
 Snippets from this performance are available at https://youtu.be/18TBr8OxBzE.
 
-Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com.
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-ahir-bhairav.
 
 <notice-box>
 If you like the music, learn how you can support Chandraveena music. We value your patronage.
