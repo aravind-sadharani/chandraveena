@@ -2,7 +2,7 @@
 title: "Raga Ahir Bhairav"
 date: 2020-03-06
 image: "../../../images/ytthumb-ahir-bhairav.png"
-description: "Raga Ahir Bhairav is a variety of Raga Bhairav. It is a mishra or a complex Raga, meaning, it is derived by the combination of two Ragas - Raga Ahiri and Raga Bhairav."
+description: "Raga Ahir Bhairav is a variety of Raga Bhairav. It is a Jod or a combination Raga, meaning, it is derived by the combination of two Ragas - Raga Ahiri and Raga Bhairav."
 ---
 
 ![Raga Ahir Bhairav](ytthumb-ahir-bhairav.png)
@@ -24,7 +24,7 @@ Here are some notes about the Raga.
 
 **Scale** - Sa re Ga ma Pa Dha ni
 
-**Family** - Bhairav (Jod or Vikrit Raga formed by combining Raga Ahiri (Sa re Ga ma Pa Dha ni) and Raga Bhairav (Sa re Ga ma Pa dha Ni))
+**Family** - Bhairav (Jod Raga formed by combining Raga Ahiri (Sa re Ga ma Pa Dha ni) and Raga Bhairav (Sa re Ga ma Pa dha Ni))
 
 **Melakartha** - Chakravakam (Sa re Ga ma Pa Dha ni)
 
@@ -33,7 +33,7 @@ Here are some notes about the Raga.
 ### Reading the scale
 In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Dha above. Notes written fully in lower case are called Komal (or flat) notes. E.g., ma and ni above. Sa and Pa are always written with a capitalized first letter.
 
-### Vikrit Raga
+### Jod Raga
 A Jod (or combination) Raga which uses a combination of notes and phrases from two Raga. In Ahir Bhairav, the basic ragas of Ahir and Bhairav are combined. The Ragas Ahir and Ahir Bhairav have the same notes, but are distinguished by differences in their melodic structures.
 
 ### Prahar
