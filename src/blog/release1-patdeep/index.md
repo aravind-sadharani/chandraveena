@@ -9,7 +9,7 @@ description: "Raga Patdeep is a vikrut or altered Raga belonging to the Palasi f
 
 <br>
 
-In this session, I present *Raga Patdeep* on Chandraveena. Raga Patdeep is a *Vikrit* or an altered Raga belonging to the Palasi family of Ragas. The altered note is Nishad. Here, I explore the Raga in Alap, Jod and Jhala.
+In this session, I present *Raga Patdeep* on Chandraveena. Raga Patdeep is a *Vikrut* or an altered Raga belonging to the Palasi family of Ragas. The altered note is Nishad. Here, I explore the Raga in Alap, Jod and Jhala.
 
 ## Program Notes
 
@@ -31,8 +31,8 @@ Here are some notes about the Raga.
 ### Reading the scale
 In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Dha and Ni above. Notes written fully in lower case are called Komal (or flat) notes. E.g., ga and ma above. Sa and Pa are always written with a capitalized first letter.
 
-### Vikrit Raga
-A *Vikrit* Raga is a Raga in which one of the notes is altered from the original family scale. In this case, *Palasi* family uses ni whereas, Patdeep uses Ni, even though it resembles Palasi family, structurally.
+### Vikrut Raga
+A *Vikrut* Raga is a Raga in which one of the notes is altered from the original family scale. In this case, *Palasi* family uses ni whereas, Patdeep uses Ni, even though it resembles Palasi family, structurally.
 
 ### Bhashanga Raga
 A *Janya* (or derivative) Raga of a Melakartha which uses a note outside of the Melakartha notes. In this raga, Ni is outside of Kharaharapriya (Sa Re ga ma Pa Dha ni).
