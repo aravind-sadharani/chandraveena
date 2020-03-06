@@ -61,7 +61,7 @@ Take 5 is available at https://youtu.be/9rAectgJCmY.
 
 Take 6 is available at https://youtu.be/OlYglHYEaMo.
 
-Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com.
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/six-takes-on-bhairavi.
 
 <notice-box>
 If you like the music, learn how you can support Chandraveena music. We value your patronage.
