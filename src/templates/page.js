@@ -45,7 +45,7 @@ export default ({ location, data, pageContext }) => {
         type = {type}
         title = {`${site.title} | ${post.frontmatter.title}`}
         description = {post.frontmatter.description}
-        image = {`${site.siteUrl}${post.frontmatter.image.childImageSharp.resize.src}`}
+        image = {post.frontmatter.image !== null ? `${site.siteUrl}${post.frontmatter.image.childImageSharp.resize.src}` : null}
         fbappID = {site.fbAppID}
       />
       <h1>{post.frontmatter.title}</h1>

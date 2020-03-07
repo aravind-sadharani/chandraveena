@@ -66,7 +66,7 @@ const BlogIndex = () => (
         <Link key={node.id} style={{textDecoration: `none`, color: `inherit`, fontWeight: `400`}} to={node.fields.slug}>
           <BlogItemContainer>
             <BlogThumbNail>
-              <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
+              {node.frontmatter.image !== null ? <Img fluid={node.frontmatter.image.childImageSharp.fluid} /> : null}
             </BlogThumbNail>
             <BlogDescription>
               <h3>{node.frontmatter.title}</h3>
