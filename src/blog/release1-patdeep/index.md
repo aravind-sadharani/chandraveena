@@ -22,7 +22,7 @@ Here are some notes about the Raga.
 
 **Scale** - Sa Re ga ma Pa Dha Ni
 
-**Family** - Palasi (Sa Re ga ma Pa ni). The altered note is Nishad (from ni to Ni). It also has an additional note of Dhaivat (Dha).
+**Family** - A Vikrit Raga belonging to the family of Palasi (Sa Re ga ma Pa ni). The altered note is Nishad (from ni to Ni). It also has an additional note of Dhaivat (Dha).
 
 **Melakartha** - Bhashanga Raga of Raga Kharaharapriya (Sa Re ga ma Pa Dha ni)
 
