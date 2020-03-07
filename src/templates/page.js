@@ -7,7 +7,6 @@ import {Button, UnlinkedButton, UnlinkedInlineButton} from "../components/button
 import {YouTube} from "../components/videos"
 import {YouTubeChannel} from "../components/videos"
 import {BandCamp} from "../components/videos"
-import {BlogIndex} from "../components/blogindex"
 import {SiteMap} from "../components/sitemap"
 import {SocialLinks, ContactForm} from "../components/contact"
 import SEOMetaData from "../components/SEOMetaData"
@@ -23,7 +22,6 @@ const renderAst = new rehypeReact({
                 "inline-button": UnlinkedInlineButton,
                 "you-tube": YouTube,
                 "you-tube-channel": YouTubeChannel,
-                "blog-index": BlogIndex,
                 "site-map": SiteMap,
                 "social-links": SocialLinks,
                 "contact-form": ContactForm,
@@ -37,6 +35,8 @@ export default ({ location, data, pageContext }) => {
   let site = data.site.siteMetadata
   let type = post.fileAbsolutePath.includes("/src/blog/") ? "article" : "website"
   const {prev, next} = pageContext
+  let prevLink = type === "article" && prev !== null ? { url: `${prev.fields.slug}`, title: `${prev.frontmatter.title}` } : null
+  let nextLink = type === "article" && next !== null ? { url: `${next.fields.slug}`, title: `${next.frontmatter.title}` } : null
   return (
     <Layout>
       <SEOMetaData
@@ -62,7 +62,7 @@ export default ({ location, data, pageContext }) => {
       }
       {type==="article" &&
         <>
-          <BlogLinks prev={prev} next={next} />
+          <BlogLinks prev={prevLink} next={nextLink} />
           <SocialShare url={`${site.siteUrl}${location.pathname}`} />
         </>
       }

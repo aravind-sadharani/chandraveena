@@ -18,7 +18,7 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
+        allMarkdownRemark(sort: { fields: [frontmatter___date, frontmatter___title], order: [ASC, ASC] }) {
           edges {
             node {
               fileAbsolutePath
@@ -32,8 +32,7 @@ exports.createPages = ({ graphql, actions }) => {
           }
         }
       }
-    `
-).then(result => {
+    `).then(result => {
       let posts = result.data.allMarkdownRemark.edges
       posts.forEach(({ node }, index) => {
         let prev, next = null
@@ -53,7 +52,21 @@ exports.createPages = ({ graphql, actions }) => {
             // in page queries as GraphQL variables.
             slug: node.fields.slug,
             prev,
-            next
+            next,
+          },
+        })
+      })
+      let postsPerPage = 4
+      let numPages = Math.ceil(posts.filter(({node}) => node.fileAbsolutePath.includes("/src/blog/")).length/postsPerPage)
+      Array.from({length: numPages}).forEach((_,i) => {
+        createPage({
+          path: i === 0 ? `/blog/` : `/blog/${i+1}`,
+          component: path.resolve(`./src/templates/blogindex.js`),
+          context: {
+            limit: postsPerPage,
+            skip: i*postsPerPage,
+            numPages,
+            currentPage: i+1,
           },
         })
       })
