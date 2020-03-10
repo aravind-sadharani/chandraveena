@@ -36,7 +36,7 @@ With this design, I started going in search of Veena makers in Mysore, Thanjavur
 In the end, it was the limitations of Saraswati Veena to effectively portray my Ustad’s style of music that led to the creation of Chandraveena. Mohan Lal Sharma created the first prototype of what eventually was christened “Chandraveena” by Ustad Z F Dagar and Ustad Bahauddin Dagar. Even though Chandraveena has the capability to communicate my music effectively, the experiments and process to continually improve its acoustics is still very much an on-going project. After the demise of Mohan Lal Sharma, I have been fortunate to find another traditional instrument maker - Majid Satarmaker from Miraj. He has undertaken all further changes to Chandraveena as required by me, and even has made a Chandraveena for me which I extensively use.
 
 Now, as they say, the proof of the pudding is in the eating, and I hope you enjoy the sound of the instrument, and the music!
-You have so far read about the [reasons](/blog/why-chandraveena) and the design of Chandraveena. Now check my next post on "The Musical Story of Chandraveena" and the accompanying video. There I practically demonstrate how the instrument's design has helped to establish my musical style on Chandraveena.
+You have so far read about the [reasons](/blog/why-chandraveena) and the design of Chandraveena. Now check my next post on ["The Musical Story of Chandraveena"](/blog/the-musical-story-of-chandraveena) and the accompanying video. There I practically demonstrate how the instrument's design has helped to establish my musical style on Chandraveena.
 
 ![Balachander](IMG_7198.JPG)
 
