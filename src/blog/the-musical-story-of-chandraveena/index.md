@@ -54,7 +54,7 @@ Sadharani Music Works - https://www.sadharani.com
 ## Release Links
 The Story of Chandraveena is available on YouTube at https://youtu.be/8DYZsreWPf0
 
-Purchase CD quality audio of the performance from
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/hamsadhwani-on-chandraveena-and-saraswati-veena
 
 <notice-box>
 If you like the music, learn how you can support Chandraveena music. We value your patronage.
