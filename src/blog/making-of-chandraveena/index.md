@@ -2,7 +2,7 @@
 title: "The Making of Chandraveena"
 date: 2019-02-18
 image: "../../../images/making-chandraveena.png"
-description: "For those who may have landed on this link, and are not aware - Chandraveena is a modern string instrument, structurally based on the Saraswati Veena, but designed and built to reflect my musical identity and values. I play the Chandraveena according to the traditional principles of Indian Raga system and the philosophy of Maarga Sangeet. This instrument was designed by me, and the first prototype was built my instrument maker, the Late Mohan Lal Sharma from Kolkata."
+description: "For those who may have landed here, this post is about the why and what of Chandraveena. Chandraveena is a modern string instrument, structurally based on the Saraswati Veena, but designed and built to reflect my musical identity and values. I play the Chandraveena according to the traditional principles of Indian Raga system and the philosophy of Maarga Sangeet. This instrument was designed by me, and the first prototype was built my instrument maker, the Late Mohan Lal Sharma from Kolkata."
 ---
 
 ![Making-of-Chandraveena](making-chandraveena.png)
@@ -36,6 +36,7 @@ With this design, I started going in search of Veena makers in Mysore, Thanjavur
 In the end, it was the limitations of Saraswati Veena to effectively portray my Ustad’s style of music that led to the creation of Chandraveena. Mohan Lal Sharma created the first prototype of what eventually was christened “Chandraveena” by Ustad Z F Dagar and Ustad Bahauddin Dagar. Even though Chandraveena has the capability to communicate my music effectively, the experiments and process to continually improve its acoustics is still very much an on-going project. After the demise of Mohan Lal Sharma, I have been fortunate to find another traditional instrument maker - Majid Satarmaker from Miraj. He has undertaken all further changes to Chandraveena as required by me, and even has made a Chandraveena for me which I extensively use.
 
 Now, as they say, the proof of the pudding is in the eating, and I hope you enjoy the sound of the instrument, and the music!
+You have so far read about the [reasons](/blog/why-chandraveena) and the design of Chandraveena. Now check my next post on "The Musical Story of Chandraveena" and the accompanying video. There I practically demonstrate how the instrument's design has helped to establish my musical style on Chandraveena.
 
 ![Balachander](IMG_7198.JPG)
 
