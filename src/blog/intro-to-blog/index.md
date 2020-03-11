@@ -11,9 +11,9 @@ In keeping with the philosophy of the site, I will strive to keep it simple and 
 
 If you are new here, it may help to read the following posts first:
 * [Maarga Sangeet - my music, my life, my philosophy](/blog/philosophy-of-music/)
-* [Chants to Ragas - The Story of Indian Music](/blog/history-of-indian-music/)
 * [Why Chandraveena](/blog/why-chandraveena/)
 * [Making of Chandraveena](/blog/making-of-chandraveena/)
+* [The Musical Story of Chandraveena](/blog/the-musical-story-of-chandraveena/)
 
 All opinions expressed are my own - my thoughts, experiences, learnings from experiments gleaned over the years. You are most welcome to send your remarks and feedback. If you would like me to address any particular topic, please leave me a note. If it is within my understanding, I shall definitely try to address it.
 
