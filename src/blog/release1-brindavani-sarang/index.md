@@ -39,9 +39,19 @@ A Bhashanga Raga is a Janya (or derivative) Raga of a Melakartha which uses a no
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
 
+### Pallavi (composition) in Brindavani Sarang set to Chautala
+Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic cycle. The improvisation here is creating interesting rhythm based melodic patterns while maintaining the framework of the Raga. This part of the performance is accompanied by Pakhawaj. 
+
+Tala - Chautala
+Beats - 12 (4+4+2+2)
+Chautala has 12 beats split as 4 + 4 + 2 + 2 denoted by solfas or syllables representing various rhythmic patterns. The basic solfas of Chautala are given below.
+Solfas - Dha Dha Dhin Ta | ThiTa Dha Dhin Ta | ThiTa KatTa | GaDhi GaNa |
+
+
 ## Credits
 ### Artist
 Chandraveena - S Balachander
+Pakhawaj - Dhaval Mistry
 
 ### Production
 Sadharani Music Works - https://www.sadharani.com
