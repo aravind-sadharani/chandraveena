@@ -33,7 +33,7 @@ Here are some notes about the Raga.
 
 **Family** - Kalyani (Sa Re Ga Ma Pa Dha Ni)
 
-**Melakartha** - Sankarabharanam (Sa Re Ga ma Pa Dha Ni)
+**Melakarta** - Sankarabharanam (Sa Re Ga ma Pa Dha Ni)
 
 **Prahar** - 5th Prahar (6 pm - 9 pm)
 

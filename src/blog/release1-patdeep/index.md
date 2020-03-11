@@ -24,7 +24,7 @@ Here are some notes about the Raga.
 
 **Family** - A Vikrit Raga belonging to the family of Palasi (Sa Re ga ma Pa ni). The altered note is Nishad (from ni to Ni). It also has an additional note of Dhaivat (Dha).
 
-**Melakartha** - Bhashanga Raga of Raga Kharaharapriya (Sa Re ga ma Pa Dha ni)
+**Melakarta** - Bhashanga Raga of Raga Kharaharapriya (Sa Re ga ma Pa Dha ni)
 
 **Prahar** - 4th prahar (equivalent to 3 PM - 6 PM)
 
@@ -35,7 +35,7 @@ In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma P
 A *Vikrit* Raga is a Raga in which one of the notes is altered from the original family scale. In this case, *Palasi* family uses ni whereas, Patdeep uses Ni, even though it resembles Palasi family, structurally.
 
 ### Bhashanga Raga
-A *Janya* (or derivative) Raga of a Melakartha which uses a note outside of the Melakartha notes. In this raga, Ni is outside of Kharaharapriya (Sa Re ga ma Pa Dha ni).
+A *Janya* (or derivative) Raga of a Melakarta which uses a note outside of the Melakarta notes. In this raga, Ni is outside of Kharaharapriya (Sa Re ga ma Pa Dha ni).
 
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
