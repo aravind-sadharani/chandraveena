@@ -30,7 +30,7 @@ Here are some notes about the Raga.
 
 **Family** - Todi
 
-**Melakartha** - Hanumatodi (Sa re ga ma Pa dha ni)
+**Melakarta** - Hanumatodi (Sa re ga ma Pa dha ni)
 
 **Prahar** - 1st and 2nd prahar (equivalent to 6 AM - 12 PM), though its now become an all Prahar Raga!
 

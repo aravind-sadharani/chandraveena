@@ -26,7 +26,7 @@ Here are some notes about the Raga.
 
 **Family** - Bhairav (Jod Raga formed by combining Raga Ahiri (Sa re Ga ma Pa Dha ni) and Raga Bhairav (Sa re Ga ma Pa dha Ni))
 
-**Melakartha** - Chakravakam (Sa re Ga ma Pa Dha ni)
+**Melakarta** - Chakravakam (Sa re Ga ma Pa Dha ni)
 
 **Prahar** - 1st and 2nd prahar (equivalent to 6 AM - 12 PM)
 

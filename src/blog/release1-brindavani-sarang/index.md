@@ -29,7 +29,7 @@ Here are some notes about the Raga and the Tala.
 
 **Family** - Sarang
 
-**Melakartha** - Bhashanga Raga of Melakartha Raga Kharaharapriya (Sa Re ga ma Pa Dha ni). It has the additional note (Bhashanga note) of Tivra Ni.
+**Melakarta** - Bhashanga Raga of Melakarta Raga Kharaharapriya (Sa Re ga ma Pa Dha ni). It has the additional note (Bhashanga note) of Tivra Ni.
 
 **Prahar** - 2nd and 3rd prahar (equivalent to 9 AM - 3 PM)
 
@@ -37,7 +37,7 @@ Here are some notes about the Raga and the Tala.
 In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Ni above. Notes written fully in lower case are called Komal (or flat) notes. E.g., ma and ni above. Sa and Pa are always written with a capitalized first letter.
 
 ### Bhashanga Raga
-A Bhashanga Raga is a Janya (or derivative) Raga of a Melakartha which uses a note outside of the Melakartha notes. In this raga, Ni is outside of Kharaharapriya (Sa Re ga ma Pa Dha ni).
+A Bhashanga Raga is a Janya (or derivative) Raga of a Melakarta which uses a note outside of the Melakarta notes. In this raga, Ni is outside of Kharaharapriya (Sa Re ga ma Pa Dha ni).
 
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
