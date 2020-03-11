@@ -5,7 +5,7 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: "Chandraveena",
-    siteUrl: `https://goofy-lewin-6d9bef.netlify.com`,
+    siteUrl: `https://www.chandraveena.com`,
     author: "S. Balachander",
     description: "Chandraveena is a contemporary string instrument based on the Saraswati Veena, a traditional Indian string instrument. Balachander, an Indian classical musician and multi-instrumentalist, is the creator and performing artist of the Chandraveena. Balachander plays the Chandraveena in the Dhrupad style, a traditional style of Maarga Sangeet. Maarga Sangeet is an ancient yet timeless tradition of Indian Classical music. It is a way of life where music becomes the artist's medium of communication.",
     twitterUsername: "chandra_veena",
