@@ -1,6 +1,6 @@
 ---
 title: "Sarod and Sursringar"
-date: 2019-01-18
+date: 2020-01-18
 image: "../../../images/sarod-sursringar.jpg"
 description: "There are varied accounts on the evolution of rabab, sarod and sursringar. Many have written articles, journal papers and books on the subject. Not focussing too much on the history and evolution of these instruments, I am interested in talking about the Sarod and Sursringar, and their commonalities and differences."
 ---

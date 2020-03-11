@@ -1,6 +1,6 @@
 ---
 title: "The Musical Story of Chandraveena"
-date: 2019-02-18
+date: 2020-02-18
 image: "../../../images/ytthumb-story-of-chandraveena.png"
 description: "In this post, I would like to present the story of Chandraveena purely from a musical perspective, and compare it with Saraswati Veena from which it was derived. I will play Raga Hamsadhwani on both the instruments, compare the instruments side-by-side and try to demonstrate how the design of Chandraveena has enabled by musical style."
 ---

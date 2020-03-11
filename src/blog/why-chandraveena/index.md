@@ -1,6 +1,6 @@
 ---
 title: "Why Chandraveena"
-date: 2019-01-20
+date: 2020-01-20
 image: "../../../images/IMG_7198.JPG"
 description: "For those who may have landed on this link, and are not aware - Chandraveena is a modern instrument string instrument, structurally based on the Saraswati Veena, but designed and built to reflect my musical identity and values. I play the Chandraveena according to the traditional principles of Indian Raga system and the philosophy of Maarga Sangeet. This instrument was designed by me, and the first prototype built by the renowned instrument maker, the Late Mohan Lal Sharma from Kolkata."
 ---

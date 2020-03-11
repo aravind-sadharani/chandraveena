@@ -1,6 +1,6 @@
 ---
 title: "Chants to Ragas - The Story of Indian Music"
-date: 2019-01-19
+date: 2020-01-19
 image: "../../../images/chant-raga.png"
 description: "Today, Indian music has a very sophisticated melodic and rhythmic structure. But it wasn't always this way. How did we reach here? From early Vedic periods, music has been recognised as a powerful means of expressing and stimulating emotions. From the ritualistic chants of Rig Veda, the singing of Saama Veda, to the musical grammar of Gandharva Veda and later treatises, Indian Classical music has had an interesting journey. Read more to find out."
 ---

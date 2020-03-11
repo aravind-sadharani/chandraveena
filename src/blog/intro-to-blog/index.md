@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Music Blog"
-date: 2018-12-13
+date: 2019-12-13
 image: "../../../images/blogintro.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. As an Indian Classical musician, with a long association with music, I have had been privileged to have undertaken a journey with many interesting experiences and stories. Welcome to my blog - a collection of my ideas, thoughts and understanding about music, its origins, my teachers, my instruments and many more topics. Read on to find out more!"
 ---
