@@ -62,10 +62,13 @@ Pakhawaj - Dhaval Mistry
 Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
+The full recording of Raga Alapana is available at https://youtu.be/z9OsBrR8NHw
+
+The full recording of Pallavi is available at https://youtu.be/XR3x9PEAXOU
 
 Snippets from this performance are available at https://youtu.be/Y5N0BoWIWfM.
 
-Please stay tuned for the complete video and audio recordings. These will be released on <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> and <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> respectively.
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-brindavani-sarang.
 
 <br>
 
