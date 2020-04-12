@@ -1,33 +1,33 @@
 ---
-title: "Raga Jaunpuri - A Royal Raga ?"
+title: "Raga Jaunpuri - A Royal Raga?"
 date: 2020-03-11
-image: ""
-description: "Raga Jaunpuri belongs to the family of Asaveri Ragas. Its traditionally performed mid morning of the day, and is a popular Raga throughout India."
+image: "../../../images/ytthumb-jaunpuri.png"
+description: "Raga Jaunpuri belongs to the family of Asavari Ragas. It is traditionally performed during the mid-morning hours of the day, and is a popular Raga throughout India."
 ---
 
-![Raga Brindavani Sarang](ytthumb-brindavani-sarang.png)
+![Raga Jaunpuri](ytthumb-jaunpuri.png)
 
 <br>
 
-There was a tradition among the Royal rulers of erstwhile princely states of India to train their heirs in 64 arts called Chatusashti Kalas. Along with art of warfare, art of archery  etc, they were also trained in performing arts such as Music, Dance, Drama etc. Many of these prince / princess went on to become connoisseurs and patrons of Art and Music, some of them continued to pursue art even as a Royal ruler. Famous examples include King of Travancore - Swathi Tirunal, Ruler of Thanjavur - Ragunatha Naik, Mughal ruler - Wajid Ali Shah, Ruler of Golconda - Adil Shah etc. One among these was Sultan Hussain Sharqi - Sultan of Jaunpur. A great connoisseur of music, and a musician himself, some believe Raga Jaunpuri was created by him. He has also often been credited with the evolution of Khyal style of Indian Classical Music.
+There was a tradition among the Royal families of the erstwhile princely states of India to train the royal children in 64 arts, known as *Chatushashthi Kala*. Along with the art of warfare, archery, etc, they were also trained in performing arts such as music, dance and drama. Many of these princes and princesses went on to become connoisseurs and patrons of the Arts. Some of them continued to pursue art even as rulers. A few famous examples include the King of *Travancore* - *Swathi Tirunal*, the Ruler of Thanjavur - *Ragunatha Naik*, the Mughal ruler - *Wajid Ali Shah*, and the Ruler of Golconda - *Adil Shah*. One among these was Sultan *Hussain Sharqi* - the Sultan of *Jaunpur*. A great connoisseur of music, and a musician himself, some scholars believe *Raga Jaunpuri* was created by him. He has also been often credited with the evolution of *Khyal* style of Indian Classical Music.
 
-Here I present a short Alap in *Raga Jaunpuri* followed by a Pallavi in Chautala. This Raga is also called Jeevanpuri in some parts of India.
+Here I present a short Alap in *Raga Jaunpuri* followed by a Pallavi in Chautala. This Raga is also called *Jeevanpuri* in some parts of India.
 
 ## Program Notes
 
 ### Short Alap in Raga Jaunpuri
-Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. Usually, it has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam. But here Balachander plays a short Alap to introduce the Raga before performing the Pallavi.
+Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. Usually, it has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam. But here just a short Alap is played to introduce the Raga before performing the Pallavi.
 
 ### Pallavi (composition) in Raga Jaunpuri set to Chautala
 Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic cycle. The improvisation here is creating interesting rhythm based melodic patterns while maintaining the framework of the Raga. This part of the performance is accompanied by Pakhawaj.
 
 Here are some notes about the Raga and the Tala.
 
-**Raga** - Jaunpuri (also called Jounpuri / Jeevanpuri)
+**Raga** - Jaunpuri (also called Jounpuri or Jeevanpuri)
 
 **Scale** - Sa Re ga ma Pa dha ni
 
-**Family** - Asaveri
+**Family** - Asavari
 
 **Melakarta** - Natabhairavi (Sa Re ga ma Pa dha ni)
 
@@ -44,7 +44,7 @@ Chautala has 12 beats split as 4 + 4 + 2 + 2 denoted by solfas or syllables repr
 
 **Tala** - Chautala
 
-**Beats** - 12 (4+4+2+2).
+**Beats** - 12 (4+4+2+2)
 
 **Solfas** - Dha Dha Dhin Ta | ThiTa Dha Dhin Ta | ThiTa KatTa | GaDhi GaNa |
 
@@ -60,11 +60,11 @@ Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
 
-The full recording of short Alap and Pallavi is available at https://youtu.be/sldH_5uYvqc
+The full video recording of this performance is available at https://youtu.be/sldH_5uYvqc.
 
-Snippets from this performance are available at https://youtu.be/lOdCSgQ7e-8
+Snippets from this performance are available at https://youtu.be/lOdCSgQ7e-8.
 
-Purchase CD quality audio of the performance from 
+Purchase CD quality audio of the performance from
 
 <br>
 

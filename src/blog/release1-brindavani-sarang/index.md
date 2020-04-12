@@ -62,9 +62,9 @@ Pakhawaj - Dhaval Mistry
 Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
-The full recording of Raga Alapana is available at https://youtu.be/z9OsBrR8NHw
+The full recording of Raga Alapana is available at https://youtu.be/z9OsBrR8NHw.
 
-The full recording of Pallavi is available at https://youtu.be/XR3x9PEAXOU
+The full recording of Pallavi is available at https://youtu.be/XR3x9PEAXOU.
 
 Snippets from this performance are available at https://youtu.be/Y5N0BoWIWfM.
 
