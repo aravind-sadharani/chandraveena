@@ -15,7 +15,7 @@ Here I present a short Alap in *Raga Jaunpuri* followed by a Pallavi in Chautala
 
 ## Program Notes
 
-###Short Alap in Raga Jaunpuri
+### Short Alap in Raga Jaunpuri
 Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. Usually, it has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam. But here Balachander plays a short Alap to introduce the Raga before performing the Pallavi.
 
 ### Pallavi (composition) in Raga Jaunpuri set to Chautala
