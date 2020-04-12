@@ -64,7 +64,7 @@ The full video recording of this performance is available at https://youtu.be/sl
 
 Snippets from this performance are available at https://youtu.be/lOdCSgQ7e-8.
 
-Purchase CD quality audio of the performance from
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-jaunpuri.
 
 <br>
 
