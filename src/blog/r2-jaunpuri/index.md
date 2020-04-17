@@ -1,6 +1,6 @@
 ---
 title: "Raga Jaunpuri - A Royal Raga?"
-date: 2020-03-11
+date: 2020-04-12
 image: "../../../images/ytthumb-jaunpuri.png"
 description: "Raga Jaunpuri belongs to the family of Asavari Ragas. It is traditionally performed during the mid-morning hours of the day, and is a popular Raga throughout India."
 ---
