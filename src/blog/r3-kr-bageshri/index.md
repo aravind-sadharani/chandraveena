@@ -2,7 +2,7 @@
 title: "Raga Komal Rishabh Bageshri - A Raga with a twist"
 date: 2020-04-21
 image: "../../../images/ytthumb-krbageshri.png"
-description: "Raga Komal Rishab Bageshri is presented here as a derivative(Janya) of Todi family of Ragas. Here, I perform a detailed Alap in three sections followed by two compositions in Tivratala (7 beats) and Jhaptala (10 beats)"
+description: "Raga Komal Rishab Bageshri is presented here as a Janya(or derivative) of Todi family of Ragas. Here, I perform a detailed Alap in three sections followed by two compositions in Tivratala (7 beats) and Jhaptala (10 beats)"
 ---
 
 ![Raga Komal Rishabh Bageshri](ytthumb-krbageshri.png)
@@ -29,7 +29,7 @@ Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic 
 
 **Family** - Todi (Jod Raga formed by combining Raga Todi (Sa re ga ma Pa dha ni) and Raga Bageshri (Sa Re ga ma Pa Dha ni))
 
-**Melakarta** - Varja Raga of Natakapriya (Sa re ga ma Pa Dha ni)
+**Melakarta** - Varja Bhashanga Raga of Hanumatodi (Sa re ga ma Pa dha ni)
 
 **Prahar** - 1st prahar (equivalent to 6 AM - 9 AM)
 
