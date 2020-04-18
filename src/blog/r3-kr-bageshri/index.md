@@ -9,9 +9,9 @@ description: "Raga Komal Rishab Bageshri is presented here as a Janya(or derivat
 
 <br>
 
-Raga *Bageshri* is a very popular and beautiful Raga, usually sung in the late evening or night. Sometimes, changing a single note changes the entire character of a Raga, so much so that it feels like a completely different Raga. One such Raga is *Komal Rishabh Bageshri*. As the name suggests, Raga Bageshri has been modified by changing the *Tivra Rishabh* to *Komal Rishabh* (flattened Re).
+Raga *Bageshri* is a very popular and beautiful Raga, usually sung in the late evening or night. Sometimes, changing a single note changes the entire character of a Raga, so much so that it feels like a completely different Raga. One such Raga is *Komal Rishabh Bageshri*. As the name suggests, Raga Komal Rishabh Bageshri has been modified by changing the *Tivra Rishabh* to *Komal Rishabh* (flattened Re).
 
-Even though, as a scale, Komal Rishab Bageshri could be a Janya Raga of Melakartha Natakapriya (Sa re ga ma Pa Dha ni), here I present the Raga as a Janya (derivative) of Todi. This twist is mainly due to the use of extra flattened komal re and komal ga and, phrases used, creating a feeling of Todi.
+As a scale, Komal Rishabh Bageshri could be considered a Janya Raga of Melakarta Natakapriya (Sa re ga ma Pa Dha ni). But here I present the Raga as a derivative of Raga *Todi*. This twist is mainly due to the use of extra flattened Komal Re and Komal Ga and the phrases used which create a feeling similar to that of Todi.
 
 An interesting footnote is that Late Pandit Ravi Shankar has played a similar scale and called it Raga *Parameshwari*.
 
