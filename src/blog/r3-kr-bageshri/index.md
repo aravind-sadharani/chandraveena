@@ -55,7 +55,7 @@ Tivratala has 7 beats split as 3 + 2 + 2 denoted by solfas or syllables represen
 
 **Solfas** - Dha Dhin Ta | ThiTa KatTa | GaDhi GaNa |
 
-Jhaptala has 7 beats split as 3 + 2 + 2 denoted by solfas or syllables representing various rhythmic patterns. The basic solfas of Jhaptala are given below.
+Jhaptala has 10 beats split as 4 + 2 + 2 + 2 denoted by solfas or syllables representing various rhythmic patterns. The basic solfas of Jhaptala are given below.
 
 **Tala** - Jhaptala
 
