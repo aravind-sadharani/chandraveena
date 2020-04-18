@@ -11,7 +11,7 @@ If you would like a step-by-step introduction to my music, start at the <a href=
 
 ## Featured Audio
 
-Here is a rendition of Raga Ahir Bhairav on Chandraveena published on my <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> page.
+Here is a rendition of Raga Brindavani Sarang on Chandraveena published on my <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> page.
 
 <br>
 
