@@ -9,7 +9,9 @@ description: "Raga Komal Rishab Bageshri is presented here as a Janya(or derivat
 
 <br>
 
-Raga *Bageshri* is a very popular and beautiful Raga, usually sung in the late evening or night. Sometimes, changing a single note changes the entire character of a Raga, so much so that it feels like a completely different Raga. One such Raga is *Komal Rishabh Bageshri*. As the name suggests, Raga Bageshri has been modified by changing the *Tivra Rishabh* to *Komal Rishabh* (flattened Re). I present the Raga as a Janya (derivative) of Todi.
+Raga *Bageshri* is a very popular and beautiful Raga, usually sung in the late evening or night. Sometimes, changing a single note changes the entire character of a Raga, so much so that it feels like a completely different Raga. One such Raga is *Komal Rishabh Bageshri*. As the name suggests, Raga Bageshri has been modified by changing the *Tivra Rishabh* to *Komal Rishabh* (flattened Re). 
+
+Even though, as a scale, Komal Rishab Bageshri could be a Janya Raga of Melakartha Natakapriya (Sa re ga ma Pa Dha ni), here I present the Raga as a Janya (derivative) of Todi. This twist is mainly due to the use of extra flattened komal re and komal ga and, phrases used, creating a feeling of Todi. 
 
 An interesting footnote is that Late Pandit Ravi Shankar has played a similar scale and called it Raga *Parameshwari*.
 
@@ -36,7 +38,9 @@ Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic 
 ### Reading the scale
 In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Dha above. Notes written fully in lower case are called Komal (or flat) notes. E.g., ma and ni above. Sa and Pa are always written with a capitalised first letter.
 
-**Varja Raga :** A Janya (derivative) Raga of a Melakartha in which  a note is dropped from the parent  Melakartha notes. In this, Raga, Pancham has been dropped.
+**Varja Raga :** A Janya (derivative) Raga of a Melakartha in which  a note is dropped from the parent  Melakartha notes. In this Raga, Pancham has been dropped.
+
+**Bhashanga Raga :** A Janya (or derivative) Raga of a Melakartha which uses a note outside of the Melakartha notes. In this raga, Tivra Dha  is outside of Hanumatodi (Sa re ga ma Pa dha ni).
 
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
