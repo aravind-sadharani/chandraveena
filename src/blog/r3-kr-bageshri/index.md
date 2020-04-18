@@ -1,33 +1,33 @@
 ---
-title: "Raga Komal Rishab Bageshri - A Raga with a twist"
-date: 2020-03-11
-image: "../../../images/ytthumb-jaunpuri.png"
+title: "Raga Komal Rishabh Bageshri - A Raga with a twist"
+date: 2020-04-21
+image: "../../../images/ytthumb-krbageshri.png"
 description: "Raga Komal Rishab Bageshri is presented here as a derivative(Janya) of Todi family of Ragas. Here, I perform a detailed Alap in three sections followed by two compositions in Tivratala (7 beats) and Jhaptala (10 beats)"
 ---
 
-![Raga Jaunpuri](ytthumb-jaunpuri.png)
+![Raga Komal Rishabh Bageshri](ytthumb-krbageshri.png)
 
 <br>
 
-Raga Bageshri is a very popular and beautiful Raga, usually sung in the late evening or night. Sometimes, changing a single note changes the entire character of a Raga, so much so that it feels like a completely different Raga. One such Raga is Komal Rishab Bageshri. As the name suggests, Raga Bageshri has been modified by changing the Tivra Rishab to Komal Rishab (flattened Re). I present the Raga as a Janya (derivative) of Todi.
+Raga *Bageshri* is a very popular and beautiful Raga, usually sung in the late evening or night. Sometimes, changing a single note changes the entire character of a Raga, so much so that it feels like a completely different Raga. One such Raga is *Komal Rishabh Bageshri*. As the name suggests, Raga Bageshri has been modified by changing the *Tivra Rishabh* to *Komal Rishabh* (flattened Re). I present the Raga as a Janya (derivative) of Todi.
 
-PS : Late Pt Ravi Shankar has played a similar scale and called it Raga Parameshwari.
+An interesting footnote is that Late Pandit Ravi Shankar has played a similar scale and called it Raga *Parameshwari*.
 
 ## Program Notes
 
 ### Raga Alapana in Komal Rishabh Bageshri
 Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. It has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
 
-### Pallavi (composition) in Komal Rishabh Bageshri set to Tivratala (7 beats) and Jhaptala (10 beats)
-Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic cycle. The improvisation here is creating interesting rhythm based melodic patterns while maintaining the framework of the Raga. This part of the performance is accompanied by Pakhawaj. 
+### Pallavi (composition) in Komal Rishabh Bageshri set to Tivratala and Jhaptala
+Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic cycle. The improvisation here is creating interesting rhythm based melodic patterns while maintaining the framework of the Raga. This part of the performance is accompanied by Pakhawaj.
 
-### Notes on the Raga
+### About the Raga
 
 **Raga** - Komal Rishabh Bageshri
 
 **Scale** - Sa re ga ma Dha ni
 
-**Family** - Todi  (Jod Raga formed by combining Raga Todi (Sa re ga ma Pa dha ni) and Raga Bageshri (Sa Re ga ma Pa Dha ni))
+**Family** - Todi (Jod Raga formed by combining Raga Todi (Sa re ga ma Pa dha ni) and Raga Bageshri (Sa Re ga ma Pa Dha ni))
 
 **Melakarta** - Varja Raga of Natakapriya (Sa re ga ma Pa Dha ni)
 
@@ -77,7 +77,7 @@ The full video recording of the Pallavi of this performance is available at http
 
 Snippets from this performance are available at https://youtu.be/4PNwR65pd5s.
 
-Purchase CD quality audio of the performance from 
+Purchase CD quality audio of the performance from
 
 <br>
 
