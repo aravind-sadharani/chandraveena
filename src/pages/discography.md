@@ -11,11 +11,11 @@ If you would like a step-by-step introduction to my music, start at the <a href=
 
 ## Featured Audio
 
-Here is a rendition of Raga Ahir Bhairav on Chandraveena published on my <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> page.
+Here is a rendition of Raga Brindavani Sarang on Chandraveena published on my <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> page.
 
 <br>
 
-<band-camp albumid="3106704254" albumname="an-informal-baithak" albumtitle="An Informal Baithak by S Balachander"></band-camp>
+<band-camp albumid="1691163995" albumname="raga-brindavani-sarang" albumtitle="Raga Brindavani Sarang by S Balachander"></band-camp>
 
 Be sure to visit my <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> page to listen to this track and many other recordings. If you like my music, remember to follow me on Bandcamp, share the link with your friends and other music lovers.
 
