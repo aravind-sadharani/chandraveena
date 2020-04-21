@@ -5,8 +5,7 @@ image: "../../../images/ytthumb-brindavani-sarang.png"
 description: "Raga Brindavani Sarang belongs to the family of Sarang Ragas. Its traditionally performed mid morning / early afternoon of the day, and is a popular Raga throughout India."
 ---
 
-![Raga Brindavani Sarang](ytthumb-brindavani-sarang.png)
-
+<you-tube videoid="z9OsBrR8NHw"></you-tube>
 <br>
 
 *Raga Brindavani Sarang* is a mid morning or early afternoon Raga in the Indian Classical music system. Its closely allied ragas are *Madhyamavati* and *Madhumad Sarang*. I have come across some early texts which have mentioned Raga Brindavani Sarang with only one Nishad (Komal ni). This makes the scale identical to Madhyamavati and Madhumad Sarang. It is possible that in order create a distinction, Tivra Nishad was introduced later as an additional note. This Raga is popular throughout India, and there are compositions in this Raga by composers from across the country.

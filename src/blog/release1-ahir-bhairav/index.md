@@ -4,9 +4,7 @@ date: 2020-03-06
 image: "../../../images/ytthumb-ahir-bhairav.png"
 description: "Raga Ahir Bhairav is a variety of Raga Bhairav. It is a Jod or a combination Raga, meaning, it is derived by the combination of two Ragas - Raga Ahiri and Raga Bhairav."
 ---
-
-![Raga Ahir Bhairav](ytthumb-ahir-bhairav.png)
-
+<you-tube videoid="rwsl1cUFj1Y"></you-tube>
 <br>
 
 Ragas in Indian Classical music have often taken inspiration from folk tunes, and then formalised them according to the principles of the Indian Raga system. *Ahir* is an ancient ethnic group in India who were primarily cattle farmers. Some of them claim to be descendants of the *Yadava* tribe from *Lord Krishna*. Whatever maybe the case, as cattle grazers, did they have a typical signature folk tune? Is that where the origins of Raga Ahir lie?

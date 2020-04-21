@@ -5,8 +5,7 @@ image: "../../../images/ytthumb-patdeep.png"
 description: "Raga Patdeep is a vikrit or altered Raga belonging to the Palasi family of Ragas. The altered note is Nishad. This Raga is an evening melody. Here I present Alap, Jod and Jhala."
 ---
 
-![Raga Patdeep](ytthumb-patdeep.png)
-
+<you-tube videoid="4smgSeLpiYo"></you-tube>
 <br>
 
 In this session, I present *Raga Patdeep* on Chandraveena. Raga Patdeep is a *Vikrit* or an altered Raga belonging to the Palasi family of Ragas. The altered note is Nishad. Here, I explore the Raga in Alap, Jod and Jhala.

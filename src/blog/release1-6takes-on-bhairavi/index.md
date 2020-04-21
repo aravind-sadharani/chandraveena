@@ -5,8 +5,7 @@ image: "../../../images/bhairavi-albumart.png"
 description: "Raga Bhairavi is a beautiful morning Raga though its become now a custom to end a concert with Raga Bhairavi at any time of day or night. Mishra Bhairavi is a popular variety in which notes other than the scale are taken, and a differebnt perspective to the Raga is given."
 ---
 
-![Raga Bhairavi](bhairavi-albumart.png)
-
+<you-tube videoid="r5tTK2m-pgc"></you-tube>
 <br>
 
 In Indian Classical music concerts, you may have heard many artists concluding their recital with Raga Bhairavi. Have you wondered why?

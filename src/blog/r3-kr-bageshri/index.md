@@ -5,8 +5,7 @@ image: "../../../images/ytthumb-krbageshri.png"
 description: "Raga Komal Rishab Bageshri is presented here as a Janya(or derivative) of Todi family of Ragas. Here, I perform a detailed Alap in three sections followed by two compositions in Tivratala (7 beats) and Jhaptala (10 beats)"
 ---
 
-![Raga Komal Rishabh Bageshri](ytthumb-krbageshri.png)
-
+<you-tube videoid="1mNaHShZhg4"></you-tube>
 <br>
 
 Raga *Bageshri* is a very popular and beautiful Raga, usually sung in the late evening or night. Sometimes, changing a single note changes the entire character of a Raga, so much so that it feels like a completely different Raga. One such Raga is *Komal Rishabh Bageshri*. As the name suggests, Raga Komal Rishabh Bageshri has been modified by changing the *Tivra Rishabh* to *Komal Rishabh* (flattened Re).

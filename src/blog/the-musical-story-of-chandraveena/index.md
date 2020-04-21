@@ -4,9 +4,7 @@ date: 2020-02-18
 image: "../../../images/ytthumb-story-of-chandraveena.png"
 description: "In this post, I would like to present the story of Chandraveena purely from a musical perspective, and compare it with Saraswati Veena from which it was derived. I will play Raga Hamsadhwani on both the instruments, compare the instruments side-by-side and try to demonstrate how the design of Chandraveena has enabled by musical style."
 ---
-
-![Comparing Chandraveena and Saraswati Veena](ytthumb-story-of-chandraveena.png)
-
+<you-tube videoid="8DYZsreWPf0"></you-tube>
 <br>
 
 Musical instruments change and evolve to keep pace with the changes in music. Chandraveena is one such instrument born out of my musical necessity. If you want to know the motivation for ["Why Chandraveena"](/blog/why-chandraveena) or the story of ["The Making of Chandraveena"](/blog/making-of-chandraveena), please read the linked posts.

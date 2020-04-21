@@ -5,8 +5,7 @@ image: "../../../images/ytthumb-jaunpuri.png"
 description: "Raga Jaunpuri belongs to the family of Asavari Ragas. It is traditionally performed during the mid-morning hours of the day, and is a popular Raga throughout India."
 ---
 
-![Raga Jaunpuri](ytthumb-jaunpuri.png)
-
+<you-tube videoid="sldH_5uYvqc"></you-tube>
 <br>
 
 There was a tradition among the Royal families of the erstwhile princely states of India to train the royal children in 64 arts, known as *Chatushashthi Kala*. Along with the art of warfare, archery, etc, they were also trained in performing arts such as music, dance and drama. Many of these princes and princesses went on to become connoisseurs and patrons of the Arts. Some of them continued to pursue art even as rulers. A few famous examples include the King of *Travancore* - *Swathi Tirunal*, the Ruler of Thanjavur - *Ragunatha Naik*, the Mughal ruler - *Wajid Ali Shah*, and the Ruler of Golconda - *Adil Shah*. One among these was Sultan *Hussain Sharqi* - the Sultan of *Jaunpur*. A great connoisseur of music, and a musician himself, some scholars believe *Raga Jaunpuri* was created by him. He has also been often credited with the evolution of *Khyal* style of Indian Classical Music.
