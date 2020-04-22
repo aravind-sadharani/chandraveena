@@ -62,11 +62,13 @@ Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
 
-The full video recording of the Raga Alapana of this performance is available at 
+Please note that since this performance was held in a place of worship, video recording is not available, however, we are uploading the full audio file to YouTube, with Information Cards for your enjoyment.
 
-The full video recording of the Pallavi of this performance is available at 
+The full video recording of the Raga Alapana of this performance is available at https://youtu.be/rl9k14yEJjk
 
-Snippets from this performance are available at 
+The full video recording of the Pallavi of this performance is available at https://youtu.be/j8lSjfzCcGE
+
+Snippets from this performance are available at https://youtu.be/c7O7weNTDZs
 
 Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/live-at-vadodara
 
