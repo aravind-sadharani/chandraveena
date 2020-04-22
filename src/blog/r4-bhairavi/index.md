@@ -1,11 +1,11 @@
 ---
 title: "Raga Bhairavi - The Immortal Raga"
-date: 2020-03-06
-image: "../../../images/bhairavi-albumart.png"
+date: 2020-04-28
+image: "../../../images/vadodara-albumart.png"
 description: "Raga Bhairavi is a beautiful morning Raga belonging to the Todi family of Ragas.  Mishra Bhairavi is a popular variety in which notes other than the scale are taken, and a different perspective to the Raga is given."
 ---
 
-<you-tube videoid="r5tTK2m-pgc"></you-tube>
+<you-tube videoid="gWkMs_AzEXM"></you-tube>
 <br>
 
 ##बाबुल मोरा, नैहर छूटो ही जाए (Babul Mora Naihar Chhooto Hi Jaye)##
@@ -18,7 +18,9 @@ The meaning of the line is "O My Father, I am leaving home !"
 
 Many Indian classical musicians feature this composition in Raga Bhairavi.
 
-In this session, I present a brief Alap and a composition in Tivratal (7 beats). You can further explore Raga Bhairavi in /release1-6takes-on-bhairavi
+In this session, I present a brief Alap and a composition in Tivratal (7 beats). You can further explore Raga Bhairavi in [6 takes on Bhairavi](/blog/release1-6takes-on-bhairavi). 
+
+This is a recording of a live performance held at a Siddhi Vinayaka Temple, Vadodara.
 
 ## Program Notes
 
