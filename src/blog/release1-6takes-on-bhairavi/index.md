@@ -2,7 +2,7 @@
 title: "Raga Bhairavi"
 date: 2020-03-06
 image: "../../../images/bhairavi-albumart.png"
-description: "Raga Bhairavi is a beautiful morning Raga though its become now a custom to end a concert with Raga Bhairavi at any time of day or night. Mishra Bhairavi is a popular variety in which notes other than the scale are taken, and a differebnt perspective to the Raga is given."
+description: "Raga Bhairavi is a beautiful morning Raga though its become now a custom to end a concert with Raga Bhairavi at any time of day or night. Mishra Bhairavi is a popular variety in which notes other than the scale are taken, and a different perspective to the Raga is given."
 ---
 
 <you-tube videoid="r5tTK2m-pgc"></you-tube>
