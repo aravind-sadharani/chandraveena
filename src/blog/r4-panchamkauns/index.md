@@ -1,14 +1,14 @@
 ---
 title: "Raga Panchamkauns"
-date: 2020-04-21
-image: "../../../images/ytthumb-krbageshri.png"
+date: 2020-04-28
+image: "../../../images/vadodara-albumart.png"
 description: "Raga Panchamkauns is presented here as a Janya(or derivative) of Natabhairavi / Kaushiki family of Ragas. Here, I perform a detailed Alap in three sections followed by a composition Chautala (12 beats)"
 ---
 
-<you-tube videoid="1mNaHShZhg4"></you-tube>
+<you-tube videoid="rl9k14yEJjk"></you-tube>
 <br>
 
-Raga *Malkauns*, also known as Raga *Hindolam* in parts of India is a very popular Raga, usually sung in the late evening or night. Raga *Panchamkauns* as the name suggests, uses the note Pancham in Malkauns. Sometimes, subtly using a note changes the entire character and feeling of a Raga, so much so that it feels like a completely different Raga. This also brings in changes to the melodic phrases of Malkauns, incorporating Pancham without the note sounding dissonant. 
+Raga *Malkauns*, also known as Raga *Hindolam* in parts of India is a very popular Raga, usually sung in the late evening or night. Raga *Panchamkauns* as the name suggests, uses the note Pancham in Malkauns. Sometimes, subtly using a note changes the entire character and feeling of a Raga, so much so that it feels like a completely different Raga. This also brings in changes to the melodic phrases of Malkauns, incorporating Pancham without the note sounding dissonant.
 
 Here I present the Raga as a derivative of Natabhairavi, belonging to Kaushiki family of Ragas. This is a recording of a live performance held at a Siddhi Vinayaka Temple, Vadodara.
 
