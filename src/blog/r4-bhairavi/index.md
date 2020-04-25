@@ -59,6 +59,7 @@ Tivratala has 7 beats split as 3 + 2 + 2 denoted by solfas or syllables represen
 ## Credits
 ### Artist
 Chandraveena - S Balachander
+Pakhawaj - Dhaval Mistry
 
 ### Production
 Sadharani Music Works - https://www.sadharani.com
