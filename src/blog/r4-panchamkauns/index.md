@@ -1,5 +1,5 @@
 ---
-title: "Raga Panchamkauns"
+title: "Raga Panchamkauns - Live at Vadodara"
 date: 2020-04-28
 image: "../../../images/vadodara-albumart.png"
 description: "Raga Panchamkauns is presented here as a Janya(or derivative) of Natabhairavi / Kaushiki family of Ragas. Here, I perform a detailed Alap in three sections followed by a composition Chautala (12 beats)"
@@ -8,9 +8,9 @@ description: "Raga Panchamkauns is presented here as a Janya(or derivative) of N
 <you-tube videoid="rl9k14yEJjk"></you-tube>
 <br>
 
-Raga *Malkauns*, also known as Raga *Hindolam* in parts of India is a very popular Raga, usually sung in the late evening or night. Raga *Panchamkauns* as the name suggests, uses the note Pancham in Malkauns. Sometimes, subtly using a note changes the entire character and feeling of a Raga, so much so that it feels like a completely different Raga. This also brings in changes to the melodic phrases of Malkauns, incorporating Pancham without the note sounding dissonant.
+Raga *Malkauns*, also known as Raga *Hindolam* in parts of India, is a very popular Raga, usually sung in the late evening or night. Raga *Panchamkauns* as the name suggests, uses the note *Pancham* (Pa) in Malkauns. Sometimes, subtly using a note changes the entire character and feeling of a Raga, so much so that it feels like a completely different Raga. Panchamkauns also brings in changes to the melodic phrases of Malkauns, incorporating the Pancham without the note sounding dissonant.
 
-Here I present the Raga as a derivative of Natabhairavi, belonging to Kaushiki family of Ragas. This is a recording of a live performance held at a Siddhi Vinayaka Temple, Vadodara.
+Here I present the Raga as a derivative of *Natabhairavi*, belonging to the *Kaushiki* family of Ragas. This is a recording of a live performance held at Siddhivinayaka Temple, Dandia Bazaar, Vadodara.
 
 ## Program Notes
 
@@ -62,17 +62,15 @@ Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
 
-Please note that since this performance was held in a place of worship, video recording is not available, however, we are uploading the full audio file to YouTube, with Information Cards for your enjoyment.
+Please note that since this performance was held in a place of worship, a video recording is not available. However, we are uploading the full audio file to YouTube, with information labels for your enjoyment.
 
-The full video recording of the Raga Alapana of this performance is available at https://youtu.be/rl9k14yEJjk
+The full video recording of the Raga Alapana is available at https://youtu.be/rl9k14yEJjk.
 
-The full video recording of the Pallavi of this performance is available at https://youtu.be/j8lSjfzCcGE
+The full video recording of the Pallavi is available at https://youtu.be/j8lSjfzCcGE.
 
-Snippets from this performance are available at https://youtu.be/c7O7weNTDZs
+Snippets from this performance are available at https://youtu.be/c7O7weNTDZs.
 
-Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/live-at-vadodara
-
-<br>
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/live-at-vadodara.
 
 <notice-box>
 If you like the music, learn how you can support Chandraveena music. We value your patronage.

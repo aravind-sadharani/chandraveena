@@ -1,5 +1,5 @@
 ---
-title: "Raga Bhairavi - The Immortal Raga"
+title: "Raga Bhairavi - Live at Vadodara"
 date: 2020-04-28
 image: "../../../images/vadodara-albumart.png"
 description: "Raga Bhairavi is a beautiful morning Raga belonging to the Todi family of Ragas.  Mishra Bhairavi is a popular variety in which notes other than the scale are taken, and a different perspective to the Raga is given."
@@ -8,19 +8,20 @@ description: "Raga Bhairavi is a beautiful morning Raga belonging to the Todi fa
 <you-tube videoid="gWkMs_AzEXM"></you-tube>
 <br>
 
-##बाबुल मोरा, नैहर छूटो ही जाए (Babul Mora Naihar Chhooto Hi Jaye)##
+## Raga Bhairavi - The Immortal Raga
 
-This is an immortal song in Raga Bhairavi, further immortalised by the legendary Indian film actor / singer K.L.Saigal in the film Street Singer.
+There is a classic song in Raga Bhairavi which has attained an immortal status thanks to its soulful rendition by the legendary Indian film actor and singer *K. L. Saigal* in the film *Street Singer*. Its words go:
 
-Many rulers of erstwhile princely states of Indian were great patrons of Art, Dance and Music. Some were very good artists themselves. One among these was Nawab Wajid Ali Shah, the 19th century Nawab of Awadh. The above poetry was composed by the Nawab when he was exiled from his beloved Lucknow by the British Raj. Here he uses the metaphor of a bride's farewell from her father's home.
+>बाबुल मोरा, नैहर छूटो ही जाए - Babul Mora Naihar Chhooto Hi Jaye
 
-The meaning of the line is "O My Father, I am leaving home !"
+Many rulers of the erstwhile princely states of India were great patrons of Art, Dance and Music. Some were very good artists themselves. One among them, was the 19th century Nawab of Awadh, Nawab Wajid Ali Shah. The above poetry was composed by the Nawab when he was exiled from his beloved Lucknow by the British Raj. Here he uses the metaphor of a bride's farewell from her father's home.
+
+The bride tragically cries out (roughly translated as):
+> "O my father, the home of my birth is slipping away from my reach!"
 
 Many Indian classical musicians feature this composition in Raga Bhairavi.
 
-In this session, I present a brief Alap and a composition in Tivratal (7 beats). You can further explore Raga Bhairavi in [6 takes on Bhairavi](/blog/release1-6takes-on-bhairavi). 
-
-This is a recording of a live performance held at a Siddhi Vinayaka Temple, Vadodara.
+In this session, I present a brief Alap and a composition in Tivratal (7 beats). You can further explore Raga Bhairavi which I covered in [6 takes on Bhairavi](/blog/release1-6takes-on-bhairavi). This is a recording of a live performance held at Siddhivinayaka Temple, Dandia Bazaar, Vadodara.
 
 ## Program Notes
 
@@ -66,9 +67,9 @@ Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
 
-Please note that since this performance was held in a place of worship, video recording is not available, however, we are uploading the full audio file to YouTube, with Information Cards for your enjoyment.
+Please note that since this performance was held in a place of worship, a video recording is not available. However, we are uploading the full audio file to YouTube, with information labels for your enjoyment.
 
-The full video recording of the Pallavi of this performance is available at https://youtu.be/gWkMs_AzEXM.
+The full video recording of the Pallavi is available at https://youtu.be/gWkMs_AzEXM.
 
 Snippets from this performance are available at https://youtu.be/c7O7weNTDZs.
 
