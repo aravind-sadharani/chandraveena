@@ -10,7 +10,7 @@ description: "Raga Panchamkauns is presented here as a Janya(or derivative) of N
 
 Raga *Malkauns*, also known as Raga *Hindolam* in parts of India, is a very popular Raga, usually sung in the late evening or night. Raga *Panchamkauns* as the name suggests, uses the note *Pancham* (Pa) in Malkauns. Sometimes, subtly using a note changes the entire character and feeling of a Raga, so much so that it feels like a completely different Raga. Panchamkauns also brings in changes to the melodic phrases of Malkauns, incorporating the Pancham without the note sounding dissonant.
 
-Here I present the Raga as a derivative of *Natabhairavi*, belonging to the *Kaushiki* family of Ragas. This is a recording of a live performance held at Siddhivinayaka Temple, Dandia Bazaar, Vadodara.
+Here I present the Raga as a derivative of *Natabhairavi*, belonging to the *Kaushiki* family of Ragas. This is a recording of a live performance held at Siddhivinayak Temple, Dandia Bazaar, Vadodara.
 
 ## Program Notes
 

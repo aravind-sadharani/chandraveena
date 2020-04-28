@@ -21,7 +21,7 @@ The bride tragically cries out (roughly translated as):
 
 Many Indian classical musicians feature this composition in Raga Bhairavi.
 
-In this session, I present a brief Alap and a composition in Tivratal (7 beats). You can further explore Raga Bhairavi which I covered in [6 takes on Bhairavi](/blog/release1-6takes-on-bhairavi). This is a recording of a live performance held at Siddhivinayaka Temple, Dandia Bazaar, Vadodara.
+In this session, I present a brief Alap and a composition in Tivratal (7 beats). You can further explore Raga Bhairavi which I covered in [6 takes on Bhairavi](/blog/release1-6takes-on-bhairavi). This is a recording of a live performance held at Siddhivinayak Temple, Dandia Bazaar, Vadodara.
 
 ## Program Notes
 
