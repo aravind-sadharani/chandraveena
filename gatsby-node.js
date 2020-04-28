@@ -56,7 +56,7 @@ exports.createPages = ({ graphql, actions }) => {
           },
         })
       })
-      let postsPerPage = 4
+      let postsPerPage = 8
       let numPages = Math.ceil(posts.filter(({node}) => node.fileAbsolutePath.includes("/src/blog/")).length/postsPerPage)
       Array.from({length: numPages}).forEach((_,i) => {
         createPage({
