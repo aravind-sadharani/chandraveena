@@ -28,14 +28,14 @@ Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic 
 
 **Family** - Varja Raga of Kaushiki (Sa Re ga ma Pa dha ni)
 
-**Melakarta** - Varja Raga of Natabhairavi (Sa re ga ma Pa dha ni)
+**Melakarta** - Varja Raga of Natabhairavi (Sa Re ga ma Pa dha ni)
 
 **Prahar** - 6th Prahar (equivalent to 9 PM - 12 AM)
 
 ### Reading the scale
-In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Dha above. Notes written fully in lower case are called Komal (or flat) notes. E.g., ma and ni above. Sa and Pa are always written with a capitalised first letter.
+In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. This Raga does not use any Tivra notes. Notes written fully in lower case are called Komal (or flat) notes. E.g., ma and ni above. Sa and Pa are always written with a capitalised first letter.
 
-**Varja Raga** - A Janya (derivative) Raga of a Melakartha in which  a note is dropped from the parent  Melakartha notes. In this Raga, Rishab has been dropped.
+**Varja Raga** - A Janya (derivative) Raga of a Melakartha in which  a note is dropped from the parent  Melakartha notes. In this Raga, Rishab has been dropped from the parent scale to get Panchamkauns.
 
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
