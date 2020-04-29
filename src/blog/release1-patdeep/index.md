@@ -1,6 +1,6 @@
 ---
 title: "Raga Patdeep"
-date: 2020-03-06
+date: 2020-05-07
 image: "../../../images/ytthumb-patdeep.png"
 description: "Raga Patdeep is a vikrit or altered Raga belonging to the Palasi family of Ragas. The altered note is Nishad. This Raga is an evening melody. Here I present Alap, Jod and Jhala."
 ---
@@ -8,7 +8,7 @@ description: "Raga Patdeep is a vikrit or altered Raga belonging to the Palasi f
 <you-tube videoid="4smgSeLpiYo"></you-tube>
 <br>
 
-In this session, I present *Raga Patdeep* on Chandraveena. Raga Patdeep is a *Vikrit* or an altered Raga belonging to the Palasi family of Ragas. The altered note is Nishad. Here, I explore the Raga in Alap, Jod and Jhala.
+In this session, I present *Raga Patdeep* on Chandraveena. Even though as a scale, Raga Patdeep is similar to Melakartha Gaurimanohari, I present the Raga as a *Vikrit* or an altered Raga belonging to the Kharaharapriya / Palasi family of Ragas. The altered note is Nishad. Here, I explore the Raga in Alap, Jod and Jhala.
 
 ## Program Notes
 
@@ -39,9 +39,21 @@ A *Janya* (or derivative) Raga of a Melakarta which uses a note outside of the M
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
 
+### About the Tala
+Chautala has 12 beats split as 4 + 4 + 2 + 2 denoted by solfas or syllables representing various rhythmic patterns. The basic solfas of Chautala are given below.
+
+**Tala** - Chautala
+
+**Beats** - 12 (4+4+2+2)
+
+**Solfas** - Dha Dha Dhin Ta | ThiTa Dha Dhin Ta | ThiTa KatTa | GaDhi GaNa |
+
+
 ## Credits
 ### Artist
 Chandraveena - S Balachander
+
+Pakhawaj - Sanjay Agle
 
 ### Production
 Sadharani Music Works - https://www.sadharani.com
@@ -49,7 +61,11 @@ Sadharani Music Works - https://www.sadharani.com
 ## Release Links
 The complete recording of Raga Alapana is available at https://youtu.be/4smgSeLpiYo.
 
-Snippets from this performance are available at https://youtu.be/Tzk4Hy2wSaM.
+Snippets of Raga Alapana is available at https://youtu.be/Tzk4Hy2wSaM.
+
+The complete recording of Pallavi is available at https://youtu.be/CyAzEQ-7_vU.
+
+Snippets of Pallavi is available at https://youtu.be/ESRjjGIMu9k.
 
 Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-patdeep.
 
