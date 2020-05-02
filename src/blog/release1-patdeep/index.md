@@ -1,5 +1,5 @@
 ---
-title: "Raga Patdeep"
+title: "Raga Patdeep - Alapana and Pallavi"
 date: 2020-05-07
 image: "../../../images/ytthumb-patdeep.png"
 description: "Raga Patdeep is a vikrit or altered Raga belonging to the Palasi family of Ragas. The altered note is Nishad. This Raga is an evening melody. Here I present Alap, Jod and Jhala."
@@ -8,7 +8,7 @@ description: "Raga Patdeep is a vikrit or altered Raga belonging to the Palasi f
 <you-tube videoid="4smgSeLpiYo"></you-tube>
 <br>
 
-In this session, I present *Raga Patdeep* on Chandraveena. Even though as a scale, Raga Patdeep is similar to Melakartha Gaurimanohari, I present the Raga as a *Vikrit* or an altered Raga belonging to the Kharaharapriya / Palasi family of Ragas. The altered note is Nishad. Here, I explore the Raga in Alap, Jod and Jhala.
+In this session, I present *Raga Patdeep* on Chandraveena. Even though as a scale, Raga Patdeep is similar to Melakarta Gaurimanohari, I present the Raga as a *Vikrit* or an altered Raga belonging to the Kharaharapriya or Palasi family of Ragas. The altered note is Nishad. Here, I explore the Raga in Alap, Jod and Jhala, and conclude with a Pallavi in Chautala.
 
 ## Program Notes
 
@@ -61,11 +61,11 @@ Sadharani Music Works - https://www.sadharani.com
 ## Release Links
 The complete recording of Raga Alapana is available at https://youtu.be/4smgSeLpiYo.
 
-Snippets of Raga Alapana is available at https://youtu.be/Tzk4Hy2wSaM.
+Snippets from Raga Alapana are available at https://youtu.be/Tzk4Hy2wSaM.
 
 The complete recording of Pallavi is available at https://youtu.be/CyAzEQ-7_vU.
 
-Snippets of Pallavi is available at https://youtu.be/ESRjjGIMu9k.
+Snippets from Pallavi are available at https://youtu.be/ESRjjGIMu9k.
 
 Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-patdeep.
 
