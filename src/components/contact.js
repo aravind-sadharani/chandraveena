@@ -3,6 +3,7 @@ import {Twitter} from "styled-icons/fa-brands/Twitter"
 import {Youtube} from "styled-icons/fa-brands/Youtube"
 import {Facebook} from "styled-icons/fa-brands/Facebook"
 import {Bandcamp} from "styled-icons/fa-brands/Bandcamp"
+import {Linkedin} from "styled-icons/fa-brands/Linkedin"
 import styled from "styled-components"
 import { navigate, Link } from "gatsby"
 import {UnlinkedButton} from "./buttons"
@@ -35,14 +36,18 @@ const BandcampSpan = styled(SocialSpan)`
   color: #408294;
 `
 
+const LinkedinSpan = styled(SocialSpan)`
+  color: #0e76a8;
+`
+
 const SocialLinks = () => (
   <SocialList>
     <li>
-      <TwitterSpan>
-        <a href="https://twitter.com/chandra_veena">
-          <Twitter size="1.1em" /> &nbsp; Twitter
+      <BandcampSpan>
+        <a href="https://chandraveena.bandcamp.com/">
+          <Bandcamp size="1.1em" /> &nbsp; Bandcamp
         </a>
-      </TwitterSpan>
+      </BandcampSpan>
     </li>
     <li>
       <YouTubeSpan>
@@ -52,18 +57,25 @@ const SocialLinks = () => (
       </YouTubeSpan>
     </li>
     <li>
+      <TwitterSpan>
+        <a href="https://twitter.com/chandra_veena">
+          <Twitter size="1.1em" /> &nbsp; Twitter
+        </a>
+      </TwitterSpan>
+    </li>
+    <li>
+      <LinkedinSpan>
+        <a href="https://www.linkedin.com/in/s-balachander/">
+          <Linkedin size="1.1em" /> &nbsp; LinkedIn
+        </a>
+      </LinkedinSpan>
+    </li>
+    <li>
       <FacebookSpan>
         <a href="https://www.facebook.com/balachander.chandraveena/">
           <Facebook size="1.1em" /> &nbsp; Facebook
         </a>
       </FacebookSpan>
-    </li>
-    <li>
-      <BandcampSpan>
-        <a href="https://chandraveena.bandcamp.com/">
-          <Bandcamp size="1.1em" /> &nbsp; Bandcamp
-        </a>
-      </BandcampSpan>
     </li>
   </SocialList>
 )
