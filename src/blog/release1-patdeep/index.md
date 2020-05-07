@@ -8,7 +8,9 @@ description: "Raga Patdeep is a vikrit or altered Raga belonging to the Palasi f
 <you-tube videoid="4smgSeLpiYo"></you-tube>
 <br>
 
-In this session, I present *Raga Patdeep* on Chandraveena. Even though as a scale, Raga Patdeep is similar to Melakarta Gaurimanohari, I present the Raga as a *Vikrit* or an altered Raga belonging to the Kharaharapriya or Palasi family of Ragas. The altered note is Nishad. Here, I explore the Raga in Alap, Jod and Jhala, and conclude with a Pallavi in Chautala.
+In this session, I present *Raga Patdeep* on Chandraveena. Even though as a scale, Raga Patdeep is similar to Melakarta Gaurimanohari, I present the Raga as a *Vikrit* or an altered Raga belonging to the Kharaharapriya or Palasi family of Ragas. The altered note is Nishad. Here, I explore the Raga in Alap, Jod and Jhala, and conclude with a Pallavi in Chautala. I am privileged to be accompanied by Pandit Sanjay Agle for the Pallavi session.
+
+Sanjay Agle is a master Pakhawaj player coming from a family and tradition of Pakhawaj players. His grandfather Ambadas Agle was a legendary pakhawaj player. Sanjay Agle learnt from his father Kalidas Agle, and another renowned pakhawaj player Swami Pagaldas. His sister Chitrangana is also a very well known Pakhawaj player.
 
 ## Program Notes
 
