@@ -5,7 +5,7 @@ image: "../../../images/ytthumb-asavari.png"
 description: "Raga Komal Rishabh Asavari is an early morning Raga. Here, I perform a detailed Alap in three sections (Alap, Jod and Jhala). This performance has a very unique drone (Tanpura) accompaniment."
 ---
 
-<you-tube videoid="BCs0R-3keBo"></you-tube>
+<you-tube videoid="ElDf4Mxs7tA"></you-tube>
 <br>
 
 Raga *Asavari* is an ancient scale. It is what we call an *Audav* (pentatonic) - *Sampoorna* (literally "complete" or heptatonic) *Vakra* Raga (read the notes below for more information). It used to be popular until the advent of a new creation, [*Raga Jaunpuri*](/blog/r2-jaunpuri) which I covered earlier.
@@ -54,9 +54,9 @@ Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
 
-The full video recording of this performance is available at https://youtu.be/BCs0R-3keBo.
+The full video recording of this performance is available at https://youtu.be/ElDf4Mxs7tA.
 
-Snippets from this performance are available at https://youtu.be/AKvsj4clClE.
+Snippets from this performance are available at https://youtu.be/dPahp2X5VR0.
 
 Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-komal-rishabh-asavari.
 
