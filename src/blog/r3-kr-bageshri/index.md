@@ -2,7 +2,7 @@
 title: "Raga Komal Rishabh Bageshri - A Raga with a twist"
 date: 2020-04-21
 image: "../../../images/ytthumb-krbageshri.png"
-description: "Raga Komal Rishab Bageshri is presented here as a Janya(or derivative) of Todi family of Ragas. Here, I perform a detailed Alap in three sections followed by two compositions in Tivratala (7 beats) and Jhaptala (10 beats)"
+description: "Raga Komal Rishabh Bageshri is presented here as a Janya(or derivative) of Todi family of Ragas. Here, I perform a detailed Alap in three sections followed by two compositions in Tivratala (7 beats) and Jhaptala (10 beats)"
 ---
 
 <you-tube videoid="1mNaHShZhg4"></you-tube>
@@ -37,9 +37,9 @@ Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic 
 ### Reading the scale
 In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Dha above. Notes written fully in lower case are called Komal (or flat) notes. E.g., ma and ni above. Sa and Pa are always written with a capitalised first letter.
 
-**Varja Raga** - A Janya (derivative) Raga of a Melakartha in which  a note is dropped from the parent  Melakartha notes. In this Raga, Pancham has been dropped.
+**Varja Raga** - A Janya (derivative) Raga of a Melakarta in which  a note is dropped from the parent  Melakarta notes. In this Raga, Pancham has been dropped.
 
-**Bhashanga Raga** - A Janya (or derivative) Raga of a Melakartha which uses a note outside of the Melakartha notes. In this raga, Tivra Dha  is outside of Hanumatodi (Sa re ga ma Pa dha ni).
+**Bhashanga Raga** - A Janya (or derivative) Raga of a Melakarta which uses a note outside of the Melakarta notes. In this raga, Tivra Dha  is outside of Hanumatodi (Sa re ga ma Pa dha ni).
 
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.

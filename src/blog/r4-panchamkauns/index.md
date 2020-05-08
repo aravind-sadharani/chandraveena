@@ -35,7 +35,7 @@ Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic 
 ### Reading the scale
 In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. Notes written fully in lower case are called Komal (or flat) notes. E.g., ma and ni above. All notes used in this Raga are Komal (or flat) notes. Sa and Pa are always written with a capitalised first letter.
 
-**Varja Raga** - A Janya (derivative) Raga of a Melakartha (parent scale) in which  a note is dropped from the parent  Melakartha notes. In this Raga, Rishab has been dropped from the parent scale to get Panchamkauns.
+**Varja Raga** - A Janya (derivative) Raga of a Melakarta (parent scale) in which  a note is dropped from the parent Melakarta notes. In this Raga, Rishabh has been dropped from the parent scale to get Panchamkauns.
 
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.

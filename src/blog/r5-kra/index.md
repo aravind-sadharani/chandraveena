@@ -12,7 +12,7 @@ Raga *Asavari* is an ancient scale. It is what we call an *Audav* (pentatonic) -
 
 Now Raga Jaunpuri has the same scale as Raga Asavari. Over a period of time, Raga Jaunpuri became so popular that Raga Asavari had an identity crisis! Though some people believe they are both one and the same, I tend to disagree. Nevertheless, probably as a way for Raga Asavari to establish its identity again, the second note of Raga Asavari, *Tivra Rishabh* was flattened to a *Komal Rishabh* - and hence the name Komal Rishabh Asavari.
 
-Interestingly, there is a scale called *Asaveri*, a thematic variation on *Saveri*. This Raga has the same scale as Komal Rishab Asavari. Note that Asavari is pronounced **आसाावरी** (aah-saa-vuh-ree) while Asaveri is pronounced **असावेरी** (uh-saa-vay-ree).
+Interestingly, there is a scale called *Asaveri*, a thematic variation on *Saveri*. This Raga has the same scale as Komal Rishabh Asavari. Note that Asavari is pronounced **आसाावरी** (aah-saa-vuh-ree) while Asaveri is pronounced **असावेरी** (uh-saa-vay-ree).
 
 Here, I present a detailed Alap in Raga Komal Rishabh Asavari consisting of three sections - Alap, Jod and Jhala. This alap performance is accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga. It was a different and interesting experience for me. Do try and hear the difference. If it sounds interesting to you, be sure to check out [PureTones](https://puretones.sadharani.com).
 
@@ -37,7 +37,7 @@ Here are some notes about the Raga and the Tala.
 In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Re in Natabhairavi scale above. Notes written fully in lower case are called Komal (or flat) notes. E.g., dha and ni above. Sa and Pa are always written with a capitalized first letter.
 
 ### Vikrit Raga
-A vikrit raga is a derived scale from a Melakarta in which a note has been modified. In this case, Tivra Rishabh of Melakarta Natabhairavi has been flattened to Komal Rishabh, hence also the name Komal Rishab Asavari.
+A vikrit raga is a derived scale from a Melakarta in which a note has been modified. In this case, Tivra Rishabh of Melakarta Natabhairavi has been flattened to Komal Rishabh, hence also the name Komal Rishabh Asavari.
 
 ### Vakra Raga
 Even though scales in Indian Classical music are defined by a set of ascending - descending notes, sometimes, a Raga has a zig-zag melodic approach. Such Ragas are called Vakra Ragas. The scale of Raga Komal Rishabh Asavari is generally taken as **Sa re ma Pa dha SA** while ascending, and **SA ni dha Pa ma ga re Sa** while descending.
