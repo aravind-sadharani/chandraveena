@@ -9,9 +9,13 @@ description: "Raga Megh is one of the oldest Ragas in Indian Classical Music. It
 
 There are many systems of Raga classifcation in Indian Classical Music. Some of them are Raga - Ragini, Melakarta, Janka-Janya Thaat etc. These different systems enables a musician to understand the melodic structure of a Raga based on its heritage and association. Raga-Ragini system of classification is one of oldest classification system. This system consisted of Six principal Ragas, namely, Bhairav, Hindol, Shree, Megh, Deepak and Malkauns. There is also a metaphysical association here - some say that the first 5 Ragas came from Lord Shiva, and the sixth, Raga Malkauns, from Goddess Parvati. 
 
-Be that as may, Raga Megh is a very grand Raga, generally considered a cooling Raga, and associated with monsoon. Many traditional lyrical compositions talk of dark clouds, thunder and lightning. Given the description, use of appropriate Gamakas (Intonations) embellishes the Raga. There are also Ragmala paintings (traditional miniature paintings on silk depicting Indian Ragas, along with a description of the Ragas) on Raga Megh.
+Be that as may, Raga Megh is a very grand Raga, generally considered a cooling Raga, and associated with monsoon. Many traditional lyrical compositions talk of dark clouds, thunder and lightning. Given the description, use of appropriate Gamakas (Intonations) embellishes the Raga. There are also Ragmala paintings (traditional miniature paintings on silk depicting Indian Ragas, along with a description of the Ragas) on Raga Megh. 
 
-In this session, I present *Raga Megh* on Chandraveena. I explore the Raga in Alap, Jod and Jhala.
+The popular scale of Raga Megh is Sa Re Ma Pa ni (notes below for details). An allied Raga to Megh is Madhyamavati / Madhmaadh Sarang which has the same scale as Megh. There is a traditional version of Megh which uses Komal Gandhar and Tivra Dhaivat as well. This differentiates the Raga from Madhymavati / Madhmaad Sarang. 
+
+Here, in this presentation of *Raga Megh* on Chandraveena, I have used ati-komal (extra flattened) Gandhar as a grace note. I explore the Raga in Alap, Jod and Jhala.
+
+
 
 ## Program Notes
 
