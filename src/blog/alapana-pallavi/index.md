@@ -7,9 +7,9 @@ description: "I am S. Balachander, an Indian classical musician and a performing
 
 If I say "Indian Classical Music", I am quite sure you know what form of music I am referring to. However, the term *Classical* in Indian Classical Music is a bit of a misnomer.
 
-In Western [Art Music](https://en.wikipedia.org/wiki/Art_music), the term *Classical* can be applied in two ways. In a strict sense, it refers to music of the [Classical period](https://en.wikipedia.org/wiki/Classical_period_(music)), while in a broader sense it refers to music rooted in [classical traditions](https://en.wikipedia.org/wiki/Classical_music) but including music from before the Classical period all the way up to its Contemporary forms.
+In Western [Art Music](https://en.wikipedia.org/wiki/Art_music), the term *Classical* can be applied in two ways. In a strict sense, it refers to music of the [Classical period](https://en.wikipedia.org/wiki/Classical_period_(music)), while in a broader sense it refers to music rooted in [classical traditions](https://en.wikipedia.org/wiki/Classical_music) but including music from before the Classical period all the way up to its contemporary forms.
 
-In Indian Art Music, there is no specific Classical period. Rather the [story of Indian music](/blog/history-of-indian-music/) has been one of continuous evolution over a period of 1500 years. Despite many changes and a long evolution, many of the fundamental principles of Indian Ragas and Raga-based music have been around for many centuries. A more appropriate term for Indian Classical Music would be *Shastriya Sangeet* or music based on *Shastras* (scriptures).
+However, in Indian Art Music, there is no specific Classical period. Rather the [story of Indian music](/blog/history-of-indian-music/) has been one of continuous evolution over a period of 1500 years. Despite many changes and a long evolution, many of the fundamental principles of Indian Ragas and Raga-based music have been around for many centuries. A more appropriate term for Indian Classical Music would be *Shastriya Sangeet* or music based on *Shastras* (scriptures).
 
 All Indian performing arts (music, dance, drama, etc) have two major aspects - *Lakshya* (presentation) and *Lakshana* (grammar). A scripture related to *Lakshana* is referred to as a *Lakshanagrantha* (book of grammar). A few examples of Lakshangranthas related to music are *Sangeet Ratnakar*, *Dattilam*, *Svaramelakalanidhi*, *Chaturdandi Prakasika*, etc. These books have been written by eminent scholars, musicians and musicologists like *Sarangdev*, *Dattil*, *Raamamatya*, *Venkatmakhin*, among others.
 
@@ -19,44 +19,44 @@ Many of you may have already noticed that all my releases on my <a href="https:/
 
 ## Raga Alapana
 
-The heading itself contains two words - *Raga* and *Alapana*. This begets the question - what is a *Raga*?  This is a vast subject in itself, but I will address it briefly here. According to our scriptures, Raga is that which pleases the mind, and evokes an emotional response. In my opinion, shouldn't that be the definition of any music? Now, Lakshanagranthas have set out a grammar so that there is an identity and consistency in the presentation of a Raga. It would be quite problematic if, for example, *Raga Hamasadhwani* used different sets of notes, in different parts of the country, wouldn't it? Within the framework of this grammar, a Raga presentation which can be described as *Ranjayati* (that which illuminates, gratifies, colors the mind) is the most important characteristic in the presentation of a Raga.
+The heading itself contains two words - *Raga* and *Alapana*. This begets the question - what is a *Raga*?  This is a vast subject in itself, but I will address it briefly here. As mentioned before, a Raga is identified in terms of its Lakshya and Lakshana.
 
-According to our scriptures, the presentation of a Raga can be through multiple forms - *Raga Alapti*, *Rupak Alapti*, *Prabandha*, *Kriti*, etc. We can consider Raga Alapti as the earliest mention of the concept of Raga Alapana. Raga Alapana is a systematic extempore exploration and presentation of a Raga, within the governing principles of Raga Lakshana. This part of the musical presentation does not have any rhythmic cycle and therefore is commonly performed without any rhythmic accompaniment. Raga Alapana uses certain syllables and vocal solfas as a means to sing which I covered in [this post](/intro/#alap) for explanation. Alapana, Alapti and Alap are all synonymous. 
+Pertaining to the Lakshya aspect, our scriptures describe a Raga as that which pleases the mind, and evokes an emotional response. In my opinion, shouldn't that be the definition of any music? For the Lakshana aspect, the Lakshanagranthas have set out a grammar so that there is an identity and consistency in the presentation of a Raga. This includes the set of notes to be used in the Raga, the consonant relationship of each note with other notes, and rules regarding how valid musical phrases can be constructed. These rules also mould the microtonal shades of notes that can be used and therefore the overall tuning of the scale of the Raga. But this is a topic for another post! Within the framework of this grammar, a Raga presentation which can be described as *Ranjayati* (that which illuminates, gratifies, colors the mind) is the most important characteristic in the presentation of a Raga.
 
-This section of a musical presentation has also been referred to in our scriptures as as Raga Alapti or Anibaddha Sangeet (unbound - by lyrics and meter, not pre-composed).
+According to our scriptures, the presentation of a Raga can be through multiple forms - *Raga Alapti*, *Rupak Alapti*, *Prabandha*, *Kriti*, etc. We can consider Raga Alapti as the earliest mention of the concept of Raga Alapana. Raga Alapana is a systematic extempore exploration and presentation of a Raga, within the governing principles of Raga Lakshana. This part of the musical presentation does not have any rhythmic cycle and therefore is commonly performed without any rhythmic accompaniment. Raga Alapana uses certain syllables and vocal solfas as a means to sing which I covered in [this post](/intro/#alap) for explanation.
 
-The systematic presentation, according to the scriptures can be classified into the following parts:
+Alapana, Alapti and Alap are all synonymous. This section of a musical presentation has also been referred to in our scriptures as *Anibaddha Sangeet* (music which is unbound - by lyrics and meter, i.e., not composed).
+
+Raga Alapana can be classified into the following stages:
 
 ### Akshiptika or the Introduction
 
-*Akshiptika* is a condensed alapana wherein the whole identity and structure of the Raga is established quickly in a few phrases. Typically, this part of the Alapana would be in the Madhya Sthayi (middle octave). This enables fellow musicians on the stage, and listeners alike to immediately relate to the Raga being presented. The familiarity helps in following and enjoying the presentation of the Raga.
+*Akshiptika* is a condensed alapana, wherein the whole identity and structure of the Raga is established quickly in a few phrases. Typically, this part of the Alapana would be in the Madhya Sthayi (middle octave). This enables fellow musicians on the stage, and listeners alike to immediately relate to the Raga being presented. The familiarity helps in following and enjoying the presentation of the Raga.
 
 ### Raga Vardhani or the main body of the Alapana
 
 *Raga Vardhani* is the biggest part of Alapana. This in turn consists of 4 stages.
 
-* Stage 1 of the alapana starts with Madhya Sthayi Shadaj, and explores the Raga in Mandra Sthayi (lower octave) and Madhya Sthayi (middle octave). Here, the identity of the Raga is further established through the usage of appropriate phrases, intonations and note emphasis points.
+* Stage 1 of the alapana starts with Madhya Sthayi Shadaj (the fundamental of the middle octave), and explores the Raga in Mandra Sthayi (lower octave) and Madhya Sthayi (middle octave). Here, the identity of the Raga is further established through the usage of appropriate phrases, intonations and note emphasis points.
 * Stage 2 of the alapana consists of exploring the Raga in all its nuances, a note by note exploration, giving full freedom to the creative process. Ocassionally, the phrases may touch Tara Sthayi (higher octave), but predomoinantly restricted to lower and middle octave.
-* In Stage 3, most of the exploration happens in higher octave, ocassionally coming down to middle octave.
+* In Stage 3, most of the exploration happens in the higher octave, ocassionally coming down to the middle octave.
 * Stage 4 is the concluding part where *sancharis* (phrases) across all 3 octaves are presented. This part maybe in a slightly faster tempo compared to the earlier stages.
 
 ### Sthayi
 
-Sthayi is a melodic structure where the starting note, and the ending note of the phrase are the same. In this section, a musician can pick starting notes, create a melodic phrase, and return to the starting note. Where the starting notes are in ascending form, its called *Arohana sthayi*, and where the starting notes are in descending form, its called *Avarohana sthayi*.
-An example of Arohana Sthayi set of phrases :
-Pa" Dha" Ni" Sa Re Ga Ma Pa
-Dha" Ni" Sa Re Ga Ma Pa Dha
-Ni" Sa Re Ga Ma Pa Dha Ni etc.
+Earlier we used the term *Sthayi* to denote an octave. But there is another meaning to Sthayi. It is used to describe a systematic movement through the scale of the Raga. It is a melodic structure consisting of a sequence of phrases. Each phrase starts on a note and ends on the same note but in a higher or lower octave, while passing through all the notes in the Raga. Then the next phrase starts from a note one higher or one lower than the starting note of the previous phrase and progresses in the same way. And then another phrase and so on. When the starting notes are taken in ascending order, it's called *Arohana Sthayi*, and when the starting notes are taken in descending order, it's called *Avarohana Sthayi*.
 
-An example of Avarohana Sthayi set of phrases :
-Sa' Ni Dha Pa Ma Ga Re Sa
-Ni Dha Pa Ma Ga Re Sa Ni"
-Dha Pa Ma Ga Re Sa Ni" Dha" etc
+An example of a set of phrases in Arohana Sthayi:
+* Pa" Dha" Ni" Sa Re Ga Ma Pa
+* Dha" Ni" Sa Re Ga Ma Pa Dha
+* Ni" Sa Re Ga Ma Pa Dha Ni etc.
 
-" - Lower Octave (Mandra Sthayi)
-' - Higher Octave (Tara Sthayi)
+An example of a set of phrases in Avarohana Sthayi:
+* Sa' Ni Dha Pa Ma Ga Re Sa
+* Ni Dha Pa Ma Ga Re Sa Ni"
+* Dha Pa Ma Ga Re Sa Ni" Dha" etc
 
-This is just an example, phrases would ofcourse need to conform to the structure and grammar of the Raga.
+Here, the suffix **"** denotes notes from Mandra Sthayi (lower octave) and the suffix **'** denotes notes from Tara Sthayi (higher octave). Note that this is just a simple example. In practice, the phrases would of course need to conform to the structure and grammar of the Raga.
 
 ### Vartani or Madhyamakala (also popularly known as Tanam or Jod/Jhala)
 
@@ -70,26 +70,33 @@ This is the concluding part, where *sancharis* or melodic phrases across the oct
 
 The word Pallavi is believed to be a compound word made from 3 words: **Pa**dam, **La**yam, and **Vi**nyasam.
 
-Padam is a lyrical or a musical phrase, Layam is a rhythmic structure or Talam, and Vinayasam is the rhythmic exploration of the set musical phrase within the framework of the Raga Lakshana. This section of a musical presentation has also been referred to as Rupak Alapti or Nibaddha Sangeet (bound - by lyrics, meter and Tala, precomposed). This has two characteristics - *Dhatu* (musical aspects) and *Matu* (Poetry or Lyrical aspects). This is basically poetry set to music in a tala or cycle of beats. 
+Padam is a lyrical or a musical phrase, Layam is a rhythmic structure or Talam, and Vinayasam is the rhythmic exploration of the set musical phrase within the framework of the Raga Lakshana. This section of a musical presentation has also been referred to as Rupak Alapti or Nibaddha Sangeet (music whic is bound - by lyrics, meter and Tala which are composed). This has two characteristics - *Dhatu* (musical aspects) and *Matu* (Poetry or Lyrical aspects). Essentially, this is poetry set to music in a tala or rhythmic cycle of beats.
 
-In today's common parlance, this section is also known as Bandish / Kriti. This has traditionally 4 sections or parts to it : 
+These lyrics or musical phrases are set to different talas like Chautala (12 beats), Mishra Chapu (7 beats), Jhaptala (10 beats), etc. The musical phrases are typically set in a way such that they line up with specific accents in the rhythmic cycle. For example, the starting point and the ending point of the musical phrase should match corresponding accents in the rhythmic cycle.
 
-*Pallavi* or *Sthayi* - introductory lines introducing the Raga structure
-*Anupallavi* or *Antara* - sub pallavi or connecting two sections, musically it connects two halves of the octave.
-*Charanam* or *Sanchari* - footnote or the concluding part which covers the whole Raga. This can have an additional section sometimes called *Abhog*, which contains the composer's signature.
+In today's common parlance, this section is also known as *Bandish* or *Kriti*. This can include the following stages:
 
-These are set to different talas like Chautala (12 beats), Mishra Chapu (7 beats), Jhaptala (10 beats) etc.
-
-The musical phrase is set in a way such that there are certain emphasis points in the rhythmic cycle, the starting point and the ending point of the musical phrase in the rhythmic cycle. 
+* *Pallavi* or *Sthayi* - introductory lines showcasing the Raga structure.
+* *Anupallavi* or *Antara* - bridge lines which connect two sections, or two halves of the octave.
+* *Charanam* or *Sanchari* - a footnote or concluding part which again covers the whole Raga.
+* *Abhog* - an additional section of Sanchari which contains the composer's signature.
 
 ## Summary
 
 To summarise, a Raga is a musical structure which should be presented according to its prescribed Lakshanas. Raga Alapana is a prescribed method for presenting a Raga systematically. Pallavi is a further exploration of the Raga together with a rhythmic cycle and its rhythmic accents. While adhering to these aspects of presentation, a musician should aspire to please the listeners' minds and evoke an emotional response from them.
 
-## Notes to the Reader
+This post is by no means exhaustive, but I hope it provides a glimpse into the process of Raga Alapana and Pallavi. I also hope that this would enable you to follow and enjoy Chandraveena music and Indian Classical music in general. In a subsequent video, I will give a demo of different sections of Raga Alapana and Pallavi. Stay tuned!
 
-There are many recordings of extensive Raga Alapana on Chandraveena. Based on the descriptions, try and identify the different sections of the Raga Alapana. Most of my Pallavis consist of only one section. Try and identify the starting point, the emphasis point and the end point of the pallavi. For a multi section pallavi, listen to compositions of Tansen, Baiju, Thyagaraja, Muthuswamy Diskshithar etc. Try and identify the different sections.
+<notice-box>
 
-This post is by no means exhaustive, but I hope it provides a glimpse into the process of Raga Alapana and Pallavi. I also hope that this would enable you to follow and enjoy Chandraveena music and Indian Classical music in general.
+## Notes to Readers
 
-In a subsequent video, I will give a demo of different sections of Raga Alapana and Pallavi. If you have any query, you can write to me.
+Please check my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> and <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> channels for recordings of Raga Alapana and Pallavi on Chandraveena.
+
+<br>
+
+Based on this article, you can try and identify the different sections of the Raga Alapana. Most of my Pallavis consist of only one section. Try and identify the starting point, the emphasis point and the end point of the pallavi.
+
+For a multi section pallavi, listen to compositions of Tansen, Baiju, Thyagaraja, Muthuswamy Diskshithar, etc. You can try and identify the different sections.
+
+</notice-box>
