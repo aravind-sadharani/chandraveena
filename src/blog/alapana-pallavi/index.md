@@ -79,7 +79,7 @@ In today's common parlance, this section is also known as *Bandish* or *Kriti*. 
 * *Pallavi* or *Sthayi* - introductory lines showcasing the Raga structure.
 * *Anupallavi* or *Antara* - bridge lines which connect two sections, or two halves of the octave.
 * *Charanam* or *Sanchari* - a footnote or concluding part which again covers the whole Raga.
-* *Abhog* - an additional section of Sanchari which contains the composer's signature.
+* *Charanam 2* or *Abhog* - an optional additional section of Sanchari which contains the composer's signature.
 
 ## Summary
 
