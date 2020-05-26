@@ -70,7 +70,7 @@ This is the concluding part, where *sancharis* or melodic phrases across the oct
 
 The word Pallavi is believed to be a compound word made from 3 words: **Pa**dam, **La**yam, and **Vi**nyasam.
 
-Padam is a lyrical or a musical phrase, Layam is a rhythmic structure or Talam, and Vinayasam is the rhythmic exploration of the set musical phrase within the framework of the Raga Lakshana. This section of a musical presentation has also been referred to as Rupak Alapti or Nibaddha Sangeet (music whic is bound - by lyrics, meter and Tala which are composed). This has two characteristics - *Dhatu* (musical aspects) and *Matu* (Poetry or Lyrical aspects). Essentially, this is poetry set to music in a tala or rhythmic cycle of beats.
+Padam is a lyrical or a musical phrase, Layam is a rhythmic structure or Talam, and Vinayasam is the rhythmic exploration of the set musical phrase within the framework of the Raga Lakshana. This section of a musical presentation has also been referred to as Rupak Alapti or Nibaddha Sangeet (music which is bound - by lyrics, meter and Tala which are composed). Rupak Alapti could also be considered as the precursor to modern day *Khyal* genre of Indian Classical Music. This has two characteristics - *Dhatu* (musical aspects) and *Matu* (Poetry or Lyrical aspects). Essentially, this is poetry set to music in a tala or rhythmic cycle of beats.
 
 These lyrics or musical phrases are set to different talas like Chautala (12 beats), Mishra Chapu (7 beats), Jhaptala (10 beats), etc. The musical phrases are typically set in a way such that they line up with specific accents in the rhythmic cycle. For example, the starting point and the ending point of the musical phrase should match corresponding accents in the rhythmic cycle.
 
@@ -79,7 +79,7 @@ In today's common parlance, this section is also known as *Bandish* or *Kriti*. 
 * *Pallavi* or *Sthayi* - introductory lines showcasing the Raga structure.
 * *Anupallavi* or *Antara* - bridge lines which connect two sections, or two halves of the octave.
 * *Charanam* or *Sanchari* - a footnote or concluding part which again covers the whole Raga.
-* *Charanam 2* or *Abhog* - an optional additional section of Sanchari which contains the composer's signature.
+* *Anucharanam* or *Abhog* - an optional additional section of Sanchari which contains the composer's signature.
 
 ## Summary
 
