@@ -1,16 +1,16 @@
 ---
-title: "Morning Bhoop or Is it Inverse Bhoop - Raga Bhoopali Todi"
-date: 2020-05-18
-image: "../../../images/ytthumb-asavari.png"
+title: "Raga Bhoopali Todi - A morning Raga variant of Bhoop?"
+date: 2020-06-09
+image: "../../../images/ytthumb-bhoopali-todi-pallavi.png"
 description: "Raga Bhoopali Todi is an early morning Raga belonging to the Todi family of Ragas. Here, I perform a detailed Alap in three sections (Alap, Jod and Jhala), and a Pallavi (composition) in Jhaptala. This performance has used a very unique drone (Tanpura) accompaniment."
 ---
 
 <you-tube videoid="nBl22Eulewo"></you-tube>
 <br>
 
-Raga *Bhoop / Bhoopali / Mohanam* is an ancient pentatonic scale, and a very popular evening Raga across India. This scale has been found in many ancient musical systems like the Chinese music for *Guqin*, Japanese music for *Koto* etc. It is what we call an *Audav* - *Audav* scale. This Raga uses all *Tivra* or Sharp notes - Sa Re Ga Pa Dha. *Bhoopali Todi* or *Bhoopala* uses the same set of notes, but they are all *Komal* or Flat notes - Sa re ga Pa dha. See in Program Notes for nomenclature. This Raga belongs to the Todi family of Ragas, and gives an entirely different feeling compared to its Tivra counterpart. So could it be called *Subah ki Bhoop* ?
+Raga *Bhoop* (also known as *Bhoopali* or *Mohanam*) is an ancient pentatonic scale, and a very popular evening Raga across India. This scale has been found in many ancient musical systems like the Chinese music for *Guqin*, Japanese music for *Koto*, etc. It is what we call an *Audav* - *Audav* scale (which means it uses 5 notes while ascending and while descending). This Raga uses all *Tivra* or sharp notes - **Sa Re Ga Pa Dha**. *Bhoopali Todi* or *Bhoopala* uses the same set of notes, but they are all *Komal* or flat notes (denoted without capitalization) - **Sa re ga Pa dha**. This Raga belongs to the Todi family of Ragas, and gives an entirely different feeling compared to its Tivra counterpart. So could it be called *Subah ki Bhoop* (morning Bhoop)?
 
-Here, I present a detailed Alap in Raga Komal Rishabh Asavari consisting of three sections - Alap, Jod and Jhala. This alap performance is accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga. It was a different and interesting experience for me. Do try and hear the difference. If it sounds interesting to you, be sure to check out [PureTones](https://puretones.sadharani.com). You can also hear PureTones generated Signature Tune (YouTube channel link) of Bhoopali Todi synthesised to go with the PureTones tanpura.
+Here, I present a detailed Alap in Raga Bhoopali Todi consisting of three sections - Alap, Jod and Jhala. This alap performance is accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga. It was a different and interesting experience for me. Do try and hear the difference. If it sounds interesting to you, be sure to check out [PureTones](https://puretones.sadharani.com). You can also hear a synthesized signature tune (YouTube channel link) of Bhoopali Todi which goes along with the PureTones drone track.
 
 ## Program Notes
 
@@ -33,13 +33,13 @@ Here are some notes about the Raga and the Tala.
 **Prahar** - 1st and 2nd prahar (equivalent to 6 AM - 12 PM)
 
 ### Reading the scale
-In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes.  Notes written fully in lower case are called Komal (or flat) notes. E.g., dha and ni above. Sa and Pa are always written with a capitalized first letter. This Raga uses all Komal (or flat) notes.
+In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. Notes written fully in lower case are called Komal (or flat) notes. E.g., dha and ni above. Sa and Pa are always written with a capitalized first letter. This Raga uses all Komal (or flat) notes.
 
 ### Varjit Raga
 A varjit raga is a derived scale from a Melakarta in which a note/s has been omitted. In this case, ma and ni of Melakarta Hanumatodi has been omitted, hence a pentatonic derivative of Hanumatodi.
 
 ### Janya Raga
-A janya raga is a derived scale from a Melakarta. Melakarta by definition is Sampoorna (heptatonic), Janya Raga could be Sampoorna (heptatonic) / Shadava (hexatonic) / Audava (pentatonic). Indian Ragas with less than 5 notes are very rare.
+A janya raga is a derived scale from a Melakarta. A melakarta by definition is a *Sampoorna* (heptatonic) scale. A janya Raga could be Sampoorna (heptatonic) or *Shadava* (hexatonic) or *Audava* (pentatonic). Indian Ragas with less than 5 notes are very rare.
 
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
@@ -49,7 +49,7 @@ Jhaptala is generally divided into 2+3+2+3. However, here I have used a differen
 
 **Tala** - Jhaptala
 
-**Beats** - 10 (2+2+2+2)
+**Beats** - 10 (2+2+2+2+2)
 
 **Solfas** - Dha Ghe | Dhin Ta | Dhin Ta | ThiTa KatTa | GaDhi GaNa |
 
@@ -57,6 +57,7 @@ Jhaptala is generally divided into 2+3+2+3. However, here I have used a differen
 ## Credits
 ### Artists
 Chandraveena - S Balachander
+
 Pakhwaj - Dhaval Mistry
 
 ### Production
@@ -65,6 +66,7 @@ Sadharani Music Works - https://www.sadharani.com
 ## Release Links
 
 The full video recording of Raga Alapana is available at https://youtu.be/wSJTdqfDVBk.
+
 The full video recording of Pallavi is available at https://youtu.be/5bLTs68T5Co.
 
 Snippets from this performance are available at https://youtu.be/nBl22Eulewo .
