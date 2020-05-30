@@ -2,10 +2,10 @@
 title: "Morning Bhoop or Is it Inverse Bhoop - Raga Bhoopali Todi"
 date: 2020-05-18
 image: "../../../images/ytthumb-asavari.png"
-description: "Raga Bhoopali Todi is an early morning Raga belonging to the Todi family of Ragas. Here, I perform a detailed Alap in three sections (Alap, Jod and Jhala). This performance has a very unique drone (Tanpura) accompaniment."
+description: "Raga Bhoopali Todi is an early morning Raga belonging to the Todi family of Ragas. Here, I perform a detailed Alap in three sections (Alap, Jod and Jhala), and a Pallavi (composition) in Jhaptala. This performance has used a very unique drone (Tanpura) accompaniment."
 ---
 
-<you-tube videoid="ElDf4Mxs7tA"></you-tube>
+<you-tube videoid="nBl22Eulewo"></you-tube>
 <br>
 
 Raga *Bhoop / Bhoopali / Mohanam* is an ancient pentatonic scale, and a very popular evening Raga across India. This scale has been found in many ancient musical systems like the Chinese music for *Guqin*, Japanese music for *Koto* etc. It is what we call an *Audav* - *Audav* scale. This Raga uses all *Tivra* or Sharp notes - Sa Re Ga Pa Dha. *Bhoopali Todi* or *Bhoopala* uses the same set of notes, but they are all *Komal* or Flat notes - Sa re ga Pa dha. See in Program Notes for nomenclature. This Raga belongs to the Todi family of Ragas, and gives an entirely different feeling compared to its Tivra counterpart. So could it be called *Subah ki Bhoop* ?
@@ -14,8 +14,11 @@ Here, I present a detailed Alap in Raga Komal Rishabh Asavari consisting of thre
 
 ## Program Notes
 
-### Alap in Raga Bhoopali Todi
+### Raga Alapana in Raga Bhoopali Todi
 Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. Usually, it has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
+
+### Pallavi (composition) in Bhoopali Todi set to Jhaptala
+Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic cycle. The improvisation here is creating interesting rhythm based melodic patterns while maintaining the framework of the Raga. This part of the performance is accompanied by Pakhawaj.
 
 Here are some notes about the Raga and the Tala.
 
@@ -41,20 +44,32 @@ A janya raga is a derived scale from a Melakarta. Melakarta by definition is Sam
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
 
+### About the Tala
+Jhaptala is generally divided into 2+3+2+3. However, here I have used a different time signature of 2+2+2+2+2 denoted by solfas or syllables representing various rhythmic patterns. The basic solfas of modified Jhaptala are given below.
+
+**Tala** - Jhaptala
+
+**Beats** - 10 (2+2+2+2)
+
+**Solfas** - Dha Ghe | Dhin Ta | Dhin Ta | ThiTa KatTa | GaDhi GaNa |
+
+
 ## Credits
 ### Artists
 Chandraveena - S Balachander
+Pakhwaj - Dhaval Mistry
 
 ### Production
 Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
 
-The full video recording of this performance is available at https://youtu.be/ElDf4Mxs7tA.
+The full video recording of Raga Alapana is available at https://youtu.be/wSJTdqfDVBk.
+The full video recording of Pallavi is available at https://youtu.be/5bLTs68T5Co.
 
-Snippets from this performance are available at https://youtu.be/dPahp2X5VR0.
+Snippets from this performance are available at https://youtu.be/nBl22Eulewo .
 
-Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-komal-rishabh-asavari.
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-bhoopali-todi.
 
 <br>
 
