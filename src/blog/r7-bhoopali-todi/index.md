@@ -1,0 +1,66 @@
+---
+title: "Morning Bhoop or Is it Inverse Bhoop - Raga Bhoopali Todi"
+date: 2020-05-18
+image: "../../../images/ytthumb-asavari.png"
+description: "Raga Bhoopali Todi is an early morning Raga belonging to the Todi family of Ragas. Here, I perform a detailed Alap in three sections (Alap, Jod and Jhala). This performance has a very unique drone (Tanpura) accompaniment."
+---
+
+<you-tube videoid="ElDf4Mxs7tA"></you-tube>
+<br>
+
+Raga *Bhoop / Bhoopali / Mohanam* is an ancient pentatonic scale, and a very popular evening Raga across India. This scale has been found in many ancient musical systems like the Chinese music for *Guqin*, Japanese music for *Koto* etc. It is what we call an *Audav* - *Audav* scale. This Raga uses all *Tivra* or Sharp notes - Sa Re Ga Pa Dha. *Bhoopali Todi* or *Bhoopala* uses the same set of notes, but they are all *Komal* or Flat notes - Sa re ga Pa dha. See in Program Notes for nomenclature. This Raga belongs to the Todi family of Ragas, and gives an entirely different feeling compared to its Tivra counterpart. So could it be called *Subah ki Bhoop* ?
+
+Here, I present a detailed Alap in Raga Komal Rishabh Asavari consisting of three sections - Alap, Jod and Jhala. This alap performance is accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga. It was a different and interesting experience for me. Do try and hear the difference. If it sounds interesting to you, be sure to check out [PureTones](https://puretones.sadharani.com). You can also hear PureTones generated Signature Tune (YouTube channel link) of Bhoopali Todi synthesised to go with the PureTones tanpura.
+
+## Program Notes
+
+### Alap in Raga Bhoopali Todi
+Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. Usually, it has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
+
+Here are some notes about the Raga and the Tala.
+
+**Raga** - Bhoopali Todi
+
+**Scale** - Sa re ga Pa dha
+
+**Family** - Todi
+
+**Melakarta** - Varjit Janya of Hanumatodi (Sa re ga ma Pa dha ni)
+
+**Prahar** - 1st and 2nd prahar (equivalent to 6 AM - 12 PM)
+
+### Reading the scale
+In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes.  Notes written fully in lower case are called Komal (or flat) notes. E.g., dha and ni above. Sa and Pa are always written with a capitalized first letter. This Raga uses all Komal (or flat) notes.
+
+### Varjit Raga
+A varjit raga is a derived scale from a Melakarta in which a note/s has been omitted. In this case, ma and ni of Melakarta Hanumatodi has been omitted, hence a pentatonic derivative of Hanumatodi.
+
+### Janya Raga
+A janya raga is a derived scale from a Melakarta. Melakarta by definition is Sampoorna (heptatonic), Janya Raga could be Sampoorna (heptatonic) / Shadava (hexatonic) / Audava (pentatonic). Indian Ragas with less than 5 notes are very rare.
+
+### Prahar
+In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
+
+## Credits
+### Artists
+Chandraveena - S Balachander
+
+### Production
+Sadharani Music Works - https://www.sadharani.com
+
+## Release Links
+
+The full video recording of this performance is available at https://youtu.be/ElDf4Mxs7tA.
+
+Snippets from this performance are available at https://youtu.be/dPahp2X5VR0.
+
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-komal-rishabh-asavari.
+
+<br>
+
+<notice-box>
+If you like the music, learn how you can support Chandraveena music. We value your patronage.
+<div style="text-align:center">
+<my-button to="/support/">How to Support</my-button>
+</div>
+</notice-box>
