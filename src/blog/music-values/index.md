@@ -1,33 +1,57 @@
 ---
-title: "Corporate Values - A Musician’s Perspective"
+title: "Professional Values - A Musician’s Perspective"
 date: 2020-06-30
 image: "../../../images/blogintro.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. Having worked at leadership positions in the corporate world, and as a performing musician, I have formed some interesting observations about the professional world and the world of music. They have more in common than people may think or realise. Read on to find out more!"
 ---
 
-Having worked at the highest echelons of corporate world at CXO positions, and as an performing Indian Classical Musician, I have experiences to share. While pursuing my education, and during my work period as well, I was trained in Indian Classical music in a traditional system for many years by a great musician and thinker Ustad Zia Fariduddin Dagar. This system of training wasn’t just about music, but as a way of life, as a way to live and relate in society, a life philosophy many of which could be applied to any field.
+Having worked at leadership positions in the corporate world and as a performing Indian Classical musician, I am fortunate to have experienced what many may regard as two different worlds. Yes, Indian Classical music does have its own code of conduct. But the professional world and the world of music have more in common than you may think.
 
-As an artist, I have always looked at products of Apple as works of art, beyond just a technological innovation. It comes to mind what Steve Jobs had to say :
+During my education and early professional life, I was trained in Indian Classical music in quite a traditional system, by a great musician and thinker, Ustad Zia Fariduddin Dagar. This system of training wasn’t just about music, but more as a way of life, of being part of society and as a life philosophy which is actually applicable to any field.
 
-> The best way to be creative is to surround yourself with culture, art and history. Serendipity and connecting the dots may be more important than we think. Creativity is just connecting things.
+```
+Editor's note:
 
-# Valuable lessons
+I don't think the Apple reference and the Jobs quote is really relevant here.
+So I deleted it.
+```
 
-## Team Work
+<br>
 
-Imagine an orchestra of 100 musicians, performing a symphony or even say a film song. There is a single orchestra conductor, sometimes 20 violinists, 10 bassists , a lead pianist, vocalist and other instrumental musicians. Every single movement, every single musical bar, piece needs to work in sync and in coordination, one wrong movement by one musician can take down the whole performance.
+So here are a few lessons from the world of music which are quite relevant to the professional world.
 
-I have been a witness to a few group / orchestra recordings at the erstwhile HMV studios, when analog tapes were used for mastering, and live musicians played. They didn’t have the luxury we have today in the digital medium of being able to record any number of times, erase, re record etc. Often, it needed to be perfect in a single take. One error by any one team member, and the whole recording from the beginning needed to be done again. Needless to say, there were rehearsals, but at the final take, everyone worked as one team.
+### Team Work
 
-The success in a musical performance, whether in a symphony or an orchestra or an Indian classical music concert, the best performance is a cohesive performance by all team members.
+You may have seen an orchestra of a hundred musicians, performing a symphony with perfect coordination. Or if you are old enough, you may have heard of Indian film songs being recorded flawlessly in a single take, as retakes on analog tapes were considered very expensive!
 
-Let’s look at a corporate set up. There is a product line, supported by marketing, which is in turn supported by sales and customer service, and then there are back end services like HR, IT etc. Every success of a product, and therefore the organisation depends on the whole human supply chain working together seamlessly as a team.
+For me personally, every time I go on stage with my accompanying musicians, we have to get along with each other and make every effort to present a cohesive performance. Indian Classical music is based on improvisation, so we are creating the music extempore. But it is our teamwork that makes the music come together as one performance, like any other endeavour.
 
-## Personality Development
+```
+Editor's note:
 
-During the early days of my musical training, it was all about developing techniques, and understanding of music. Obviously, under the influence of a great master like my Ustad, it is only natural to try and imitate. To be honest it always seemed beyond reach, and a grand failure. However, I was often encouraged to discover my own personality, and give my music my own identity for its likely to be the best version of me. We perform at our best in our own skin.
+This is the kind of template which I think works well for explaining each value.
+* Talk about general observations which people may be aware of.
+* Talk about personal experiences pertinent to the value.
+* Conclude with how the value is essential to those experiences or events.
+```
 
-Encouraging team members and employees to think, to work to their strengths always brings out the best performance from them.
+<br>
+
+### Individual Development
+
+During the early days of my musical training, the emphasis was more about developing techniques, and understanding music. Obviously, under the influence of a great master like my Ustad, it was only natural to try and imitate. To be honest, it always seemed beyond reach, and attempts at imitating were often a grand failure.
+
+However, Ustad often encouraged his students to discover their own personality. I was encouraged to develop my music and give it my own identity. Rather than be a poor version of someone, I had to try to be the best version of myself. We can really perform at our best, when we are in our own skin.
+
+```
+Editor's note:
+
+Again, an attempt at presenting this value:
+* Cite personal experiences (being told to not imitate, but find own identity)
+* Conclude (we do it best, when we do it our way)
+```
+
+<br>
 
 ## Empathy and Compassion
 
