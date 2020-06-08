@@ -65,7 +65,7 @@ Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
 
-The full video recording of Raga Alapana is available at https://youtu.be/wSJTdqfDVBk.
+The full video recording of Raga Alapana is available at https://youtu.be/CiurRfiOshI.
 
 The full video recording of Pallavi is available at https://youtu.be/5bLTs68T5Co.
 
