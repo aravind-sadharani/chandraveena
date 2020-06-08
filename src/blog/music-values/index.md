@@ -55,9 +55,9 @@ Again, an attempt at presenting this value:
 
 ## Empathy and Compassion
 
-Empathy and Compassion are often perceived as weak emotions in the Corporate world, and other places. I was taught “Manavta” or Humanity is the core essence of our being. We need more of it today than ever before. Empathy is feeling for the fellow employee / team member, and compassion is the willingness to act on Empathy. Everyone’ life story is different, bit of an effort in understanding the other person goes a long way. Decades of working with music has created a sensitivity to empathy. After all music is that which evokes emotions.
+Empathy and Compassion are often perceived as weak emotions in the Corporate world, and other places. I was taught “Manavta” or Humanity is the core essence of our being. Empathy is feeling for a fellow employee / team member / human being, and compassion is the willingness to act on Empathy. Everyone’ life story is different, but of an effort in understanding the other person goes a long way. 
 
-Being empathetic and compassionate builds trust and loyalty, which in turn results in optimal performance.
+Decades of working with music has created a sensitivity to empathy. After all music is that which evokes emotions. Being empathetic and compassionate builds trust and loyalty, which in turn results in optimal performance.
 
 ## Creative thinking
 
