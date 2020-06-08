@@ -29,7 +29,18 @@ As Raga music evolved, in today's music *Vadi* denotes the most important note o
 
 The dropping of notes were defined by scale characteristics - *Shadav* (hexatonic), *Audav* (pentatonic), the absence of either meant a 7 note scale. 
 
+*Alpatva* note is one which is rarely and fleetingly used note. 
+
+*Bahutava* note is one which is often used. Graha, Amsa notes are generally Bahutva notes.
+
+*Hrasva* note is one on which musical phrase doesnt linger for long periods of time.
+
+*Deergha* note is one where a musical phrase can halt for considerable time.
+
+Hrasva and Deergha are also applicable in compositions where they mean short vowels and long vowels.
+
 *Sthayi* today denotes an octave. However, *Sthayi* literally means constant, musically, it means a fixed note around which musical phrases revolve. Now, if you take Sa as the Sthayi note, you can see how it can easily denote an octave, Sa Re Ga Ma Pa Dha Ni Sa' (octave Sa, or Tara Sa or as is correctly called *Dviguna* swar). There are many ways in which sthayi can be formed. For eg : Sa Re Sa, Sa Re Sa', Sa Ma Pa Sa, Sa' Pa Ma Sa etc (Sa - middle octave, Sa' - higher octave)... Infact, I have here taken Sa as an example, it can be any note as long as the rule is followed. Sthayi is used in the context of a musical phrase, in Raga Alapana and in Composition (Pallavi).
+
 
 *Pallavi* is a concatenation of **Pa**dam, **La**yam, **Vi**nyasam. It is poetry set to a metre or a Tala. Alternate names are *Bandish* (bound or pre-composed), *Kriti*.
 
@@ -37,7 +48,7 @@ The dropping of notes were defined by scale characteristics - *Shadav* (hexatoni
 
 *Charanam* footnote section or the concluding section of a composition. This section is also known as *Sanchari* (musically, moving all over the range of Raga). Sometimes there is a subsection called *Abhog* or *Anucharanam* which is also a form of sanchari, but it contains the composer's signature.
 
-This four part composition is the post-Adhara Shadaj version of Udgraha, Melapaka, Dhruva and Abhog of the pre-Adhara Shadaj era.
+This four part composition is the post-Adhara Shadaj version of Udgraha, Melapaka, Dhruva and Abhog of the pre-Adhara Shadaj era called Prabandha style of compositions.
 
 Many of you may have already noticed that all my releases on my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> and <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> channels have the terms *Raga Alapana* and *Pallavi* tagged to the tracks. In this post, I explore the meaning and grammar of Raga Alapana and Pallavi, based on my study of these scriptures, and my understanding through practicing music.
 
