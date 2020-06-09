@@ -14,7 +14,7 @@ Now Raga Jaunpuri has the same scale as Raga Asavari. Over a period of time, Rag
 
 Interestingly, there is a scale called *Asaveri*, a thematic variation on *Saveri*. This Raga has the same scale as Komal Rishabh Asavari. Note that Asavari is pronounced **आसाावरी** (aah-saa-vuh-ree) while Asaveri is pronounced **असावेरी** (uh-saa-vay-ree).
 
-Here, I present a detailed Alap in Raga Komal Rishabh Asavari consisting of three sections - Alap, Jod and Jhala. This alap performance is accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga. It was a different and interesting experience for me. Do try and hear the difference. If it sounds interesting to you, be sure to check out [PureTones](https://puretones.sadharani.com).
+Here, I present a detailed Alap in Raga Komal Rishabh Asavari consisting of three sections - Alap, Jod and Jhala. This alap performance is accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga. It was a different and interesting experience for me. Do try and hear the difference. If it sounds interesting to you, be sure to check out [PureTones](https://puretones.sadharani.com).  You can also hear a synthesized signature tune of [Komal Rishabh Asavari](https://www.youtube.com/watch?v=E3kNTMZPELk) which goes along with the PureTones drone track.
 
 ## Program Notes
 
