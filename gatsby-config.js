@@ -93,7 +93,6 @@ module.exports = {
         maxVideos: 3 // Defaults to 50
       },
     },
-    `gatsby-plugin-netlify-cache`,
     `gatsby-plugin-netlify`,
     `gatsby-plugin-react-helmet`,
     {
