@@ -50,4 +50,4 @@ Sa' - higher octave Sa
 
 This is about grammar, creating a framework, and understanding the structure. That alone doesnt make music either. Within the framework of this grammar, a Raga presentation which can be described as Ranjayati (that which illuminates, gratifies, colors the mind) is the most important characteristic in the presentation of a Raga - whether its Raga Alapana or Pallavi.
 
-Read on further for [Raga Alapana]() and [Pallavi]().
+Read on further for [Raga Alapana](/blog/raga-alapana) and [Pallavi](/blog/pallavi).
