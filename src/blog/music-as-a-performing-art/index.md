@@ -17,4 +17,6 @@ Lakshana and Lakshaya go hand in hand. In some instances lakshana was formed aft
 
 A few examples of lakshana would be *Gamakas* (Intonations of notes), *Samvaditva* (Consonance pair of notes) etc. Few examples of Lakshaya would be *Bhava* (Mood of the Raga), *Laya* (maintaining proper rhythm), *Raga* (maintaining the structure of the Raga) etc.
 
+While lakshanas create the framework, structure and consistency in presentation, that alone doesn't maketh the music. Within the framework, its the artists' skill and imagination to create aesthetic beauty and present a form that pleases him and others.
+
 For a more detailed analysis of lakshana and lakshya, read []().
