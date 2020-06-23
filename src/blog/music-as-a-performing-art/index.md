@@ -19,4 +19,4 @@ A few examples of lakshana would be *Gamakas* (Intonations of notes), *Samvaditv
 
 While lakshanas create the framework, structure and consistency in presentation, that alone doesn't maketh the music. Within the framework, its the artists' skill and imagination to create aesthetic beauty and present a form that pleases him and others.
 
-For a more detailed analysis of lakshana and lakshya, read []().
+For a more detailed analysis of lakshana and lakshya, read [here](/blog/grammar-of-music).
