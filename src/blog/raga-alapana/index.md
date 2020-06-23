@@ -2,19 +2,24 @@
 title: "Raga Alapana - A glimpse into its structure"
 date: 2020-05-25
 image: "../../../images/chant-raga.png"
-description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my reading of what a Raga Alapana and Pallavi is. Read on to find out more!"
+description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my reading of what a Raga Alapana is. Read on to find out more!"
 ---
 
+A typical presentation of an Indian Classical music performance has two parts :
+*Anibaddha Sangeet* - Raga Music which is not bound by lyrics, meter or tala. Eg, Raga Alapana
+*Nibadhha Sangeet* - Raga Music which is bound by lyrics, meter and tala. Eg, Pallavi
 
-## Raga Alapana
+Here in this post, I will talk about Raga Alapana.
 
-The heading itself contains two words - *Raga* and *Alapana*. This begets the question - what is a *Raga*?  This is a vast subject in itself, but I will address it briefly here. As mentioned before, a Raga is identified in terms of its Lakshya and Lakshana.
+*Raga Alapana* contains two words - *Raga* and *Alapana*. This begets the question - what is a *Raga*?  This is a vast subject in itself, but I will address it briefly here. A Raga is identified in terms of its Lakshya and Lakshana. You can read more about lakshya and lakshana in [here](/blog/music-as-a-performing-art) and [here](/blog/grammar-of-music).
 
-Pertaining to the Lakshya aspect, our scriptures describe a Raga as that which pleases the mind, and evokes an emotional response. In my opinion, shouldn't that be the definition of any music? For the Lakshana aspect, the Lakshanagranthas have set out a grammar so that there is an identity and consistency in the presentation of a Raga. This includes the set of notes to be used in the Raga, the consonant relationship of each note with other notes, and rules regarding how valid musical phrases can be constructed. These rules also mould the microtonal shades of notes that can be used and therefore the overall tuning of the scale of the Raga. But this is a topic for another post! Within the framework of this grammar, a Raga presentation which can be described as *Ranjayati* (that which illuminates, gratifies, colors the mind) is the most important characteristic in the presentation of a Raga.
+Pertaining to the Lakshya aspect, our scriptures describe a Raga as that which pleases the mind, and evokes an emotional response. Lakshanagranthas have set out a grammar so that there is an identity and consistency in the presentation of a Raga. This includes the set of notes to be used in the Raga, the consonant relationship of each note with other notes, and rules regarding how valid musical phrases can be constructed. These rules also mould the microtonal shades of notes that can be used and therefore the overall tuning of the scale of the Raga. But this is a topic for another post! Within the framework of this grammar, a Raga presentation which can be described as *Ranjayati* (that which illuminates, gratifies, colors the mind) is the most important characteristic in the presentation of a Raga.
 
 According to our scriptures, the presentation of a Raga can be through multiple forms - *Raga Alapti*, *Rupak Alapti*, *Prabandha*, *Kriti*, etc. We can consider Raga Alapti as the earliest mention of the concept of Raga Alapana. Raga Alapana is a systematic extempore exploration and presentation of a Raga, within the governing principles of Raga Lakshana. This part of the musical presentation does not have any rhythmic cycle and therefore is commonly performed without any rhythmic accompaniment. Raga Alapana uses certain syllables and vocal solfas as a means to sing which I covered in [this post](/intro/#alap) for explanation.
 
-Alapana, Alapti and Alap are all synonymous. This section of a musical presentation has also been referred to in our scriptures as *Anibaddha Sangeet* (music which is unbound - by lyrics and meter, i.e., not composed).
+Alapana, Alapti and Alap are all synonymous.
+
+## Raga Alapana
 
 Raga Alapana can be classified into the following stages:
 
@@ -38,4 +43,8 @@ In this section, there is a perceptible pulse in the singing or playing. On an i
 ### Nyasa or the conclusion, also known as Muktayi
 
 This is the concluding part, where *sancharis* or melodic phrases across the octaves are presented, in a continuous movement providing a climax to the whole Raga Alapana. This ends the section Raga Alapana.
+
+Raga Alapana is classified as *Manodharma Sangeet* (Mano - of the mind, imagination. Dharma - Rules / Conduct. Music limited only by the artists' imagination, within the framework / rules of the Raga).
+
+Read about Pallavi [here](/blog/pallavi).
 
