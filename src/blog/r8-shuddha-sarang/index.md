@@ -1,6 +1,6 @@
 ---
 title: "The Two Madhyams Dilemma - Raga Shuddha Sarang"
-date: 2020-05-30
+date: 2020-07-04
 image: "../../../images/ytthumb-shuddha-sarang.png"
 description: "Raga Shuddha Sarang belongs to the Sarang family of Ragas, and is an afternoon Raga. Here in this performance, I present Raga Alapana in Raga Shuddha Sarang. There are 3 parts - Alap, Jod and Jhala, also known as Alapana and Tanam."
 ---
