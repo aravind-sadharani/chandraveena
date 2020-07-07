@@ -2,14 +2,14 @@
 title: "Pallavi - Can any poetry be a Pallavi ?"
 date: 2020-05-25
 image: "../../../images/chant-raga.png"
-description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my reading of what a Pallavi (composition) is. Read on to find out more!"
+description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my understanding of what a Pallavi (composition) is. Read on to find out more!"
 ---
 
 A typical presentation of an Indian Classical music performance has two parts : 
 
-Anibaddha Sangeet - Raga Music which is not bound by lyrics, meter or tala. Eg, Raga Alapana 
+Anibaddha Sangeet - Raga Music which is not bound by lyrics, meter or tala. Eg, Raga Alapana. 
 
-Nibadhha Sangeet - Raga Music which is bound by lyrics, meter and tala. Eg, Pallavi
+Nibadhha Sangeet - Raga Music which is bound by lyrics, meter and tala. Eg, Pallavi / Bandish / Kriti.
 
 Here in this post, I will talk about Pallavi.
 
@@ -21,6 +21,14 @@ The word Pallavi is believed to be a compound word made from 3 words: **Pa**dam,
 Padam is a lyrical or a musical phrase, Layam is a rhythmic structure or Talam, and Vinayasam is the rhythmic exploration of the set musical phrase within the framework of the Raga Lakshana. You can read more about Raga Lakshana [here](/blog/music-as-a-performing-art) and [here](/blog/grammar-of-music).
 
 This section of a musical presentation has also been referred to as Rupak Alapti. Rupak Alapti could also be considered as the precursor to modern day *Khyal* genre of Indian Classical Music. This has two characteristics - *Dhatu* (musical aspects) and *Matu* (Poetry or Lyrical aspects). Essentially, this is poetry set to music in a tala or rhythmic cycle of beats.
+
+Here I make a distinction between Poetry and Musical Poetry. While generic poetry has its own structure and meaning, not all poetry works are suitable as a musical composition. In addition to poetic meaning, a musical poetry also needs to have a metre, a rhythm based structure, a musical structure where the musical and grammatical characterists of the Raga are maintained. A musical poetry composer is also known as *Vaggeyakar*. The meaning of the word is :
+
+*Vak* - speech - here refers to words(sahityam). 
+
+*Geya* - singing - here refers to setting the music. 
+
+*Kaara* - the doer of the above acts (or anything in a context). 
 
 ### Padam
 
@@ -67,6 +75,5 @@ It is also important to take note of *Hrasva* (short syllables) and *Deergha* (l
 *Sahitya Bhav* or the Spirit of the Composition is a very important consideration - at all times keeping the structure, meaning and beauty of the composition while musically and rhythmically exploring it is very important. The other important point to note is that the position of lyrical syllables in the rhythmic cycle needs to be maintained.
 
 While the focus is on rhythmic improvisations, it is equally important to note that *Raga Bhava* (the mood of the Raga) is maintained within the confines of musical grammar as defined by Raga Lakshanas.
-
 
 This four part composition was earlier known as Udgraha, Melapaka, Dhruva and Abhog in the Prabandha style of compositions. Prabandhas are not very prevelant now.
