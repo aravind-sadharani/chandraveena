@@ -1,11 +1,11 @@
 ---
-title: "Lakshya and Lakshana - Grammar of Music"
+title: "Lakshanas - Grammar of Indian Classical Music"
 date: 2020-05-25
 image: "../../../images/chant-raga.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I talk about grammar of Indian Classical Music. Read on to find out more!"
 ---
 
-For effective communication and consistent understanding of a language, a grammar framework is essential. These grammar framework treatises in Indian Classical music are called *lakshanagranthas*, which have evolved and developed over many centuries. Lakshanagranthas deal with two aspects of Indian classical music as a performing art - *lakshanas* (grammar or theory of music) and *lakshya* (presentation).
+For effective communication and consistent understanding of a language, a grammatical framework is essential. These grammar framework treatises in Indian Classical music are called *lakshanagranthas*, which have evolved and developed over many centuries. Lakshanagranthas deal with two aspects of Indian classical music as a performing art - *lakshanas* (grammar or theory of music) and *lakshya* (presentation). For an introduction to the theory of lakshanas and lakshyas, read [here](/blog/music-as-a-performing-art).
 
 Our music was not always like we know and understand today. If one were to divide Indian classical music into different eras, I would say that the introduction of the concept of *Adhara Shadaj* (fixed fundamental tonic) would be the dividing line. As a natural part of evolution, as music evolved, certain aspects of lakshya and lakshana were modified, some new forms came in place, some forms became obsolete, certain terminologies were carried over with a different context. 
 
