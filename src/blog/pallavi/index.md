@@ -76,7 +76,7 @@ Often, due to the constraints that a full fledged Pallavi/Composition can put on
 
 These lyrics or musical phrases are set to different talas or rhythmic cycles like Aditala (8 beats), Chautala (12 beats), Mishra Chapu (7 beats), Jhaptala (10 beats), etc. The musical phrases are typically set in a way such that they line up with specific accents in the rhythmic cycle. For example, the starting point and the ending point of the musical phrase should match corresponding accents in the rhythmic cycle.
 
-Indian rhythmic system is well evolved, and has many features. In addition to a repeating cycle, emphasis points, starting and ending beat, an important aspect of Indian Tala System is Jaati (literally meaning tribe, but musically meaning to a class of beats). You can read a more detailed understanding of Tala [here](/blog/Taladhyaya).
+Indian rhythmic system is well evolved, and has many features. In addition to a repeating cycle, emphasis points, starting and ending beat, an important aspect of Indian Tala System is Jaati (literally meaning tribe, but musically meaning to a class of beats). You can read a more detailed understanding of Tala [here](/blog/taladhyaya).
 
 We recognise 5 types of rhythmic divisions:
 
