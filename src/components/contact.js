@@ -51,7 +51,7 @@ const SocialLinks = () => (
     </li>
     <li>
       <YouTubeSpan>
-        <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg">
+        <a href="https://www.youtube.com/c/Chandraveena">
           <Youtube size="1.1em" /> &nbsp; YouTube
         </a>
       </YouTubeSpan>

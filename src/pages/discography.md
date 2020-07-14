@@ -24,13 +24,13 @@ Be sure to visit my <a href="https://chandraveena.bandcamp.com/"><inline-button 
 
 ## Latest Videos
 
-Here are a few recent videos from my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> channel.
+Here are a few recent videos from my <a href="https://www.youtube.com/c/Chandraveena"><inline-button background="#ff0000">YouTube</inline-button></a> channel.
 
 <br>
 
 <you-tube-channel channelid="UCxPyMV4LS9YBePXM0mV4hjg"></you-tube-channel>
 
-Do visit my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> channel for more music videos and talks on music. If you like my music, remember to subscribe to my channel and leave a comment.
+Do visit my <a href="https://www.youtube.com/c/Chandraveena"><inline-button background="#ff0000">YouTube</inline-button></a> channel for more music videos and talks on music. If you like my music, remember to subscribe to my channel and leave a comment.
 
 <br>
 <hr>
