@@ -1,6 +1,6 @@
 ---
 title: "Chandraveena Jam sessions with Pakhawaj"
-date: 2020-07-15
+date: 2020-07-16
 image: "../../../images/jams-thumb.png"
 description: "Indian Classical music performances have a sophisticated melodic and rhythmic structure. Although there are some portions which are composed, a lot of the music is actually improvised. Yet an artist is able to create beautiful music, as these extempore creations are backed by years of training and understanding. Here is a glimpse into the behind-the-scenes work."
 ---
