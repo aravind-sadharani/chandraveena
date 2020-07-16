@@ -1,42 +1,53 @@
 ---
-title: "Chandraveena Unplugged"
+title: "Chandraveena Jam sessions with Pakhawaj"
 date: 2020-07-15
-image: "../../../images/chant-raga.png"
-description: "Indian Classical music performances have a very sophisticated melodic and rhythmic structure. There are no pre-written score sheets to guide an artist, and yet an artist is able to create beautiful melodic / rhythmic phrases. Often these extempore creations are backed by years of training and understanding. Here is a glimpse into the behind-the-scenes work."
+image: "../../../images/jams-thumb.png"
+description: "Indian Classical music performances have a sophisticated melodic and rhythmic structure. Although there are some portions which are composed, a lot of the music is actually improvised. Yet an artist is able to create beautiful music, as these extempore creations are backed by years of training and understanding. Here is a glimpse into the behind-the-scenes work."
 ---
+<you-tube videoid="pZKsxPmA_jc"></you-tube>
+<br>
 
-Any Indian Classical Music performance is often characterised by two aspects :   
-i. There are no score sheets for a music performance.  
-ii. Music performed is extempore improvisation.
+The beauty of Indian Classical music performances is that they are extempore and the music happens in the moment without premeditation. There are some portions of a performance which are composed and artists sometimes use reference notes for the lyrics of a composition. But a majority of the performance is actually improvised.
 
-Point 1 is mostly true. Sometimes, some artists use reference notes for lyrics of a composition.
+Here I am going to talk about improvisation and extempore music. What is improvisation? And how extempore is *extempore*?
 
-Here I am going to talk more about Point 2, extempore improvisation. What is extempore improvisation ? And how extempore is extempore ?
+> An improvisation in an Indian Classical Music performance is a reflection of the artist's ability to create imaginative, musical and rhythmic phrases, within the structure and the framework of the Raga and the Tala. 
 
-An extempore improvisation in an Indian Classical Music performance is an artists’ ability to create imaginative musical/rhythmic phrases, "within the structure and the framework" of the Raga and the Tala. 
+The notion of *structure and framework* of a Raga or a Tala is an important concept. This framework is composed of two aspects known as *Lakshana* (grammar or theory) and *Lakshya* (presentation or aesthetics). I will address these two aspects in a separate more detailed post. We undergo years of training to understand the framework governing the principles of Raga and Tala. We practice for hours everyday, trying out different ideas, musical phrases, variations in rhythmic patterns, etc. Some ideas work out, some do not. In the process, we make mistakes too, and they are equally important, for we learn as much from what not to do as from what to do.
 
-"Within the structure and the framework" is an important concept, also known as Lakshana (Grammar or theory of music) and Lakshya (Presentation). We will address these two aspects in a separate more detailed post. We undergo years of training to understand the framework governing the principles of Raga and Tala. We practice for hours everyday, we try different ideas, musical phrases, variations in rhythmic patterns etc. Some ideas work out, some don’t. In the process, we make mistakes too, and they are as important, for we learn as much from what not to do as in what to do.
+Vocalists also need to be aware of *Sahitya*, or the words of a composition. While creating improvisations in musical and rhythmic phrases, its equally important to maintain the emotion and the meaning of the composition, and correct pronunciation.
 
-Vocalists also need to be aware of “Sahitya”, or the words of a composition. While creating improvisations in musical and rhythmic phrases, its equally important to maintain the mood and the meaning of the composition, and correct pronunciation.
+All these aspects require regular and repeated practice. So what you hear in a performance is often a refined version of what goes on in the practice sessions. Many of the extempore ideas in a performance are ideas that have been tried and tested in practice sessions. 
 
-All these aspects require regular and repeated practice. A poorly executed musical idea is not really so musical to hear. So what you hear is often a refined version of what goes on in the practice sessions. Many of the extempore ideas in a performance are ideas that have been tried out in practice sessions. 
+As we mature and understand our music better, as our technical capabilities improve, we are able to try out more and more ideas. Over time, the mind starts connecting the dots, so one develops the ability to execute an idea practiced in one Raga or Tala in an entirely different Raga or Tala. We are freed up to create *extempore* musical and rhythmic ideas in a performance, backed by our knowledge and years of practice.
 
-As we mature, as we understand our music better, as our technical capabilities improve, we are able to try out more and more ideas. After years of training and practice, the mind starts connecting the dots, so one has the ability to execute an idea practiced in one Raga or Tala in an entirely different Raga or Tala. We are able to freely create “extempore” musical / rhythmic phrases in a performance backed by the knowledge and years of practice.
+## Recordings of Jam Sessions
 
-There are two ways in which this improvisation can happen. *Raga Alapana* - where the melodic structure of the Raga is explored. This part usually does not have any rhythmic accompaniment. *Vistar* or *Niraval*, which is musical and rhythmic improvisation of a *Pallavi* or a composition. This part usually has an rhythmic accompaniment by a Tabla / Pakhawaj / Mridangam etc.
+To let our listeners a peek into what goes on in a practice or a jam session, we are releasing a few new recordings. They were recorded while testing the recording setup or while trying out ideas. Take a look at what goes on in practice sessions. There may be unusual ideas being tried out, mistakes being made, etc.
 
-We are releasing a few videos which have captured the behind the scenes practice ! Some were recorded while testing the recording setup, some were recorded while trying out ideas. These videos are being presented to you completely uncensored / uncut. You will get to see what goes on in practice sessions. There may be various ideas being tried out, mistakes made etc. 
+Here is the list of sessions being released:
+* **Raga Chandrakauns** - [Jod with Pakhawaj](https://www.youtube.com/watch?v=pZKsxPmA_jc) in a 4 beat rhythmic cycle and [Jhala with Pakhawaj](https://www.youtube.com/watch?v=J4kmS42nAbU) in a 16 beat rhythmic cycle.
 
-Out of all this rough cut comes the finesse in music. Enjoy the sessions.
+* **Raga Puriya Dhanashree** - Trying out a 9 beat Tala (*Mattatala*) and different rhythmic variations.
 
-There are 3 releases as part of the Jam Sessions.
-Raga Chandrakauns :
-Jod with Pakhawaj in 4 beats rhythmic cycle, Jhala with Pakhawaj in 16 beats rhythmic cycle.
+* **Raga Bhairavi** - A composition in a 7 beat Tala (*Tivratala*).
 
-Raga Puriya Dhanashree
-Trying a 9 beat Tala, and different rhythmic variations
+<notice-box>
+Links to Puriya Dhanashree and Bhairavi coming soon. Stay tuned!
+</notice-box>
 
-Raga Bhairavi
-A composition in a 7 beat Tala.
+## Credits
+### Artists
+Chandraveena - S Balachander
 
-Also watch out for detailed posts on Lakshana / Lakshya, Raga Alapana, Pallavi.
+Pakhawaj - Dhaval Mistry
+
+### Production
+Sadharani Music Works - https://www.sadharani.com
+
+<notice-box>
+If you like the music, learn how you can support Chandraveena music. We value your patronage.
+<div style="text-align:center">
+<my-button to="/support/">How to Support</my-button>
+</div>
+</notice-box>
