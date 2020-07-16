@@ -1,23 +1,21 @@
 ---
 title: "Raga Bairagi"
 date: 2020-07-06
-image: "../../../images/.png"
-description: "Raga Bairagi is a morning Raga, often heard in the chants of shlokas. Here,I present Raga Alapana in Raga Bairagi in three parts - Alap, Jod and Jhala. This format is also called Alapana and Tanam."
+image: "../../../images/ytthumb-bairagi.png"
+description: "Raga Bairagi is a morning Raga, often heard in the chants of shlokas. Here, I present Raga Alapana in Raga Bairagi in three parts - Alap, Jod and Jhala. This format is also called Alapana and Tanam."
 ---
-<you-tube videoid=""></you-tube>
+<you-tube videoid="Vw6nbqyNG2Y"></you-tube>
 <br>
 
-Ragas in Indian Classical music have often taken inspiration from folk tunes, and then formalised them according to the principles of the Indian Raga system. Read my posts on this very interesting topic of Lakshya (Presentation) and Lakshana (Grammar) of Music - [here](/blog/music-as-a-performing-art) and [here](/blog/grammar-of-music).
+Ragas in Indian Classical music have often taken inspiration from folk tunes. They have then become formalised according to the principles of the Indian Raga system. Read my posts on [what makes Indian Classical music "Classical"](/blog/what-is-classical) and on [Lakshana which define the grammar of Indian Classical Music](/blog/grammar-of-music).
 
-There is a tribe of people in Indian known as Bairagi, who are basically devotees of Vishnu. Bairagi, a alteration on the word Vairagi - means "one who has freed himself from worldly desires". Many of this sect of people perform pujas and other priesthood practices in temples. Considering many shlokas are chanted in Raga Bairagi, is it possible that this Raga's origin is from this sect ?
+*Raga Bairagi* could be an example of this phenomenon. There is a tribe of people in India known as *Bairagi*, who are basically devotees of *Vishnu*. The word Bairagi is likely an alteration of the word *Vairagi* which means "one who has let go of worldly desires". Many people of this sect perform pujas and other priestly duties in temples. Considering how many shlokas are chanted in Raga Bairagi, is it possible that this Raga originated from this community?
 
-It is now a well formed Raga, presented in many classical concerts. Some classifications put Raga Bairagi under Bhairav family. I am of a different opinion. Lets briefly look at it. Bhairav notes are Sa re Ga ma Pa dha Ni. Bairag notes are Sa re ma Pa ni. As you can see, Bairagi excludes Ga, da, and has komal ni whereas Bhairav has Tivra Ni. Niether structurally nor scale wise Bairagi has any relation to Bhairav.
+Today it a well developed Raga, presented in many classical concerts. Some classifications put Raga Bairagi under the *Bhairav* family. I am of a different opinion. Let us briefly look at it. Bhairav's notes are **Sa re Ga ma Pa dha Ni** while Bairagi's notes are **Sa re ma Pa ni**. As you can see, Bairagi excludes **Ga, dha** and utilizes **ni** when Bhairav **Ni**. I think, neither in phrasing or consonances nor in terms of the scale, does Bairagi have any relation to Bhairav.
 
-I classify it under Gaula - which is Sa re ma Pa Ni, in which Tivra Ga is occasionally used. Ga Varjit (dropped), and Vikrita Ni (modified Tivra Ni to Komal ni) will scale wise and structurally give Raga Bairagi.
+I prefer to classify it under *Gaula* which is **Sa re ma Pa Ni** in which **Ga** may occasionally be used. Dropping **Ga** (*Ga Varjit*) and modifying **Ni** to **ni** (*Vikrita Ni*) gives us Raga Bairagi in scale besides the similarities in phrasing and consonances.
 
-(See Program Notes below for nomenclature details).
-
-In this session, I present *Raga Bairagi* on Chandraveena. I explore the Raga in Alap, Jod and Jhala. This format is also known as Alapana and Tanam.
+In this session, I explore Raga Bairagi on Chandraveena in Alap, Jod and Jhala. This format is also known as Alapana and Tanam.
 
 ## Program Notes
 
@@ -53,9 +51,9 @@ Chandraveena - S Balachander
 Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
-The complete recording of Raga Alapana is available at .
+The complete recording of Raga Alapana is available at https://www.youtube.com/watch?v=Vw6nbqyNG2Y.
 
-Snippets from this performance are available at .
+Snippets from this performance are available at https://www.youtube.com/watch?v=lAUKSehL91A.
 
 Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-bairagi.
 
