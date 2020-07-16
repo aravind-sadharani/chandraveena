@@ -9,7 +9,7 @@ description: "Raga Bairagi is a morning Raga, often heard in the chants of shlok
 
 Ragas in Indian Classical music have often taken inspiration from folk tunes. They have then become formalised according to the principles of the Indian Raga system. Read my posts on [what makes Indian Classical music "Classical"](/blog/what-is-classical) and on [Lakshana which define the grammar of Indian Classical Music](/blog/grammar-of-music).
 
-*Raga Bairagi* could be an example of this phenomenon. There is a tribe of people in India known as *Bairagi*, who are basically devotees of *Vishnu*. The word Bairagi is likely an alteration of the word *Vairagi* which means "one who has let go of worldly desires". Many people of this sect perform pujas and other priestly duties in temples. Considering how many shlokas are chanted in Raga Bairagi, is it possible that this Raga originated from this community?
+*Raga Bairagi* could be an example of this phenomenon. There is a tribe of people in India known as *Bairagi*, who are basically devotees of *Vishnu*. The word Bairagi is likely an alteration of the word *Vairagi* which means "one who has let go of worldly desires". Many people of this sect perform pujas and other priestly duties in temples. Many saint poets of India have been from this community. One famous example is Swami Haridas, Guru of Tansen. Considering this background, and many shlokas that are chanted in Raga Bairagi, is it possible that this Raga originated from this community?
 
 Today it a well developed Raga, presented in many classical concerts. Some classifications put Raga Bairagi under the *Bhairav* family. I am of a different opinion. Let us briefly look at it. Bhairav's notes are **Sa re Ga ma Pa dha Ni** while Bairagi's notes are **Sa re ma Pa ni**. As you can see, Bairagi excludes **Ga, dha** and utilizes **ni** when Bhairav **Ni**. I think, neither in phrasing or consonances nor in terms of the scale, does Bairagi have any relation to Bhairav.
 
@@ -28,14 +28,14 @@ Here are some notes about the Raga.
 
 **Scale** - Sa re ma Pa ni
 
-**Family** - Gaula (Jod Raga formed by combining Raga Ahiri (Sa re Ga ma Pa Dha ni) and Raga Bhairav (Sa re Ga ma Pa dha Ni))
+**Family** - Gaula (Sa re Ga ma Pa Ni)
 
 **Melakarta** - Varjit (Re, dha) Janya of Ratnangi (Sa re Re ma Pa dha ni)
 
 **Prahar** - 1st and 2nd prahar (equivalent to 6 AM - 12 PM)
 
 ### Reading the scale
-In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g.,Ga, Dha above. Notes written fully in lower case are called Komal (or flat) notes. E.g., ma and ni above. Sa and Pa are always written with a capitalized first letter.
+In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g.,Ga above. Notes written fully in lower case are called Komal (or flat) notes. E.g., ma and ni above. Sa and Pa are always written with a capitalized first letter.
 
 ### Varjit Raga
 A Varjit Raga is a Janya (derived) Raga of a Melakarta (parent scale) in which one or more notes are dropped from the parent scale. In this case, Tivra Re and Komal Dha are dropped from the parent scale Ratnanagi.
