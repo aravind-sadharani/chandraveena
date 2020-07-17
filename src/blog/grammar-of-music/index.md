@@ -4,7 +4,10 @@ date: 2020-07-16
 image: "../../../images/chant-raga.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I talk about grammar of Indian Classical Music. Read on to find out more!"
 ---
-Indian Classical Music was not always like we know, having evolved continuously over a period of 1500 - 2000 years. Despite the long evolution, it has retained its fundamental identity and principles. In an [earlier post](/blog/what-is-classical/), we talked about how the intertwined evolution of *Lakshya* (presentation) and *Lakshana* (grammar) have lent Indian Classical Music its distinctive identity. Now let us take a closer look at Lakshanas.
+
+## Introduction
+
+Indian Classical Music was not always like we know and understand today, having evolved continuously over a period of 1500 - 2000 years. Despite the long evolution, it has retained its fundamental identity and principles. In an [earlier post](/blog/what-is-classical/), we talked about how the intertwined evolution of *Lakshya* (presentation) and *Lakshana* (grammar) have lent Indian Classical Music its distinctive identity. Now let us take a closer look at Lakshanas.
 
 Like with any language, even for music, a grammatical framework is essential for effective communication and consistent understanding. In Indian Classical music, treatises on musical grammar and rules are called *Lakshanagranthas* (books of grammar), which have evolved and developed over many centuries. Lakshanagranthas deal primarily with Lakshanas, although they do talk about Lakshya as well.
 
@@ -14,20 +17,46 @@ If one were to divide the evolution of Indian classical music into different era
 
 *A Timeline of Indian Classical Music*
 
+## Gram, Murchhana, Jaati
+
 <mark>
-First, let us explain the concepts of *Gram*, *Jaati* and *Murchhana*. Briefly, a *Gram* is a subdivision of an octave into a set of musical notes (7 or 12?). A *Jaati* is a reference musical scale formed by taking seven (or fewer?) notes from a *Gram*. Finally, a *Murchhana* is a musical scale derived from a Jaati by a cyclical permutation of its notes. In other words, a Murchhana is formed from a Jaati by beginning at some starting note and going up the notes till the octave is completed with respect to the starting note.
+To better understand the difference *Adhara Shadaj* brought in Indian Classical Music, first, let us explain the concepts of *Gram*, *Murcchana* and *Jaati*. Briefly, a *Gram* is a collection of tones / notes that forms the basis for Murchhana. How are these tones/notes identified ?   
+
+Early in the evolution of Indian Classical Music, maybe even as early as 3rd/4th century AD, people studying / experimenting in music recoginsed 3 very important ratios. *Pancham Bhav* or the Fifth ratio, *Madhyam Bhav* or the Fourth ratio which is nothing but inverse Fifth and *Gandhar Bhav* or the Major 3rd which is also known as Antara Gandhar. These ratios formed the basis for division of an octave into tones / notes. With all 3 ratios recognised, an octave was divided into 22 sub-divisions called *Srutis*.
+  
+Now, *Gram* literally means a village. A village formed by a collection of people from same community / ethnicity. Applying the same principles, 3 musical *Grams* were created and recognised. *Shadaj Gram*, *Madhyam Gram* and *Gandhar Gram*. The names are self-explanatory! Collection of notes formed on the basis of ratios. So, basically, the notes of a Grama should be related so as to be in consonance with each other.
+
+Here is an interesting fact. If you take any starting ratio, and continue a cycle of fifths (Pancham Bhav), after 11 iterations, you will reach a ration close to Octave ratio of the starting ratio. These 11 correspond to today's nomenclature of Tivra / Komal notes. Similarly, if you do the same with Madhyam Bhav, you will reach another set of 11 ratios. While Antara Gandhar was recognised as an important ratio since its a dominanat harmonic, a cycle of 3rds starts repeating itself after just 3 iterations. It isnt useful enough for sub dividing the octave, but important enough to be recognised as an ratio.
+
+A collection of seven successive ascending / descending notes is defined as *Murchhana*. The word *Murchh* literally means "to increase". Here, the consonance of notes is assumed. This formed the basis for *Jaati* and modern day *Ragas*. Lets understand this with an example. For that purpose, I am taking a simple well known scale today, as a starting point. The scale is Shanakarabharanam / Bilawal / Major scale. The notes are     
+
+Sa Re Ga ma Pa Dha Ni Sa'   
+
+The full tone notes are called Tivra represented by capitalised syllable, and the half note represented by small case is called komal. Sa' is the octave note of Sa. Now, let us do a scale change. We will start this scale from ma , and go up the octave.
+
+ma Pa Dha Ni Sa' Re' Ga'
+
+Now, this forms an octave scale. So, whats the big deal here ? Let us now transpose this scale to today's understanding of *Adhara Shadaj*, maintaining the ratios between the notes. The transposed scale would be :   
+
+Sa Re Ga Ma Pa Dha Ni   
+
+which is nothing but Raga Kalyani / Yaman. So you see, change in scale creates a new melody. In days when the concept of a fixed fundamental didnt exist, new scales were formed by scale change of *Murchhana*. *Jaatis* were the actual melodic structure formed from a Murchhana based on Lakshanas and Lakshayas. Jaatis could be Sampoorna (all 7 notes of the Murcchana), Shadav (hexatonic) or Audava (pentatonic). The Jaatis became what we today call as *Ragas*.
+
 </mark>
 
 <p></p>
 
 <mark>
-In contrast, an *Adhara Shadaj* means that the starting note is fixed. Musical scales are then derived by taking sets of 5, 6 or 7 notes from an octave. The octave can be considered to be divided into 12 notes, but these 12 positions merely represent a reference value for each of the 12 notes. The actual shade of each note depends on the Raga or musical scale.
+  
+Now coming to todays' music, in contrast, an *Adhara Shadaj* means that the starting note is fixed. Musical scales are then derived by taking sets of 5, 6 or 7 notes from an octave. The octave can be considered to be divided into 12 notes, but these 12 positions merely represent a reference value for each of the 12 notes. The actual shade of each note depends on the Raga or musical scale. Its important to note that the principle of consonance among the choice of notes is as relevant today. Ragas today are performed to the accompaniment of a drone instrument, Tanpura, which not only provides the *Adhara Shadaj* reference, but also forms an rich harmonic envelope. A tanpura is generally tuned to be in Samvaad (Consonant) to the notes of the Raga chosen.
+
+Taking the above example, in todays' music, both Shankarabharanam and Kalyani would be performed to the same fundamental tonic or Adhara Shadaj, whereas earlier it was perfomed with a scale shift.
 </mark>
 
 <p></p>
 
 <mark>
-As you can see, there is a significant difference between the way musical scales were constructed in the pre-Adhara Shadaj era and how they are understood today in the post-Adhara Shadaj era.
+As you can see, there are similarities and differences between the way musical scales were constructed in the pre-Adhara Shadaj era and how they are understood today in the post-Adhara Shadaj era.
 </mark>
 
 <p></p>
@@ -36,7 +65,9 @@ Let us take a few examples of Lakshanas, and see what they mean and how they evo
 
 ## Types of Swaras
 
-* **Graha**: In the pre-Adhara Shadaj days, the *Graha* (home) swar was a very important concept and reference for a musical performance. This was because the music was based on *Jatis* (modes) derived from *Murchhana* (scale), and it was the Graha swar which was the starting note defining the mode. However, in the post-Adhara Shadaj era, all Ragas are being sung to a single reference note *Sa*. In effect, the *Sa* is the Graha swar for all Ragas. 
+* **Graha**: In the pre-Adhara Shadaj days, the *Graha* (home) swar was a very important concept and reference for a musical performance. This was because the music was based on *Jatis* (modes) derived from *Murchhana* (scale), and it was the Graha swar which was the starting note defining the mode. Like in the example above, Graha swar determined whether the scale being performed was Shankarabharanam or Kalyani. 
+
+However, in the post-Adhara Shadaj era, all Ragas are being sung to a single reference note *Sa*. In effect, the *Sa* is the Graha swar for all Ragas. 
 
 * **Amsa**: The most often used note is called *Amsa*. Amsa literally a man's shoulder or a bull's hump. Musically, it means the note that shoulders the weight of the Raga.
 
