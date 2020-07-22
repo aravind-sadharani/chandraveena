@@ -1,7 +1,7 @@
 ---
 title: "Lakshanas - Grammar of Indian Classical Music"
 date: 2020-07-16
-image: "../../../images/chant-raga.png"
+image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I talk about grammar of Indian Classical Music. Read on to find out more!"
 ---
 
@@ -18,9 +18,9 @@ Like with any language, even for music, a grammatical framework is essential for
 
 If one were to divide the evolution of Indian classical music into different eras, I would say that the introduction of the concept of *Adhara Shadaj* (fixed fundamental tonic) is a major dividing phase. As part of this major change, Indian music evolved and certain aspects of Lakshya and Lakshana were modified. Some new forms came into place while other forms became obsolete. But many concepts and terminologies were carried over with a different interpretation.
 
-## Gram, Murchhana, Jaati
+## Gram, Murchhana, Jati
 
-To better understand the difference *Adhara Shadaj* brought in Indian Classical Music, first, let us look at the concepts of *Gram*, *Murcchana* and *Jaati*.
+To better understand the difference *Adhara Shadaj* brought in Indian Classical Music, first, let us look at the concepts of *Gram*, *Murcchana* and *Jati*.
 
 Early on in the evolution of Indian Classical Music (maybe, even as early as 3rd-4th century CE), musicians and scholars studying and experimenting in music recognised three very important ratios:
 * *Pancham Bhav* or the perfect fifth,
@@ -31,9 +31,9 @@ These ratios formed the basis for division of an octave into notes. With all thr
   
 Now, the term *Gram* literally means a village - formed by a collection of people from the same community or ethnicity. Applying the same principles, three musical *Grams* were created and recognised: *Shadaj Gram*, *Madhyam Gram* and *Gandhar Gram* which respectively emphasized the *Pancham Bhav*, *Madhyam Bhav* and *Gandhar Bhav*. Just like a real life *Gram* had people similar to one another, the notes of a musical *Gram* were supposed to be related and to be in consonance with one other.
 
-The term *Murchhana* comes from the word *Murchh* which literally means "to increase". So an increasing or ascending collection of seven successive notes is defined as a *Murchhana*. Note that the consonance of notes in a *Murchhana* is assumed, and it is always derived from a *Gram*. You could start with any note in a *Gram* and pick seven successive ascending notes and form a *Murchhana*. These *Murchhanas* formed the basis for *Jaatis* and modern day *Ragas*.
+The term *Murchhana* comes from the word *Murchh* which literally means "to increase". So an increasing or ascending collection of seven successive notes is defined as a *Murchhana*. Note that the consonance of notes in a *Murchhana* is assumed, and it is always derived from a *Gram*. You could start with any note in a *Gram* and pick seven successive ascending notes and form a *Murchhana*. These *Murchhanas* formed the basis for *Jatis* and modern day *Ragas*.
 
-## Jaatis, Ragas and Adhara Shadaj
+## Jatis, Ragas and Adhara Shadaj
 
 Let us understand this with an example. First, let us denote the 12 musical notes in an octave as follows:
 
@@ -55,11 +55,11 @@ Now let us rewrite this scale by transposing **ma** to **Sa** while maintaining 
 
 which is nothing but Raga *Kalyani* or *Yaman*.
 
-So what do we learn about *Jaatis* and *Ragas* from this example?
+So what do we learn about *Jatis* and *Ragas* from this example?
 
-Well, in the era prior to *Adhara Shadaj* when the concept of a fixed fundamental **Sa** did not exist, new scales were formed by performing scale changes and defining new *Murchhanas*. From a *Murchhana*, a *Jaati* was defined as a melodic framework formed by selecting 5 to 7 notes, and defining Lakshanas and Lakshyas governing the rendition of the *Jaati*. Jaatis could be *Sampoorna* (using all 7 notes of the Murchhana), *Shadav* (hexatonic) or *Audava* (pentatonic).
+Well, in the era prior to *Adhara Shadaj* when the concept of a fixed fundamental **Sa** did not exist, new scales were formed by performing scale changes and defining new *Murchhanas*. From a *Murchhana*, a *Jati* was defined as a melodic framework formed by selecting 5 to 7 notes, and defining Lakshanas and Lakshyas governing the rendition of the *Jati*. Jatis could be *Sampoorna* (using all 7 notes of the Murchhana), *Shadav* (hexatonic) or *Audava* (pentatonic).
 
-With the acceptance of *Adhara Shadaj*, the Jaatis were denoted by transposing their starting note back to **Sa** and they became what we today call as *Ragas*.
+With the acceptance of *Adhara Shadaj*, the Jatis were denoted by transposing their starting note back to **Sa** and they became what we today call as *Ragas*.
 
 Taking the above example, in today's music, both Shankarabharanam and Kalyani would be performed to the same fundamental tonic or *Adhara Shadaj*, whereas earlier they would have been perfomed with a scale shift (Shankarabharanam from **Sa** and Kalyani from **ma**).
 
@@ -111,7 +111,7 @@ Lakshanas also govern the formation of musical phrases and scales.
 
 ## Summary
 
-To summarize, a *Raga* is a concept originating from *Jaati* and can be defined as a musical scale, together with a set of Lakshanas and Lakshya which results in a consistent, recognisable musical framework. Within the reference of a Raga, an artist can attempt to improvise and develop the Raga through a musical performance.
+To summarize, a *Raga* is a concept originating from *Jati* and can be defined as a musical scale, together with a set of Lakshanas and Lakshya which results in a consistent, recognisable musical framework. Within the reference of a Raga, an artist can attempt to improvise and develop the Raga through a musical performance.
 
 Now for a given Raga, each of these Lakshanas mentioned above are clearly defined. Through a cycle of listening, learning, practicing and performing, a student can learn the Lakshana aspect of a given Raga as well. However, these only define the framework and by themselves do not make music. An artist has to apply Lakshya to their rendition and create a Raga presentation which can be described as *Ranjayati* (that which illuminates, gratifies and colours the mind). This is the most important characteristic in the presentation of a Raga.
 

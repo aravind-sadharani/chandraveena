@@ -2,7 +2,7 @@
 title: >
  What is Classical about Indian Classical Music?
 date: 2020-07-15
-image: "../../../images/chant-raga.png"
+image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my understanding of Indian Classical music as a performing art!"
 ---
 
@@ -22,7 +22,7 @@ Indian Classical music has been documented in scriptures referred to as *Lakshan
 
 These scriptures have been written over a period of many centuries. As Indian music has evolved, many great musicians and musicologists have analysed the music of their times, and have documented the same. These scriptures have not only contributed to establishing a references for the performance of Indian classical music, but also formed the basis for further development.
 
-Lakshanas in Indian Classical Music deserve [a separate post](/blog/grammar-of-music). But a few examples would include *Gamakas* (intonations of notes), *Samvaditva* (pairwise consonance of notes), etc. A few examples of Lakshaya would be *Bhava* (mood of the Raga), *Laya* (choosing and maintaining an appropriate tempo), *Raga* (maintaining the identity of the Raga), etc. Lakshya also include etiquettes to be followed by an artist in a public performance.
+Lakshanas in Indian Classical Music deserve [a separate post](/blog/grammar-of-music). But a few examples would include *Gamakas* (intonations of notes), *Samvaditva* (pairwise consonance of notes), etc. A few examples of Lakshya would be *Bhava* (mood of the Raga), *Laya* (choosing and maintaining an appropriate tempo), *Raga* (maintaining the identity of the Raga), etc. Lakshya also include etiquettes to be followed by an artist in a public performance.
 
 Let us return to our question: what makes Indian Classical music "Classical"? Neither Lakshya nor Lakshana alone define Indian Classical music.
 
