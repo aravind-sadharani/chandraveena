@@ -1,6 +1,6 @@
 ---
 title: "Raga Bairagi"
-date: 2020-07-06
+date: 2020-07-27
 image: "../../../images/ytthumb-bairagi.png"
 description: "Raga Bairagi is a morning Raga, often heard in the chants of shlokas. Here, I present Raga Alapana in Raga Bairagi in three parts - Alap, Jod and Jhala. This format is also called Alapana and Tanam."
 ---
