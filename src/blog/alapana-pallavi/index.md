@@ -1,7 +1,7 @@
 ---
 title: "Raga Alapana and Pallavi - A Traditional Perspective"
 date: 2020-05-25
-image: "../../../images/chant-raga.png"
+image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my reading of what a Raga Alapana and Pallavi is. Read on to find out more!"
 ---
 

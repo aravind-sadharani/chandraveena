@@ -105,3 +105,22 @@ While the focus is on rhythmic improvisations, it is equally important to note t
 
 Musical / Rhythmic exploration and improvisation of a Pallavi is also called *Manodharma Sangeet* (Mano - of the mind, imagination. Dharma - Rules / Conduct. Raga / Tala improvisation by the artists' imagination, within the framework / rules of the Raga / Tala).
 
+## Summary
+
+To summarise, a Raga is a musical structure which should be presented according to its prescribed Lakshanas. Raga Alapana is a prescribed method for presenting a Raga systematically. Pallavi is a further exploration of the Raga together with a rhythmic cycle and its rhythmic accents. While adhering to these aspects of presentation, a musician should aspire to please the listeners' minds and evoke an emotional response from them.
+
+This post is by no means exhaustive, but I hope it provides a glimpse into the process of Raga Alapana and Pallavi. I also hope that this would enable you to follow and enjoy Chandraveena music and Indian Classical music in general. In a subsequent video, I will give a demo of different sections of Raga Alapana and Pallavi. Stay tuned!
+
+<notice-box>
+
+## Notes to Readers
+
+Please check my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> and <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> channels for recordings of Raga Alapana and Pallavi on Chandraveena.
+
+<br>
+
+Based on this article, you can try and identify the different sections of the Raga Alapana. Most of my Pallavis consist of only one section. Try and identify the starting point, the emphasis point and the end point of the pallavi.
+
+For a multi section pallavi, listen to compositions of Tansen, Baiju, Thyagaraja, Muthuswamy Diskshithar, etc. You can try and identify the different sections.
+
+</notice-box>
