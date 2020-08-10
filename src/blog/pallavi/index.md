@@ -1,7 +1,7 @@
 ---
 title: "Pallavi - Can any poetry be a Pallavi ?"
-date: 2020-05-25
-image: "../../../images/chant-raga.png"
+date: 2020-08-11
+image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my understanding of what a Pallavi (composition) is. Pallavi is also popularly known as Bandish/Kriti. Read on to find out more!"
 ---
 
