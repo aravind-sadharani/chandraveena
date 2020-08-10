@@ -1,126 +1,98 @@
 ---
-title: "Pallavi - Can any poetry be a Pallavi ?"
+title: "Pallavi - Can any poetry be a Pallavi?"
 date: 2020-08-11
 image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my understanding of what a Pallavi (composition) is. Pallavi is also popularly known as Bandish/Kriti. Read on to find out more!"
 ---
 
-A typical presentation of an Indian Classical music performance has two parts : 
+*Pallavi* is the **primary** format for developing and showcasing a Raga with rhythm and lyrics.
 
-Anibaddha Sangeet - Raga Music which is not bound by lyrics, meter or tala. Eg, Raga Alapana. 
+## Background
+Recall from the earlier post on [Raga Alapana](/blog/raga-alapana/) that a typical performance of Indian Classical music has two parts:
 
-Nibadhha Sangeet - Raga Music which is bound by lyrics, meter and tala. Eg, Pallavi / Bandish / Kriti.
+* *Anibaddha Sangeet* - Raga music which is not bound by lyrics, meter or tala.
 
-Here in this post, I will talk about Pallavi.
+* *Nibaddha Sangeet* - Raga music which is bound by lyrics, meter and tala. Although parts of Nibaddha Sangeet are composed, it is still very much open to improvisation within the constraints of the lyrics, meter and tala.
 
+Pallavi is the primary format of Nibaddha Sangeet. It is also popularly known as a composition, *Kriti* or *Bandish*.
 
-## Pallavi
+## Overview
 
-The word Pallavi is believed to be a compound word made from 3 words: **Pa**dam, **La**yam, and **Vi**nyasam.
+The word Pallavi is believed to be a compound word made from 3 words: **Pa**dam, **La**yam, and **Vi**nyasam:
+* Padam is a lyrical or a musical phrase,
+* Layam is a rhythmic structure or Talam, and
+* Vinayasam is the rhythmic exploration of the set musical phrase within the framework of the Raga Lakshana.
 
-Padam is a lyrical or a musical phrase, Layam is a rhythmic structure or Talam, and Vinayasam is the rhythmic exploration of the set musical phrase within the framework of the Raga Lakshana. Pallavi is also popularly known as Kriti / Bandish.
-
-Pallavi is often preceded by an Raga Alapana. It can be a short Alapana followed by a Kriti/Bandish, or an extensive Raga Alapana, also called - Ragam Tanam / Alap Jod Jhala - followed by a Kriti/Bandish/Pallavi.
-
-You can read about the structure and performance of a Raga Alapana [here](/blog/raga-alapana). Any performance of Indian Classical Music is defined by Lakshanas (Grammar of Music) and Lakshyas (Presentation of Music). You can read an introduction to Lakshanas and Lakshyas [here](/blog/music-as-a-performing-art). A more detailed post on Lakshanas is [here](/blog/grammar-of-music).
+Pallavi is often preceded by an Raga Alapana. It can be a short Raga Alapana, or an extensive development referred to as *Ragam Tanam* or *Alap, Jod, Jhala*. You can read about the structure and performance of a Raga Alapana [here](/blog/raga-alapana/).
 
 This section of a musical presentation has also been referred to as Rupak Alapti. Rupak Alapti could also be considered as the precursor to modern day *Khyal* genre of Indian Classical Music. 
 
-This has two characteristics - *Dhatu* (musical aspects) and *Matu* (Poetry or Lyrical aspects). Essentially, this is poetry set to music in a tala or rhythmic cycle of beats. 
+## Structure of a Pallavi
 
-Lets now look at Pallavi.
+Pallavi has two characteristics - *Dhatu* (musical aspects) and *Matu* (poetic or lyrical aspects). Essentially, it is poetry set to music, in a tala or rhythmic cycle of beats. 
 
-Here I make a distinction between Poetry and Musical Poetry. While generic poetry has its own structure and meaning, not all poetry works are suitable as a musical composition. In addition to poetic meaning, a musical poetry also needs to have a metre, a rhythm based structure, a musical structure where the musical and grammatical characterists of the Raga are maintained. A musical poetry composer is also known as *Vaggeyakar*. The meaning of the word is :
+Here I make a distinction between *literary* poetry and *musical* poetry. While literary poetry has its own structure and meaning, not all literary works are suitable as a musical composition. In addition to poetic meaning, a musical poetry also needs to have a metre, a rhythm based structure, and a musical structure where the musical and grammatical characteristics of the Raga are maintained.
 
-*Vak* - speech - here refers to words(sahityam). 
+A musical poetry composer is also known as *Vaggeyakar*. The meaning of the word is derived from its parts:
+* *Vak* - meaning "speech" which refers to the lyrics (*Sahityam*) 
+* *Geya* - meaning "singing" which refers to the tune, and 
+* *Kar* - meaning the "doer" or "actor".
 
-*Geya* - singing - here refers to setting the music. 
-
-*Kaara* - the doer of the above acts (or anything in a context).
-
-The different aspects of a Pallavi are :
+Let us look at each of the different aspects of Pallavi, *Padam*, *Layam* and *Vinyasam*.
 
 ### Padam
 
-In today's common parlance, this section is also known as *Bandish* or *Kriti*. This can include the following stages:
+This can include the following stages:
 
-* *Pallavi* or *Sthayi* - introductory lines showcasing the Raga structure.
+* *Pallavi* or *Sthayi* - main lines showcasing the Raga structure which are often repeated.
 * *Anupallavi* or *Antaraa* - bridge lines which connect two sections, or two halves of the octave.
 * *Charanam* or *Sanchari* - a footnote or concluding part which again covers the whole Raga.
 * *Anucharanam* or *Abhog* - an optional additional section of Sanchari which contains the composer's signature.
 
-The *Pallavi* section within a Pallavi composition is the introductory phrase to the composition. 
-
-*Anupallavi* is a sub-section of pallavi and follows pallavi. It connects Pallavi to the next section called Charnam. Anupallavi is also known as *Antaraa*.
-
-*Charanam* footnote section or the concluding section of a composition. This section is also known as *Sanchari* (musically, moving all over the range of Raga). 
-
-Sometimes there is a subsection called *Abhog* or *Anucharanam* which is also a form of sanchari, but it contains the composer's signature.
-
-This four part composition was earlier known as Udgraha, Melapaka, Dhruva and Abhog in the Prabandha style of compositions. Prabandhas are not very prevelant now.
-
-### Instrumental Pallavi / Gat
-
-Often, vocal Pallavis can also be rendered on a musical instrument. Ofcourse, on an instrument, there is no concept of Matu or Lyrics but only Dhatu. Through a clever combination of right hand strokes/bow and left hand movements, the feeling of Dhatu can be created.
-
-Lacking the support of words, it can be challenging to portray the essence or the feelings of the poetry. If the listener knows the Pallavi, it is easy for him/her to follow, otherwise, it will be heard just has an musical composition.
-
-Some Pallavis are difficult to render on instruments due to the limit on the continuity of sound, though technically on a bow instrument it is possible. However, here too, there is no concept of Matu but only Dhatu. 
-
-There are instrumental compositions, some of which are designed to take advantage of intrumental techniques of playing. These compositions are called *Gat*. These compositions are not Matu based but only Dhatu based. It gives full freedom to the artist to explore the rhythmic variations along with the Raga improvisation, without the boundaries of Matu.
-
-Often, due to the constraints that a full fledged Pallavi/Composition can put on an artists' exploration of rhythmic/musical phrases, there are special Pallavi which follows Ragam / Tanam. These are usually one line poetry, with plenty of gaps / intervals between words. These pallavis are exclusively designed to let the artist explore rhythmic/musical improvisations to the fullest extent. Here the importance is not as much to the Matu as it is to rhythmic / musical improvisation. These pallavis are also suitable for instrumental music.
-
+This four part composition was earlier known as *Udgraha*, *Melapaka*, *Dhruva* and *Abhog* in the *Prabandha* style of compositions. *Prabandhas* are not very prevalent now.
 
 ### Layam
 
 These lyrics or musical phrases are set to different talas or rhythmic cycles like Aditala (8 beats), Chautala (12 beats), Mishra Chapu (7 beats), Jhaptala (10 beats), etc. The musical phrases are typically set in a way such that they line up with specific accents in the rhythmic cycle. For example, the starting point and the ending point of the musical phrase should match corresponding accents in the rhythmic cycle.
 
-Indian rhythmic system is well evolved, and has many features. In addition to a repeating cycle, emphasis points, starting and ending beat, an important aspect of Indian Tala System is Jaati (literally meaning tribe, but musically meaning to a class of beats). You can read a more detailed understanding of Tala [here](/blog/taladhyaya).
+Indian rhythmic system is sophisticated and has many features. In addition to cycles and start, end and accent points, another important aspect of Indian Tala System is *Jati*. Although it is the same term as the *Jatis* which were precursors to *Ragas*, in the context of rhythm, a *Jati* refers to a rhythmic division or a grouping of notes. I have written a separate post which details the [principles of Tala](/blog/taladhyaya).
 
-We recognise 5 types of rhythmic divisions:
-
-*Tisra Jaati* means musical phrases are created in multiples of 3
-
-*Chatursra Jaati* means musical phrases are created in multiples of 4
-
-*Khanda Jaati* means musical phrases are created in multiples of 5
-
-*Misra Jaati* means musical phrases are created in multiples of 7
-
-*Sankeerna Jaati* means musical phrases are created in multiples of 9
-
-
-The artist can create many different rhythmic musical phrases by using these varieties / Jaatis.
+There are five recognized types of *Jatis* or rhythmic divisions, namely, *Tisra*, *Chatursra*, *Khanda*, *Misra* and *Sankeerna* which respectively mean musical phrases created in groups of 3, 4, 5, 7 and 9 notes. An artist can create many different rhythmic musical phrases by using these Jatis.
 
 ### Vinyasam
 
-*Vinyasam / Vistar* or rhythmic exploration of a musical phrase, also called *Niraval*, uses different combinations of jaatis to create aesthetically beautiful variations. It needs to be borne in mind that in the process, the meaning and the beauty of lyrics / poetry should not be spoilt. 
+*Vinyasam* (also called *Vistar* or *Niraval*) is a rhythmic exploration of a musical phrase. It uses different combinations of jatis to create aesthetically appealing variations. It needs to be borne in mind that in the process, the meaning and the beauty of lyrics or poetry should not be spoilt. 
 
-It is also important to take note of *Hrasva* (short syllables) and *Deergha* (long syllables), for elongating a short syllable could either completely change the meaning of the word, or render it meaningless. 
+It is also important to take note of *Hrasva* (short) syllables and *Deergha* (long) syllables in the song, for elongating a short syllable could either completely change the meaning of the word, or render it meaningless. 
 
-*Sahitya Bhav* or the Spirit of the Composition is a very important consideration - at all times keeping the structure, meaning and beauty of the composition intact while musically and rhythmically exploring it. The other important point to note is that the position of lyrical syllables in the rhythmic cycle needs to be consistently maintained.
+*Sahitya Bhav* or the spirit of the literature is a very important consideration. An artist should maintain the structure, meaning and beauty of the composition, while musically and rhythmically exploring it. The other important point to note is that the positions of lyrical syllables in the rhythmic cycle need to be consistently maintained.
 
-While the focus is on rhythmic improvisations, it is equally important to note that *Raga Bhava* (the mood of the Raga) is maintained within the confines of musical grammar as defined by Raga Lakshanas.
+While the focus is on rhythmic improvisations, it is equally important to note that the *Raga Bhava* (the mood of the Raga) is maintained within the confines of musical grammar as defined by Raga Lakshanas.
 
-Musical / Rhythmic exploration and improvisation of a Pallavi is also called *Manodharma Sangeet* (Mano - of the mind, imagination. Dharma - Rules / Conduct. Raga / Tala improvisation by the artists' imagination, within the framework / rules of the Raga / Tala).
+## Note on Instrumental Pallavi
+
+Often, Pallavis composed for vocal music, can also be rendered on a musical instrument. Note that on an instrument, there is no strict concept of Matu or lyrics but only Dhatu or notes. However, through a clever technique of strumming, bowing, blowing and modulating, the feeling of Dhatu can be created. This can be quite challenging. If listeners knows the Pallavi, they may enjoy the feeling of Dhatu and follow along. Otherwise, they would hear it just as an instrumental composition. Some Pallavis are difficult to render on instruments, due to the limit on the continuity of sound, although on a bowed instrument, they are still considered possible. 
+
+There are Pallavis specifically composed for instruments, some of which are designed to take advantage of specific instrumental techniques of playing. These compositions are called *Gat*. These compositions are not based on Matu but only on Dhatu. They give complete freedom to the artist to explore rhythmic variations along with Raga improvisation, without the boundaries of Matu.
+
+Even in vocal music, there are special Pallavis which are minimalist in nature with usually just one line of poetry, with plenty of gaps between the words. These Pallavis are exclusively designed to let the artist explore rhythmic and raga improvisations to the fullest extent. Here again, not as much significance is attached to Matu as it is to Dhatu. Such pallavis are also suitable for instrumental music.
 
 ## Summary
 
-To summarise, a Raga is a musical structure which should be presented according to its prescribed Lakshanas. Raga Alapana is a prescribed method for presenting a Raga systematically. Pallavi is a further exploration of the Raga together with a rhythmic cycle and its rhythmic accents. While adhering to these aspects of presentation, a musician should aspire to please the listeners' minds and evoke an emotional response from them.
+To summarise, a Raga is a musical structure which should be presented according to its prescribed Lakshanas. Raga Alapana is a prescribed method for presenting a Raga systematically. Pallavi is a further exploration of the Raga together with rhythmic cycles, lyrics and rhythmic accents.
 
-This post is by no means exhaustive, but I hope it provides a glimpse into the process of Raga Alapana and Pallavi. I also hope that this would enable you to follow and enjoy Chandraveena music and Indian Classical music in general. In a subsequent video, I will give a demo of different sections of Raga Alapana and Pallavi. Stay tuned!
+Like in the case of Raga Alapana, the musical and rhythmic exploration and improvisation during a Pallavi, is also called *Manodharma Sangeet*. So it is a showcase of the artist's imagination, while staying within the framework of the Raga and Tala.
+
+This post is by no means exhaustive, but I hope it provides a glimpse into the process of Pallavi. I also hope that this would enable you to follow and enjoy Chandraveena music and Indian Classical music in general. In a subsequent video, I will give a demo of different sections of Raga Alapana and Pallavi. Stay tuned!
 
 <notice-box>
 
 ## Notes to Readers
 
-Please check my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> and <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> channels for recordings of Raga Alapana and Pallavi on Chandraveena.
+Please check my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> and <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> channels for recordings of Pallavi on Chandraveena.
 
 <br>
 
-Based on this article, you can try and identify the different sections of the Raga Alapana. Most of my Pallavis consist of only one section. Try and identify the starting point, the emphasis point and the end point of the pallavi.
-
-For a multi section pallavi, listen to compositions of Tansen, Baiju, Thyagaraja, Muthuswamy Diskshithar, etc. You can try and identify the different sections.
+Based on this article, you can try and identify the starting point, the emphasis point and the end point of the pallavi. Usually, I play single line Pallavis on Chandraveena. For lyrical and multi-section pallavis, listen to compositions of Tansen, Baiju, Thyagaraja, Muthuswamy Diskshithar, etc.
 
 </notice-box>
