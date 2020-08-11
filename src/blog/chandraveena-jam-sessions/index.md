@@ -32,6 +32,8 @@ Here is the list of sessions being released:
 
 * **Raga Puriya Dhanashree** - Trying out a [Pallavi](https://www.youtube.com/watch?v=zjfH73UfeAM) in a 9 beat Tala (*Mattatala*) and different rhythmic variations.
 
+* **CD Quality Audio on Bandcamp** - All these recordings are available in CD quality audio at [Bandcamp](https://chandraveena.bandcamp.com/album/chandraveena-jam-sessions-with-pakhawaj).
+
 ## Credits
 ### Artists
 Chandraveena - S Balachander
