@@ -1,6 +1,6 @@
 ---
 title: "Raga Alapana - A glimpse into its structure"
-date: 2020-08-10
+date: 2020-08-15
 image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my reading of what a Raga Alapana is. Read on to find out more!"
 ---
@@ -9,7 +9,9 @@ description: "I am S. Balachander, an Indian classical musician and a performing
 
 ## Background
 
-In an [earlier post](/blog/what-is-classical/), we posed the question: "What is Classical about Indian Classical music?" We discussed how the intertwined evolution of *Lakshya* (presentation) and *Lakshana* (grammar) have lent Indian Classical Music its distinctive identity. We also delved into [*Lakshanas*](/blog/grammar-of-music/) which define the grammar of Indian Classical music. We looked at the impact of adopting the concept of *Adhara Shadaj* (singing to a fixed fundamental tonic), how this turned *Jatis* from the pre-Adhara Shadaj era into *Ragas* of the present era, and also on several aspects of *Lakshanas* including types of *Swaras*, timing and usage of *Swaras* and formation of musical phrases and scales. Now, let us look at Raga Alapana.
+In an [earlier post](/blog/what-is-classical/), we posed the question: "What is Classical about Indian Classical music?" We discussed how the intertwined evolution of *Lakshya* (presentation) and *Lakshana* (grammar) have lent Indian Classical Music its distinctive identity.
+
+We also delved into [*Lakshanas*](/blog/grammar-of-music/) which define the grammar of Indian Classical music. We looked at the impact of *Adhara Shadaj* (singing to a fixed fundamental tonic) and how it turned *Jatis* from the pre-Adhara Shadaj era into *Ragas* of the present era. We also looked at several aspects of *Lakshanas* including types of *Swaras*, timing and usage of *Swaras* and formation of musical phrases and scales. Now, let us look at Raga Alapana.
 
 A typical performance of Indian Classical music has two parts:
 
@@ -23,7 +25,7 @@ Raga Alapana is the primary format of Anibaddha Sangeet.
 
 The term *Raga Alapana* contains two words - *Raga* and *Alapana*. This begets the question - what is a *Raga*? This is a vast subject in itself, but I will address it briefly here.
 
-A *Raga* can be defined as a musical scale, together with a set of Lakshanas and Lakshya which results in a consistent, recognisable musical framework. To formalise the "feeling" of a Raga, and to bring in consistency in performances, Lakshanagranthas have set out the grammar for the presentation of Ragas. This includes the set of notes to be used in the Raga, the consonant relationship of each note with other notes, and rules regarding how a valid musical phrase can be constructed. These rules also mould the microtonal shades of notes that can be used and therefore the overall tuning of the scale of the Raga.
+A *Raga* can be defined as a musical scale, together with a set of Lakshanas and Lakshya, resulting in a consistent, recognisable musical framework. To formalise the "feeling" of a Raga, and to bring in consistency in performances, Lakshanagranthas have set out the grammar for the presentation of Ragas. This includes the set of notes to be used in the Raga, the consonant relationship of each note with other notes, and rules regarding how a valid musical phrase can be constructed. These rules also mould the microtonal shades of notes that can be used and therefore the overall tuning of the scale of the Raga.
 
 Through a cycle of listening, learning, practicing and performing, a student can learn the Lakshana aspect of a given Raga as well. However, these only define the framework and by themselves do not make music. Within this framework, a performer can attempt to improvise and develop the Raga through a musical performance. Artists must apply Lakshya to their rendition and create a Raga presentation which can be described as *Ranjayati* (that which illuminates, gratifies and colours the mind). This is the most important characteristic in the presentation of a Raga.
 
@@ -52,7 +54,7 @@ In this section, there is a perceptible pulse in the singing or playing. On an i
 
 ### Nyasa or the conclusion, also known as Muktayi
 
-This is the concluding part, where *sancharis* or melodic phrases across the octaves are presented, in a continuous movement providing a climax to the whole Raga Alapana. This ends the section Raga Alapana.
+This is the concluding part, where *sancharis* or melodic phrases across the octaves are presented, in a continuous movement providing a climax to the whole Raga Alapana. This ends the Raga Alapana.
 
 ## Summary
 
@@ -64,7 +66,7 @@ While adhering to these aspects of presentation, a musician should aspire to ple
 
 This post is by no means exhaustive, but I hope it provides a glimpse into the process of Raga Alapana. I also hope that this would enable you to follow and enjoy Chandraveena music and Indian Classical music in general.
 
-Next, I explore [Pallavi](/blog/pallavi/) which is also known as composition, *Kriti* or *Bandish*.
+Next, I will explore **Pallavi** which is also known as a composition, *Kriti* or *Bandish*.
 
 <notice-box>
 
