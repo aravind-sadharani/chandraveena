@@ -1,6 +1,6 @@
 ---
 title: "Chandraveena Jam sessions with Pakhawaj"
-date: 2020-08-04
+date: 2020-08-11
 image: "../../../images/jams-thumb.png"
 description: "Indian Classical music performances have a sophisticated melodic and rhythmic structure. Although there are some portions which are composed, a lot of the music is actually improvised. Yet an artist is able to create beautiful music, as these extempore creations are backed by years of training and understanding. Here is a glimpse into the behind-the-scenes work."
 ---
@@ -30,12 +30,7 @@ Here is the list of sessions being released:
 
 * **Raga Bhairavi** - [Pallavi](https://www.youtube.com/watch?v=z4lz4pmswkw) in a 7 beat Tala (*Tivratala*).
 
-* **Raga Puriya Dhanashree** - Trying out a 9 beat Tala (*Mattatala*) and different rhythmic variations.
-
-
-<notice-box>
-Links to Puriya Dhanashree and Bhairavi coming soon. Stay tuned!
-</notice-box>
+* **Raga Puriya Dhanashree** - Trying out a [Pallavi](https://www.youtube.com/watch?v=zjfH73UfeAM) in a 9 beat Tala (*Mattatala*) and different rhythmic variations.
 
 ## Credits
 ### Artists
