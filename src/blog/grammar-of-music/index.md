@@ -12,9 +12,7 @@ Indian Classical Music was not always like we know and understand today, having 
 Like with any language, even for music, a grammatical framework is essential for effective communication and consistent understanding. In Indian Classical music, treatises on musical grammar and rules are called *Lakshanagranthas* (books of grammar), which have evolved and developed over many centuries. Lakshanagranthas deal primarily with Lakshanas, although they do talk about Lakshya as well.
 
 ![Timeline of Indian Classical Music](icm-timeline.png)
-*Figure 1. A Timeline of Indian Classical Music*
-
-<br>
+<p align="center"><em>Figure 1. A Timeline of Indian Classical Music</em></p>
 
 If one were to divide the evolution of Indian classical music into different eras, I would say that the introduction of the concept of *Adhara Shadaj* (fixed fundamental tonic) is a major dividing phase. As part of this major change, Indian music evolved and certain aspects of Lakshya and Lakshana were modified. Some new forms came into place while other forms became obsolete. But many concepts and terminologies were carried over with a different interpretation.
 
@@ -22,10 +20,16 @@ If one were to divide the evolution of Indian classical music into different era
 
 To better understand the difference *Adhara Shadaj* brought in Indian Classical Music, first, let us look at the concepts of *Gram*, *Murcchana* and *Jati*.
 
-Early on in the evolution of Indian Classical Music (maybe, even as early as 3rd-4th century CE), musicians and scholars studying and experimenting in music recognised three very important ratios:
-* *Pancham Bhav* or the perfect fifth,
-* *Madhyam Bhav* or the perfect fourth and
-* *Gandhar Bhav* or the major third which is also known as *Antara Gandhar*.
+Early on in the evolution of Indian Classical Music (maybe, even as early as 3rd-4th century CE), musicians and scholars studying and experimenting in music recognised three very important ratios: *Pancham Bhav* or the perfect fifth, *Madhyam Bhav* or the perfect fourth and *Gandhar Bhav* or the major third which is also known as *Antara Gandhar*.
+
+`audio: /assets/01-pancham-bhav.mp3`
+<p align="center"><em>Sample 1. An Illustration of Shadaj-Pancham Bhav</em></p>
+
+`audio: /assets/02-madhyam-bhav.mp3`
+<p align="center"><em>Sample 2. An Illustration of Shadaj-Madhyam Bhav</em></p>
+
+`audio: /assets/03-gandhar-bhav.mp3`
+<p align="center"><em>Sample 3. An Illustration of Shadaj-Gandhar Bhav</em></p>
 
 These ratios formed the basis for division of an octave into notes. With all three ratios recognised, an octave was divided into 22 intervals or subdivisions called *Srutis*.
   
@@ -41,19 +45,31 @@ Let us understand this with an example. First, let us denote the 12 musical note
 
 where notes beginning with a lower case denote *Komal* or flat notes, notes beginning with an upper case denote *Tivra* or sharp notes and **Sa'** denotes the octave of **Sa**.
 
+`audio: /assets/04-vr-12-notes.mp3`
+<p align="center"><em>Sample 4. A 12 Note Scale in the system of tuning of Ramamatya and Venkatamakhin</em></p>
+
 Let us take a well known scale today, which is known as Raga *Shanakarabharanam* or *Bilawal* or the major scale. Its notes are:
 
 **Sa Re Ga ma Pa Dha Ni Sa'**
 
+`audio: /assets/05-vr-shankarabharanam.mp3`
+<p align="center"><em>Sample 5. Shankarabharanam scale in the system of tuning of Ramamatya and Venkatamakhin</em></p>
+
 Now, let us perform a scale change by starting from **ma** and go up to its octave.
 
 **ma Pa Dha Ni Sa' Re' Ga' ma'**
+
+`audio: /assets/06-vr-ma-yaman.mp3`
+<p align="center"><em>Sample 6. Shankarabharanam scale from ma to ma'</em></p>
 
 Now let us rewrite this scale by transposing **ma** to **Sa** while maintaining the intervals between the notes. The transposed scale would be:   
 
 **Sa Re Ga Ma Pa Dha Ni Sa'**
 
 which is nothing but Raga *Kalyani* or *Yaman*.
+
+`audio: /assets/07-vr-sa-yaman.mp3`
+<p align="center"><em>Sample 7. Yaman scale in the system of tuning of Ramamatya and Venkatamakhin</em></p>
 
 So what do we learn about *Jatis* and *Ragas* from this example?
 

@@ -80,7 +80,17 @@ module.exports = {
             }
           },
           `gatsby-remark-component`,
-          `gatsby-remark-reading-time`
+          `gatsby-remark-reading-time`,
+          {
+            resolve: 'gatsby-remark-audio',
+            options: {
+              preload: 'none',
+              loop: false,
+              controls: true,
+              muted: false,
+              autoplay: false
+            }
+          }
         ],
       },
     },
