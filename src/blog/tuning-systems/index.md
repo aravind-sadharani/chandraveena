@@ -55,11 +55,38 @@ Here we talk about:
 5. The peculiarity of Gandhar Gram
 ```
 
-We will restrict ourselves to *Shadaj Gram*. There are two possible interpretations and both are worth checking.
-
-### Without using Gandhar Bhav
-* Ma-Pa interval is said to be a 4 Sruti interval
-* 
-
+We will restrict ourselves to *Shadaj Gram*. There are two possible interpretations and both are worth checking. Bharat and Sarang Dev's *Chal veena* and *Achal veena* experiment works with both.
 
 ### Using Gandhar Bhav
+
+```
+Editor's Note:
+
+Here we talk about the derivation using:
+* Pancham interval is 13 Srutis
+* Madhyam interval is 9 Srutis
+* Gandhar interval is 7 Srutis (this is an assumption for ease of interpretation)
+```
+
+### Without using Gandhar Bhav
+
+```
+Editor's Note:
+
+Here we talk about derivation using:
+* From Sa, derive 11 steps by taking fifths
+* Discard the 12th step which is very close to Sa
+* From Sa, derive 10 more steps by taking fourths
+* Discard the 11th step which is very close to Pa
+* Total 22 intervals
+```
+
+## Tuning system of Ramamatya and Venkatamakhin
+
+### Ramamatya's procedure for setting Veena frets
+
+### Venkatamakhin's documentation of the 12 note tuning system
+
+## Present-day understanding and Commentary
+
+## Summary and parting words
