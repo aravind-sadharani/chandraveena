@@ -81,6 +81,7 @@ module.exports = {
           },
           `gatsby-remark-component`,
           `gatsby-remark-reading-time`,
+          `gatsby-remark-mathjax-ssr`,
           {
             resolve: 'gatsby-remark-audio',
             options: {

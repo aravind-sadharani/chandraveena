@@ -13,6 +13,7 @@ import SEOMetaData from "../components/SEOMetaData"
 import BlogLinks from "../components/bloglinks"
 import SocialShare from "../components/socialshare"
 import SupportButton from "../components/support"
+require(`gatsby-remark-mathjax-ssr/mathjax.css`)
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
