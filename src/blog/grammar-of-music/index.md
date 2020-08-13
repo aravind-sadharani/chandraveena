@@ -39,30 +39,28 @@ The term *Murchhana* comes from the word *Murchh* which literally means "to incr
 
 ## Jatis, Ragas and Adhara Shadaj
 
-Let us understand this with an example. We will use the present day system of dividing an octave into 12 notes. As for the specific intervals between notes, we will follow the system of tuning as defined by *Ramamatya* and later documented mathematically by *Venkatamakhin*. Even though this tuning system was not in use during the pre-Adhara Shadaj era, it is more easy to understand in the present day. In a future post, we will look at the 22 *Sruti* tuning of the pre-Adhara Shadaj era described by *Bharat* and *Sarang Dev*, the tuning system of *Ramamatya* and *Venkatamakhin* and how they relate to each other.
-
-Now, let us denote the 12 musical notes in an octave as follows:
+Let us understand this with an example. First, let us denote the 12 musical notes in an octave as follows:
 
 **Sa re Re ga Ga ma Ma Pa dha Dha ni Ni Sa'**
 
-where notes beginning with a lower case denote *Komal* or flat notes, notes beginning with an upper case denote *Tivra* or sharp notes and **Sa'** denotes the octave of **Sa**. You can listen to a sample of the 12 notes as per the tuning system of *Ramamatya* and *Venkatamakhin*.
+where notes beginning with a lower case denote *Komal* or flat notes, notes beginning with an upper case denote *Tivra* or sharp notes and **Sa'** denotes the octave of **Sa**. You can listen to a sample of the 12 notes as per the tuning system of *Ramamatya* and *Venkatamakhin* (equivalent to [Pythagorean Tuning](https://en.wikipedia.org/wiki/Pythagorean_tuning)).
 
 `audio: /assets/04-vr-12-notes.mp3`
-<p align="center"><em>Sample 4. A 12 Note Scale in the system of tuning of Ramamatya and Venkatamakhin</em></p>
+<p align="center"><em>Sample 4. Twelve Note Scale in the tuning system of Ramamatya and Venkatamakhin</em></p>
 
 Let us take a well known scale today, which is known as Raga *Shanakarabharanam* or *Bilawal* or the major scale. Its notes are:
 
 **Sa Re Ga ma Pa Dha Ni Sa'**
 
 `audio: /assets/05-vr-shankarabharanam.mp3`
-<p align="center"><em>Sample 5. Shankarabharanam scale in the system of tuning of Ramamatya and Venkatamakhin</em></p>
+<p align="center"><em>Sample 5. Shankarabharanam scale</em></p>
 
 Now, let us perform a scale change by starting from **ma** and go up to its octave.
 
 **ma Pa Dha Ni Sa' Re' Ga' ma'**
 
 `audio: /assets/06-vr-ma-yaman.mp3`
-<p align="center"><em>Sample 6. Shankarabharanam scale from ma to ma'</em></p>
+<p align="center"><em>Sample 6. Shankarabharanam scale from <strong>ma</strong> to <strong>ma'</strong></em></p>
 
 Now let us rewrite this scale by transposing **ma** to **Sa** while maintaining the intervals between the notes. The transposed scale would be:   
 
@@ -71,7 +69,7 @@ Now let us rewrite this scale by transposing **ma** to **Sa** while maintaining 
 which is nothing but Raga *Kalyani* or *Yaman*.
 
 `audio: /assets/07-vr-sa-yaman.mp3`
-<p align="center"><em>Sample 7. Yaman scale in the system of tuning of Ramamatya and Venkatamakhin</em></p>
+<p align="center"><em>Sample 7. Yaman scale</em></p>
 
 So what do we learn about *Jatis* and *Ragas* from this example?
 
@@ -81,27 +79,22 @@ With the acceptance of *Adhara Shadaj*, the Jatis were denoted by transposing th
 
 Taking the above example, in today's music, both Shankarabharanam and Kalyani would be performed to the same fundamental tonic or *Adhara Shadaj*, whereas earlier they would have been perfomed with a scale shift (Shankarabharanam from **Sa** and Kalyani from **ma**).
 
-<notice-box>
-
-## Note to Readers
-
-If you are familiar with Indian Classical music, do these scales sound recognisable to you? Would you sing or play them the same way or would you introduce some microtonal variations? If these questions occurred to you while listening to these samples, then please note that these scales are drawn from the Ramamatya and Venkatamakhin system of tuning. In practice, artists (including myself) consider those note values as a reference and often introduce microtonal variations depending on their training, gurus, gharana and subjective interpretation.
-
-</notice-box>
-
 Now let us take a few examples of Lakshanas, and see what they mean and how they evolved across these period. For ease of understanding, let us group the Lakshanas into those pertaining to: (a) the importance of *Swaras* or individual notes; (b) the timing and usage of Swaras; and (c) musical phrases and scales. Note that this commentary is generic and we would not define any specific Lakshanas for any specific Raga.
 
 ## Types of Swaras
 
-* **Graha**: In the pre-Adhara Shadaj days, the *Graha* (home) swar was a very important concept and reference for a musical performance. This was because it was the Graha swar which was the starting note defining the Murchhana. Like in the example above, the Graha swar determined whether the scale being performed was Shankarabharanam or Kalyani. But today, however, the *Sa* is the Graha swar for all Ragas. 
+* **Graha**: In the pre-Adhara Shadaj days, the *Graha* (home) swar was a very important concept and reference for a musical performance. This was because it was the Graha swar which was the starting note defining the Murchhana. Like in the example above, the Graha swar determined whether the scale being performed was Shankarabharanam or Kalyani (refer to Samples 5,6 and 7). But today, however, the *Sa* is the Graha swar for all Ragas. 
+
+* **Vadi, Samvadi**: In today's understanding of music, *Vadi* denotes the most important note of the Raga, and *Samvadi* as the second most important note of the Raga. However, *Vadi* means a speaking note, or any note of the Raga. *Samvadi* is a consonant note of the Vadi note which is generally its fourth (Madhyam bhav) or its fifth (Pancham bhav) (refer to Samples 1 and 2). 
+
+* **Anuvadi, Vivadi**: *Anuvadi* is a note descibed as being in harmony, typically the third (Tivra Gandhar or Komal Gandhar) of a note (refer to Sample 3). *Vivadi* literally means a contesting or argumentative. Musically, it means a note so close to the original that one can see the tension between the notes. For example, if I have a very sharp Rishabh (**Re**), and a very flattened Komal Gandhar (**ga**), one could say the two notes are Vivadi to each other. To use it musically is an aspect of Lakshya or an artist's ability to create an aesthetic statement.
+
+`audio: /assets/08-vr-kharaharapriya-vivadi.mp3`
+<p align="center"><em>Sample 8. Kharaharapriya scale in which <strong>Re</strong> and <strong>ga</strong> are vivadi as well as <strong>Dha</strong> and <strong>ni</strong></em></p>
 
 * **Amsa**: The most often used note is called *Amsa*. Amsa literally a man's shoulder or a bull's hump. Musically, it means the note that shoulders the weight of the Raga.
 
-* **Vadi, Samvadi**: In today's understanding of music, *Vadi* denotes the most important note of the Raga, and *Samvadi* as the second most important note of the Raga. However, *Vadi* means a speaking note, or any note of the Raga. *Samvadi* is a consonant note of the Vadi note which is generally its fourth (Madhyama bhav) or its fifth (Pancham bhav). 
-
-* **Anuvadi, Vivadi**: *Anuvadi* is a note descibed as being in harmony, typically the third (Tivra Gandhar or Komal Gandhar) of a note. *Vivadi* literally means a contesting or argumentative. Musically, it means a note so close to the original that one can see the tension between the notes. For example, if I have a very sharp Rishabh (**Re**), and a very flattened Komal Gandhar (**ga**), one could say the two notes are Vivadi to each other. To use it musically is an aspect of Lakshya or an artist's ability to create an aesthetic statement.
-
-* **Nyasa**: *Nyasa* is a halting note of a musical phrase. It could be a Samvadi or Anuvadi of the starting note of the musical phrase, or the Amsa note of the Raga.
+* **Nyasa**: *Nyasa* is a halting note of a musical phrase. It could be a Samvadi or Anuvadi of the starting note of the musical phrase, or the Amsa note of the Raga. The concepts of Amsa and Nyasa are best illustrated in Raga Alapana. Stay tuned for a post on the subject.
 
 ## Timing and Usage of Swaras
 
@@ -109,13 +102,13 @@ Swaras are also classified based upon their timing and frequency of usage.
 
 * **Alpatva**: An *Alpatva* note is one which is rarely and fleetingly used note. 
 
-* **Bahutva**: A *Bahutava* note is one which is often used. Graha and Amsa notes are generally Bahutva notes.
+* **Bahutva**: A *Bahutava* note is one which is often used. Graha and Amsa notes are generally Bahutva notes. Check this [Pallavi in Raga Jaunpuri](https://www.youtube.com/watch?v=sldH_5uYvqc). Here, **ga** (Komal Gandhar) is Alpatva and **Sa** (Shadaj) is Bahutva.
 
 * **Hrasva**: A *Hrasva* note is one on which a musical phrase does not linger for a length of time.
 
-* **Deergha**: A *Deergha* note is one where a musical phrase can halt for a considerable time.
+* **Deergha**: A *Deergha* note is one where a musical phrase can halt for a considerable time. Check this [Pallavi in Raga Bhairavi](https://www.youtube.com/watch?v=z4lz4pmswkw). Here, **re** is Hrasva and **Pa** is Deergha.
 
-* Hrasva and Deergha are also applicable in lyrical compositions where they mean short vowels and long vowels.
+* Hrasva and Deergha are also applicable in lyrical compositions where they mean short vowels and long vowels. This is best illustrated in a Pallavi. Stay tuned for a post on the topic.
 
 ## Musical Phrases and Scales
 
@@ -123,17 +116,19 @@ Lakshanas also govern the formation of musical phrases and scales.
 
 * **Aarohi**: An *Aarohi* is an ascending set of notes. For example, **Sa Re Ga ma Pa**.
 
-* **Avarohi**: An *Avarohi* is a descending set of notes. For example, **Dha Pa ma Ga Re**.
+* **Avarohi**: An *Avarohi* is a descending set of notes. For example, **Dha Pa ma Ga Re**. Refer to Sample 5, 6 and 7 which play Aarohi and Avarohi phrases one after the other.
 
-* **Sthayi**: *Sthayi* literally means constant. Musically, it refers to a fixed note around which musical phrases revolve. A Sthayi is used in the context of a musical phrase or to define an octave. A few examples of Sthayi (taking **Sa** as the Sthayi note) are:
+* **Sthayi**: *Sthayi* literally means constant. Musically, it refers to a fixed note around which musical phrases revolve. A Sthayi is used in the context of a musical phrase or to define an octave. A few examples of Sthayi (taking **Sa** as the Sthayi note) are **Sa Re Ga ma Pa Dha Ni Sa'**, **Sa Re Sa** and **Sa Re Sa'**.
 
-    * **Sa Re Ga ma Pa Dha Ni Sa'**,
-    * **Sa Re Sa**,
-    * **Sa Re Sa'**, etc.
+`audio: /assets/09-shankarabharanam-sthayi.mp3`
+<p align="center"><em>Sample 9. Sthayi phrases in Raga Shankarabharanam</em></p>
 
 * **Melakarta and Janaka Raga**: A *Melakarta* Raga or a *Janaka* Raga is a parent Raga from which other Ragas are derived. Melakarta Ragas are always heptatonic. Janaka Raga could be heptatonic or have fewer notes.
 
 * **Janya Raga**: A *Janya* Raga is a derived Raga from a Melakarta or a Janaka Raga. The derived scale could be Sampoorna (heptatonic), Shadava (hexatonic) or Oudava (pentatonic). Also, note that Janya Ragas can be asymmetric. For example, it could be Audava while ascending and Shadava while descending. Other combinations of Aarohi and Avarohi patterns are also possible.
+
+`audio: /assets/10-hamsadhwani-janya.mp3`
+<p align="center"><em>Sample 10. Hamsadhwani scale which is a Janya of Shankarabharanam (refer to Sample 5)</em></p>
 
 ## Summary
 
