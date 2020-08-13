@@ -39,11 +39,13 @@ The term *Murchhana* comes from the word *Murchh* which literally means "to incr
 
 ## Jatis, Ragas and Adhara Shadaj
 
-Let us understand this with an example. First, let us denote the 12 musical notes in an octave as follows:
+Let us understand this with an example. We will use the present day system of dividing an octave into 12 notes. As for the specific intervals between notes, we will follow the system of tuning as defined by *Ramamatya* and later documented mathematically by *Venkatamakhin*. Even though this tuning system was not in use during the pre-Adhara Shadaj era, it is more easy to understand in the present day. In a future post, we will look at the 22 *Sruti* tuning of the pre-Adhara Shadaj era described by *Bharat* and *Sarang Dev*, the tuning system of *Ramamatya* and *Venkatamakhin* and how they relate to each other.
+
+Now, let us denote the 12 musical notes in an octave as follows:
 
 **Sa re Re ga Ga ma Ma Pa dha Dha ni Ni Sa'**
 
-where notes beginning with a lower case denote *Komal* or flat notes, notes beginning with an upper case denote *Tivra* or sharp notes and **Sa'** denotes the octave of **Sa**.
+where notes beginning with a lower case denote *Komal* or flat notes, notes beginning with an upper case denote *Tivra* or sharp notes and **Sa'** denotes the octave of **Sa**. You can listen to a sample of the 12 notes as per the tuning system of *Ramamatya* and *Venkatamakhin*.
 
 `audio: /assets/04-vr-12-notes.mp3`
 <p align="center"><em>Sample 4. A 12 Note Scale in the system of tuning of Ramamatya and Venkatamakhin</em></p>
