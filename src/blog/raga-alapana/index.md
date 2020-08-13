@@ -70,7 +70,7 @@ Next, I will explore **Pallavi** which is also known as a composition, *Kriti* o
 
 <notice-box>
 
-## Notes to Readers
+## Note to Readers
 
 Please check my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hjg"><inline-button background="#ff0000">YouTube</inline-button></a> and <a href="https://chandraveena.bandcamp.com/"><inline-button background="#408294">Bandcamp</inline-button></a> channels for recordings of Raga Alapana on Chandraveena.
 

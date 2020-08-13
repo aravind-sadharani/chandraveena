@@ -81,7 +81,15 @@ With the acceptance of *Adhara Shadaj*, the Jatis were denoted by transposing th
 
 Taking the above example, in today's music, both Shankarabharanam and Kalyani would be performed to the same fundamental tonic or *Adhara Shadaj*, whereas earlier they would have been perfomed with a scale shift (Shankarabharanam from **Sa** and Kalyani from **ma**).
 
-With that out of the way, let us take a few examples of Lakshanas, and see what they mean and how they evolved across these period. For ease of understanding, let us group the Lakshanas into those pertaining to: (a) the importance of *Swaras* or individual notes; (b) the timing and usage of Swaras; and (c) musical phrases and scales. Note that this commentary is generic and we would not define any specific Lakshanas for any specific Raga.
+<notice-box>
+
+## Note to Readers
+
+If you are familiar with Indian Classical music, do these scales sound recognisable to you? Would you sing or play them the same way or would you introduce some microtonal variations? If these questions occurred to you while listening to these samples, then please note that these scales are drawn from the Ramamatya and Venkatamakhin system of tuning. In practice, artists (including myself) consider those note values as a reference and often introduce microtonal variations depending on their training, gurus, gharana and subjective interpretation.
+
+</notice-box>
+
+Now let us take a few examples of Lakshanas, and see what they mean and how they evolved across these period. For ease of understanding, let us group the Lakshanas into those pertaining to: (a) the importance of *Swaras* or individual notes; (b) the timing and usage of Swaras; and (c) musical phrases and scales. Note that this commentary is generic and we would not define any specific Lakshanas for any specific Raga.
 
 ## Types of Swaras
 
