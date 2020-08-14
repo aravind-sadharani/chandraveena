@@ -57,9 +57,15 @@ Here we talk about:
 
 Both Bharat in Natyashastra and Sarang Dev in Sangeet Ratnakar describe an experiment using an **Achal veena**, an instrument with a fixed tuning, and a **Chal veena**, an instrument whose tuning is varied through the course of the experiment. Although the term *veena* is used in their literature, it is likely that these instruments were constructed more like a harp rather than like a lute or zither of the present day.
 
-These experiments require the Achal veena to be tuned according to a scale called **Shadaj gram**. The scale itself is described in terms of intervals between notes. Each interval is described in terms of the number of *Srutis* it spans.
+These experiments require the Achal veena to be tuned according to a scale called **Shadaj gram**. The scale itself is described in terms of intervals between notes. Each interval is described in terms of the number of *Srutis* it spans. Shadaj Gram is described as follows.
 
-Shadaj Gram is described as follows:
+### Shadaj Gram
+Imagine an 8 string harp with strings numbered from first to eighth. Shadaj Gram is the scale defined by the following tuning.
+
+<notice-box>
+
+### Shadaj Gram Tuning
+
 1. The first string of the Achal veena is tuned to **Sa**.
 2. The second string is tuned to **Re** so that the interval of **Re** to **Sa** spans $3$ Srutis.
 3. The third string is tuned to **Ga** so that the interval of **Ga** to **Re** spans $2$ Srutis.
@@ -69,6 +75,24 @@ Shadaj Gram is described as follows:
 7. The seventh string is tuned to **Ni** so that the interval of **Ni** to **Dha** spans $2$ Srutis.
 8. Finally, the eighth string is tuned to **Sa'** so that the interval of **Sa'** to **Ni** spans $4$ Srutis.
 
+</notice-box>
+
+<div style="overflow-x:auto;width:450px;margin:0 auto;">
+
+| String  | Note    | Sruti Interval to Previous Note |
+|---------|:-------:|--------------------------------:|
+| First   | **Sa**  |                                 |
+| Second  | **Re**  | **Re**-**Sa** spans $3$ Srutis  |
+| Third   | **Ga**  | **Ga**-**Re** spans $2$ Srutis  |
+| Fourth  | **Ma**  | **Ma**-**Ga** spans $4$ Srutis  |
+| Fifth   | **Pa**  | **Pa**-**Ma** spans $4$ Srutis  |
+| Sixth   | **Dha** | **Dha**-**Pa** spans $3$ Srutis |
+| Seventh | **Ni**  | **Ni**-**Dha** spans $2$ Srutis |
+| Eighth  | **Sa'** | **Sa'**-**Ni** spans $4$ Srutis |
+
+</div>
+<p align="center"><em>Table 1. Shadaj Gram scale defined by Sruti Intervals</em></p>
+
 Without understanding what these Sruti intervals meant, it is difficult to understand what really Shadaj Gram was. But it is possible to derive the precise meaning of these Sruti intervals. There are two possible interpretations.
 
 ### Using Gandhar Bhav
@@ -76,7 +100,7 @@ Let us start with some observations which can be derived from the above descript
 
 1. An octave spans $22$ Srutis. This can be checked by adding up the number of Srutis from **Sa** to **Sa'**.
 2. Pancham bhav spans $13$ Srutis. This can be checked by adding up the number of Srutis from **Sa** to **Pa**.
-3. Madhyam bhav spans $9$ Srutis. This can be checked similarly. Alternatively, it is known that **Sa'** and **Pa** are also related by Madhyam bhav just like **Ma** and **Sa**. So the number of Srutis spanned by Pancham bhav and Madhyam bhav should add up to an octave. Indeed, $13+9=22$.
+3. Madhyam bhav spans $9$ Srutis. This can be checked similarly.
 4. Now let us **assume** that Gandhar bhav spans $7$ Srutis. This cannot be checked directly as there is no literal documentation in support of this claim. But it can be seen to work in retrospect.
 
 Now, we know that the octave ratio or the ratio **Sa'** to **Sa** is $2$. We also know that the Pancham bhav (fifth) is $\frac{3}{2}$, the Madhyam bhav (fourth) is $\frac{4}{3}$ and the Gandhar bhav (major third) is $\frac{5}{4}$. Using these observations, we can derive the mathematical ratios corresponding to the different Sruti intervals.
@@ -106,6 +130,11 @@ Ramamatya laid down a practical procedure for dividing an octave into 12 notes, 
 Ramamatya's procedure starts with using a four string Veena with its notes tuned as **Sa**, **Pa**, **Sa'** and **ma'** from the lowest to the highest. Here **Sa** denotes the fundamental, **Pa** the fifth, **Sa'** the octave and **ma'** the fourth of the octave. The tuning of the four strings is prescribed to be done by ear, and it is expected that a veena tuner can accurately set the octave, *Pancham* (fifth) and *Madhyam* (fourth) intervals.
 
 Then the following procedure is prescribed:
+
+<notice-box>
+
+### Ramamatya's procedure
+
 1. Set the second fret at a position so that the **ma'** string produces **Pa'**.
 2. As a consequence, you get **Re** on the **Sa** string, **Dha** on the **Pa** string and **Re'** on the **Sa'** string.
 3. Set the fourth fret at a position so that the **ma'** string produces **Dha'** (which is the octave of the note produced on the second fret on the **Pa** string).
@@ -118,6 +147,24 @@ Then the following procedure is prescribed:
 10. As a consequence, you get **ga** (komal) on the **Sa** string, **ga'** on the **Sa'** string and **dha'** (komal) on the **ma'** string.
 11. Set the first fret at a position so that the **Pa** string produces **dha** (which is an octave lower than the note produced on the third fret on the **ma'** string).
 12. As a consequence, you get **re** (komal) on the **Sa** string, **re'** on the **Sa'** string and **Ma'** (tivra) on the **ma'** string.
+
+</notice-box>
+
+<div style="overflow-x:auto;width:720px;margin:0 auto;">
+
+
+| Step   | Fret        | Fret Position Criterion  | String 1 | String 2 | String 3 | String 4 |
+|--------|-------------|--------------------------|----------|----------|----------|----------|
+| 0      | Zero        | Open string              | **Sa**   | **Pa**   | **Sa'**  | **ma'**  |
+| 1      | Second      | String 4 sounds **Pa'**  | **Re**   | **Dha**  | **Re'**  | **Pa'**  |
+| 2      | Fourth      | String 4 sounds **Dha'** | **Ga**   | **Ni**   | **Ga'**  | **Dha'** |
+| 3      | Sixth       | String 4 sounds **Ni'**  | **Ma**   | **re'**  | **Ma'**  | **Ni'**  |
+| 4      | Fifth       | String 2 sounds **Sa'**  | **ma**   | **Sa'**  | **ma'**  | **ni'**  |
+| 5      | Third       | String 2 sounds **ni**   | **ga**   | **ni**   | **ga'**  | **dha'** |
+| 6      | First       | String 2 sounds **dha**  | **re**   | **dha**  | **re'**  | **Ma'**  |
+
+</div>
+<p align="center"><em>Table 2. Ramamatya's method for setting Veena frets</em></p>
 
 ### Venkatamakhin's documentation of the 12 note tuning system
 Venkatamakhin's documentation of the 12 note tuning system devised by Ramamatya, starts with two observations:
