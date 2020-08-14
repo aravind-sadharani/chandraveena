@@ -29,6 +29,10 @@ const Wrapper = styled.div`
     border-radius: 0.3rem;
     box-shadow: 0 0 4px 0 #453e40;
   };
+  audio {
+    display: block;
+    margin: 0 auto;
+  };
   .footnotes {
     font-size: small;
     hr {
