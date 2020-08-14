@@ -71,6 +71,8 @@ which is nothing but Raga *Kalyani* or *Yaman*.
 `audio: /assets/07-vr-sa-yaman.mp3`
 <p align="center"><em>Sample 7. Yaman scale</em></p>
 
+Hear Sample 6 and Sample 7 a few times, and try to match the scale. This shifting of scale to derive another scale is also known as **Graha Bheda**.
+
 So what do we learn about *Jatis* and *Ragas* from this example?
 
 Well, in the era prior to *Adhara Shadaj* when the concept of a fixed fundamental **Sa** did not exist, new scales were formed by performing scale changes and defining new *Murchhanas*. From a *Murchhana*, a *Jati* was defined as a melodic framework formed by selecting 5 to 7 notes, and defining Lakshanas and Lakshyas governing the rendition of the *Jati*. Jatis could be *Sampoorna* (using all 7 notes of the Murchhana), *Shadav* (hexatonic) or *Audava* (pentatonic).
@@ -87,14 +89,21 @@ Now let us take a few examples of Lakshanas, and see what they mean and how they
 
 * **Vadi, Samvadi**: In today's understanding of music, *Vadi* denotes the most important note of the Raga, and *Samvadi* as the second most important note of the Raga. However, *Vadi* means a speaking note, or any note of the Raga. *Samvadi* is a consonant note of the Vadi note which is generally its fourth (Madhyam bhav) or its fifth (Pancham bhav) (refer to Samples 1 and 2). 
 
-* **Anuvadi, Vivadi**: *Anuvadi* is a note descibed as being in harmony, typically the third (Tivra Gandhar or Komal Gandhar) of a note (refer to Sample 3). *Vivadi* literally means a contesting or argumentative. Musically, it means a note so close to the original that one can see the tension between the notes. For example, if I have a very sharp Rishabh (**Re**), and a very flattened Komal Gandhar (**ga**), one could say the two notes are Vivadi to each other. To use it musically is an aspect of Lakshya or an artist's ability to create an aesthetic statement.
+* **Anuvadi, Vivadi**: *Anuvadi* is a note descibed as being in harmony, typically the third (Tivra Gandhar or Komal Gandhar) of a note (refer to Sample 3). *Vivadi* literally means a contesting or argumentative. Musically, it means a note so close to the original that one can see the tension between the notes. For example, if I have a very sharp Rishabh (**Re**), and a very flattened Komal Gandhar (**ga**), one could say the two notes are Vivadi to each other. To use it musically is an aspect of Lakshya or an artist's ability to create an aesthetic statement. 
+
+Here, to illustrate Vivadi notes, we take an example of a scale which is used in Sama Gana (recitation of Sama Veda), and roughly the modern day equivalent is Raga Kharaharapriya.
+
+The Scale is: **Sa Re ga ma Pa Dha ni Sa'**
 
 `audio: /assets/08-vr-kharaharapriya-vivadi.mp3`
 <p align="center"><em>Sample 8. Kharaharapriya scale in which <strong>Re</strong> and <strong>ga</strong> are vivadi as well as <strong>Dha</strong> and <strong>ni</strong></em></p>
 
+Our texts describe two successive notes which are less than two Srutis apart, as in the example above (Re-ga and Dha-ni pairs), as Vivadi notes. A separate post on Srutis and Tuning systems will address the various Sruti intervals. In the example above in Raga Kharaharapriya, as Lakshya, to resolve the Vivadi, often Rishab and Dhaivat are reduced by one Sruti in a practical performance, so that a larger interval is perceived between Rishab-Gandhara and Dhaivat-Nishad pairs.
+
 * **Amsa**: The most often used note is called *Amsa*. Amsa literally a man's shoulder or a bull's hump. Musically, it means the note that shoulders the weight of the Raga.
 
-* **Nyasa**: *Nyasa* is a halting note of a musical phrase. It could be a Samvadi or Anuvadi of the starting note of the musical phrase, or the Amsa note of the Raga. The concepts of Amsa and Nyasa are best illustrated in Raga Alapana. Stay tuned for a post on the subject.
+* **Nyasa**: *Nyasa* is a halting note of a musical phrase. It could be a Samvadi or Anuvadi of the starting note of the musical phrase, or the Amsa note of the Raga. 
+The concepts of Amsa and Nyasa are best illustrated in Raga Alapana. Stay tuned for a post on the subject.
 
 ## Timing and Usage of Swaras
 
@@ -127,8 +136,15 @@ Lakshanas also govern the formation of musical phrases and scales.
 
 * **Janya Raga**: A *Janya* Raga is a derived Raga from a Melakarta or a Janaka Raga. The derived scale could be Sampoorna (heptatonic), Shadava (hexatonic) or Oudava (pentatonic). Also, note that Janya Ragas can be asymmetric. For example, it could be Audava while ascending and Shadava while descending. Other combinations of Aarohi and Avarohi patterns are also possible.
 
+Melakarta or Janaka Raga : Scale of Shankarabharanam: **Sa Re Ga ma Pa Dha Ni Sa'**
+Janya Raga : Scale of Hamsadhwani: **Sa Re Ga Pa Ni Sa'** (by dropping ma and Dha from Shankarabharnam)
+
 `audio: /assets/10-hamsadhwani-janya.mp3`
 <p align="center"><em>Sample 10. Hamsadhwani scale which is a Janya of Shankarabharanam (refer to Sample 5)</em></p>
+
+Compare Sample 5 and Sample 10, and note your observations.
+
+Please note that it may be possible to derive the same Janya scale from another Melakarta. The choice is usually determined by the Lakshya of the Janya Raga.
 
 ## Summary
 
