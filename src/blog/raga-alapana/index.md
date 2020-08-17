@@ -107,6 +107,8 @@ This is the concluding part, where *sancharis* or melodic phrases across the oct
 
 ## Summary
 
+Indian Classical Music is known for extempore improvisation and presentation of a Raga. However, to caution, extempore can also lead to chaos, indeterministic movement of the Raga. A structure as the above gives a gramework for a systematic development and presentation of a Raga. Within the framework, the artist brings in his aesthetics and imagination to create an emotional response from the listeners.
+
 To summarise, a Raga is a musical structure which should be presented according to its prescribed Lakshanas. Raga Alapana is a prescribed method for presenting a Raga systematically.
 
 From a philosophical perspective, Raga Alapana is classified as *Manodharma Sangeet* (*Mano* - of the mind and *Dharma* - code of conduct). In other words, Raga Alapana can be regarded as a musical improvisation which is the product of the artist's imagination, within the code of the Raga.
