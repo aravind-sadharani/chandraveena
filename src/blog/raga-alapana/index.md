@@ -1,6 +1,6 @@
 ---
 title: "Raga Alapana - A glimpse into its structure"
-date: 2020-08-17
+date: 2020-08-19
 image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my reading of what a Raga Alapana is. Read on to find out more!"
 ---
