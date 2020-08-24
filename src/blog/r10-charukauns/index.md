@@ -13,7 +13,7 @@ A fundamental and important concept in Indian Classical Music is the distinction
 
 While a scale is represented by a collection of consonant notes, a Raga derived from a scale is defined by its grammar and aesthetic characteristics, known as [Lakshanas and Lakshyas](/blog/grammar-of-music/).
 
-When I sat down for this recording session, I felt inspired by the rendering of Raga *Ragavardhani* by Ustad Zia Mohiuddin Dagar (on Rudra Veena). Raga Ragavardhani, in the 32nd Melakarta scale, is a Sampoorna Raga. Its scale is **Sa ga Ga ma Pa dha ni**. However, in this rendition, Dagar Saheb approaches the Raga in the style of Raga *Kaushiki*.
+When I sat down for this recording session, I felt inspired by the rendering of [Raga *Ragavardhani* by Ustad Zia Mohiuddin Dagar (on Rudra Veena)](https://ideologicorgan.bandcamp.com/album/ragas-abhogi-vardhani-rudra-veena-seattle-9-march-1986). Raga Ragavardhani, also the 32nd Melakarta scale, is a Sampoorna Raga. Its scale is **Sa ga Ga ma Pa dha ni**. However, in this rendition, Dagar Saheb approaches the Raga in the style of Raga *Kaushiki*.
 
 The scale of Raga *Charukesi*, the 26th Melakarta, is **Sa Re Ga ma Pa dha ni**. In this rendition, I have used the scale of Raga Charukesi, but approached it in the style of Raga Kaushiki and Raga *Panchamkauns*. At the end of the recording, I had not yet formed an identity or name for the Raga. On further inspection, I found a recording of Pandit Ravi Shankar on Sitar taking a similar approach to this scale, and he had named it Raga *Charukauns*. As a mark of respect to this great musician, I have retained the name as Raga Charukauns.
 
