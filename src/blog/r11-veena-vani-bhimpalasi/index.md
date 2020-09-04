@@ -74,7 +74,7 @@ Sadharani Music Works - https://www.sadharani.com
 
 The full recording of this performance is available at the following links:
 * Alapana - https://www.youtube.com/watch?v=Nbp9bpglxko
-* Pallavi - https://www.youtube.com/watch?v=1or0ta-Ads4
+* Pallavi - https://www.youtube.com/watch?v=6e25o-Sle5k
 * Pakhawaj Solo - https://www.youtube.com/watch?v=HlWo48yeebI
 
 Purchase CD quality audio of the performance from .
