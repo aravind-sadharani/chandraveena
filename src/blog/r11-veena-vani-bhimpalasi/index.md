@@ -10,16 +10,15 @@ description: "Vocal music since Vedic times has been accompanied by Veena. In re
 
 In the tradition of Indian Classical music, **वीणा** (Veena), **वाणी** (Voice) and **वेणु** (Bamboo flute) represent a time honoured trio of mediums for performing music, recognized since the ancient times. They were considered the supreme form of musical mediums in *Gandharva Sangeet* (celestial music). It has been said that during Vedic rituals, especially, during *Samagana* rituals, the head priest was often accompanied by his wife on the Veena. Of course, since then a lot of time has passed and both the music and the instrument Veena have evolved.
 
-Till recent times, many vocalists were often trained on Veena. A Veena is a sensitive instrument capable of creating the most subtle of intonations, called microtones. Vocalists were often trained to sing with the Veena, in order to be pitch perfect and to be able to master microtones. Musicans like Muthuswamy Dikshitar, M S Subbalakshmi, Bande Ali Khan, Ziauddin Dagar were master vocalists and veena players. Except for Bande Ali Khan, the other three went on to pursue and focus on vocal music. Bande Ali Khan played the Rudra Veena, though he had many vocal students, and is considered to be the founder of Kirana Gharana style of Khyal music. Even till the 18th and 19th century, it was common for vocalists to be often accompanied by Veena. Today we often see vocalists accompanied by violin or harmonium, or sometimes by Sarangi.
+Till recent times, many vocalists were often trained on Veena. A Veena is a sensitive instrument capable of creating the most subtle of intonations, called microtones. Vocalists were often trained to sing with the Veena, in order to be pitch perfect and to be able to master microtones. Musicans like Muthuswamy Dikshitar, M S Subbalakshmi, Bande Ali Khan, Ziauddin Dagar were master vocalists and veena players. Except for Bande Ali Khan, the other three went on to pursue and focus on vocal music. Bande Ali Khan played the Rudra Veena, though he had many vocal students, and is considered to be the founder of *Kirana Gharana* style of Khyal music. Even till the 18th and 19th century, it was common for vocalists to be often accompanied by Veena. Today we often see vocalists accompanied by violin or harmonium, or sometimes by Sarangi.
 
-Here is a recording of Madurai Shanmugavadivu (mother of M S Subbalakshmi), singing and playing the Saraswati Veena.
-<you-tube videoid="uNdsow608iA"></you-tube>
+As an example, here is a [recording of Madurai Shanmugavadivu](https://www.youtube.com/watch?v=uNdsow608iA) (mother of M S Subbalakshmi), singing and playing the Saraswati Veena.
 
 In this session, we present a Chandraveena - Vocal duet in Raga Bhimpalasi. This is rendered in two parts. The first part is the Raga Alapana, consisting of Alap and Jod, also known as Alapana and Tanam. The second part is the composition set to a rhythmic cycle of 12 beats, known as Chautala.
 
 We are pleased to feature Aparna Shastri on vocals. She is a trained vocalist under master vocalist late Ustad Zia Fariduddin Dagar. She has also received guidance from Pandit Uday Bhawalkar and Ustad Mohi Bahauddin Dagar.
 
-Concerts are often ended with what is called *Tani Avartanam* (Tani means Solo, Avartanam means rhythmic cycle), where after the main rendition, the rhythm accompanist plays a solo. Here, after the completion of the Pallavi, Dhaval Mistry on continues on Pakhawaj, and plays a solo exploring the rhythmic variations of Chautala.
+Concerts are often ended with what is called *Tani Avartanam* (*Tani* means Solo, *Avartanam* means rhythmic cycle) where after the main rendition, the rhythm accompanist plays a solo. Here, after the completion of the Pallavi, Dhaval Mistry continues on Pakhawaj, and plays a solo exploring the rhythmic variations of Chautala.
 
 ## Program Notes
 
