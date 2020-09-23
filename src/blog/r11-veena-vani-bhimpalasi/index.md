@@ -79,7 +79,7 @@ The full recording of this performance is available at the following links:
 * Pallavi - https://www.youtube.com/watch?v=6e25o-Sle5k
 * Pakhawaj Solo - https://www.youtube.com/watch?v=HlWo48yeebI
 
-Purchase CD quality audio of the performance from .
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/veena-and-vani-raga-bhimpalasi.
 
 <br>
 
