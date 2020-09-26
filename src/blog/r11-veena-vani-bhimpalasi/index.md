@@ -1,6 +1,6 @@
 ---
 title: "Veena and Vani - An Ancient Tradition"
-date: 2020-09-12
+date: 2020-09-26
 image: "../../../images/ytthumb-bhimpalasi.png"
 description: "Vocal music since Vedic times has been accompanied by Veena. In recent times, Sarangi, Harmonium and Violin are more common. Here we present a Veena-Vocal jugalbandhi(duet) in Raga Bhimpalasi in two parts. A Raga Alapana consisting of Alap, Jod and Jhala also known as Alapana and Tanam, and a composition based on a 12 beat cycle Chautala."
 ---
