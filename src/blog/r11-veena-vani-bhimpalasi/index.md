@@ -5,7 +5,7 @@ image: "../../../images/ytthumb-bhimpalasi.png"
 description: "Vocal music since Vedic times has been accompanied by Veena. In recent times, Sarangi, Harmonium and Violin are more common. Here we present a Veena-Vocal jugalbandhi(duet) in Raga Bhimpalasi in two parts. A Raga Alapana consisting of Alap, Jod and Jhala also known as Alapana and Tanam, and a composition based on a 12 beat cycle Chautala."
 ---
 
-<you-tube videoid="Nbp9bpglxko"></you-tube>
+<you-tube videoid="JjcmUq92eXA"></you-tube>
 <br>
 
 In the tradition of Indian Classical music, **वीणा** (Veena), **वाणी** (Voice) and **वेणु** (Bamboo flute) represent a time honoured trio of mediums for performing music, recognized since the ancient times. They were considered the supreme form of musical mediums in *Gandharva Sangeet* (celestial music). It has been said that during Vedic rituals, especially, during *Samagana* rituals, the head priest was often accompanied by his wife on the Veena. Of course, since then a lot of time has passed and both the music and the instrument Veena have evolved.
@@ -74,8 +74,7 @@ Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
 
-The full recording of this performance is ava.ilable at the following link:
-* Alapana, Pallavi and Pakhawaj Solo - https://youtu.be/JjcmUq92eXA
+The full recording of this performance is available at https://youtu.be/JjcmUq92eXA
 
 Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/veena-and-vani-raga-bhimpalasi.
 
