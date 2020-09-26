@@ -74,10 +74,8 @@ Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
 
-The full recording of this performance is available at the following links:
-* Alapana - https://www.youtube.com/watch?v=Nbp9bpglxko
-* Pallavi - https://www.youtube.com/watch?v=6e25o-Sle5k
-* Pakhawaj Solo - https://www.youtube.com/watch?v=HlWo48yeebI
+The full recording of this performance is ava.ilable at the following link:
+* Alapana, Pallavi and Pakhawaj Solo - https://youtu.be/JjcmUq92eXA
 
 Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/veena-and-vani-raga-bhimpalasi.
 
