@@ -38,7 +38,9 @@ A musical poetry composer is also known as *Vaggeyakar*. The meaning of the word
 * *Geya* - meaning "singing" which refers to the tune, and 
 * *Kar* - meaning the "doer" or "actor".
 
-Let us look at each of the different aspects of Pallavi, *Padam*, *Layam* and *Vinyasam*. Here we will demonstrate different parts of pallavi though audio/video clippings from a full performance. These clippings are from a Veena-Vani duet in Raga Bhimpalasi.
+Let us look at each of the different aspects of Pallavi, *Padam*, *Layam* and *Vinyasam*. 
+
+Here we will demonstrate different parts of Pallavi though audio/video clippings from a full performance. These clippings are from a Veena-Vani duet in Raga Bhimpalasi.
 
 ### Padam
 
@@ -75,7 +77,7 @@ Indian rhythmic system is sophisticated and has many features. In addition to cy
 
 There are five recognized types of *Jatis* or rhythmic divisions, namely, *Tisra*, *Chatursra*, *Khanda*, *Misra* and *Sankeerna* which respectively mean musical phrases created in groups of 3, 4, 5, 7 and 9 notes. An artist can create many different rhythmic musical phrases by using these Jatis.
 
-Continuing with our demo, the composition in Raga Bhimpalasi is in Chautala (12 beats). This composition starts on beat 1. You can also observe the Vocalist - Aparna Shastri - indicating / gesturing with her hands the rhythmic cycle. With this information, watch the video above again, and try to follow the rhythmic cycle as per the artists' indication. As may have noticed, this part is accompanied by the percussion instrument *Pakhawaj* played by Dhaval Mistry.
+> Continuing with our demo, the composition in Raga Bhimpalasi is in Chautala (12 beats). This composition starts on beat 1. You can also observe the Vocalist - Aparna Shastri - indicating / gesturing with her hands the rhythmic cycle. With this information, watch the video above again, and try to follow the rhythmic cycle as per the artists' indication. As may have noticed, this part is accompanied by the percussion instrument *Pakhawaj*, played by Dhaval Mistry.
 
 I have written a more detailed post on principles of Indian rhythmic cycles - [Tala](/blog/taladhaya). You can later read the post for a deeper understanding of rhythmic cycles, and revisit this post. 
 
@@ -103,7 +105,7 @@ There are Pallavis specifically composed for instruments, some of which are desi
 
 Even in vocal music, there are special Pallavis which are minimalist in nature with usually just one line of poetry, with plenty of gaps between the words. These Pallavis are exclusively designed to let the artist explore rhythmic and raga improvisations to the fullest extent. Here again, not as much significance is attached to Matu as it is to Dhatu. Such pallavis are also suitable for instrumental music.
 
-As you can see in the above demo, while Chandraveena can follow the tune of the Pallavi, it is difficult to express the words. This poses some limitation in the improvisation part since there are no words to go by.
+> As you can see in the above demo, while Chandraveena can follow the tune of the Pallavi, it is difficult to express the words. This poses some limitation in the improvisation part since there are no words to go by.
 
 ## Summary
 
