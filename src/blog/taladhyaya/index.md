@@ -9,7 +9,7 @@ Rhythm is an integral part of nature. Our breathing, pulse rate, swaying of a pe
 
 ## Basics of a Tala
 
-There are two aspects to Indian Rhythmic system, *kala* meaning time or interval and *tala* meaning cycle of beats. The word *tala* probably originates from its meaning of clapping hands together in the Indian vernacular. Now, you may have noticed many musicians keeping track of the rhythmic cycle, through hand gestures and clapping of palms. The loud gesture of either through clapping of two palms, or a palm on a thigh is called *Sasabda*. *Sabda* literally means a sound. So *Sasabda* means keeping beats with an audible sound. The gesture of keeping beats by counting fingers is called *Nissabda* which literally means keeping beats without an audible sound. Often, a combination of Sasabda and Nissabda divisions are used to track the progress of a Tala.
+There are two aspects to Indian Rhythmic system, *kala* meaning time or interval and *tala* meaning cycle of beats. The word *tala* probably originates from its meaning of clapping hands together in the Indian vernacular. Now, you may have noticed many Indian Classical musicians keeping track of the rhythmic cycle, through hand gestures and clapping of palms. The loud gesture of either through clapping of two palms, or a palm on a thigh is called *Sasabda*. *Sabda* literally means a sound. So *Sasabda* means keeping beats with an audible sound. The gesture of keeping beats by counting fingers is called *Nissabda* which literally means keeping beats without an audible sound. Often, a combination of Sasabda and Nissabda divisions are used to track the progress of a Tala.
 
 So what does all this mean in an actual example of a Tala in Indian Classical Music?
 
@@ -18,6 +18,14 @@ Well, every Tala or rhythmic cycle has a starting point (*Sama*), a half way poi
 *Dha Dha Dhin Ta | Kita Dha Dhin Ta | ThiTa KatTa | GaDhi GaNa*   
 
 As you can see, it is divided into four (*Chau*) parts seperated by "|" for your reference. Hence, it has the name Chautala (something which has four points of emphasis). The division of this Tala is 4 + 4 + 2 + 2. The beats of emphasis or Sasabda are 1, 5, 9 and 11, while the other beats are Nissabda.
+
+Here is an example of Chautala, a clipping from a full performance of Veena-Vani duet in Raga Bhimpalasi. This composition is in Chautala.
+
+```
+Video
+```
+
+Did you notice the Vocalist - Aparna Shastri - keeping beats by clapping palm on the thigh, and by waving arms? Why different gestures? Variations in gestures is an indication to the artist, his/her accompanist and the listeners on the progress and position of the beat in a Tala cycle. Why is this important? This is so because all the artists concerned could be in sync with the Tala, and arrive at the *Sama* in sync.
 
 There are many more Talas like Aditala (8 beats), Jhaptala (10 beats), MishraChapu (7 beats) etc. But fundamentally, they will have a structure similar to what was described above with Sasabda beats and Nissabda beats dividing the Tala.
 
@@ -35,7 +43,9 @@ In general, the way in which a Pallavi is set to beats is based on the following
 
 Sometimes, to create an inter-play with the Tala, Pallavis can need not start or end at a beat of emphasis. Instead, they can start or end either before or after a beat of emphasis. Such Pallavis are referred to as *Anagat* (starting or ending before) and *Agat* (starting or ending after). Usually, the gap is one beat earlier or after. To make this more exciting and technically challenging, some compositions are designed to start or end half a beat before or after.
 
-Why is this relevant and interesting? Well, now every rhythmic or musical improvisation has to follow this rhythmic signature. For example, in Chautala, one could start a Pallavi at 8-1/2 or 9-1/2. Then the challenge is in ensuring that every improvisation ends in a way so the main lines of the Pallavi can start again at 8-1/2 or 9-1/2. 
+Why is this relevant and interesting? Well, now every rhythmic or musical improvisation has to follow this rhythmic signature. For example, in Chautala, one could start a Pallavi at 8-1/2 or 9-1/2. Then the challenge is in ensuring that every improvisation ends in a way so the main lines of the Pallavi can start again at 8-1/2 or 9-1/2.
+
+> In the example above, the composition/Pallavi starts on beat 1, so *Uthao* and *Sama* are the same point, which is beat 1.
 
 ## Rhythmic Improvisation
 
@@ -50,6 +60,8 @@ Rhythmic improvisations can also be done by creating patterns by grouping beats 
 5. *Sankeerna Jaati* - musical phrases in groups of 9
 
 These can be then doubled or halved in speed. So you can see how quickly the rhythmic complexity can get compounded with all these variations and aspects available.
+
+> As you can see from the example above, once the basic outline of the pallavi is performed, the artists then take up the pallavi for improvisations. The improvisations will be according to the framework of the Raga and Tala, while keeping the sanctity of the lyrics intact. 
 
 ## Conclusion
 This is just a glimpse into the sophisticated rhythmic system of Indian Classical music. An expert artist is not only expected to have a command over Lakshana and Lakshya of a Raga, but also needs to combine all these rhythmic aspects into an aesthetically pleasing musical performance.
