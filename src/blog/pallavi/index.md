@@ -63,7 +63,9 @@ Video
 
 The lyrics of the *Anupallavi* or *Antara* are:
 
-**अधर तो सुरंग रंग बांसुरी उपाय संग ऐसी छबि देखि देखि मोहन के मुकुट पर मेरो मन अटके|**
+**अधर तो सुरंग रंग बांसुरी उपाय संग ऐसी छबि देखि देखि "मोहन के मुकुट पर मेरो मन अटके"|**
+
+*The original version of the part in inverted commas as composed by Baiju is "इन्द्र धनुष पटको".
 
 ```
 Video
