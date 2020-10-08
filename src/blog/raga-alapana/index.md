@@ -1,6 +1,6 @@
 ---
 title: "Raga Alapana - A glimpse into its structure"
-date: 2020-08-15
+date: 2020-08-19
 image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my reading of what a Raga Alapana is. Read on to find out more!"
 ---
@@ -33,40 +33,89 @@ According to our scriptures, the presentation of a Raga can be through multiple 
 
 ## Structure of Raga Alapana
 
-Raga Alapana can be classified into the following stages:
+Raga Alapana can be classified into the following stages. We will use short snippets from a [Raga Alapana in Raga Brindavani Sarang](https://chandraveena.bandcamp.com/album/indian-classical-raga-brindavani-sarang) as examples for the different stages.
 
 ### Akshiptika or the Introduction
 
 *Akshiptika* is a condensed alapana, wherein the whole identity and structure of the Raga is established quickly in a few phrases. Typically, this part of the Alapana would be in the Madhya Sthayi (middle octave). This enables fellow musicians on the stage, and listeners alike to immediately relate to the Raga being presented. The familiarity helps in following and enjoying the presentation of the Raga.
+
+`audio: /assets/01-Akshiptika.mp3`
+<p align="center"><em>Sample 1. An Akshiptika for Raga Brindavani Sarang</em></p>
+
+Note how Raga Brindavani Sarang is introduced.
 
 ### Raga Vardhani or the main body of the Alapana
 
 *Raga Vardhani* is the biggest part of Alapana. This in turn consists of 4 stages.
 
 * Stage 1 of the alapana starts with Madhya Sthayi Shadaj (the fundamental of the middle octave), and explores the Raga in Mandra Sthayi (lower octave) and Madhya Sthayi (middle octave). Here, the identity of the Raga is further established through the usage of appropriate phrases, intonations and note emphasis points.
+
+`audio: /assets/02-Vardhani-1-1.mp3`
+<p align="center"><em>Sample 2. A snippet from Stage 1 of Raga Vardhani for Raga Brindavani Sarang</em></p>
+
+Notice how the structure of the Raga is used to move the phrases down to the Mandra Sthayi (lower octave), and back up to the Madhya Sthayi (middle octave). This process continues further on the Chandraveena to ati-Mandra Sthayi (bass octave) taking full advantage of the instrument's tonal range (see Sample 3).
+
+`audio: /assets/03-Vardhani-1-2.mp3`
+<p align="center"><em>Sample 3. Another snippet from Stage 1 of Raga Vardhani for Raga Brindavani Sarang</em></p>
+
 * Stage 2 of the alapana consists of exploring the Raga in all its nuances, a note by note exploration, giving full freedom to the creative process. Ocassionally, the phrases may touch Tara Sthayi (higher octave), but predomoinantly restricted to lower and middle octave.
+
+`audio: /assets/04-Vardhani-2-1.mp3`
+<p align="center"><em>Sample 4. A snippet from Stage 2 of Raga Vardhani for Raga Brindavani Sarang</em></p>
+
+Observe the upward progress towards the Tara Sthayi (higher octave). Over a period of many phrases, the Raga is gradually progressed note by note towards Tara Sthayi.
+
+`audio: /assets/05-Vardhani-2-2.mp3`
+<p align="center"><em>Sample 5. Another snippet from Stage 2 of Raga Vardhani for Raga Brindavani Sarang</em></p>
+
+Listen to how the Tara Sthayi Sa (Higher Octave Sa) is slightly touched, and phrases return back to middle octave. Its like a preparation to a climax of revealing Tara Sthayi Sa.
+
 * In Stage 3, most of the exploration happens in the higher octave, ocassionally coming down to the middle octave.
+
+`audio: /assets/06-Vardhani-3.mp3`
+<p align="center"><em>Sample 6. A snippet from Stage 3 of Raga Vardhani for Raga Brindavani Sarang</em></p>
+
+Note the approach to Tara Sa, and the power of that note.
+
 * Stage 4 is the concluding part where *sancharis* (phrases) across all 3 octaves are presented. This part maybe in a slightly faster tempo compared to the earlier stages.
+
+`audio: /assets/07-Vardhani-4.mp3`
+<p align="center"><em>Sample 7. A snippet from Stage 4 of Raga Vardhani for Raga Brindavani Sarang</em></p>
+
+At that moment of playing this Raga, the descent suggested moving towards Madhymakala (Jod). This decision to use the descent to move to Madhyamakala is based on Lakshya (aesthetics).
 
 ### Vartani or Madhyamakala (also popularly known as Tanam or Jod/Jhala)
 
-In this section, there is a perceptible pulse in the singing or playing. On an instrument like Veena, the *Chikari/Talam* strings provide a sense of rhythm to the melodic phrases. This section is usually in medium tempo - and hence the name *Madhyamakala* (middle tempo). This section is also performed in *Drutakala* or fast tempo, and referred to as *Ghanam* or *Jhala*.
+In this section, there is a perceptible pulse in the singing or playing. On an instrument like Veena, the *Chikari/Talam* strings provide a sense of rhythm to the melodic phrases. This section is usually in medium tempo - and hence the name *Madhyamakala* (middle tempo).
+
+`audio: /assets/08-Madhyam-Kala.mp3`
+<p align="center"><em>Sample 8. A snippet from Madhyamakala Vartani for Raga Brindavani Sarang</em></p>
+
+Observe how the feeling of rhythm is created, even without a percussion instrument. This feeling is created by the combination of beat-based phrases and the Chandraveena’s own drone strings (called chikari or talam strings). Like in Raga Vardhani, I take full advantage of the instrument’s tonal range to explore Jod in all octaves.
+
+`audio: /assets/09-Drut-Kala.mp3`
+<p align="center"><em>Sample 9. A snippet from Drutakala Vartani for Raga Brindavani Sarang</em></p>
+
+This section is also performed in *Drutakala* or fast tempo, and referred to as *Ghanam* or *Jhala*. Generally the phrases are 4-beats based. Note how the phrases are created by a combination of finger plucks and talam strings.
 
 ### Nyasa or the conclusion, also known as Muktayi
 
 This is the concluding part, where *sancharis* or melodic phrases across the octaves are presented, in a continuous movement providing a climax to the whole Raga Alapana. This ends the Raga Alapana.
 
+`audio: /assets/10-Nyasa.mp3`
+<p align="center"><em>Sample 10. Nyasa in Raga Brindavani Sarang</em></p>
+
 ## Summary
 
-To summarise, a Raga is a musical structure which should be presented according to its prescribed Lakshanas. Raga Alapana is a prescribed method for presenting a Raga systematically.
+Indian Classical Music is known for improvisation and an extempore presentation of a Raga. However, without any structured format, you can imagine how extempore presentations can lead to an indeterministic development of the Raga. Raga Alapana is a prescribed method for presenting a Raga which provides a basis for systematically developing and showcasing a Raga. 
 
 From a philosophical perspective, Raga Alapana is classified as *Manodharma Sangeet* (*Mano* - of the mind and *Dharma* - code of conduct). In other words, Raga Alapana can be regarded as a musical improvisation which is the product of the artist's imagination, within the code of the Raga.
 
 While adhering to these aspects of presentation, a musician should aspire to please the listeners' minds and evoke an emotional response from them.
 
-This post is by no means exhaustive, but I hope it provides a glimpse into the process of Raga Alapana. I also hope that this would enable you to follow and enjoy Chandraveena music and Indian Classical music in general.
+This post is by no means exhaustive, but I hope it provides a glimpse into the process of Raga Alapana. I also hope that this would enable you to follow and enjoy Chandraveena music and Indian Classical music in general. Do check out the full recording of the [Raga Alapana in Raga Brindavani Sarang](https://chandraveena.bandcamp.com/album/indian-classical-raga-brindavani-sarang).
 
-Next, I will explore **Pallavi** which is also known as a composition, *Kriti* or *Bandish*.
+Next, I will explore [**Pallavi**](/blog/pallavi/) which is also known as a composition, *Kriti* or *Bandish*.
 
 <notice-box>
 
@@ -76,6 +125,6 @@ Please check my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hj
 
 <br>
 
-Based on this article, you can try and identify the different sections of the Raga Alapana.
+Based on this article, you can try and identify the different sections of the Raga Alapana in various performances.
 
 </notice-box>
