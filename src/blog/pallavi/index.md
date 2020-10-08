@@ -53,18 +53,17 @@ This can include the following stages:
 
 This four part composition was earlier known as *Udgraha*, *Melapaka*, *Dhruva* and *Abhog* in the *Prabandha* style of compositions. *Prabandhas* are not very prevalent now.
 
-Let us now hear the composition. The lyrics of the *Pallavi* or *Sthayi* are:
+> Demo: Let us now hear the composition. The lyrics of the *Pallavi* or *Sthayi* are:
 
 **कुंजन में रचो रास अदभुत गति लिए गुपाल कुंडल की झलक देखि कोटि मदन टट को|**
 
 <you-tube videoid="5r5M5abBwlg"></you-tube>
 <p align="center"><em>Sample 1. An example of Pallavi or Sthayi</em></p>
 
-The lyrics of the *Anupallavi* or *Antara* are:
+> Demo: The lyrics of the *Anupallavi* or *Antara* are:
 
-**अधर तो सुरंग रंग बांसुरी उपाय संग ऐसी छबि देखि देखि "मोहन के मुकुट पर मेरो मन अटके"|**
+**अधर तो सुरंग रंग बांसुरी उपाय संग ऐसी छबि देखि देखि मोहन के मुकुट पर मेरो मन अटके|**
 
-*The original version of the part in inverted commas as composed by Baiju is "इन्द्र धनुष पटको".
 
 `audio: /assets/pallavi-demo3.mp3`
 <p align="center"><em>Sample 2. An example of Anupallavi or Antara</em></p>
@@ -77,9 +76,11 @@ Indian rhythmic system is sophisticated and has many features. In addition to cy
 
 There are five recognized types of *Jatis* or rhythmic divisions, namely, *Tisra*, *Chatursra*, *Khanda*, *Misra* and *Sankeerna* which respectively mean musical phrases created in groups of 3, 4, 5, 7 and 9 notes. An artist can create many different rhythmic musical phrases by using these Jatis.
 
-> Continuing with our demo, the composition in Raga Bhimpalasi is in Chautala (12 beats). This composition starts on beat 1. You can also observe the Vocalist - Aparna Shastri - indicating / gesturing with her hands the rhythmic cycle. With this information, watch the video above again, and try to follow the rhythmic cycle as per the artists' indication. As may have noticed, this part is accompanied by the percussion instrument *Pakhawaj*, played by Dhaval Mistry.
+> Demo: The composition in Raga Bhimpalasi in the above demo clippings *Sample 1* and *Sample 2* are in Chautala (12 beats). 
 
-I have written a more detailed post on principles of Indian rhythmic cycles - [Tala](/blog/taladhaya). You can later read the post for a deeper understanding of rhythmic cycles, and revisit this post. 
+Now, lets watch *Sample 1* again. This composition starts on beat 1. You can also observe the vocalist indicating / gesturing with her hands the rhythmic cycle. With this information, watch the video above again, and try to follow the rhythmic cycle as per the artists' indication. As you may have noticed, this part is accompanied by the percussion instrument *Pakhawaj*, here played by Dhaval Mistry. The pakhawaj keeps beats, and creates rhythmic patterns consistent with the flow of the composition.
+
+I have written a more detailed post on principles of Indian rhythmic cycles - [Tala](/blog/taladhaya). You can later read the post for a deeper understanding of Indian rhythmic cycles, and revisit this post. 
 
 ### Vinyasam
 
@@ -91,10 +92,14 @@ It is also important to take note of *Hrasva* (short) syllables and *Deergha* (l
 
 While the focus is on rhythmic improvisations, it is equally important to note that the *Raga Bhava* (the mood of the Raga) is maintained within the confines of musical grammar as defined by Raga Lakshanas.
 
-Lets us continue with the same demo. Having established the lyrics, the tune based on the Raga and the rhythmic cycle, it is now time for improvisations. The words of the pallavi are used as the foundation for melodic and rhythmic improvisations within the framework established by the Raga and the Tala, while maintaining the sanctity of the lyrics.
+> Lets us continue now hear a demo to illustrate Vinyasam. 
 
 `audio: /assets/pallavi-demo2.mp3`
 <p align="center"><em>Sample 3. An example of Vinyasam</em></p>
+
+
+Having established the lyrics, the tune based on the Raga, and the rhythmic cycle, it is now time for improvisations. The words of the pallavi are used as the foundation for melodic and rhythmic improvisations. Here different words/phrases of the composition are taken to express the emotions contained in the words through melodic improvisations, while also creating interesting rhythmic patterns. These improvisations are within the framework established by the Raga and the Tala, while maintaining the sanctity of the lyrics. 
+
 
 ## Note on Instrumental Pallavi
 
@@ -122,6 +127,10 @@ Please check my <a href="https://www.youtube.com/channel/UCxPyMV4LS9YBePXM0mV4hj
 
 <br>
 
-Based on this article, you can try and identify the starting point, the emphasis point and the end point of the pallavi. Usually, I play single line Pallavis on Chandraveena. For lyrical and multi-section pallavis, listen to compositions of Tansen, Baiju, Thyagaraja, Muthuswamy Diskshithar, etc.
+For the purposes of demo, we have showcased short clippings. The full recording (Alapana and Pallavi) of Veena-Vani duet in Raga Bhimpalasi is available here : https://youtu.be/JjcmUq92eXA.
+
+Based on this article, you can try and identify the starting point, the emphasis point and the end point of the pallavi. You will also get a more complete picture of pallavi improvisations. 
+
+SUsually, I play single line Pallavis on Chandraveena. For lyrical and multi-section pallavis, listen to compositions of Tansen, Baiju, Thyagaraja, Muthuswamy Diskshithar, etc.
 
 </notice-box>
