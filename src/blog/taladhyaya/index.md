@@ -13,7 +13,9 @@ There are two aspects to Indian Rhythmic system, *kala* meaning time or interval
 
 So what does all this mean in an actual example of a Tala in Indian Classical Music?
 
-Well, every Tala or rhythmic cycle has a starting point (*Sama*), a half way point (*Aradhi*), beats of emphasis (Sasabda beats) and beats of silence (Nissabda beats). Let us take a common Tala and understand its structure. The Tala is called *Chautala*, a 12 beat cycle whose rhythmic solfas go as follows:
+Well, every Tala or rhythmic cycle has a starting point (*Sama*), a half way point (*Aradhi*), beats of emphasis (Sasabda beats) and beats of silence (Nissabda beats). 
+
+Let us take a common Tala and understand its structure. The Tala is called *Chautala*, a 12 beat cycle whose rhythmic solfas go as follows:
 
 *Dha Dha Dhin Ta | Kita Dha Dhin Ta | ThiTa KatTa | GaDhi GaNa*   
 
@@ -24,7 +26,9 @@ Here is an example of Chautala, a clipping from a full performance of Veena-Vani
 <you-tube videoid="5r5M5abBwlg"></you-tube>
 <p align="center"><em>Sample 1. An example of Chautala</em></p>
 
-Did you notice the Vocalist - Aparna Shastri - keeping beats by clapping palm on the thigh, and by waving arms? Why different gestures? Variations in gestures is an indication to the artist, his/her accompanist and the listeners on the progress and position of the beat in a Tala cycle. Why is this important? This is so because all the artists concerned could be in sync with the Tala, and arrive at the *Sama* in sync.
+Did you notice the vocalist keeping beats by clapping palm on the thigh, and by waving arms? As mentioned earlier, Indian Classical Musicians sometimes use different kinds of hand/feet gestures to keep track of rhythmic cycle. Why different types of gestures? Variations in gestures is an indication to the artist, his/her accompanist and the listeners on the progress and position of the beat in a Tala cycle. 
+
+For eg: A clap typically indicates the start of a division which is an accent point. The other beats of the division are typically counted either by fingers or by waving, basically indicating non-accent beats. Why is this important? This is so because all the artists concerned need to be in sync with the Tala. This also helps listeners to follow the progress of a composition, and the rhythmic variations that are created.
 
 There are many more Talas like Aditala (8 beats), Jhaptala (10 beats), MishraChapu (7 beats) etc. But fundamentally, they will have a structure similar to what was described above with Sasabda beats and Nissabda beats dividing the Tala.
 
@@ -44,11 +48,13 @@ Sometimes, to create an inter-play with the Tala, Pallavis can need not start or
 
 Why is this relevant and interesting? Well, now every rhythmic or musical improvisation has to follow this rhythmic signature. For example, in Chautala, one could start a Pallavi at 8-1/2 or 9-1/2. Then the challenge is in ensuring that every improvisation ends in a way so the main lines of the Pallavi can start again at 8-1/2 or 9-1/2.
 
-> In the example above, the composition/Pallavi starts on beat 1, so *Uthao* and *Sama* are the same point, which is beat 1.
+> In the example above, the composition/Pallavi starts on beat 1, so *Uthao* and *Sama* are the same point, which is beat 1. Watch the composition again, and see if you can identify with points 1, 2 and 3 mentioned above.
 
 ## Rhythmic Improvisation
 
-Rhythmic improvisations can be done by creating an extempore rhythmic phrase. A common concept used for doing so is a *Tihai*. A *Tihai* means repeating a musical or rhythmic phrase three times to conclude right at the ending point of the composition. Now consider that this phrase has to end half a beat before or after the point of emphasis. You can imagine the mathematical complexity that an artist has to reckon with to match the timing, not to mention the musical and lyrical characteristics of the Raga and Pallavi which need to be maintained.
+Rhythmic improvisations are an important part of Indian Classical music. This can be done by creating multiple extempore rhythmic phrases. Rhythmic improvisations for vocal and instrumental music could sometimes slightly vary. Vocal rhythmic improvisations are often bound by the proper usage of the lyrics of the composition. Instrumental rhythmic improvisations that are purely based on an Instrumental composition has more freedom, and can be complex since its independent of any poetic boundaries. 
+
+One common concept used is what is called a *Tihai*. A *Tihai* means repeating a musical or rhythmic phrase three times to conclude right at the ending point of the composition. Now consider that this phrase has to end half a beat before or after the point of emphasis. You can imagine the mathematical complexity that an artist has to reckon with to match the timing, not to mention the musical and lyrical characteristics of the Raga and Pallavi which need to be maintained.
 
 Rhythmic improvisations can also be done by creating patterns by grouping beats together, or by subdividing the time between beats into groups of 3, 4, 5, etc. Such divisions of the *kala* or time interval between beats are generally in the following five recognized types:
 
@@ -60,10 +66,14 @@ Rhythmic improvisations can also be done by creating patterns by grouping beats 
 
 These can be then doubled or halved in speed. So you can see how quickly the rhythmic complexity can get compounded with all these variations and aspects available.
 
+> Demo: Let us hear a demo of rhythmic improvisation. This is a clipping from Veena-Vani duet in Raga Bhimpalasi, set in Chautala(12 beats).
+
 `audio: /assets/pallavi-demo2.mp3`
 <p align="center"><em>Sample 2. An example of Rhythmic Improvisation</em></p>
 
-> As you can see from the example above, once the basic outline of the pallavi is performed, the artists then take up the pallavi for improvisations. The improvisations will be according to the framework of the Raga and Tala, while keeping the sanctity of the lyrics intact. 
+As you can hear from the example above, once the basic outline of the pallavi is performed, the artists then take up the pallavi for improvisations. The improvisations will be according to the framework of the Raga and Tala, while keeping the sanctity of the lyrics intact.
+
+The full recording (Alapana and Pallavi) of Veena-Vani duet in Raga Bhimpalasi is available here : https://youtu.be/JjcmUq92eXA.
 
 ## Conclusion
 This is just a glimpse into the sophisticated rhythmic system of Indian Classical music. An expert artist is not only expected to have a command over Lakshana and Lakshya of a Raga, but also needs to combine all these rhythmic aspects into an aesthetically pleasing musical performance.
