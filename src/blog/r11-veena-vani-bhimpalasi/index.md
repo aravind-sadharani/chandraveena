@@ -32,7 +32,7 @@ Here, we present a traditional Dhrupad composition. The lyrics of the compositio
 
 **Sthayi/Pallavi** - **कुंजन में रचो रास अदभुत गति लिए गुपाल कुंडल की झलक देखि कोटि मदन टट को|**
 
-**Antara/Anupallavi** - **अधर तो सुरंग रंग बांसुरी उपाय संग ऐसी छबि देखि देखि इन्द्र धनुष पटको|**
+**Antara/Anupallavi** - **अधर तो सुरंग रंग बांसुरी उपाय संग ऐसी छबि देखि देखि मोहन के मुकुट पर मेरो मन अटके|**
 
 Here are some notes about the Raga and the Tala.
 
