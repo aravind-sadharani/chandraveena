@@ -1,6 +1,6 @@
 ---
 title: "Pallavi - Can any poetry be a Pallavi?"
-date: 2020-08-11
+date: 2020-10-15
 image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my understanding of what a Pallavi (composition) is. Pallavi is also popularly known as Bandish/Kriti. Read on to find out more!"
 ---
@@ -57,9 +57,8 @@ Let us now hear the composition. The lyrics of the *Pallavi* or *Sthayi* are:
 
 **कुंजन में रचो रास अदभुत गति लिए गुपाल कुंडल की झलक देखि कोटि मदन टट को|**
 
-```
-Video
-```
+<you-tube videoid="5r5M5abBwlg"></you-tube>
+<p align="center"><em>Sample 1. An example of Pallavi or Sthayi</em></p>
 
 The lyrics of the *Anupallavi* or *Antara* are:
 
@@ -67,9 +66,8 @@ The lyrics of the *Anupallavi* or *Antara* are:
 
 *The original version of the part in inverted commas as composed by Baiju is "इन्द्र धनुष पटको".
 
-```
-Video
-```
+`audio: /assets/pallavi-demo3.mp3`
+<p align="center"><em>Sample 2. An example of Anupallavi or Antara</em></p>
 
 ### Layam
 
@@ -95,9 +93,8 @@ While the focus is on rhythmic improvisations, it is equally important to note t
 
 Lets us continue with the same demo. Having established the lyrics, the tune based on the Raga and the rhythmic cycle, it is now time for improvisations. The words of the pallavi are used as the foundation for melodic and rhythmic improvisations within the framework established by the Raga and the Tala, while maintaining the sanctity of the lyrics.
 
-```
-Video
-```
+`audio: /assets/pallavi-demo2.mp3`
+<p align="center"><em>Sample 3. An example of Vinyasam</em></p>
 
 ## Note on Instrumental Pallavi
 

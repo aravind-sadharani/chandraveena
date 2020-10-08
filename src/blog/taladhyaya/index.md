@@ -1,6 +1,6 @@
 ---
 title: "Taladhyaya - A Chapter on Indian Rhythmic System"
-date: 2020-08-12
+date: 2020-10-16
 image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my understanding of Indian Rhythmic System. Read on to find out more!"
 ---
@@ -21,9 +21,8 @@ As you can see, it is divided into four (*Chau*) parts seperated by "|" for your
 
 Here is an example of Chautala, a clipping from a full performance of Veena-Vani duet in Raga Bhimpalasi. This composition is in Chautala.
 
-```
-Video
-```
+<you-tube videoid="5r5M5abBwlg"></you-tube>
+<p align="center"><em>Sample 1. An example of Chautala</em></p>
 
 Did you notice the Vocalist - Aparna Shastri - keeping beats by clapping palm on the thigh, and by waving arms? Why different gestures? Variations in gestures is an indication to the artist, his/her accompanist and the listeners on the progress and position of the beat in a Tala cycle. Why is this important? This is so because all the artists concerned could be in sync with the Tala, and arrive at the *Sama* in sync.
 
@@ -60,6 +59,9 @@ Rhythmic improvisations can also be done by creating patterns by grouping beats 
 5. *Sankeerna Jaati* - musical phrases in groups of 9
 
 These can be then doubled or halved in speed. So you can see how quickly the rhythmic complexity can get compounded with all these variations and aspects available.
+
+`audio: /assets/pallavi-demo2.mp3`
+<p align="center"><em>Sample 2. An example of Rhythmic Improvisation</em></p>
 
 > As you can see from the example above, once the basic outline of the pallavi is performed, the artists then take up the pallavi for improvisations. The improvisations will be according to the framework of the Raga and Tala, while keeping the sanctity of the lyrics intact. 
 
