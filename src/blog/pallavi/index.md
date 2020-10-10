@@ -27,12 +27,7 @@ Pallavi is often preceded by an Raga Alapana. It can be a short Raga Alapana, or
 
 Pallavi has two characteristics - *Dhatu* (musical aspects) and *Matu* (poetic or lyrical aspects). Essentially, it is poetry set to music, in a tala or rhythmic cycle of beats. Here we need to make a distinction between *literary* poetry and *musical* poetry.
 
-While literary poetry has its own structure and meaning, not all literary works are suitable as a musical composition. In addition to poetic meaning, a musical poetry also needs to have a metre, a rhythm based structure, and a musical structure where the musical and grammatical characteristics of the Raga are maintained.
-
-A musical poetry composer is also known as *Vaggeyakar*. The meaning of the word is derived from its parts:
-* *Vak* - meaning "speech" which refers to the lyrics (*Sahityam*) 
-* *Geya* - meaning "singing" which refers to the tune, and 
-* *Kar* - meaning the "doer" or "actor".
+While literary poetry has its own structure and meaning, not all literary works are suitable as a musical composition. In addition to poetic meaning, a musical poetry also needs to have a metre, a rhythm based structure, and a musical structure where the musical and grammatical characteristics of the Raga are maintained. This is reflected in the title given to a musical poetry composer, *Vaggeyakar*, one who sets (*kar*) words (*vak*) to song (*geya*).
 
 ## Structure of a Pallavi
 
@@ -49,7 +44,7 @@ Recall that Padam refers to lyrical or musical phrasing. It can include four sta
 This four part composition was earlier known as *Udgraha - Melapaka - Dhruva - Abhog* in the *Prabandha* style of compositions. *Prabandhas* are not very prevalent now.
 
 ### Pallavi or Sthayi
-Listen to the snippet below. The lyrics of the *Pallavi* or *Sthayi* are:
+Listen to the snippet below for an example of a *Pallavi* or *Sthayi*. The lyrics go as follows:
 
 > **कुंजन में रचो रास अदभुत गति लिए गुपाल**
 
@@ -61,7 +56,7 @@ Listen to the snippet below. The lyrics of the *Pallavi* or *Sthayi* are:
 <p align="center"><em>Sample 1. An example of Pallavi or Sthayi</em></p>
 
 ### Anupallavi or Antara
-Listen to the snippet below. The lyrics of the *Anupallavi* or *Antara* are:
+Listen to the snippet below for an example of an *Anupallavi* or *Antara* whose lyrics go as below:
 
 > **अधर तो सुरंग रंग बांसुरी उपाय संग**
 
@@ -71,22 +66,14 @@ Listen to the snippet below. The lyrics of the *Anupallavi* or *Antara* are:
 <p align="center"><em>Sample 2. An example of Anupallavi or Antara</em></p>
 
 ### Layam
-Recall that Layam refers to the rhymic cycle or structure. The lyrics or tune of a Pallavi (i.e., Padam) are set to different talas or rhythmic cycles like *Aditala* (8 beats), *Chautala* (12 beats), *Mishra Chapu* (7 beats), *Jhaptala* (10 beats), etc. The musical phrases are typically set in a way such that they line up with specific accents in the rhythmic cycle. For example, the starting point and the ending point of the musical phrase should match corresponding accents in the rhythmic cycle.
+Recall that Layam refers to the rhymic cycle or structure. The lyrics or tune of a Pallavi (i.e., Padam) are set to different talas or rhythmic cycles like *Aditala* (8 beats), *Chautala* (12 beats), *Mishra Chapu* (7 beats), *Jhaptala* (10 beats), etc. The musical phrases are typically set in a way such that they line up with specific accents in the rhythmic cycle. For example, the starting point and the ending point of the musical phrase should match corresponding accents in the rhythmic cycle. If you are curious to learn more about the principles of Indian rhythmic cycles, check the next post on the [Indian Tala System](/blog/taladhaya).
 
-The Indian rhythmic system is quite sophisticated with many features. In addition to the start, end and accent points, another aspect governing the rhythm is *Jati*. Although it is the same term as the *Jatis* which were precursors to *Ragas*, in the context of rhythm, a *Jati* refers to a rhythmic division or a grouping of notes.
-
-There are five recognized types of *Jatis* or rhythmic divisions, namely, *Tisra*, *Chatursra*, *Khanda*, *Misra* and *Sankeerna* which respectively mean musical phrases created in groups of 3, 4, 5, 7 and 9 notes. An artist can create many different rhythmic musical phrases by using these Jatis.
-
-Let us revisit the snippets in Sample 1 and Sample 2 and note how the lyrics and tune are set to Chautala (12 beats). The lyrics starts on beat 1. Watch Sample 1 again and observe the vocalist, Aparna Shastri, indicating or gesturing the rhythmic cycle with her hands. Can you follow the rhythmic cycle of 12 beats as per the artist's hand gestures. As you may have noticed, this part is accompanied by the percussion instrument *Pakhawaj*, played by Dhaval Mistry. The pakhawaj keeps beats, and creates rhythmic patterns consistent with the flow of the composition.
-
-If you are curious to learn more about the principles of Indian rhythmic cycles, check the next post on the [Indian Tala System](/blog/taladhaya). 
+Let us revisit the snippets in Sample 1 and Sample 2 and note how the lyrics and tune are set to Chautala (12 beats). The lyrics starts on beat 1. Watch Sample 1 again and observe the vocalist, Aparna Shastri, indicating or gesturing the rhythmic cycle with her hands. Can you follow the rhythmic cycle of 12 beats as per the artist's hand gestures? As you may have noticed, this part is accompanied by the percussion instrument *Pakhawaj*, played by Dhaval Mistry. The pakhawaj keeps beats, and creates rhythmic patterns consistent with the flow of the composition. 
 
 ### Vinyasam
-Recall that Vinyasam refers to the act of rhythmic exploration. Also called *Vistar* or *Niraval*, it uses different combinations of Jatis to create aesthetically appealing variations. It needs to be borne in mind that in the process, the meaning and the beauty of lyrics or poetry should not be spoilt.
+Recall that Vinyasam refers to the act of rhythmic exploration. Also called *Vistar* or *Niraval*, it uses different combinations of Jatis to create aesthetically appealing variations. Note that *Sahitya Bhav* or the spirit of the literature is a very important consideration. An artist should maintain the structure, meaning and beauty of the composition, while musically and rhythmically exploring it.
 
-Specifically, it is important to take note of *Hrasva* (short) syllables and *Deergha* (long) syllables in the song, for elongating a short syllable could either completely change the meaning of the word, or render it meaningless.
-
-*Sahitya Bhav* or the spirit of the literature is a very important consideration. An artist should maintain the structure, meaning and beauty of the composition, while musically and rhythmically exploring it. The other important point to note is that the positions of lyrical syllables in the rhythmic cycle need to be consistently maintained.
+Specifically, it is important to take note of *Hrasva* (short) syllables and *Deergha* (long) syllables in the song, for elongating a short syllable could either completely change the meaning of the word, or render it meaningless. Another important point to note is that the positions of lyrical syllables in the rhythmic cycle need to be consistently maintained.
 
 While the focus is on rhythmic improvisations, it is equally important to note that the *Raga Bhava* (the mood of the Raga) is maintained within the confines of musical grammar as defined by Raga Lakshanas.
 

@@ -17,9 +17,9 @@ Well, every Tala or rhythmic cycle has a starting point (*Sama*), a half way poi
 
 Let us take a common Tala and understand its structure. The Tala is called *Chautala*, a 12 beat cycle whose rhythmic solfas go as follows:
 
-*Dha Dha Dhin Ta | Kita Dha Dhin Ta | ThiTa KatTa | GaDhi GaNa*   
+> Dha Dha Dhin Ta | Kita Dha Dhin Ta | ThiTa KatTa | GaDhi GaNa
 
-As you can see, it is divided into four (*Chau*) parts seperated by a vertical bar **|** for your reference. Hence, it has the name Chautala (something which has four points of emphasis). The division of this Tala is 4 + 4 + 2 + 2. The beats of emphasis or Sasabda are 1, 5, 9 and 11, while the other beats are Nissabda.
+As you can see, it is divided into four (*Chau*) parts seperated by a vertical bar **|** for your reference. Hence, it has the name Chautala (four claps or accent points). The division of this Tala is 4 + 4 + 2 + 2. The beats of emphasis or Sasabda are 1, 5, 9 and 11, while the other beats are Nissabda.
 
 Here is an example of Chautala. Watch this short snippet from the Pallavi section of a [Veena-Vani duet in Raga Bhimpalasi](https://youtu.be/JjcmUq92eXA).
 
