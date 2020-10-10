@@ -144,4 +144,4 @@ To summarize, a *Raga* is a concept originating from *Jati* and can be defined a
 
 Now for a given Raga, each of these Lakshanas mentioned above are clearly defined. Through a cycle of listening, learning, practicing and performing, a student can learn the Lakshana aspect of a given Raga as well. However, these only define the framework and by themselves do not make music. An artist has to apply Lakshya to their rendition and create a Raga presentation which can be described as *Ranjayati* (that which illuminates, gratifies and colours the mind). This is the most important characteristic in the presentation of a Raga.
 
-In subsequent posts, I would explore how these can be incorporated into a musical performance in the form of a [*Raga Alapana*](/blog/raga-alapana/) or *Pallavi*.
+In subsequent posts, I explore how these can be incorporated into a musical performance in the form of a [*Raga Alapana*](/blog/raga-alapana/) or [*Pallavi*](/blog/pallavi/).

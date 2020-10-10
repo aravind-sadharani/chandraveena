@@ -115,7 +115,7 @@ While adhering to these aspects of presentation, a musician should aspire to ple
 
 This post is by no means exhaustive, but I hope it provides a glimpse into the process of Raga Alapana. I also hope that this would enable you to follow and enjoy Chandraveena music and Indian Classical music in general. Do check out the full recording of the [Raga Alapana in Raga Brindavani Sarang](https://chandraveena.bandcamp.com/album/indian-classical-raga-brindavani-sarang).
 
-Next, I will explore **Pallavi** which is also known as a composition, *Kriti* or *Bandish*.
+Next, I explore [**Pallavi**](/blog/pallavi/) which is also known as a composition, *Kriti* or *Bandish*.
 
 <notice-box>
 

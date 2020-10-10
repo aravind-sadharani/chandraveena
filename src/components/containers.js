@@ -33,6 +33,9 @@ const Wrapper = styled.div`
     display: block;
     margin: 0 auto;
   };
+  blockquote {
+    text-align: center;
+  };
   .footnotes {
     font-size: small;
     hr {
