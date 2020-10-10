@@ -1,6 +1,6 @@
 ---
 title: "Taladhyaya - A Chapter on Indian Rhythmic System"
-date: 2020-10-16
+date: 2020-10-10
 image: "../../../images/icm-blog.png"
 description: "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. In my long association with music, I have been privileged to have had deep and meaningful discussions on the theory of music with my Ustad, and undertaken further study of scriptures to understand our music better. Here I share my understanding of Indian Rhythmic System. Read on to find out more!"
 ---
