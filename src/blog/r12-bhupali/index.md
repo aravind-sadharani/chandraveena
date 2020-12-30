@@ -8,7 +8,7 @@ description: "Raga Bhupali is one of the oldest scales in Indian music. It is tr
 <you-tube videoid="rp7_DZzH5nA"></you-tube>
 <br>
 
-Raga Bhupali / Bhoop / Bhopali / Mohanam as it is variously called is one of the oldest scales in Indian music. It is a *Audava* or a pentatonic scale. It is also known as the Major Pentatonic scale in western music. This scale is also found in traditional music of Chinese/Japanese origin. The beauty of this scale also lies in the fact that every *Murchhana* (also known as Greha Bheda / scale change / mode) gives rise to another well known pentatonic scale. Lets look at these scales below.
+Raga Bhupali / Bhoopali / Bhoop / Bhopali / Mohanam as it is variously called is one of the oldest scales in Indian music. It is a *Audava* or a pentatonic scale. It is also known as the Major Pentatonic scale in western music. This scale is also found in traditional music of Chinese/Japanese origin. The beauty of this scale also lies in the fact that every *Murchhana* (also known as Greha Bheda / scale change / mode) gives rise to another well known pentatonic scale. Lets look at these scales below.
 
 Main Raga: Raga Bhupali: Scale: Sa Re Ga Pa Dha (Please see below in Program Notes for nomenclature definition).
 First Greha Bheda: Re Ga Pa Dha Sa. Transposing this to Sa, we get Sa Re ma Pa ni - Madhmadh / Madhyamadi / Madhyamavati
@@ -46,6 +46,9 @@ In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma P
 
 ### Varjit Janya Raga
 A Varjit Raga is a Janya (derived) Raga of a Melakarta (parent scale) in which one or more notes are dropped from the parent scale. In this case, ma and ni are dropped from the parent scale Harikambhoji.
+
+**NOTE**
+Bhupali/Mohanam can be classified as a Varjit Janya Raga under Kalyani/Mechakalyani Family (Sa Re Ga Ma Pa Dha Ni) or under Harikambhoji. I have chosen to put it under Kambhoji due to usage of phrases that identify Kambhoji.
 
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
