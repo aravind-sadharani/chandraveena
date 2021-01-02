@@ -81,7 +81,7 @@ Sadharani Music Works - https://www.sadharani.com
 
 The full video recording of this performance is available at https://youtu.be/rp7_DZzH5nA.
 
-Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-bhoopali.
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-bhoopali-major-pentatonic.
 
 <br>
 
