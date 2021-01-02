@@ -1,22 +1,22 @@
 ---
 title: "Raga Bhoopali - Major Pentatonic"
-date: 2020-04-12
-image: "../../../images/ytthumb-jaunpuri.png"
+date: 2021-01-02
+image: "../../../images/ytthumb-bhoopali.png"
 description: "Raga Bhoopali is one of the oldest scales in Indian music. It is traditionally performed during the late-evening hours of the day, and is a popular Raga throughout India."
 ---
 
 <you-tube videoid="rp7_DZzH5nA"></you-tube>
 <br>
 
-Raga Bhupali / Bhoopali / Bhoop / Bhopali / Mohanam as it is variously called is one of the oldest scales in Indian music. It is a *Audava* or a pentatonic scale. It is also known as the Major Pentatonic scale in western music. This scale is also found in traditional music of Chinese/Japanese origin. An interesting aspect of this scale lies in the fact that every *Murchhana* (also known as Greha Bheda or scale change) gives rise to another well known pentatonic scale. Lets look at these scales below.
+Raga *Bhoopali* also called variously as *Bhupali*, *Bhoop*, *Bhopali* or *Mohanam*, is one of the oldest scales in Indian music. It is an *audava* or a pentatonic scale. It is also known as the *major pentatonic* scale in Western music. This scale is also found in traditional music of Chinese and Japanese origin. An interesting aspect of this scale lies in the fact that every *Murchhana* (also known as *Graha Bheda* or scale change) gives rise to another well known pentatonic scale. Take a look at these scales below.
 
-Main Raga: Raga Bhoopali: Scale: Sa Re Ga Pa Dha (Please see below in Program Notes for nomenclature definition).
-First Greha Bheda: Re Ga Pa Dha Sa. Transposing this to Sa, we get Sa Re ma Pa ni - Madhmadh / Madhyamadi / Madhyamavati
-Second Greha Bheda: Ga Pa Dha Sa Re. Transposing this to Sa, we get Sa ga ma dha ni - Malkauns/Hindolam
-Third Greha Bheda: Pa Dha Sa Re Ga. Transposing this to Sa, we get Sa Re ma Pa Dha - Shuddha Saveri / Durga
-Fourth Greha Bheda: Dha Sa Re Ga Pa. Transposing this to Sa, we get Sa ga ma Pa ni - Dhani / Shuddha Dhanyasi - also known as Minor Pentatonic in western music.
+* **Scale of main Raga (Raga Bhoopali):** Sa Re Ga Pa Dha (Please see Program Notes for nomenclature).
+* **First Graha Bheda:** Re Ga Pa Dha Sa. Transposing this back to Sa, we get Sa Re ma Pa ni - *Madhmadh* or *Madhyamadi* or *Madhyamavati*.
+* **Second Graha Bheda:** Ga Pa Dha Sa Re. Transposing this to Sa, we get Sa ga ma dha ni - *Malkauns* or *Hindolam*
+* **Third Graha Bheda:** Pa Dha Sa Re Ga. Transposing this to Sa, we get Sa Re ma Pa Dha - *Shuddha Saveri* or *Durga*
+* **Fourth Graha Bheda:** Dha Sa Re Ga Pa. Transposing this to Sa, we get Sa ga ma Pa ni - *Dhani* or *Shuddha Dhanyasi*, also known as *minor pentatonic* in Western music.
 
-How cool is this! In Indian Classical Music, many ragas were derived as a Greha Bheda or a Murchhana of a scale. While in the earlier tradition of *Jati Gayan* (music of the Jati system), each scale started at different starting (*Greha* or Home) notes, in the *Aadhara Shadaj* tradition of current times, all scales are sung to a single home note, i.e, Sa.
+How remarkably cool is this! In Indian Classical Music, many ragas were derived as a murchhana of a scale. While in the earlier tradition of *Jati Gayan* (music of the Jati system), each scale started at different starting notes called *Graha Swara* (*Graha* means "home" and is also spelled as *Griha*, *Gruha*, etc), in the *Aadhara Shadaj* tradition of current times, all scales are sung to a single "home" or fundamental note, i.e, **Sa**.
 
 Here I present a short Alap in *Raga Bhoopali* followed by a Pallavi in Chautala. This Raga is also called *Mohanam* in some parts of India.
 
@@ -26,7 +26,8 @@ Here I present a short Alap in *Raga Bhoopali* followed by a Pallavi in Chautala
 Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. Usually, it has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam. But here just a short Alap is played to introduce the Raga before performing the Pallavi or the Composition.
 
 Here are some notes about the Raga and the Tala.
-### Pallavi (composition) in Raga Bhoopali set to Chautala
+
+### Pallavi in Raga Bhoopali set to Chautala
 Pallavi is a melodic phrase or lyrics set to a fixed set of beats in a rhythmic cycle. The improvisation here is creating interesting rhythm based melodic patterns while maintaining the framework of the Raga and the rhythmic cycle of the Tala. This part of the performance is accompanied by Pakhawaj.
 
 Here are some notes about the Raga and the Tala.
@@ -47,8 +48,12 @@ In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma P
 ### Varjit Janya Raga
 A Varjit Raga is a Janya (derived) Raga of a Melakarta (parent scale) in which one or more notes are dropped from the parent scale. In this case, ma and ni are dropped from the parent scale Harikambhoji.
 
-**NOTE**
-Bhoopali/Mohanam can be classified as a Varjit Janya Raga under Kalyani/Mechakalyani Family (Sa Re Ga Ma Pa Dha Ni) or under Harikambhoji. I have chosen to put it under Kambhoji due to usage of phrases that identify Kambhoji.
+
+<notice-box>
+
+**Note:** Bhoopali or Mohanam can be classified as a Varjit Janya Raga under Kalyani or Mechakalyani family (Sa Re Ga Ma Pa Dha Ni) or under Harikambhoji. I have chosen to put it under Kambhoji due to the usage of phrases that identify Kambhoji.
+
+</notice-box>
 
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
