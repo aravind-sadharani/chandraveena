@@ -38,7 +38,7 @@ Here are some notes about the Raga.
 **Prahar** - 1st and 2nd prahar (equivalent to  6AM - 12 PM)
 
 ### Reading the scale
-In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Dha and Ni above. Notes written fully in lower case are called Komal (or flat) notes. E.g., na and ma above. Sa and Pa are always written with a capitalized first letter.
+In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Dha and Ni above. Notes written fully in lower case are called Komal (or flat) notes. E.g., ni and ma above. Sa and Pa are always written with a capitalized first letter.
 
 ### Bhashanga Janya Raga
 A *Janya* (or derivative) Raga of a Melakarta which uses a note outside of the Melakarta notes. In this raga, ni is outside of Shankarabharanam (Sa Re ga ma Pa Dha Ni).
