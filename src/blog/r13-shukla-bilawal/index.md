@@ -1,26 +1,24 @@
 ---
 title: "Raga Shukla Bilawal - Alapana and Pallavi"
 date: 2021-01-31
-image: "../../../images/"
-description: "Raga Shukla Bilaway is a morning Raga belonging to the Bilawal family of Ragas. Here I present a detailed Alap, Jod and Jhala, followed by a Pallavi (Composition) in Chautala.
+image: "../../../images/ytthumb-shukla-bilawal.png"
+description: "Raga Shukla Bilaway is a morning Raga belonging to the Bilawal family of Ragas. Here I present a detailed Alap, Jod and Jhala, followed by a Pallavi (Composition) in Chautala."
 ---
 
 <you-tube videoid="oMHFDFHJH28"></you-tube>
 <br>
 
-In this session, I present *Raga Shukla Bilawal* on Chandraveena. Shukla Bilawal is a morning Raga and belongs to the Bilawal family of Ragas. This is what is called a Bhashanga Raga - one in which a note from outside the main family Raga is used. The beauty of the Raga lies in the *vakra* (zig zag) use of "outside note, Komal Nishad".
+In this session, I present *Raga Shukla Bilawal* on Chandraveena. Shukla Bilawal is a morning Raga and belongs to the Bilawal family of Ragas. This is what is called a *Bhashanga Raga* - one which uses a note from outside the main Raga family. The beauty of this Raga lies in the *vakra* (zig-zag) use of the "outside" note, namely, *Komal Nishad*. Here, I explore the Raga extensively in [Alap, Jod and Jhala](/blog/raga-alapana/), and conclude with a Pallavi in *Chautala* (12 beats). I am privileged to be accompanied by **Pandit Sanjay Agle** for the Pallavi session.
 
-Here, I explore the Raga extensively in Alap, Jod and Jhala, and conclude with a Pallavi in Chautala. I am privileged to be accompanied by Pandit Sanjay Agle for the Pallavi session.
+Pandit Sanjay Agle is a master Pakhawaj player coming from a family and tradition of Pakhawaj players. His grandfather Ambadas Agle was a legendary pakhawaj player. Sanjay Agle learnt from his father Kalidas Agle, and another renowned pakhawaj player Swami Pagaldas. His sister Chitrangana is also a very well known Pakhawaj player.
 
-Sanjay Agle is a master Pakhawaj player coming from a family and tradition of Pakhawaj players. His grandfather Ambadas Agle was a legendary pakhawaj player. Sanjay Agle learnt from his father Kalidas Agle, and another renowned pakhawaj player Swami Pagaldas. His sister Chitrangana is also a very well known Pakhawaj player.
+[Pallavi](/blog/pallavi/) also known as *Bandish*, *Gat*, *Kriti* or composition is a melodic line (or lines) bound by a [Tala](/blog/taladhyaya) or rhythmic cycle. In some cases, lyrics are set to a melody in the chosen Raga and Tala, whereas in other cases it is just a melodic line with no lyrical or literary meaning, called *Swarajati* or *Gat*. Many instrumental compositions use the latter format, to make the most of "playing with the rhythm".
 
-Pallavi, Bandish, Gat, Kriti etc are the different names by which a melodic line bound by a Tala cycle are known. In some cases, lyrics are set to melody and Tala of the chosen Raga and Tala, whereas in some cases its just a melodic line (comprising of swaras or notes) called *Swarajati* or *Gat* set to a chosen Tala. Many instrumental compositions offer the flexibility of setting a melodic line to a Tala, not bound by words or lyrics. This gives an opportunity to make the most of "playing with rhythm".
+In this particular composition, the Pallavi takes off on the 7th beat (making the 7th beat the *Uthao* or *Eduppu*) and ends on the 1st beat of the next cycle (the *Sama*). Try to follow the composition with this in mind and observe how melodic phrases are created approaching the *Sama*. While most of the melodic patterns are off-beat, yet the final phrase comes on the Sama with a subtle intonation. This can be quite challenging for the both the artists (the melodic artist and the percussionist), since even small errors on their parts could result in getting out of sync at the Sama.
 
-In this particular composition, the Pallavi takes off (known as the *Uthao* or *Eduppu*) on the 7th beat. Now try to follow the rest of the composition, as melodic phrases are created approaching *Sama* or beat 1 of the Tala cycle. While most of the melodic patterns are off-beats, yet, the final phrase comes on the Sama with a subtle intonation. This can be quite challenging for the both the artists (the melodic artist and the percussionist), since even small errors on either will result in out of sync arrival at Sama.
+In my view, a Tala is not about the beats or the accents or the *avartan* (the repeating cycle of the Tala), but it is about the space and the timing between the beats. What kind of melodic ideas can I weave in the given space? Do I need to conclude or emphasize Sama every avartan? Not necessarily. Once the melody and the rhythm has been established, I am free to explore any melodic ideas which fit within the rhythmic framework. Do I need to always end with a Tihai (a 3 times repetition of a phrase)? Again, not necessarily. That is just mathematics. If it comes along the way of weaving my ideas, I could use it, but it is not a necessity. One can reach Sama in a very inconspicous way, and still sound beautiful. Aesthetics and my expression should take precedence, always!
 
-In my view, Tala is not about beats or the pulse points or *avartan* (Tala cycle), but the space and the timing between the beats. What kind of melodic magic can i weave in the given space is a continuous challenge. Does one need to come to Sama every avartan? Not necessarily. Once the melodic and the rhythmic framework has been established, one is free to explore melodic phrases within a rhythmic framework. Does one need to always end with a Tihai (3 times repetition of a phrase)? Again, not necessarily. Thats just mathematics. If it comes along the way of creating melodic magic, then its ok, but it is not a necessity. One can in a very inconspicous way reach Sama, and still sound beautiful. Aesthetics takes precedence, always!
-
-Now enjoy the music!
+Follow along and enjoy the music!
 
 ## Program Notes
 
