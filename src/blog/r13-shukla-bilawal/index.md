@@ -18,6 +18,8 @@ Pallavi, Bandish, Gat, Kriti etc are the different names by which a melodic line
 
 In this particular composition, the Pallavi takes off (known as the *Uthao* or *Eduppu*) on the 7th beat. Now try to follow the rest of the composition, as melodic phrases are created approaching *Sama* or beat 1 of the Tala cycle. While most of the melodic patterns are off-beats, yet, the final phrase comes on the Sama with a subtle intonation. This can be quite challenging for the both the artists (the melodic artist and the percussionist), since even small errors on either will result in out of sync arrival at Sama.
 
+In my view, Tala is not about beats or the pulse points or *avartan* (Tala cycle), but the space and the timing between the beats. What kind of melodic magic can i weave in the given space is a continuous challenge. Does one need to come to Sama every avartan? Not necessarily. Once the melodic and the rhythmic framework has been established, one is free to explore melodic phrases within a rhythmic framework. Does one need to always end with a Tihai (3 times repetition of a phrase)? Again, not necessarily. Thats just mathematics. If it comes along the way of creating melodic magic, then its ok, but it is not a necessity. One can in a very inconspicous way reach Sama, and still sound beautiful. Aesthetics takes precedence, always!
+
 Now enjoy the music!
 
 ## Program Notes
