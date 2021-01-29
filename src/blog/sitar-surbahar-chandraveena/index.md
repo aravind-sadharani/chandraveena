@@ -2,16 +2,16 @@
 title: "Sitar, Surbahar and Chandraveena - A Comparitive Study"
 date: 2021-02-15
 image: "../../../images/"
-description: "In this post, I present a brief history and evolution of Sitar and a comparitive study of similarities and  differences between Sitar, Subahar and Chandraveena. I also present short demos on Sitar, Surbahar and Chandraveena."
+description: "In this post, I present a brief history and evolution of Sitar and a comparitive study of similarities and  differences between Sitar, Surbahar and Chandraveena. I also present short demos on Sitar, Surbahar and Chandraveena."
 ---
 <you-tube videoid=""></you-tube>
 <br>
 
 Musical instruments change and evolve to keep pace with the changes in music. Some musical instruments go extinct, some are modifed and some new instruments emerge. 
 
-Sitar today is a very sophisticated Indian classical music concert instrument. The word Sitar originates from Persian word [Sehtar](https://en.wikipedia.org/wiki/Setar). Both structurally, and acoustically, you can see and hear the difference in the two instruments. The evolution in the instrument happened out of the needs of Indian classical music.
+The word Sitar originates from Persian word [Sehtar](https://en.wikipedia.org/wiki/Setar). Today, Sitar is a highly evolved and a very sophisticated Indian classical music concert instrument. Traditional Sehtar is still played in the music of Middle Eastern countries. Both structurally, and acoustically, you can see and hear the difference in the two instruments. The evolution in the instrument happened out of the needs of Indian classical music.
 
-[Surbahar](https://en.wikipedia.org/wiki/Surbahar) is a bass instrument. It was likely invented around 1800's. The story that I have heard is that many Rudra Veena players of the past would not teach Rudra Veena to disciples outside of their family. So, for those who wished to play Dhrupad or Rudra Veena style of music, they were taught Surbahar. It is likely that this instrument was invented out of this need. For a long period of time, Alap was played on Surbahar, and faster compositions/gats were played on Sitar. Today, Sitar is a very versatile instrument, capable of playing Alap and Gats.
+[Surbahar](https://en.wikipedia.org/wiki/Surbahar) is a bass instrument, one could say bass sitar. It has many structural similarities to Sitar. It was likely invented around 1800's. The anecdotes that I have heard are that many Rudra Veena players of the past would not teach Rudra Veena to disciples outside of their family. So, for those who wished to play Dhrupad or Rudra Veena style of music, they were taught Surbahar. It is likely that this instrument was invented out of this need. Whatever may be the case, Surbahar is indeed a beautiful sounding instrument. For a long period of time, Alap was played on Surbahar, and faster compositions/gats were played on Sitar. Today, Sitar is a very versatile instrument, capable of playing both Alap and Gats.
 
 Chandraveena is a new musical instrument born out of my musical necessity. If you want to know the motivation for ["Why Chandraveena"](/blog/why-chandraveena) or the story of ["The Making of Chandraveena"](/blog/making-of-chandraveena), please read the linked posts. You can also know more about the comparitive study of Saraswati Veena and Chandraveena in this [post](/blog/the-musical-story-of-chandraveena).
 
