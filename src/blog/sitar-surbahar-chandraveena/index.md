@@ -24,8 +24,8 @@ I hope this information helps you in understanding these instruments better, and
 ### Program
 1. Raga Alapana in Raga Gavati on Sitar
 2. Structure and design of Sitar
-3. Sitar vs Surbahar, a side-by-side comparison
-4. Raga Alapana in Raga Abhogi on Surbahar
+3. Raga Alapana in Raga Abhogi on Surbahar
+4. Sitar vs Surbahar, a side-by-side comparison
 5. Brief introduction to Chandraveena
 6. Raga Alapana in Raga Rageshri on Chandraveena
 
