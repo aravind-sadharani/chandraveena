@@ -1,33 +1,38 @@
 ---
-title: "Sitar, Surbahar and Chandraveena - A Comparitive Study"
+title: "Sitar, Surbahar and Chandraveena - A Musical Comparison"
 date: 2021-02-15
-image: "../../../images/"
-description: "In this post, I present a brief history and evolution of Sitar and a comparitive study of similarities and  differences between Sitar, Surbahar and Chandraveena. I also present short demos on Sitar, Surbahar and Chandraveena."
+image: "../../../images/ytthumb-ssc.png"
+description: "In this post, I present a brief history and evolution of Sitar, and a musical comparison of the similarities and the differences between Sitar, Surbahar and Chandraveena. I demonstrate the musical effect of these factors by playing short demos on each instrument."
 ---
-<you-tube videoid=""></you-tube>
+<you-tube videoid="qPOx5h_GVZs"></you-tube>
 <br>
 
-Musical instruments change and evolve to keep pace with the changes in music. Some musical instruments go extinct, some are modifed and some new instruments emerge. 
+There is a recurring theme in music, and in Indian Classical music, in particular: musical instruments change and evolve to keep pace with the changes in music. Some musical instruments become extinct, some get modifed and some new instruments emerge. *Sitar*, *Surbahar* and *Chandraveena*, the three instruments we look at today, are no exceptions.
 
-The word Sitar originates from Persian word [Sehtar](https://en.wikipedia.org/wiki/Setar). Today, Sitar is a highly evolved and a very sophisticated Indian classical music concert instrument. Traditional Sehtar is still played in the music of Middle Eastern countries. Both structurally, and acoustically, you can see and hear the difference in the two instruments. The evolution in the instrument happened out of the needs of Indian classical music.
+## Sitar
 
-[Surbahar](https://en.wikipedia.org/wiki/Surbahar) is a bass instrument, one could say bass sitar. It has many structural similarities to Sitar. It was likely invented around 1800's. The anecdotes that I have heard are that many Rudra Veena players of the past would not teach Rudra Veena to disciples outside of their family. So, for those who wished to play Dhrupad or Rudra Veena style of music, they were taught Surbahar. It is likely that this instrument was invented out of this need. Whatever may be the case, Surbahar is indeed a beautiful sounding instrument. For a long period of time, Alap was played on Surbahar, and faster compositions/gats were played on Sitar. Today, Sitar is a very versatile instrument, capable of playing both Alap and Gats.
+The word "Sitar" originates from the Persian word [Sehtar](https://en.wikipedia.org/wiki/Setar). Today, the Sitar is a highly evolved and a very sophisticated concert instrument in Indian Classical music. The traditional *Sehtar* is still played in the music of Middle Eastern countries. Both in terms of physical structure and in terms of acoustics, you can see and hear the difference between the two instruments. These differences are a result of the evolution of the instrument which occurred out of the needs of Indian Classical music.
 
-Chandraveena is a new musical instrument born out of my musical necessity. If you want to know the motivation for ["Why Chandraveena"](/blog/why-chandraveena) or the story of ["The Making of Chandraveena"](/blog/making-of-chandraveena), please read the linked posts. You can also know more about the comparitive study of Saraswati Veena and Chandraveena in this [post](/blog/the-musical-story-of-chandraveena).
+## Surbahar
 
-Here I talk about different structural aspects of Sitar, Surbahar and Chandraveena. I compare and contrast the instruments along with short demos on all the instruments. 
+[Surbahar](https://en.wikipedia.org/wiki/Surbahar) is a bass instrument. One could say it is a "bass Sitar". It has many structural similarities to Sitar. It was likely invented around the 1800s. The anecdotes that I have heard are that many *Rudra Veena* players of the past would not teach Rudra Veena to students outside their family. So, for those who wished to play Dhrupad or Rudra Veena style of music, they were taught Surbahar. It is likely that this instrument was invented out of this need. Regardless of the story, Surbahar is indeed a beautiful sounding instrument. For a long period of time, [Alap](/blog/raga-alapana/) was played on Surbahar, and faster [compositions or Gats](/blog/pallavi/) were played on Sitar. But today, especially from the last 100 years or so, Sitar is a very versatile instrument, capable of playing both Alap and Gat.
 
-I hope this information helps you in understanding these instruments better, and appreciate the music more.
+## Chandraveena
+
+Chandraveena is a new musical instrument born out of my musical necessity. If you want to know the motivation for ["Why Chandraveena"](/blog/why-chandraveena) or the story of ["The Making of Chandraveena"](/blog/making-of-chandraveena), please read the linked posts. You can also learn more about the differences between Saraswati Veena and Chandraveena both [structurally and also their musical consequences](/blog/the-musical-story-of-chandraveena).
 
 ## Program Notes
+
+In this video, I talk about different structural aspects of Sitar, Surbahar and Chandraveena. I compare and contrast the instruments along with short demos on all the instruments. I hope this information helps you in understanding these instruments better, and appreciate the music more.
 
 ### Program
 1. Raga Alapana in Raga Gavati on Sitar
 2. Structure and design of Sitar
 3. Raga Alapana in Raga Abhogi on Surbahar
-4. Sitar vs Surbahar, a side-by-side comparison
-5. Brief introduction to Chandraveena
+4. Sitar vs Surbahar: a side-by-side comparison
+5. A Brief Introduction to Chandraveena
 6. Raga Alapana in Raga Rageshri on Chandraveena
+
 
 ### Raga Alapana in Raga Gavati on Sitar
 Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. It has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
@@ -81,17 +86,15 @@ In Indian Classical Music, Ragas are classified into Prahars (time periods of a 
 ## Credits
 
 ### Artist
-Sitar - S Balahander
-Surbahar - S Balachander
-Chandraveena - S Balachander
+Sitar, Surbahar and Chandraveena - S Balachander
 
 ### Production
 Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
-Sitar, Surbahar and Chandraveena is available on YouTube at https://
+Sitar, Surbahar and Chandraveena - A Musical Comparison is available on YouTube at https://www.youtube.com/watch?v=qPOx5h_GVZs.
 
-Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/sitar-surbahar-and-chandraveena-a-musical-comparison.
 
 <notice-box>
 If you like the music, learn how you can support Chandraveena music. We value your patronage.
