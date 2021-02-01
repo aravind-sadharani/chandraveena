@@ -92,9 +92,11 @@ Sitar, Surbahar and Chandraveena - S Balachander
 Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
-Sitar, Surbahar and Chandraveena - A Musical Comparison is available on YouTube at https://www.youtube.com/watch?v=qPOx5h_GVZs.
+The musical comparison of Sitar, Surbahar and Chandraveena is available on YouTube at https://www.youtube.com/watch?v=qPOx5h_GVZs.
 
-Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/sitar-surbahar-and-chandraveena-a-musical-comparison.
+The above video contains excerpts from a Raga Alapana in Raga Rageshri on Chandraveena. The complete recording of the Raga Alapana is available at https://www.youtube.com/watch?v=b9bVDAwLJyo.
+
+Purchase CD quality audio of the musical performances from this program from https://chandraveena.bandcamp.com/album/sitar-surbahar-and-chandraveena-a-musical-comparison.
 
 <notice-box>
 If you like the music, learn how you can support Chandraveena music. We value your patronage.
