@@ -33,9 +33,23 @@ In this video, I talk about different structural aspects of Sitar, Surbahar and 
 5. A Brief Introduction to Chandraveena
 6. Raga Alapana in Raga Rageshri on Chandraveena
 
+### Raga Alapana in Raga Bhimpalasi on Sitar (Exclusive for Bandcamp patrons)
+Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. It has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
+
+Here are some notes about the Raga.
+
+**Raga** - Bhimpalasi
+
+**Scale** -  Sa Re ga ma Pa Dha ni
+
+**Family** - Palasi (Sa Re ga Ma Pa ni)
+
+**Melakarta** - Kharaharapriya (Sa Re ga ma Pa Dha ni)
+
+**Prahar** - 4th Prahar (3 pm - 6 pm)
+
 
 ### Raga Alapana in Raga Gavati on Sitar
-Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. It has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
 
 Here are some notes about the Raga.
 
