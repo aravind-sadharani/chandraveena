@@ -26,14 +26,15 @@ Chandraveena is a new musical instrument born out of my musical necessity. If yo
 In this video, I talk about different structural aspects of Sitar, Surbahar and Chandraveena. I compare and contrast the instruments along with short demos on all the instruments. I hope this information helps you in understanding these instruments better, and appreciate the music more.
 
 ### Program
-1. Raga Alapana in Raga Gavati on Sitar
-2. Structure and design of Sitar
-3. Raga Alapana in Raga Abhogi on Surbahar
-4. Sitar vs Surbahar: a side-by-side comparison
-5. A Brief Introduction to Chandraveena
-6. Raga Alapana in Raga Rageshri on Chandraveena
+1. Raga Alapana in Raga Bhimpalasi on Sitar (*Exclusive for Bandcamp patrons*)
+2. Raga Alapana in Raga Gavati on Sitar
+3. Structure and design of Sitar
+4. Raga Alapana in Raga Abhogi on Surbahar
+5. Sitar vs Surbahar: a side-by-side comparison
+6. A Brief Introduction to Chandraveena
+7. Raga Alapana in Raga Rageshri on Chandraveena
 
-### Raga Alapana in Raga Bhimpalasi on Sitar (Exclusive for Bandcamp patrons)
+### Raga Alapana in Raga Bhimpalasi on Sitar (*Exclusive for Bandcamp patrons*)
 Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. It has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
 
 Here are some notes about the Raga.
