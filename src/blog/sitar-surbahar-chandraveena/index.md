@@ -23,7 +23,7 @@ Chandraveena is a new musical instrument born out of my musical necessity. If yo
 
 ## Special Note on PureTones
 
-All tracks in this performace are accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga.
+All tracks in this performance are accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga.
 As mentioned in the video, to understand string behavior, harmonics, javari, and its implications, you can read the article [here](https://puretones.sadharani.com/tanpuraworking).
 
 ## Program Notes
