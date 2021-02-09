@@ -21,6 +21,10 @@ The word "Sitar" originates from the Persian word [Sehtar](https://en.wikipedia.
 
 Chandraveena is a new musical instrument born out of my musical necessity. If you want to know the motivation for ["Why Chandraveena"](/blog/why-chandraveena) or the story of ["The Making of Chandraveena"](/blog/making-of-chandraveena), please read the linked posts. You can also learn more about the differences between Saraswati Veena and Chandraveena both [structurally and also their musical consequences](/blog/the-musical-story-of-chandraveena).
 
+## Special Note
+All tracks in this performace are accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga.
+As mentioned in the video, to understand string behavior, harmonics, javari, and its implications, you can read the article [here](https://puretones.sadharani.com/tanpuraworking).
+
 ## Program Notes
 
 In this video, I talk about different structural aspects of Sitar, Surbahar and Chandraveena. I compare and contrast the instruments along with short demos on all the instruments. I hope this information helps you in understanding these instruments better, and appreciate the music more.
