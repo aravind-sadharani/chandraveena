@@ -1,6 +1,6 @@
 ---
 title: "Sitar, Surbahar and Chandraveena - A Musical Comparison"
-date: 2021-02-15
+date: 2021-02-12
 image: "../../../images/ytthumb-ssc.png"
 description: "In this post, I present a brief history and evolution of Sitar, and a musical comparison of the similarities and the differences between Sitar, Surbahar and Chandraveena. I demonstrate the musical effect of these factors by playing short demos on each instrument."
 ---
