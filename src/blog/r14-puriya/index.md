@@ -55,7 +55,7 @@ Sadharani Music Works - https://www.sadharani.com
 
 The full video recording of this performance is available at https://youtu.be/CD0grGl1VsY.
 
-Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-puriya.
+Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/indian-classical-raga-puriya.
 
 <br>
 
