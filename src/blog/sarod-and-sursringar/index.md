@@ -12,7 +12,7 @@ There are varied accounts on the evolution of the rabab, the sarod and the sursr
 
 ### Sarod
 
-![sarod](sarod.jpg)
+![](sarod.jpg)
 
 *A Sarod from the author’s collection crafted by the late Mohan Lal Sharma.*
 
@@ -24,7 +24,7 @@ Sarod is a natural evolution from Rabab (for an introduction to Rabab, read my p
 
 ### Sursringar
 
-![sursringar](sursringar.jpg)
+![](sursringar.jpg)
 
 *A Sursringar from the author’s collection crafted by the late Mohan Lal Sharma.*
 
@@ -36,14 +36,14 @@ As you can see from these pictures, there are physical similarities between saro
 
 Traditionally, sursringar continued to be played in Dhrupad style, and with enough sustain, there was no need for *Taraf* or sympathetic strings that are seen in a sarod. By contrast, a sarod is equipped with taraf to compensate for lower resonance compared to a sursringar. It is also believed that the Taraf strings interfere with finer tones, and hence a sursringar, which is designed as a Dhrupad instrument, is best played without Taraf. Sursringar also has a flat *Jawaari* bridge compared to the point shaped bridge of Sarod. This unique Jawaari capability of a sursringar gives rise to its rich harmonics and sound, and the sustain allows the harmonics to emerge. Typically both instruments are played with either a *mizrab* - a wire plectrum, or a *jawaa* - a guitar style plectrum made of coconut shell.
 
-![Jawa](jawa.jpg)
+![](jawa.jpg)
 *A Jawaa plectrum made from coconut shell.*
 
 <br>
 
 The plectrum on the right is wrapped with a cloth dipped in beeswax. With the player's body heat, this releases just enough wax for lubrication.
 
-![Mizrab](mizrab.jpg)
+![](mizrab.jpg)
 *A Mizrab or wire plectrum.*
 
 <br>

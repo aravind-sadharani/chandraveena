@@ -9,7 +9,7 @@ description: "I am Balachander, an Indian classical musician and a performing ar
 
 ## Latest Article
 
-![Hindu-Bangalore](Hindu-Bangalore-IMG-20180307-WA0001.jpg)
+![](Hindu-Bangalore-IMG-20180307-WA0001.jpg)
 "Bridging the Divide Musically", by Ranjani Govind, The Hindu, Bangalore, March 7, 2018.
 
 <br>
@@ -18,35 +18,35 @@ description: "I am Balachander, an Indian classical musician and a performing ar
 
 ## Older Articles
 
-![Hindustan-Times-Picture](HindustanTimes.jpg)
+![](HindustanTimes.jpg)
 "Meet the musician who gave the Saraswati veena a makeover", by Susan Jose, Hindustan Times, Web Edition, First Published Mar 21, 2017. [Link](../../images/Hindustan-Times-online-Mar-07-2017.pdf)
 
 <br>
 <hr>
 
-![Central-Chronicle-Bhopal](Central Chronicle_Bhopal_24.01.16_PG 03.jpg)
+![](Central Chronicle_Bhopal_24.01.16_PG 03.jpg)
 "Chandraveena - A Creation of Balachander", Central Chronicle, Bhopal, January 24, 2016.
 
 <br>
 <hr>
 
-![Dainik-Jagran-Bhopal](Dainik Jagran_Bhopal_24.01.16_PG 12.jpg)
+![](Dainik Jagran_Bhopal_24.01.16_PG 12.jpg)
 "*Kahin Kho Na Jaye Veena Ke Sur* (Hope we never lose the notes of the Veena)", Dainik Jagran, Bhopal, January 24, 2016.
 
 <br>
 <hr>
 
-![Free-Press-Bhopal](Free Press_Bhopal_24.01.16_PG 14.jpg)
+![](Free Press_Bhopal_24.01.16_PG 14.jpg)
 "Chandraveena bridges gap between Hindustani and Carnatic music", Free Press Journal, Bhopal, January 24, 2016.
 
 <br>
 <hr>
 
-![Nav-Bharat-Bhopal](Nav Bharat_Bhopal_24.01.16_PG 02.jpg)
+![](Nav Bharat_Bhopal_24.01.16_PG 02.jpg)
 "*Chandraveena Ne Mitaya Uttar Aur Dakshin Ka Bhed* (Chandraveena erases the boundary between North and South)", Nav Bharat Times, Bhopal, January 24, 2016.
 
 <br>
 <hr>
 
-![Pioneer-Bhopal](The Pioneer_Bhopal_24.01.16_PG 03.jpg)
+![](The Pioneer_Bhopal_24.01.16_PG 03.jpg)
 "Mumbai-based *Beenkar* (Veena Player) to perform at Veena *Samaroh* (festival)", The Pioneer, Bhopal, January 24, 2016.

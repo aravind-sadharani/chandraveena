@@ -29,7 +29,7 @@ const BlogLinks = ({prev, next}) => (
         {prev &&
           <>
             <SmallCaps>Previous</SmallCaps><br />
-            <Link to={prev.url}>◀︎ {prev.title}</Link>
+            <Link to={`/${prev.url}`}>◀︎ {prev.title}</Link>
           </>
         }
       </PrevContainer>
@@ -37,7 +37,7 @@ const BlogLinks = ({prev, next}) => (
         {next &&
           <>
             <SmallCaps>Next</SmallCaps><br />
-            <Link to={next.url}>{next.title} ►</Link>
+            <Link to={`/${next.url}`}>{next.title} ►</Link>
           </>
         }
       </NextContainer>

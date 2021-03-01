@@ -11,7 +11,7 @@ Indian Classical Music was not always like we know and understand today, having 
 
 Like with any language, even for music, a grammatical framework is essential for effective communication and consistent understanding. In Indian Classical music, treatises on musical grammar and rules are called *Lakshanagranthas* (books of grammar), which have evolved and developed over many centuries. Lakshanagranthas deal primarily with Lakshanas, although they do talk about Lakshya as well.
 
-![Timeline of Indian Classical Music](icm-timeline.png)
+![](icm-timeline.png)
 <p align="center"><em>Figure 1. A Timeline of Indian Classical Music</em></p>
 
 If one were to divide the evolution of Indian classical music into different eras, I would say that the introduction of the concept of *Adhara Shadaj* (fixed fundamental tonic) is a major dividing phase. As part of this major change, Indian music evolved and certain aspects of Lakshya and Lakshana were modified. Some new forms came into place while other forms became obsolete. But many concepts and terminologies were carried over with a different interpretation.

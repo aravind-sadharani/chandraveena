@@ -25,28 +25,12 @@ const Wrapper = styled.div`
     color: #859e6b;
     font-weight: 700;
   };
-  .gatsby-resp-image-image, .gatsby-resp-image-background-image {
-    border-radius: 0.3rem;
-    box-shadow: 0 0 4px 0 #453e40;
-  };
   audio {
     display: block;
     margin: 0 auto;
   };
   blockquote {
     text-align: center;
-  };
-  .footnotes {
-    font-size: small;
-    hr {
-      margin-bottom: 4em;
-    }
-    hr:after {
-      content: '\00000a Footnotes';
-      white-space: pre;
-      font-size: small;
-      text-transform: uppercase;
-    }
   };
 `
 

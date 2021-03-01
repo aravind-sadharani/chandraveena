@@ -54,7 +54,7 @@ The story goes that once Jaffar Khan and his cousin Nirmal Shah had to demonstra
 
 Some of the fundamental changes Jaffar Khan made, were the fixing of a metal plate to the whole surface of the finger board, the use of metal/wire strings in place of gut strings, the replacement of a wooden resonator with a gourd (possibly inspired by the gourd resonators of Veena), and importantly, replacement of hide cover with a wooden soundboard. The metal plate and wire strings along with wooden soundboard gave clarity, sustain and stability to Sursringar, which allowed the player the ability to execute long phrases. Another interesting fact here is that though Nirmal Shah and Jaffer Khan are portrayed as competitors, they were both descendants of Tansen! Nirmal Shah was a descendent of Tansen from his daughter's lineage, and Jaffer Khan from the son's. Nothing like a bit of family rivalry to create musical innovations!
 
-![Sursringar](sursringar.jpg)
+![](sursringar.jpg)
 
 *A Sursringar from the author’s collection crafted by the late Mohan Lal Sharma.*
 
