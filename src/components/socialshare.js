@@ -7,15 +7,15 @@ import styled from "styled-components"
 import {media} from "../utils/mediatemplate"
 
 const TwitterButton = ({to,children}) => (
-  <a href={to}><UnlinkedButton children={children} background="#1da1f2" /></a>
+  <a href={to} aria-label="Share via Twitter"><UnlinkedButton children={children} background="#1da1f2" /></a>
 )
 
 const FacebookButton = ({to,children}) => (
-  <a href={to}><UnlinkedButton children={children} background="#3B5998" /></a>
+  <a href={to} aria-label="Share via Facebook"><UnlinkedButton children={children} background="#3B5998" /></a>
 )
 
 const WhatsappButton = ({to,children}) => (
-  <a href={to}><UnlinkedButton children={children} background="#128c7e" /></a>
+  <a href={to} aria-label="Share via WhatsApp"><UnlinkedButton children={children} background="#128c7e" /></a>
 )
 
 const SocialShareWrapper = styled.div`

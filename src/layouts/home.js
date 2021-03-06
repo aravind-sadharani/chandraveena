@@ -5,6 +5,7 @@ import Masthead from "../components/masthead"
 import Cover from "../components/cover"
 import Footer from "../components/footer"
 import Mobilenav from "../components/mobilenavigation"
+import "./global.css"
 
 export default ({children}) => (
   <Outer>

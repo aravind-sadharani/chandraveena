@@ -5,7 +5,7 @@ image: "../../../images/making-chandraveena.png"
 description: "For those who may have landed here, this post is about the why and what of Chandraveena. Chandraveena is a modern string instrument, structurally based on the Saraswati Veena, but designed and built to reflect my musical identity and values. I play the Chandraveena according to the traditional principles of Indian Raga system and the philosophy of Maarga Sangeet. This instrument was designed by me, and the first prototype was built my instrument maker, the Late Mohan Lal Sharma from Kolkata."
 ---
 
-![Making-of-Chandraveena](making-chandraveena.png)
+![](making-chandraveena.png)
 
 <br>
 
