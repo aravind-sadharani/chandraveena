@@ -46,8 +46,8 @@ export default ( { location, data, pageContext } ) => {
   )
   let subtitle = currentPage === 1 ? "Latest Articles" : currentPage === numPages ? "Last Page" : `Page ${currentPage}`
   let description = currentPage === 1 ? "I am S. Balachander, an Indian classical musician and a performing artist of Chandraveena. As an Indian Classical musician, with a long association with music, I have had been privileged to have undertaken a journey with many interesting experiences and stories. Welcome to my blog - a collection of my ideas, thoughts and understanding about music, its origins, my teachers, my instruments and many more topics. Read on to find out more!" : null
-  let prevLink = currentPage !== 1 ? { url: `blog/${currentPage - 1 === 1 ? "" : (currentPage-1).toString()}`, title: `Page ${currentPage-1}` } : null
-  let nextLink = currentPage !== numPages ? { url: `blog/${currentPage+1}`, title: `Page ${currentPage+1}` } : null
+  let prevLink = currentPage !== 1 ? { url: `/blog/${currentPage - 1 === 1 ? "" : (currentPage-1).toString()}`, title: `Page ${currentPage-1}` } : null
+  let nextLink = currentPage !== numPages ? { url: `/blog/${currentPage+1}`, title: `Page ${currentPage+1}` } : null
   let blogList = data.allMarkdownRemark.edges.map(({node}) => (
     <Link key={node.id} style={{textDecoration: `none`, color: `inherit`, fontWeight: `400`}} to={node.fields.slug}>
       <hr />
