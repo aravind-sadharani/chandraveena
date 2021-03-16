@@ -18,7 +18,7 @@ Now for the facts. As per most records, [Tansen](https://en.wikipedia.org/wiki/T
 
 In my understanding, what could have possibly happened is the following. Bilas Khan was definitely a very acclaimed musician, and it is possible that on his father's death, he did sing a very moving Todi. As a mark of honour to his singing, the Raga started to be called Bilaskhani Todi.
 
-This scale is one of the *desya* ragas mentioned in Southern India literature, and has always been just called Todi. The melakarta name for nomenclature purposes is called Hanumatodi.
+This scale is one of the *desya* ragas mentioned in Southern India literature of 17th century, and has always been just called Todi. The melakarta name for nomenclature purposes is called Hanumatodi.
 
 In this session, I perform a Pallavi in Raga Bilaskhani Todi. I am privileged to be accompanied by Pandit Sanjay Agle for this session. Sanjay Agle is a master Pakhawaj player coming from a family and tradition of Pakhawaj players. His grandfather Ambadas Agle was a legendary pakhawaj player. Sanjay Agle learnt from his father Kalidas Agle, and another renowned pakhawaj player Swami Pagaldas. His sister Chitrangana is also a very well known Pakhawaj player.
 
