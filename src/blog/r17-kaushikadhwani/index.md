@@ -18,7 +18,7 @@ Let us first look at the basic scale of the Raga. Please refer to the Program No
 
 I present a Raga Alapana in three parts - Alap, Jod and Jhala also known as Alapana and Tanam. In this presentation of Raga Kaushika Dhwani on Chandraveena, I have employed the Alpatva (very subtle and not often used) Tivra Rishabh (Re). 
 
-# Note on Raga Bhinna Shadja
+## Note on Raga Bhinna Shadja
 
 Raga Bhinna Shadja is one of the few legacy names which represent scales from the earlier [Jati-Murchhana system](/blog/grammar-of-music/) of music, through which many *jatis* (modern day Raga equivalents) were created. Let me briefly explain the name, and how it represents the jati system.
 
@@ -43,13 +43,13 @@ Sa re ga ma Pa(today's Ma) dha ni
 
 Dropping Rishab and Pancham, we get:
 
-Sa ga ma dha ni
+Sa ga ma dha ni (current day Hindolam / Malkauns)
 
 Now, using Antara Gandhara and Kakali Nishad, we get:
 
 Sa Ga ma dha Ni
 
-This is Raga Bhinna Shadja as per Jati system. Today, however, Bhinna Shadja is sung with Tivra Dhaivat (Dha) making the scale similar to Kaushika Dhwani.
+This is Raga Bhinna Shadja as per Jati system. Today, however, Bhinna Shadja is sung with Tivra Dhaivat (Dha) making the scale similar to Kaushika Dhwani. At what point in history did this change happen is not very clear. Many Ragas have gone through evolution, changed forms and taken notes different from earlier descriptions in our treatises.
 
 ## Program Notes
 
