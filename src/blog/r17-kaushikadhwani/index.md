@@ -1,7 +1,7 @@
 ---
 title: "Raga Kaushika Dhwani - a spring time Raga?"
 date: 2021-03-28
-image: "../../../images/ytthumb-bilaskhani-todi.png"
+image: "../../../images/"
 description: "Raga Kaushika Dhwani is a very melodious Audava(Pentatonic) Raga, generally performed late evening / night time."
 ---
 
