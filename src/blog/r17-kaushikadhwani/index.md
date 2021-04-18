@@ -8,48 +8,19 @@ description: "Raga Kaushika Dhwani is a very melodious Audava(Pentatonic) Raga, 
 <you-tube videoid="6ND_ztFyiFQ"></you-tube>
 <br>
 
-Indian Raga system, since centuries have been associated with Nature. There are seasonal Ragas (like Malhar - monsoon, Basant - spring etc). then there are time bound Ragas which are based on Sun/Moon movements, like early morning Ragas Todi , Bhairav, late evening Ragas like Puriya, Yaman, Night Ragas such as Bageshri, Kanada etc.
+Over the centuries, the Indian Raga system has always been associated with nature. There are seasonal Ragas like *Malhar* for the monsoon and *Basant* for spring. Then there are Ragas associated with specific time periods (or *Prahars*) of the day and the night, based on the movement of the sun and the moon. For example, Ragas *Todi* and *Bhairav* for early morning, Ragas *Puriya* or *Yaman* for late evening, and Ragas *Bageshri* or *Kanada* for the night.
 
-Raga Kaushika Dhwani gives a feeling of spring time, leaves rustling, birds chirping etc. In the same spirit, this high quality recording has been done in natural surroundings. You will hear the birds chirping, koel (cuckoo) calling, maybe even the leaves rustling, and an ocassional dog barking!
+Raga *Kaushika Dhwani* gives a feeling of spring time with leaves rustling, birds chirping and so on. In the same spirit, this recording was done in spring. You may hear birds chirping, a cuckoo (*Koel*) calling, maybe the sound of leaves in the wind and and an occasional dog barking!
 
 Let us first look at the basic scale of the Raga. Please refer to the Program Notes below for the notation.
 
 **Scale** - Sa Ga ma Dha Ni
 
-I present a Raga Alapana in three parts - Alap, Jod and Jhala also known as Alapana and Tanam. In this presentation of Raga Kaushika Dhwani on Chandraveena, I have employed the Alpatva (very subtle and not often used) Tivra Rishabh (Re). 
+I present a Raga Alapana in three parts - Alap, Jod and Jhala also known as Alapana and Tanam. In this presentation of Raga Kaushika Dhwani on Chandraveena, I have made use of Tivra Rishabh (Re) in an Alpatva fashion (subtle and sparing use).  
 
-## Note on Raga Bhinna Shadja
+Raga Kaushika Dhwani is also known by several other names, a notable one being *Bhinna Shadaj* or *Bhinna Shadja*. This is actually one of the few legacy names which represent scales from the historical [Jati-Murchhana system](/blog/grammar-of-music/) of Indian Classical music. Through this system, many *jatis* (modern day Raga equivalents) were created, and several have survived as modern Ragas.
 
-Raga Bhinna Shadja is one of the few legacy names which represent scales from the earlier [Jati-Murchhana system](/blog/grammar-of-music/) of music, through which many *jatis* (modern day Raga equivalents) were created. Let me briefly explain the name, and how it represents the jati system.
-
-Sangeet Ratnakar, by Sharangdev, one of the most recognised treatises on Indian music, describes 5 styles of song (*Geeti*) rendition - *Shuddha*, *Bhinna*, *Gouda*, *Vesara* and *Sadharani*. The detailed description of each of these styles is an extensive subject by itself and needs its own blog post. I will skip the description here, suffice it to say that, jatis were described by the style of its rendition along with the scale. Therefore, *Bhinna Shadja* is a scale derived from [*Shadaj Gram*](https://puretones.sadharani.com/musicalscales/), rendered in *Bhinna Geeti* style. Now, for the description of this scale as per Sangeet Ranakar:
-
-Bhinna Shadja is described as :
- 1. Dhaivata as the fundamental note
- 2. Rishab and Panchama varjit (dropped notes)
- 3. Antara Gandhara and Kakali Nishad to be used
-
-Now, lets look at Shadaj Gram scale:
-
-Sa Re ga ma Pa Dha ni
-
-Taking Dha as a fundamental note (*Graha* note), this is what we get:
-
-Dha ni Sa Re ga ma Pa
-
-Tranposing this to Dha as Sa, this is what we get:
-
-Sa re ga ma Pa(today's Ma) dha ni
-
-Dropping Rishab and Pancham, we get:
-
-Sa ga ma dha ni (current day Hindolam / Malkauns)
-
-Now, using Antara Gandhara and Kakali Nishad, we get:
-
-Sa Ga ma dha Ni
-
-This is Raga Bhinna Shadja as per Jati system. Today, however, Bhinna Shadja is sung with Tivra Dhaivat (Dha) making the scale similar to Kaushika Dhwani. At what point in history did this change happen is not very clear. Many Ragas have gone through evolution, changed forms and taken notes different from earlier descriptions in our treatises.
+Now, whether Raga Kaushika Dhwani and Bhinna Shadaj as described by the revered musicologist [*Sarang Dev*](https://en.wikipedia.org/wiki/%C5%9A%C4%81r%E1%B9%85gadeva) in his treatise [Sangeet Ratnakar](https://en.wikipedia.org/wiki/Sangita_Ratnakara) are the same or different, we will tackle that discussion on another occasion.
 
 ## Program Notes
 
