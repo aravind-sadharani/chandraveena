@@ -37,7 +37,7 @@ Here are some notes about the Raga and the Tala.
 
 **Melakarta** - Hanumatodi (Sa re ga ma Pa dha ni)
 
-**Prahar** - 1st prahar (equivalent to 6 AM - 9 PM)
+**Prahar** - 1st prahar (equivalent to 6 AM - 9 AM)
 
 ### Reading the scale
 In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. This scale does not have any Tivar notes. Notes written fully in lower case are called Komal (or flat) notes. E.g., re and ga above. Sa and Pa are always written with a capitalized first letter.
