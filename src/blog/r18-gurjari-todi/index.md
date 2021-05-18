@@ -24,7 +24,13 @@ As you can observer, the notes **ga** and **Ma** of Raga Gurjari Todi do not bel
 
 **Scale** - Sa re ga Ma Pa dha Ni
 
-The ga and Ma in Raga Gurjari Todi can be regarded as originating from the Shuddha Todi scale. Thus, it is more accurate to say that Raga Gurjari Todi is a mixture of Raga Gurjari and Raga Shuddha Todi. This is what we call a *Jod* Raga, a mixture of two scales. This is also a *Pancham Varjit* (fifth dropped) shadav (hexatonic) scale.
+The ga and Ma in Raga Gurjari Todi can be regarded as originating from the Shuddha Todi scale. 
+
+This brings up the question, where is Bhairav in Gurjari Todi, and which part is Todi. Can Gurjari Todi be the same as dropping Pa from Shuddha Todi?
+
+Now, Todi is typically characterised by a very flat re and ga - what we call atikomalatama svar. Based on *Samvaad* principle of Indian music, this would entail the corresponding fifths to be very flat. In Shuddha Todi, dha is very flat, and Pa is *Alpatva*. However, in Bhairav, dha is a sharper note (has a sharper re as well), often played with andolita (oscillation of note). Gurjari Todi takes this aspect of Bhairav. This in turn raises the pitch of re and ga, compared to Shuddha Todi, as may be noticed in the playing. This also differentiates it from Shuddha Todi. However, I would say that it still evokes a dominant feeling of Todi more than Bhairav, mostly because of the ga - Ma - Ni triad.
+
+Thus, it is more accurate to say that Raga Gurjari Todi is a mixture of Raga Gurjari and Raga Shuddha Todi. This is what we call a *Jod* Raga, a mixture of two scales. This is also a *Pancham Varjit* (fifth dropped) shadav (hexatonic) scale.
 
 I present a [Raga Alapana](/blog/raga-alapana/) in Raga Gurjari Todi on Chandraveena. Note the unusual Tanpura tuning for this recording. It may bother you or push you out of your comfort zone, and yet, it will match and merge with the Raga Gurjari Todi being played. Hope you enjoy the music.
 
