@@ -1,42 +1,38 @@
 ---
 title: "Raga Gurjari Todi - a jod Raga?"
-date: 2021-04-25
-image: "../../../images/"
+date: 2021-05-30
+image: "../../../images/ytthumb-gurjari-todi.png"
 description: "Raga Gurjari Todi is a very popular morning Raga. It is a hexatonic scale, with the Pancham (fifth) dropped. Here, I present an Alap in Raga Gurjari Todi on Chandraveena. Though Raga Gurjari and Raga Gurjari Todi are used interchangeably today, they are different Ragas. Read on to know more!"
 ---
 
 <you-tube videoid="--OO6cP8cO4"></you-tube>
 <br>
 
-Over the centuries, the Indian Raga system have evolved from different sources. Some have evolved out of modal / scale change *Murchhanas* of a more basic scale, known as the [Jati-Murchhana system](/blog/grammar-of-music/). Some Ragas were inspired by folk tunes (Eg, Raga Kafi), some evolved out of Regional melodies (Eg, Gowla, Saurashtra etc). These were then formalised according to the [Lakshanas and Lakshyas](/blog/grammar-of-music/) of Indian classical music system. One such regional melody is *Raga Gurjari*, mostly thought to have originated from the [Gurjar](https://en.wikipedia.org/wiki/Gurjar) community. 
+Over the centuries, the Indian Raga system has evolved from different sources. Some Ragas have evolved out of modes or *Murchhanas* of a more basic scale. Today, we refer to such Ragas as a product of the [Jati-Murchhana system](/blog/grammar-of-music/). Some Ragas were inspired by folk tunes (e.g., *Raga Kafi*), while others evolved from regional melodies (e.g., *Gowla*, *Saurashtra*, etc). These Ragas were then formalised according to the [Lakshanas and Lakshyas](/blog/grammar-of-music/) of Indian Classical music. One such regional melody is *Raga Gurjari*, which is mostly thought to have originated from the [Gurjar](https://en.wikipedia.org/wiki/Gurjar) community. 
 
-Though today Raga Gurjari and Raga Gurjari Todi are used interchangeably, they are different Ragas. Let us look at what our treatises say about Raga Gurjari, and how it is related to Raga Gurjari Todi.
+Today, *Raga Gurjari* and *Raga Gurjari Todi* are used interchangeably. But actually, they were different Ragas. Let us look at what some treatises on Indian Classical music say about *Raga Gurjari*, and how it is related to *Raga Gurjari Todi*.
 
-According to 17th century literature *Sangita Saramrta* and *Raga Lakshanamu*, Raga Gurjari is a janya(derivative scale) of Mela (parent scale) *Malavagowla*. According to one *Raga-Ragini* (male / female) system of Raga classification, Raga Gurjari is a Ragini of *Raga Bhairav*. Malavagowla and Bhairav scale is:
+There are a number of Raga classification systems described in Indian scriptures. One of them is the *Mela-Janya* system which classified Ragas as parent Ragas (*Mela*) and their derivatives (*Janya*). Another system is the *Raga-Ragini* system which groups Ragas as masculine (*Raga*) and their feminine counterparts (*Ragini*). According to 17th century literature, specifically, *Sangita Saramrta* and *Raga Lakshanamu*, Raga Gurjari is a *Janya* of the *Mela* *Malavagowla*. According to the *Raga-Ragini* system, Raga Gurjari is considered a Ragini of *Raga Bhairav*. The scale of Malavagowla and Bhairav is the same. Refer to the Program Notes below for the notation.
 
-**Scale** - Sa re Ga ma Pa dha Ni (Please refer to the Program Notes below for the notation.)
+**Scale** - Sa re Ga ma Pa dha Ni 
 
 Now, the scale of *Raga Gurjari Todi* is:
 
 **Scale** - Sa re ga Ma dha Ni
 
-ga and Ma of Raga Gurjari Todi do not belong to the parent scale of Raga Gurjari. So, where do they come from? Now, let us look at the scale of *Raga Shuddha Todi*.
+As you can observer, the notes **ga** and **Ma** of Raga Gurjari Todi do not belong to the parent scale of Raga Gurjari. So, where do they come from? Now, let us look at the scale of *Raga Shuddha Todi*:
 
 **Scale** - Sa re ga Ma Pa dha Ni
 
-The ga and Ma on Raga Gurjari Todi is from the Shuddha Todi scale. Hence Raga Gurjari Todi is a mixture of Raga Gurjari and Shuddha Todi scale. This is what we call a *Jod* Raga, a mixture of two scales. This is also a *Pancham Varjit* (fifth dropped) shadav (hexatonic) scale.
+The ga and Ma in Raga Gurjari Todi can be regarded as originating from the Shuddha Todi scale. Thus, it is more accurate to say that Raga Gurjari Todi is a mixture of Raga Gurjari and Raga Shuddha Todi. This is what we call a *Jod* Raga, a mixture of two scales. This is also a *Pancham Varjit* (fifth dropped) shadav (hexatonic) scale.
 
-I present a Raga Alapana in Raga Gurjari Todi on Chandraveena.
-
-Note the unusual Tanpura tuning for this recording. It will push you out of comfort zone, and yet, will merge with the Raga that is being played.
-
-Enjoy the music.
+I present a [Raga Alapana](/blog/raga-alapana/) in Raga Gurjari Todi on Chandraveena. Note the unusual Tanpura tuning for this recording. It may bother you or push you out of your comfort zone, and yet, it will match and merge with the Raga Gurjari Todi being played. Hope you enjoy the music.
 
 ## Program Notes
 
 ### Raga Alapana in Raga Gurjari Todi
 
-Raga [Alapana](/blog/raga-alapana/) is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. Usually, it has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
+Raga Alapana is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. Usually, it has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
 
 Here are some notes about the Raga.
 
