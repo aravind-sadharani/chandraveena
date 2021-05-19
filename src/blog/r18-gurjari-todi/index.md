@@ -24,11 +24,11 @@ As you can observer, the notes **ga** and **Ma** of Raga Gurjari Todi do not bel
 
 **Scale** - Sa re ga Ma Pa dha Ni
 
-The ga and Ma in Raga Gurjari Todi can be regarded as originating from the Shuddha Todi scale. 
+We could argue that ga and Ma in Raga Gurjari Todi come from from the Shuddha Todi scale. But this raises the question: which part is Bhairav and which part is Todi? Can Gurjari Todi be considered the same as dropping Pa from Shuddha Todi?
 
-This brings up the question, where is Bhairav in Gurjari Todi, and which part is Todi. Can Gurjari Todi be the same as dropping Pa from Shuddha Todi?
+To understand this better, we need to recognize that Todi is characterised by a very flat **re** and **ga**, what we call *atikomalatama* svar. Based on the *Samvaad* principle of Indian music, this would entail the corresponding fifths to be very flat. Thus, in Shuddha Todi, dha is very flat. Besides, Pa is already *Alpatva* (sparingly used). In contrast, in Bhairav, dha is a sharper note with a matching sharper re as well. Further, dha is often played as *andolita* (shaken or oscillated).
 
-Now, Todi is typically characterised by a very flat re and ga - what we call atikomalatama svar. Based on *Samvaad* principle of Indian music, this would entail the corresponding fifths to be very flat. In Shuddha Todi, dha is very flat, and Pa is *Alpatva*. However, in Bhairav, dha is a sharper note (has a sharper re as well), often played with andolita (oscillation of note). Gurjari Todi takes this aspect of Bhairav. This in turn raises the pitch of re and ga, compared to Shuddha Todi, as may be noticed in the playing. This also differentiates it from Shuddha Todi. However, I would say that it still evokes a dominant feeling of Todi more than Bhairav, mostly because of the ga - Ma - Ni triad.
+Gurjari Todi retains this aspect of Bhairav which raises the pitch of re and dha, compared to Shuddha Todi. This also forces ga to be a bit sharper as well. As a keen enthusiast of Indian Classical music, you may notice this in the playing. While this differentiates it from Shuddha Todi, it still retains a dominant feeling of Todi more than Bhairav, mostly because of the ga - Ma - Ni triad.
 
 Thus, it is more accurate to say that Raga Gurjari Todi is a mixture of Raga Gurjari and Raga Shuddha Todi. This is what we call a *Jod* Raga, a mixture of two scales. This is also a *Pancham Varjit* (fifth dropped) shadav (hexatonic) scale.
 
