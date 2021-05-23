@@ -1,6 +1,6 @@
 ---
 title: "Raga Gurjari Todi - a jod Raga?"
-date: 2021-05-30
+date: 2021-05-23
 image: "../../../images/ytthumb-gurjari-todi.png"
 description: "Raga Gurjari Todi is a very popular morning Raga. It is a hexatonic scale, with the Pancham (fifth) dropped. Here, I present an Alap in Raga Gurjari Todi on Chandraveena. Though Raga Gurjari and Raga Gurjari Todi are used interchangeably today, they are different Ragas. Read on to know more!"
 ---
