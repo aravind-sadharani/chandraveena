@@ -16,7 +16,7 @@ It is clearly one of the oldest scales in Indian classical music. We already had
 
 ### Brief lakshana and lakshya of Raga Shankarabharanam
 
-Raga Shankarabharanam, as a Nishad murchana of Shadaj Gram, Re, Dha and Pa are at Chatusruti intervals, Ga and Ni are at trisruti intervals (though they're Antara Gandhara and Kakali Nishad), ma and Sa at dvisruti intervals. In terms of Lakshya, Ga is the most powerful graha, amsa and nyasa. Ga-Dha, Dha-Ga, Re-Dha, Dha-Re pairs are not welcome, Dha is never to be used plain but as deergha kampita(for eg., as Dha Ni Dha phrase). ma has two shades, based on whether ma is part of the phrase starting from Dha or Ga.
+Raga Shankarabharanam, as a Nishad murchana of Shadaj Gram, Re, Dha and Pa are at Chatusruti intervals, Ga and Ni are at trisruti intervals (though they're Antara Gandhara and Kakali Nishad), ma and Sa at dvisruti intervals. In terms of Lakshya, Ga is the most powerful graha, amsa and nyasa. Ga-Dha, Dha-Ga, Re-Dha, Dha-Re pairs are not very suitable, Dha is never to be used plain but as deergha kampita(for eg., as Dha Ni Dha phrase). ma has two shades, based on whether ma is part of the phrase starting from Dha or Ga.
 
 ### A note on Raga Bilawal
 
