@@ -12,23 +12,17 @@ description: "Raga Shankarabharanam has been described as Lord Shiva himself dan
 
 **Scale** - Sa Re Ga ma Pa Dha Ni
 
-It is clearly one of the oldest scales in Indian classical music. We already had a sophisticated [Jati-Murchhana system](/blog/grammar-of-music/) of music, through which many *jatis* (modern day Raga equivalents) were created. Some scholars believe that the scale of *Shankarabharanam* has originated from the *Nishad* *Murchhana* of [*Shadaj Gram*](https://puretones.sadharani.com/musicalscales/). In other words, it can be derived by moving the *Graha Swara* (home note or starting note) to the *Nishad* of Shadaj Gram. This murchhana, "ni Sa Re ga ma Pa Dha ni", when moved to Sa becomes "Sa Re Ga ma Pa Dha Ni". 
+It is one of the oldest scales in Indian classical music. It probably originated from the sophisticated [Jati-Murchhana system](/blog/grammar-of-music/) of music, through which many *jatis* (modern day Raga equivalents) were created. Some scholars believe that the scale of *Shankarabharanam* has originated from the *Nishad* *Murchhana* of [*Shadaj Gram*](https://puretones.sadharani.com/musicalscales/). In other words, it can be derived by moving the *Graha Swara* (home note or starting note) to the *Nishad* of Shadaj Gram. This murchhana, "ni Sa Re ga ma Pa Dha", when moved to Sa becomes "Sa Re Ga ma Pa Dha Ni". 
 
-### Brief lakshana and lakshya of Raga Shankarabharanam
+Raga Shankarabharanam is the 29th Melakarta in the 72 Melkarta system of Raga Classification. It is also commonly called *Raga Bilawal*, especially in North India. However, the origin of the name *Bilawal* and its musical lineage are not very clear. To the best of my quest, I have not found the name *Bilawal* mentioned in any of the early scriptures on Indian music. However, there is a scale mentioned called *Velavali*. Some scholars are of the opinion that Bilawal is Velavali.
 
-Raga Shankarabharanam, as a Nishad murchana of Shadaj Gram, Re, Dha and Pa are at Chatusruti intervals, Ga and Ni are at trisruti intervals (though they're Antara Gandhara and Kakali Nishad), ma and Sa at dvisruti intervals. In terms of Lakshya, Ga is the most powerful graha, amsa and nyasa. Ga-Dha, Dha-Ga, Re-Dha, Dha-Re pairs are not very suitable, Dha is never to be used plain but as deergha kampita(for eg., as Dha Ni Dha phrase). ma has two shades, based on whether ma is part of the phrase starting from Dha or Ga.
+This kind of a distortion or aberration of the term is quite possible. India is a vast country with a diverse culture and languages. In some parts of Indian, **व** (Va) and **ब** (Ba) are used interchangeably. For instance, in parts of India **वीणा** (Veena) and **बीना** (Beena) are used to mean the same instrument. The latter term has eventually has turned into **बीन** (Been) which today means the Rudra Veena. So, perhaps due to regional eccentricities, Velavali may have become Bilawal. But, as of now, I do not have enough information on the scale of Velavali to say for sure. When I do have more information, I will update the post.
 
-### A note on Raga Bilawal
-
-It is the 29th Melakarta in the 72 Melkarta system of Raga Classification. It is also commonly called *Raga Bilawal*, especially in North India. However, the origin of the name *Bilawal* and its musical lineage are not very clear. To the best of my quest, I have not found the name *Bilawal* mentioned in any of the early scriptures on Indian music. However, there is a scale mentioned called *Velavali*. Some scholars are of the opinion that Bilawal is Velavali.
-
-This kind of a distortion or aberration of the term is quite possible. India is a vast country with a diverse culture and languages. In some parts of Indian, **व** (Va) and **ब** (Ba) are used interchangeably. For instance, in parts of India **वीणा** (Veena) and **बीना** (Beena) are used to mean the same instrument. The latter term has eventually has turned into **बीन** (Been) which today means the Rudra Veena. So, perhaps due to regional eccentricities, Velavali may have become Bilawal.
-
-But, as of now, I do not have enough information on the scale of Velavali to say for sure. When I do have more information, I will update the post.
-
-## Program Notes
+In terms of [*Lakshya*](/blog/what-is-classical/), Ga is considered the most powerful note for *amsa* and *nyasa*. Dha is generally not used as a plain note but as a *deergha kampita* note (for e.g., as a Dha-Ni-Dha phrase). The note ma has two shades, based on whether ma is part of a phrase starting from Dha or from Ga.
 
 The association of this Raga with Lord Shiva lends it a certain grandeur, which is also aided in no small measure, by its musical structure. In keeping with the grandness of this Raga, I present a detailed Alap in Raga Shankarabharanam. Enjoy the music.
+
+## Program Notes
 
 ### Raga Alapana in Raga Shankarabharanam
 
