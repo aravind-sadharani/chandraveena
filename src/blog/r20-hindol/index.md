@@ -1,27 +1,25 @@
 ---
 title: "Raga Hindol - Song of the Dawn"
-date: 2020-05-30
-image: "../../../images/"
-description: "Raga Hindol is one of the oldest Ragas in Indian Classical Music. It is considered as one of the six principal Ragas in one version of Raga - Ragini classification of Ragas in Indian Classical Music. It is an Audava(Pentatonic) early morning Raga, one of the few morning Ragas with Tivra Madhyam (Augmented Fourth)"
+date: 2021-07-12
+image: "../../../images/ytthumb-hindol.png"
+description: "Raga Hindol is one of the oldest Ragas in Indian Classical Music. It is considered as one of the six principal Ragas in one version of Raga - Ragini classification of Ragas in Indian Classical Music. It is an Audava (Pentatonic) early morning Raga, one of the few morning Ragas with Tivra Madhyam (Augmented Fourth)"
 ---
 <you-tube videoid="5AdayXcrgNU"></you-tube>
 <br>
 
-There are many systems of Raga classifcation in Indian Classical Music including *Raga - Ragini*, *Melakarta*, *Janaka - Janya*, *Thaat*, etc. These different systems enable a musician to understand the melodic structure of a Raga based on its heritage and association with other Ragas. 
+There are many systems of Raga classifcation in Indian Classical Music, notably, *Raga - Ragini*, *Melakarta*, *Janaka - Janya* and *Thaat*. These different systems enable a musician to understand the melodic structure of a Raga based on its heritage and association with other Ragas. In addition to these relationships, each Raga also has its *unique* identity which is formalised according to its [Lakshanas and Lakshyas](/blog/grammar-of-music/).
 
-Over the centuries, the Indian Raga system has evolved from different sources. Some Ragas have evolved out of modes or *Murchhanas* of a more basic scale. Today, we refer to such Ragas as a product of the [Jati-Murchhana system](/blog/grammar-of-music/). Some Ragas were inspired by folk tunes (e.g., *Raga Kafi*), while others evolved from regional melodies (e.g., *Gowla*, *Saurashtra*, etc). These Ragas were then formalised according to the [Lakshanas and Lakshyas](/blog/grammar-of-music/) of Indian Classical music.  
+*Raga Hindol* is one of the principal Ragas in the *Raga-Ragini* system. This system groups Ragas as masculine (*Raga*) and their feminine counterparts (*Ragini*). It is one of the oldest systems of classification, and it has some variations. In the version I am familiar with, the following six Ragas are regarded as the principal Ragas: *Bhairav*, ***Hindol***, *Shree*, *Megh*, *Deepak* and *Malkauns*. There is also a symbolic association here to Indian deities. Specifically, some say that the first 5 Ragas came from Lord Shiva, and the sixth, Raga Malkauns, from Goddess Parvati.
 
-Another system is the *Raga-Ragini* system which groups Ragas as masculine (*Raga*) and their feminine counterparts (*Ragini*). The Raga-Ragini system of classification is one of the oldest systems. In one popular version of this system, it is generally regarded as consisting of six principal Ragas, namely, *Bhairav*, ***Hindol***, *Shree*, *Megh*, *Deepak* and *Malkauns*. There is also a symbolic association here to Indian deities. Specifically, some say that the first 5 Ragas came from Lord Shiva, and the sixth, Raga Malkauns, from Goddess Parvati.
-
-Raga Hindol is one of the few morning Ragas which uses Tivra Madhyam (Augmented Fourth). Most of the Tivra Madhyam Ragas are late afternoon/early evening Ragas in the time based Raga classification of Ragas in Indian classical music. In keeping with the spirit of this Raga, we did the recording early morning. As the music progresses, you can hear the chirps of the early dawn birds!
+Raga Hindol is one of the few morning Ragas which uses Tivra Madhyam (Augmented Fourth). Generally, Tivra Madhyam Ragas are late afternoon or early evening Ragas as per the Prahar (time of day) system in Indian classical music.
 
 Let us now look at the scale of the Raga (refer to the Program Notes below for the notation).
 
 **Scale** - Sa Ga Ma Dha Ni
 
-As you can see, its a Pancham Varjit (drops Fifth), Audava (Pentatonic) Raga. In terms of [*Lakshya*](/blog/what-is-classical/), Ga is considered the anchor note for *graha*, *amsa* and *nyasa*. There is symmetry in the phrases Ma-Dha and Dha-Sa. Ni is used as a *Hrasva* (short note).
+As you can see, it is a Pancham Varjit (Fifth is dropped), Audava (Pentatonic) Raga. In terms of [*Lakshana*](/blog/grammar-of-music/), Ga is considered the anchor note for *graha*, *amsa* and *nyasa*. There is symmetry in the phrases/intervals Ma-Dha and Dha-Sa. Ni is used as a *Hrasva* (short note).
 
-Enjoy the Music!
+In keeping with the spirit of this Raga, we did the recording early morning. As the music progresses, you can hear the chirps of the early dawn birds! Enjoy the Music!
 
 ## Program Notes
 
