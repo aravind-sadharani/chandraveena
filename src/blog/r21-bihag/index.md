@@ -35,7 +35,7 @@ Here are some notes about the Raga.
 
 **Melakarta** -  *Bhashang* *Janya* Raga of Mechakalyani (Sa Re Ga Ma Pa Dha Ni)
 
-**Prahar** - 4th and 5th (equivalent to 6 PM - 12 PM)
+**Prahar** - 6th Prahar (equivalent to 9 PM - 12 PM)
 
 ### Reading the scale
 In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma Pa Dha Ni and then Sa comes again. Notes with a capitalised first letter are called Tivra (or sharp) notes. E.g., Re Ma above. Notes written fully in lower case are called Komal (or flat) notes E.g., ma above. Sa and Pa are always written with a capitalized first letter.
