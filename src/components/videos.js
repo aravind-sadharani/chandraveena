@@ -23,6 +23,8 @@ const Thumbnail = styled.img`
    top: -16.67%;
    left: 0;
    cursor: pointer;
+   visibility: ${props => props.visibility === true ? `visible` : `hidden`};
+   transition: visibility ease-out 100ms;
  `
 
 class YouTubeClass extends React.Component {
@@ -46,10 +48,7 @@ class YouTubeClass extends React.Component {
           src={`https://www.youtube.com/embed/${src}?start=${start}&end=${end};rel=0`}
           onLoad={this.hideThumb}
         />
-        { this.state.showThumb ?
-          <Thumbnail alt="" src={`https://img.youtube.com/vi/${src}/hqdefault.jpg`} />
-          : null
-        }
+        <Thumbnail alt="" src={`https://img.youtube.com/vi/${src}/hqdefault.jpg`} visibility={this.state.showThumb} />
        </VideoContainer>
      )
   }

@@ -1,23 +1,21 @@
 ---
-title: "Two Madhyams Raga Bihag"
+title: "Raga Bihag with Two Madhyams"
 date: 2021-08-26
-image: "../../../images/"
-description: "Raga Bihag is a beautiful late evening / night Raga. There are two versions of this Raga - one version with a single Madhyam - Komal Madhyam, and another with both the Madhyams. Here in this performance, I present Raga Alapana in Raga Bihag using both the Madhyams. There are 3 parts - Alap, Jod and Jhala, also known as Alapana and Tanam."
+image: "../../../images/ytthumb-bihag.png"
+description: "Raga Bihag is a beautiful late evening or night Raga. There are two versions of this Raga - one version with a single Madhyam - Komal Madhyam, and another with both the Madhyams. Here in this performance, I present Raga Alapana in Raga Bihag using both the Madhyams. There are 3 parts - Alap, Jod and Jhala, also known as Alapana and Tanam."
 ---
 <you-tube videoid="5qXFFVkv-IY"></you-tube>
 <br>
 
-Raga *Bihag* is a beautiful late evening / night Raga. There are two ways in which this Raga can be rendered. One version, which uses only Komal Madhyam, and a second version which uses both the Madhyams. In the latter version, the Tivra or the Sharp Madhyam is used as an *ati-shringar* (evoke a subtle emotion) *Hrasva* (subtle and short standing) note. Here I present Raga Bihag with both the Madhyams. The Scale of the Raga as I present is:
+Raga *Bihag* is a beautiful late evening or night Raga. There are two ways in which this Raga can be rendered. One version uses only the Komal Madhyam, while the second version which uses both the Madhyams. In the latter version, the Tivra (sharp) Madhyam is used as an *Ati-shringar* (subtle ornamentation) and a *Hrasva* (soft and short) note. Here I present Raga Bihag with both the Madhyams. The scale of the Raga as I present it is:
 
-**Scale** - Sa Re Ga ma Ma Pa Dha Ni (refer to the Program Notes below for the notation).
+**Scale** - Sa Re Ga ma Ma Pa Dha Ni
 
-As you can see from the scale above, the four semi-tones together (Ga ma Ma Pa) can pose quite a challenge. These notes are used in accordance with [Lakshanas and Lakshyas](/blog/grammar-of-music/) of the Raga, and not necessarily as a *Krama* (in order) contiuous set of notes.  *Tivra Rishabh* (**Re**) and *Tivra Dhaivat* (**Dha**) are used in an *Alpatva* (very subtle and not often used) way. 
+As you can see from the scale above, it has four consecutive semi-tones - Ga ma Ma Pa - which can pose quite a challenge. These notes are used in accordance with the [Lakshanas and Lakshyas](/blog/grammar-of-music/) of the Raga, and not necessarily as per their *Krama* (sequence). This Raga is also commonly performed without *Tivra Rishabh* (**Re**) and *Tivra Dhaivat* (**Dha**). However, in this presentation, Re and Dha are employed as *Alpatva* (very subtle and sparingly used).
 
-It is one of the many Ragas which uses both the *Madhyams* - *Komal Madhyam* (**ma**) and *Tivra Madhyam* (**Ma**). This creates quite a dilemma with regard to classifying this Raga. I have chosen to take Raga Bihag as a *Janya* (derivative) raga of Melakarta Mechakalyani (Family Kalyani) based on my understanding and the way I have approached this Raga - though some musicologists classify it under Bilwal (Melakarta Shankarabharanam). 
+Being one of those Ragas which uses both the *Madhyams* - *Komal Madhyam* (**ma**) and *Tivra Madhyam* (**Ma**), it creates quite a dilemma with regard to classifying this Raga. I have chosen to take Raga Bihag as a *Janya* (derivative) raga of *melakarta Mechakalyani* or from the family of *Kalyani*. This is based on my understanding and based on the way I have approached this Raga. Some musicologists do classify it under the family of *Bilawal* or *melakarta Shankarabharanam*. 
 
-In this presentation of *Raga Bihag* on Chandraveena, I present a Raga Alapana in three parts - Alap, Jod and Jhala also known as Alapana and Tanam. This Raga is commonly performed without Re and Dha. However, in this presentation, note the intricate usage of the two Madhyams, Rishabh and Dhaivat.
-
-Enjoy the music!
+In this presentation of *Raga Bihag* on Chandraveena, I present a Raga Alapana in three parts - Alap, Jod and Jhala also known as Alapana and Tanam. Enjoy the music!
 
 ## Program Notes
 
@@ -33,7 +31,7 @@ Here are some notes about the Raga.
 
 **Family** - Kalyani
 
-**Melakarta** -  *Bhashang* *Janya* Raga of Mechakalyani (Sa Re Ga Ma Pa Dha Ni)
+**Melakarta** -  *Bhashanga Janya* Raga of Mechakalyani (Sa Re Ga Ma Pa Dha Ni)
 
 **Prahar** - 6th Prahar (equivalent to 9 PM - 12 PM)
 
