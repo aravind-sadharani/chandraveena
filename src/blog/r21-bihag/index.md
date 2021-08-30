@@ -1,6 +1,6 @@
 ---
 title: "Raga Bihag with Two Madhyams"
-date: 2021-08-26
+date: 2021-08-30
 image: "../../../images/ytthumb-bihag.png"
 description: "Raga Bihag is a beautiful late evening or night Raga. There are two versions of this Raga - one version with a single Madhyam - Komal Madhyam, and another with both the Madhyams. Here in this performance, I present Raga Alapana in Raga Bihag using both the Madhyams. There are 3 parts - Alap, Jod and Jhala, also known as Alapana and Tanam."
 ---
@@ -15,7 +15,7 @@ As you can see from the scale above, it has four consecutive semi-tones - Ga ma 
 
 Being one of those Ragas which uses both the *Madhyams* - *Komal Madhyam* (**ma**) and *Tivra Madhyam* (**Ma**), it creates quite a dilemma with regard to classifying this Raga. I have chosen to take Raga Bihag as a *Janya* (derivative) raga of *melakarta Mechakalyani* or from the family of *Kalyani*. This is based on my understanding and based on the way I have approached this Raga. Some musicologists do classify it under the family of *Bilawal* or *melakarta Shankarabharanam*. 
 
-In this presentation of *Raga Bihag* on Chandraveena, I present a Raga Alapana in three parts - Alap, Jod and Jhala also known as Alapana and Tanam. This alap performance is accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com), and developed by [Sadharani Music Works](https://www.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga. Note how the Drone along with its harmonics merge into the notes and phrases of the Raga. If it sounds interesting to you, be sure to check out [PureTones](https://puretones.sadharani.com). This Drone is freely avaialable for your use. Get in touch with us if you need any assistance.
+In this presentation of *Raga Bihag* on Chandraveena, I present a Raga Alapana in three parts - Alap, Jod and Jhala also known as Alapana and Tanam. This alap performance is accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com), and developed by [Sadharani Music Works](https://www.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga. Note how the Drone along with its harmonics merge into the notes and phrases of the Raga. If it sounds interesting to you, be sure to check out [PureTones](https://puretones.sadharani.com). This Drone is freely available for your use. Get in touch with us if you need any assistance.
 
 Enjoy the music!
 
