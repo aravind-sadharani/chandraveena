@@ -1,20 +1,26 @@
 ---
 title: "Veena and Vani - A musical conversation in Raga Shuddha Sarang"
 date: 2022-04-03
-image: "../../../images/"
+image: "../../../images/ytthumb-shuddha-sarang-duet.png"
 description: "Vocal and Veena have been partners in music since Vedic times. Here we present a Veena-Vocal jugalbandhi(duet) in Raga Shuddha Sarang - a Raga Alapana consisting of Alap, Jod and Jhala also known as Alapana and Tanam."
 ---
 
 <you-tube videoid="6YdAbobD1js"></you-tube>
 <br>
 
-You may have already read an introduction to the tradition of Vocal-Veena performing together in our earlier presentation of Veena-Vani duet. In case you missed it, you can read about it in our rendition of [Raga Bhimpalasi](/blog/r11-veena-vani-bhimpalasi). In Indian classical music tradition, it has been said that a complete musician is one where the Vocalist is trained on Veena, and a Vainkia is trained in Vocal. This is based on the principle that by this process - a vocalist imbibes the best practices of *tanktrakari* (instrumental traits) in his/her voice, and a Vainika imbibes the best practices of *Gayaki* (vocal traits) on Veena. While this practice was common across Indian traditions, currently, only a few schools of music in Dhrupad still practice this tradition. 
+Indian Classical music has a time-honoured tradition of vocals and veena performing together. You may have already read about it during our earlier presentation of Veena-Vani duet in [Raga Bhimpalasi](/blog/r11-veena-vani-bhimpalasi).
 
-In this session, we present a Chandraveena - Vocal duet in Raga Shuddha Sarang. Here we present Raga Alapana, consisting of Alap and Jod, also known as Alapana and Tanam.
+It has been said that an Indian Classical musician's training is complete when as a vocalist they are trained on a veena, or as a *Vainika* (veena player) they are trained in vocals. In other words, a vocalist ought to imbibe the best practices of *Tantrakari* (instrumental traits) in their voice, and a Vainika ought to imbibe the best practices of *Gayaki* (vocal traits) on Veena. While this practice used to be common across Indian traditions, only a few schools of music in Dhrupad still follow it. 
+
+In this session, we present a Chandraveena - Vocal duet in *Raga Shuddha Sarang*. We present a Raga Alapana, consisting of Alap and Jod, also known as Alapana and Tanam.
 
 We are pleased to feature Aparna Shastri on vocals. She is a trained vocalist under master vocalist late Ustad Zia Fariduddin Dagar. She has also received guidance from Pandit Uday Bhawalkar and Ustad Mohi Bahauddin Dagar.
 
-As two musicians trained in the same school of music, we understand the structure and the flow of music so as to present a unified music - rather than as two musicians presenting an independent versions of the Raga. Another point to note is that: as a Vainika performing with a Vocalist, I have to adapt to the singing style so that we complement each other. To contrast this: you can also hear my solo version of [Raga Shuddha Sarang](/blog/r8-shuddha-sarang). While you will find similarities in the structure of the presentation, as a soloist, I take full advantage of the range of my instrument, and every instrumental technique available to me. However, here, we feed each other ideas, take off from where the other leaves, complete the phrases started by the other etc. It is literally a *Sangeet Samvad* (a musical conversation) between two musicians. And thats where lies the true beauty in a duet. Enjoy the music!
+As two musicians trained in the same school of music, we understand the structure and the flow of music so as to present a unified music - rather than as two musicians presenting independent versions of the Raga. Another point to note is that as a Vainika performing with a Vocalist, I have to adapt to the singing style so that we complement each other.
+
+To contrast this, you can also hear my solo version of [Raga Shuddha Sarang](/blog/r8-shuddha-sarang). While you will find similarities in the structure of the presentation, as a soloist, I can take full advantage of the range of my instrument, and every instrumental technique available to me.
+
+However, here, we feed off each other ideas, pick up from where the other leaves, completing their phrases and so on. It is meant to be a *Sangeet Samvad* (a musical conversation). Hope we have captured the true spirit of a duet. Enjoy the music!
 
 ## Program Notes
 
@@ -51,6 +57,7 @@ In Indian Classical Music, Ragas are classified into Prahars (time periods of a 
 ## Credits
 ### Artist
 Chandraveena - S Balachander
+
 Vocals - Aparna Shastri
 
 ### Production
