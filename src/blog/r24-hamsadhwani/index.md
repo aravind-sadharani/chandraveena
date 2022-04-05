@@ -1,20 +1,22 @@
 ---
 title: "Raga Hamsadhwani - Raga of the North and South"
-date: 2020-04-17
-image: "../../../images/"
+date: 2022-04-17
+image: "../../../images/ytthumb-hamsadhwani.png"
 description: "Raga Hamsadhwani is a very popular Raga of the North and South Indian classical music. Here I present an extensive Raga Alapana in Raga Hamsadhwani. Raga Alapana consists of three parts - Alap, Jod and Jhala, also known as Ragam, Tanam."
 ---
 <you-tube videoid="SKAi1FN5duU"></you-tube>
 <br>
 
-*Raga Hamsadhwani* is a very popular Raga across India in both North Indian and South Indian classical music forms. You may have heard an extermely popular *Kriti* (lyrical composition) in Raga Hamsadhwani - **Vatapi Ganapatim Bhaje**, and many tunes based on the melody of this composition. This composition was created by a well known musician composer Shri Muthuswami Dikshitar. It is widely believed that Raga Hamasadhwani was created by his musician father - Shri Ramaswami Dikshitar in the 18th century.
+*Raga Hamsadhwani* is a very popular Raga played extensively in both North and South India. You may have heard the popular *Kriti* (lyrical composition) in Raga Hamsadhwani - **Vatapi Ganapatim Bhaje**, and many tunes based on the melody of this composition. This composition was created by a well known musician composer Shri Muthuswami Dikshitar. It is widely believed that Raga Hamasadhwani was created by his musician father - Shri Ramaswami Dikshitar in the 18th century.
 
-You may have already heard a brief of the Raga in my earlier post on [Story of Chandraveena](/blog/the-musical-story-of-chandraveena). Here I present an extensive Raga Alapana in Raga Hamsadhwani. This consists of three parts, Alap, Jod and Jhala also known as Ragam, Tanam.
+I played brief pieces in this beautiful Raga to narrate the [Story of Chandraveena](/blog/the-musical-story-of-chandraveena/), my instrument, and to compare it musically to the traditional instrument, Saraswati Veena. Do check out those recordings, if you have not seen them yet.
+
+Here I present a extensive Raga Alapana in Raga Hamsadhwani. This consists of three parts, Alap, Jod and Jhala also known as Ragam - Tanam.
 
 ## Program Notes
 
 ### Raga Alapana in Hamsadhwani
-[Raga Alapana](/blog/raga-alapana) is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. It has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
+[Raga Alapana](/blog/raga-alapana/) is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. It has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
 
 Here are some notes about the Raga.
 
