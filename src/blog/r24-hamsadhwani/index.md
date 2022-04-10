@@ -13,7 +13,7 @@ I played brief pieces in this beautiful Raga to narrate the [Story of Chandravee
 
 Here I present a extensive Raga Alapana in Raga Hamsadhwani. This consists of three parts, Alap, Jod and Jhala also known as Ragam - Tanam.
 
-A point to note: Raga Hamsadhwani can be classified as a *Janya* (derivative Raga) of Melakarta Shankarabharanam (**Sa Re Ga ma Pa Dha Ni**) by dropping **ma** and **Dha**, or as a *Janya* of Mechakalyani (**Sa Re Ga Ma Pa Dha Ni**) by dropping **Ma** and **Dha**. A detailed analysis of this *Janaka* (Parent) - *Janya* (Derived) relationship will be published on our [documentation website](https://puretones.sadharani.com). Stay tuned!
+A point to note: Raga Hamsadhwani can be classified as a *Janya* (derivative Raga) of Melakarta Shankarabharanam (**Sa Re Ga ma Pa Dha Ni**) by dropping **ma** and **Dha**, or as a *Janya* of Mechakalyani (**Sa Re Ga Ma Pa Dha Ni**) by dropping **Ma** and **Dha**. A detailed analysis of this *Janaka* (Parent) - *Janya* (Derived) relationship will be published on our tools and reference documentation [website](https://puretones.sadharani.com). Stay tuned!
 
 ## Program Notes
 
