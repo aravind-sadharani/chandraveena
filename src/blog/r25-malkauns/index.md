@@ -22,7 +22,7 @@ I am privileged to be accompanied by **Shri Sanjay Agle** for the Pallavi sessio
 ## Program Notes
 
 ### Raga Alapana in Malkauns
-Raga [Alapana](/blog/raga-alapana/)is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. It has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
+Raga [Alapana](/blog/raga-alapana/) is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. It has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam.
 
 Here are some notes about the Raga.
 
