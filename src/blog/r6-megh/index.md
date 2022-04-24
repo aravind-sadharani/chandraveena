@@ -11,9 +11,9 @@ There are many systems of Raga classifcation in Indian Classical Music including
 
 Be that as it may, Raga Megh is a grand and beautiful Raga. It is generally considered a cooling Raga, and associated with the monsoon season. Many traditional lyrical compositions talk of dark clouds, thunder and lightning. Given its description, the use of appropriate *Gamakas* (intonations) embellishes the Raga. Raga Megh is even featured in *Ragamala* paintings which depict Indian Ragas in the form of miniature paintings on silk, along with a textual description of the Ragas.
 
-The popular scale of Raga Megh is **Sa Re Ma Pa ni**. An allied Raga to Megh is *Madhyamavati* or *Madhumad Sarang* which has the same scale as Megh. There is a traditional version of Megh which uses *Komal Gandhar* and *Tivra Dhaivat* as well. This differentiates the Raga from Madhyamavati or Madhumad Sarang.
+The popular scale of Raga Megh is **Sa Re ma Pa ni**. An allied Raga to Megh is *Madhyamavati* or *Madhumad Sarang* which has the same scale as Megh. There is a traditional version of Megh which uses *Komal Gandhar* and *Tivra Dhaivat* as well. This differentiates the Raga from Madhyamavati or Madhumad Sarang.
 
-In this presentation of *Raga Megh* on Chandraveena, I have used ati-komal (extra flattened) Gandhar (**Ga**) as a grace note. I explore the Raga in Alap, Jod and Jhala.
+In this presentation of *Raga Megh* on Chandraveena, I have used ati-komal (extra flattened) Gandhar (**ga**) as a grace note. I explore the Raga in Alap, Jod and Jhala.
 
 ## Program Notes
 
@@ -39,7 +39,7 @@ In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma P
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
 
 ### Use of Komal Gandhar
-The popular scale of Raga Megh is **Sa Re Ma Pa ni**. This presentation of *Raga Megh* make use of ati-komal (extra flattened) Gandhar (**Ga**) as a grace note.
+The popular scale of Raga Megh is **Sa Re ma Pa ni**. This presentation of *Raga Megh* make use of ati-komal (extra flattened) Gandhar (**ga**) as a grace note.
 
 ## Credits
 ### Artist
