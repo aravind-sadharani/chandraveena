@@ -1,33 +1,32 @@
 ---
-title: "Raga Durga - Traditional Eastern Pentatonic"
+title: "Raga Durga - An Oriental Pentatonic"
 date: 2022-05-29
-image: "../../../images/"
+image: "../../../images/ytthumb-durga.png"
 description: "Raga Durga is a very popular scale in Indian music. It is traditionally performed during the late-evening hours of the day. This scale can also be found in the traditional music of China, Japan."
 ---
 
 <you-tube videoid="LAMHaalo330"></you-tube>
 <br>
 
-Raga *Durga* is a very popular scale in Indian music. It is an *audava* or a pentatonic scale. This scale is also found in traditional music of Chinese and Japanese origin. This is also known as *Shuddha Saveri* in the South Indian music system. An interesting aspect of this scale lies in the fact that every *Murchhana* (also known as *Graha Bheda* or scale change) gives rise to another well known pentatonic scale. Take a look at these scales below.
+Raga *Durga* is very popular in Indian music. It has an *audhava* or a pentatonic scale. This scale is also found in traditional music of Chinese and Japanese origin. It is also known as Raga *Shuddha Saveri* in the Carnatic tradition. An interesting aspect of this scale lies in the fact that every *Murchhana* (also known as *Graha Bheda* or scale change) gives rise to another well known pentatonic scale. We encountered this earlier in the case of [*Raga Bhoopali*](/blog/r12-bhupali/). Raga Durga showed up as the third Graha Bheda of Raga Bhoopali. Thus, the set of Ragas *Bhoopali*, *Madhmad*, *Malkauns*, *Durga* and *Dhani* are mutually related through Graha Bheda. Take a look at the article on [*Raga Bhoopali*](/blog/r12-bhupali/) for more information.
 
-* **Scale of main Raga (Raga Durga):** Sa Re ma Pa Dha (Please see Program Notes for nomenclature).
-* **First Graha Bheda:** Re ma Pa Dha Sa. Transposing this to Sa, we get Sa ga ma Pa ni - *Dhani* or *Shuddha Dhanyasi*, also known as *minor pentatonic* in Western music.
-* **Second Graha Bheda:** ma Pa Dha Sa Re. Transposing this to Sa, we get Sa Re Ga Pa Dha - *Bhoop* or *Mohanam*
-* **Third Graha Bheda:** Pa Dha Sa Re ma. Transposing this back to Sa, we get Sa Re ma Pa ni - *Madhmadh* or *Madhyamadi* or *Madhyamavati*
-* **Fourth Graha Bheda:** Dha Sa Re ma Pa. Transposing this to Sa, we get Sa ga ma dha ni - *Malkauns* or *Hindolam*
+### A Raga by any other name would sound as good!
 
-How remarkably cool is this! In Indian Classical Music, many ragas were derived as a murchhana of a scale. While in the earlier tradition of *Jati Gayan* (music of the Jati system), each scale started at different starting notes called *Graha Swara* (*Graha* means "home" and is also spelled as *Griha*, *Gruha*, etc), in the *Aadhara Shadaj* tradition of current times, all scales are sung to a single "home" or fundamental note, i.e, **Sa**.
+Given the long history of Indian Classical music with multiple threads of evolution, the names of Ragas can often be confusing. I find the name, *Shuddha Saveri*, somewhat confusing.
 
-**Confusion in the nomenclature of Shuddha Saveri**
+Let me explain what I mean. In the Carnatic system of naming *Swaras*, the lowest position of a note in the 12 note scale is denoted as a *Shuddha* note. Now what that means is *Shuddha Re* means the lowest *re* or *komal re*. Now, there is a scale called *Saveri* whose *Swaras* are *Sa re ma Pa dha SA Ni dha Pa ma Ga re Sa*. As you can see, this scale already has the lowest re and dha or the *Shuddha re* and *Shuddha dha*.
 
-I find the nomenclature *Shuddha Saveri* a bit confusing. Let me explain what i mean. In the Southern Indian system of *Swara* naming convention, the lowest position of a note in the 12 note scale is denoted as a *Shuddha* note. Now what that means is *Shuddha Re* means the lowest *re* or *komal re*. Now, there is a scale called *Saveri* whose *Swaras* are *Sa re ma Pa dha SA Ni dha Pa ma Ga re Sa*. As you can see, this scale already has the lowest re and dha or the *Shuddha re* and *Shuddha dha*. However, *Shuddha Saveri* has sharpened *re* and *dha*. On the other hand, in the North Indian nomenclature system, the sharper notes are called the *Shuddha* notes. Does it mean that the nomenclature *Shuddha Saveri* is a North Indian nomenclature? If so, then what is Durga?
-Let me add some more confusion to this. There is a Raga called *Karnataka Shuddha Saveri*, which is called *Shuddha Saveri* according to the Dikshitar school of music, with the notes *Sa re ma Pa dha SA dha pa ma re Sa* - this is atleast consistent with the nomenclature convention but resembles *Saveri* rather than the currently accepted *Shuddha Saveri*.
+However, *Shuddha Saveri* actually uses *Re* and *Dha* which are a semi-tone sharper. Now, in North India, in the Hindustani system, the sharper notes are called the *Shuddha* notes. Does it mean that the nomenclature *Shuddha Saveri* is a North Indian nomenclature? If so, then what is Durga?
 
-Independent of the naming convention, Raga Durga is a very beautiful scale, and here I present a very detailed Alap. Using the consonant pairing of `Sa ma`, `Re Pa` and `ma Dha` makes this Raga very beautiful.
+Let me add some more confusion to this. There is a Raga called *Karnataka Shuddha Saveri*, which is called *Shuddha Saveri* according to the Dikshitar school of music, with the notes *Sa re ma Pa dha SA dha pa ma re Sa*. This seems to be consistent with the convention of note nomenclature, but resembles *Saveri* rather than the currently titled *Shuddha Saveri*.
+
+Finally, Raga Durga is called Raga *Devakriya* in the Dikshitar tradition.
+
+Regardless of the name, Raga Durga is a beautiful Raga. The use of the consonant pairing of **Sa-ma**, **Re-Pa** and **ma-Dha** makes this Raga very beautiful.
 
 ## Program Notes
 
-### Short Alap in Raga Durga
+### Alapana in Raga Durga
 [Raga Alapana](/blog/raga-alapana/) is an improvisation and a systematic presentation of a Raga. This part has no rhythmic accompaniment. Usually, it has three parts - Alap, Jod and Jhala. This format is also known as Ragam and Tanam. 
 
 Here are some notes about the Raga.
@@ -49,7 +48,7 @@ In Indian Classical Music, the seven notes in an octave are called Sa Re Ga Ma P
 A Varjit Raga is a Janya (derived) Raga of a Melakarta (parent scale) in which one or more notes are dropped from the parent scale. In this case, Ga and Ni are dropped from the parent scale Shankarabharanam.
 
 ### Prahar
-In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.|
+In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
 
 
 ## Credits
