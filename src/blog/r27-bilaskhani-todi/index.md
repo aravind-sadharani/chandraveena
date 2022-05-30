@@ -1,20 +1,20 @@
 ---
-title: "Raga Bilaskhani Todi"
+title: "Raga Alapana in Raga Bilaskhani Todi"
 date: 2022-06-19
-image: "../../../images/"
-description: "Raga Bilaskhani Todi is a beautiful morning Raga belonging to the Todi family of Ragas. This Raga is often attributed to Bilas Khan, son of Tansen. This scale is the same as Todi/Hanumatodi of Carnatic music. Here i present a detailed Raga Alapana in Raga Bilaskhani Todi. Read on to find out more!"
+image: "../../../images/ytthumb-btodi-alap.png"
+description: "Raga Bilaskhani Todi is a beautiful morning Raga belonging to the Todi family of Ragas. This Raga is often attributed to Bilas Khan, son of Tansen. This scale is the same as Todi/Hanumatodi of Carnatic music. Here I present a detailed Raga Alapana in Raga Bilaskhani Todi. Read on to find out more!"
 ---
 
 <you-tube videoid="QXL47F1BruY"></you-tube>
 <br>
 
-You might have already heard my earlier release of [Pallavi](/blog/pallavi/) in Raga Bilaskhani Todi. The cover notes to the release also talks about the Raga, the story behind its name etc. In case you havent read the cover notes, you can read about it [here](/blog/r16-bilaskhani-todi).
+I have covered Raga Bilaskhani Todi before. You might have heard my [earlier release](/blog/r16-bilaskhani-todi) where I perform a [Pallavi](/blog/pallavi/) in Raga Bilaskhani Todi, with Shri Sanjay Agle on pakhawaj. In case you haven't, you can read the [cover notes](/blog/r16-bilaskhani-todi) to the release where I talk about the Raga, the story behind its name, and so on.
 
-In my opinion, [Raga Alapana](/blog/raga-alapana/) is one of the most challenging aspects of Indian classical music. This is because the slow pace of a Raga exploration demands very precise presentation of phrases, swaras, samvads, intonations etc. Every error feels magnified because the brain has the time to process the music. A faster paced music can sometimes mask errors because by the time the brain processes one musical phrase, few more have already come in! 
+In my opinion, [Raga Alapana](/blog/raga-alapana/) is the most challenging type of performance in Indian classical music. This is because the slow pace of a Raga exploration demands a very precise presentation of phrases, swaras, samvads and intonations. Even slight errors can feel magnified because the mind has the time to process the music. Faster paced musical performances do not always lend themselves to acute and precise intonations because by the time the mind can process one musical phrase, a few more have already been played! 
 
-This gets even more tricky when one is dealing with Ragas which have the same scale but a distinctly different musical identity. Raga Bilaskhani Todi, Raga Bhairavi and Raga Komal Rishabh Asavari all have the same scale, and yet have a very different flavor, structure and emotional content. The challenge in Raga Alapana is to keep the unique identity of each of these Ragas while presenting them. You can find the link to Raga Alapana in Komal Rishabh Asavari in the Release Links section below. Listen to the two Ragas. What do you think? I hope to release Alapana in Raga Bhairavi as well in due course.
+Raga Alapana gets even more tricky when one is dealing with Ragas which have the same scale but a distinctly different musical identity. Raga Bilaskhani Todi, Raga Bhairavi and Raga Komal Rishabh Asavari all have the same scale, and yet have a very different flavor, structure and emotional feel. The challenge in Raga Alapana is to keep the unique identity of each of these Ragas while presenting them. You can listen to a [Raga Alapana in Komal Rishabh Asavari](/blog/r5-kra) by following the link. Listen to both the Ragas. How do you think they are different? I hope to release a Raga Alapana in Raga Bhairavi as well, in due course of time.
 
-One of the hallmarks of traditional Indian classical music presentation is an extended Raga Alapana. In this track, I present an extensive Raga Alapana in Raga Bilaskhani Todi.  Enjoy!
+Given its challenging nature, an extended Raga Alapana is one of the hallmarks of traditional Indian classical music presentation. Here, I present a Raga Alapana in Raga Bilaskhani Todi. Enjoy the music!
 
 ## Program Notes
 
@@ -48,14 +48,13 @@ Chandraveena - S Balachander
 Sadharani Music Works - https://www.sadharani.com
 
 ## Release Links
-Purchase CD quality audio of the performance from https://chandraveena.bandcamp.com/album/raga-bilaskhani-todi-2.
-Full video recording of Pallavi in Raga Bilaskhani Todi: https://youtu.be/SGNUq_OJjaU.
-Purchase CD quality audio of Pallavi in Raga Bilaskhani Todi: https://chandraveena.bandcamp.com/album/indian-classical-raga-bilaskhani-todi.
+Purchase CD quality audio of Raga Alapana in Raga Bilaskhani Todi: https://chandraveena.bandcamp.com/album/raga-bilaskhani-todi-2
 
-Full video recording of Raga Alapana in Raga Komal Rishabh Asavari: https://youtu.be/ElDf4Mxs7tA
+Purchase CD quality audio of Pallavi in Raga Bilaskhani Todi: https://chandraveena.bandcamp.com/album/indian-classical-raga-bilaskhani-todi
+
+
 Purchase CD quality audio of Raga Alapana in Raga Komal Rishabh Asavari: https://chandraveena.bandcamp.com/album/meditation-and-relaxation-raga-komal-rishabh-asavari
 
-<br>
 
 <notice-box>
 If you like the music, learn how you can support Chandraveena music. We value your patronage.
