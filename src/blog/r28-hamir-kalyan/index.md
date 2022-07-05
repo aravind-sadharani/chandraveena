@@ -1,29 +1,36 @@
 ---
-title: "Raga Hamir Kalyan - a farmaish"
+title: "Raga Hamir Kalyan - A Farmaish"
 date: 2022-07-16
-image: "../../../images/"
-description: "Raga Hamir Kalyan is a beautiful late evening / early night raga. It is what we call a "Jod" raga, or a combination Raga. It combines Raga Hamir and Raga Kalyan to form Hamir Kalyan with an identity of its own. This is also called Amir Kalyani in the South of India."
+image: "../../../images/ytthumb-hamir-kalyan.png"
+description: "Raga Hamir Kalyan is a beautiful late evening to early night raga. It is what we call a Jod raga, or a combination Raga. Raga Hamir and Raga Kalyan are combined to form Raga Hamir Kalyan with an identity of its own. This is also called Amir Kalyani in South India."
 ---
+
 <you-tube videoid="BoeBXhBuD1Q"></you-tube>
 <br>
 
-A "farmaish" is a request. In Indian classical music forums and concerts, it is not ununusual for a fan/patron to request the artist for a specific musical piece rendition. Raga Hamir Kalyan was a farmaish by a dear friend and patron. Given the complex nature of the Raga (more on that below), it has taken me some time to understand and render this Raga.
+In the tradition of Indian classical music, it is not ununusual for a fan or a patron to request an artist to perform a specific Raga or a specific musical composition. Raga Hamir Kalyan was a *farmaish* (request) by a dear friend and patron. Due to the complex nature of the Raga (more on that below), it has taken me some time to understand and render this Raga.
 
-Raga Hamir Kalyan is a beautiful late evening/early night Raga. This is also called Amir Kalyani in the Carnatic musical tradtion. In common nomenclature, this Raga is classified as a "Jod" or a combination Raga. It means that it combines the melodic form of Raga Hamir and Raga Kalyan to form Raga Hamir Kalyan. Often "Jod" Ragas are rendered in its individual form, as in Raga 1 in aroha, Raga 2 avaroha or vice versa. In my opinion, Jod Ragas are and can be quite complex and difficult to render because though they take melodic forms of 2 Ragas, the final rendering has to have its own distinct identity. Even among these, Raga Hamir Kalyan has other complexities. Lets look at the scale:
+Raga Hamir Kalyan is a beautiful late evening or early night Raga. This is also called Amir Kalyani in the Carnatic musical tradtion. In common nomenclature, this Raga is classified as a *Jod* or a combination Raga. It means that the melodic forms of Raga Hamir and Raga Kalyan are combined to form Raga Hamir Kalyan.
 
-**Scale** - Sa Re Ga ma Ma Pa Dha ni Ni SA (Please refer to the Program Notes below for the notation.)
+Often Jod Ragas are rendered using the constituent Ragas, like Raga 1 in *aroha*, Raga 2 in *avaroha* or vice versa. In my opinion, Jod Ragas are quite complex and difficult to render because though they use the melodic forms of two Ragas, the final rendering has to have its own distinct identity. Even among these, Raga Hamir Kalyan has other complexities. Let us look at the scale:
 
-As you can see, there are two sets of 3 semi-tone intervals - `Ga ma Ma Pa` and `Dha ni Ni SA`. While such consecutive intervals may be common in folk music or in Jazz/Blues etc, this is a bit unusual in Indian classical music Ragas. The challenge therefore arises, how does one use these consecutive intervals? How does one navigate through all these intervals to create a form, shape and identity for Hamir Kalyan? This is where a deep understanding of Lakshanas and Lakshyas[https://www.chandraveena.com/blog/grammar-of-music/] come in handy.
+**Scale** - **Sa Re Ga ma Ma Pa Dha ni Ni SA** (see Program Notes below for the notation)
+
+As you can see, there are two sets of 3 semi-tone intervals - **Ga ma Ma Pa** and **Dha ni Ni SA**. While such consecutive intervals may be common in folk music or in Jazz or Blues, this is a bit unusual in Indian classical music Ragas. The challenge that arises then, is how to use these consecutive intervals. How does one navigate through all these intervals to create a form, shape and identity for Hamir Kalyan? This is where a deep understanding of [Lakshanas and Lakshyas](/blog/grammar-of-music/) is necessary.
 
 In this presentation of *Raga Hamir Kalyan* on Chandraveena, I explore the Raga in Alap, Jod and Jhala, followed by a Composition in Chautala (12 beats). I am accompanied on Pakhawaj by **Shri Dhaval Mistry** for the Pallavi session. 
 
 Shri Dhaval Mistry is a young and accomplished Pakhawaj player coming from a family of musical instrument makers. Dhaval Mistry has been learning and continues to be under the guidance of the master Pakhwaj player **Shri Manik Munde**.
 
 <notice-box>
-  
-  If you have a request/farmaish, do write to me. If its within my purview and understanding, I will try to render and publish it some time. Thanks.
-  
-<notice-box>
+
+If you have a farmaish or request, do write to me. If it is within my purview and understanding, I will perform and publish it at some time. Thank you.
+
+<div style="text-align:center">
+<my-button to="/contact/">Leave a Note</my-button>
+</div>
+
+</notice-box>
 
 ## Program Notes
 
