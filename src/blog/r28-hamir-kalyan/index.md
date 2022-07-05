@@ -22,7 +22,7 @@ In this presentation of *Raga Hamir Kalyan* on Chandraveena, I explore the Raga 
 
 I am accompanied on Pakhawaj by **Shri Dhaval Mistry** for the Pallavi session. 
 
-Shri Dhaval Mistry is a young and accomplished Pakhawaj player coming from a family of musical instrument makers. Dhaval Mistry has been learning and continues to be under the guidance of the master Pakhwaj player **Shri Manik Munde**.
+Shri Dhaval Mistry is a young and accomplished Pakhawaj player coming from a family of musical instrument makers. He had his early training in Pakhawaj from Shri Jagannath Jagtap, a well known Pakhawaj player in Gujarat. Later, he learnt from Shri Govind Ram Banarasi, who is AIR artist & son of late Shri Pt.Mannu Mrudanga Charya (Banaras). Since last many years, Dhaval Mistry has been learning and continues to be under the guidance of the master Pakhwaj player **Shri Manik Munde**.
 
 Enjoy the music!
 
