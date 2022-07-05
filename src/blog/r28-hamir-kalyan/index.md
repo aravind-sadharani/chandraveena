@@ -8,19 +8,23 @@ description: "Raga Hamir Kalyan is a beautiful late evening to early night raga.
 <you-tube videoid="BoeBXhBuD1Q"></you-tube>
 <br>
 
-In the tradition of Indian classical music, it is not ununusual for a fan or a patron to request an artist to perform a specific Raga or a specific musical composition. Raga Hamir Kalyan was a *farmaish* (request) by a dear friend and patron. Due to the complex nature of the Raga (more on that below), it has taken me some time to understand and render this Raga.
+In the tradition of Indian classical music, it is not unusual for a fan or a patron to request an artist to perform a specific Raga or a specific musical composition. Raga Hamir Kalyan was a *farmaish* (request) by a dear friend and patron. Due to the complex nature of the Raga (more on that below), it has taken me some time to understand and render this Raga.
 
 Raga Hamir Kalyan is a beautiful late evening or early night Raga. This is also called Amir Kalyani in the Carnatic musical tradtion. In common nomenclature, this Raga is classified as a *Jod* or a combination Raga. It means that the melodic forms of Raga Hamir and Raga Kalyan are combined to form Raga Hamir Kalyan.
 
-Often Jod Ragas are rendered using the constituent Ragas, like Raga 1 in *aroha*, Raga 2 in *avaroha* or vice versa. In my opinion, Jod Ragas are quite complex and difficult to render because though they use the melodic forms of two Ragas, the final rendering has to have its own distinct identity. Even among these, Raga Hamir Kalyan has other complexities. Let us look at the scale:
+Often Jod Ragas are rendered using the constituent Ragas, like Raga 1 in *aroha*, Raga 2 in *avaroha* or vice versa. In my opinion, Jod Ragas are quite complex and difficult to render because though they use the melodic forms of two Ragas, the final rendering has to seamlessly combine the two Ragas, and have its own distinct musical identity. Even among these, Raga Hamir Kalyan has other complexities. Let us look at the scale:
 
 **Scale** - **Sa Re Ga ma Ma Pa Dha ni Ni SA** (see Program Notes below for the notation)
 
 As you can see, there are two sets of 3 semi-tone intervals - **Ga ma Ma Pa** and **Dha ni Ni SA**. While such consecutive intervals may be common in folk music or in Jazz or Blues, this is a bit unusual in Indian classical music Ragas. The challenge that arises then, is how to use these consecutive intervals. How does one navigate through all these intervals to create a form, shape and identity for Hamir Kalyan? This is where a deep understanding of [Lakshanas and Lakshyas](/blog/grammar-of-music/) is necessary.
 
-In this presentation of *Raga Hamir Kalyan* on Chandraveena, I explore the Raga in Alap, Jod and Jhala, followed by a Composition in Chautala (12 beats). I am accompanied on Pakhawaj by **Shri Dhaval Mistry** for the Pallavi session. 
+In this presentation of *Raga Hamir Kalyan* on Chandraveena, I explore the Raga in Alap, Jod and Jhala, followed by a Composition in Chautala (12 beats). This performance is accompanied by a very unique drone (Tanpura) accompaniment track. This drone track is synthesized from a project called [PureTones](https://puretones.sadharani.com), and developed by [Sadharani Music Works](https://www.sadharani.com). It has been microtonally adjusted to precisely suit the scale of the Raga. Note how the Drone along with its harmonics merge into the notes and phrases of the Raga. If it sounds interesting to you, be sure to check out [PureTones](https://puretones.sadharani.com). This Drone is freely available for your use. Get in touch with us if you need any assistance.
+
+I am accompanied on Pakhawaj by **Shri Dhaval Mistry** for the Pallavi session. 
 
 Shri Dhaval Mistry is a young and accomplished Pakhawaj player coming from a family of musical instrument makers. Dhaval Mistry has been learning and continues to be under the guidance of the master Pakhwaj player **Shri Manik Munde**.
+
+Enjoy the music!
 
 <notice-box>
 
@@ -59,7 +63,7 @@ A Bhashanga Raga is a Janya (or derivative) Raga of a Melakarta which uses a not
 ### Prahar
 In Indian Classical Music, Ragas are classified into Prahars (time periods of a day or night) which are said to represent the most appropriate time to perform the Raga.
 
-### Pallavi in Chautala in Raga Malkauns
+### Pallavi in Chautala in Raga Hamir Kalyan
 [Pallavi](/blog/pallavi/) also known as *Bandish*, *Gat*, *Kriti* or composition is a melodic line (or lines) bound by a [Tala](/blog/taladhyaya) or rhythmic cycle. In some cases, lyrics are set to a melody in the chosen Raga and Tala, whereas in other cases it is just a melodic line with no lyrical or literary meaning, called *Swarajati* or *Gat*. Many instrumental compositions use the latter format, to make the most of "playing" with the rhythm.
 
 ### About the Tala
