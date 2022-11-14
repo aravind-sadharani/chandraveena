@@ -12,7 +12,7 @@ description: "Raga Desi belongs to the family of Asavari Ragas. It is traditiona
 
 All around the world, there are many different types of tuning systems or ways to divide a musical octave. The most prevalent one is the [12 tone equally tempered](https://en.wikipedia.org/wiki/Equal_temperament) tuning system.
 
-During the course of its evolution, Indian music has adopted several tuning systems which we have covered in detail at [1](https://puretones.sadharani.com/learn/tuningsystems-1/), [2](https://puretones.sadharani.com/learn/tuningsystems-2/), [3](https://puretones.sadharani.com/learn/tuningsystems-3/) and [4](https://puretones.sadharani.com/learn/tuningsystems-4/)). These tuning systems are based on the three most important musical intervals of *Pancham* (perfect fifth), *Madhyam* (perfect fourth) and *Antara Gandhar* (major third).
+During the course of its evolution, Indian music has adopted several tuning systems which we have covered in detail at [1](https://puretones.sadharani.com/learn/tuningsystems-1/), [2](https://puretones.sadharani.com/learn/tuningsystems-2/), [3](https://puretones.sadharani.com/learn/tuningsystems-3/) and [4](https://puretones.sadharani.com/learn/tuningsystems-4/). These tuning systems are based on the three most important musical intervals of *Pancham* (perfect fifth), *Madhyam* (perfect fourth) and *Antara Gandhar* (major third).
 
 Over the years, Indian Ragas have become very [sophisticated structures](https://puretones.sadharani.com/learn/raga-classification/) with fine intonations and subtle details distinguishing one Raga from another superficially similar but actually different Raga. Each Raga has an underlying scale called a *Mela* which defines the tuning system for that Raga.
 
